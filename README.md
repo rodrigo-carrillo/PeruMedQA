@@ -9,12 +9,12 @@ You will find the datasets, the code we used to generate the dataset, and the co
 ### Figures 
 
 Percent (%) of correct answers by test (specialty or subspeciality) and LLM across years
-<img width="13441" height="6270" alt="Figure 1_2026-01-10" src="https://github.com/user-attachments/assets/0c4022f1-6a7e-4ce7-be6b-5f53f9a4a0e3" />
+<img width="9531" height="19141" alt="Figure 1_2026-01-21" src="https://github.com/user-attachments/assets/f958e16e-47f5-4561-b07d-a7e0e955db36" />
 
 --------------------------------------------------
 
 Percent (%) of correct answers by test (specialty or subspeciality), LLM and years (updated on January 10, 2026).
-<img width="9218" height="10446" alt="Figure 2_2026-01-10" src="https://github.com/user-attachments/assets/d148bb27-8738-41af-ba5a-dec05e9c07ac" />
+<img width="9218" height="10446" alt="Figure 2_2026-01-21" src="https://github.com/user-attachments/assets/f5ba83f7-2176-4e58-9978-7d7efd7b233b" />
 
 --------------------------------------------------
 
