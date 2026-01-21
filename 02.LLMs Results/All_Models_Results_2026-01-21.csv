@@ -1,0 +1,914 @@
+source_file,year,count_of_matches,total_rows,percent_correct,model_name,source_file_eng
+Anatomía Patológica & Patología,2018,6,31,19.35,meditron 7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,6,30,20.0,meditron 7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,10,50,20.0,meditron 7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,5,29,17.24,meditron 7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,7,37,18.92,meditron 7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,12,54,22.22,meditron 7B,Pathological Anatomy and Pathology
+Anestesiología,2018,2,15,13.33,meditron 7B,Anesthesiology
+Anestesiología,2019,7,33,21.21,meditron 7B,Anesthesiology
+Anestesiología,2020,3,24,12.5,meditron 7B,Anesthesiology
+Anestesiología,2022,7,21,33.33,meditron 7B,Anesthesiology
+Anestesiología,2023,11,30,36.67,meditron 7B,Anesthesiology
+Anestesiología,2024,4,19,21.05,meditron 7B,Anesthesiology
+Anestesiología,2025,3,25,12.0,meditron 7B,Anesthesiology
+Cirugía General,2018,8,31,25.81,meditron 7B,General Surgery
+Cirugía General,2019,6,20,30.0,meditron 7B,General Surgery
+Cirugía General,2020,8,36,22.22,meditron 7B,General Surgery
+Cirugía General,2022,6,34,17.65,meditron 7B,General Surgery
+Cirugía General,2023,12,33,36.36,meditron 7B,General Surgery
+Cirugía General,2024,8,45,17.78,meditron 7B,General Surgery
+Cirugía General,2025,11,30,36.67,meditron 7B,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,12,46,26.09,meditron 7B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,7,43,16.28,meditron 7B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,8,37,21.62,meditron 7B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,9,35,25.71,meditron 7B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,26,64,40.62,meditron 7B,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,9,43,20.93,meditron 7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,8,29,27.59,meditron 7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,12,41,29.27,meditron 7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,5,36,13.89,meditron 7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,11,40,27.5,meditron 7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,6,40,15.0,meditron 7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,5,35,14.29,meditron 7B,Gynecology and Obstetrics
+Neurocirugía,2022,8,34,23.53,meditron 7B,Neurosurgery
+Neurocirugía,2023,8,24,33.33,meditron 7B,Neurosurgery
+Neurocirugía,2024,6,37,16.22,meditron 7B,Neurosurgery
+Neurocirugía,2025,11,45,24.44,meditron 7B,Neurosurgery
+Oftalmología,2018,8,38,21.05,meditron 7B,Ophthalmology
+Oftalmología,2019,5,29,17.24,meditron 7B,Ophthalmology
+Oftalmología,2020,8,34,23.53,meditron 7B,Ophthalmology
+Oftalmología,2022,7,30,23.33,meditron 7B,Ophthalmology
+Oftalmología,2023,7,29,24.14,meditron 7B,Ophthalmology
+Oftalmología,2024,6,27,22.22,meditron 7B,Ophthalmology
+Oftalmología,2025,9,39,23.08,meditron 7B,Ophthalmology
+Pediatría,2018,5,33,15.15,meditron 7B,Pediatrics
+Pediatría,2019,11,41,26.83,meditron 7B,Pediatrics
+Pediatría,2020,15,50,30.0,meditron 7B,Pediatrics
+Pediatría,2022,8,45,17.78,meditron 7B,Pediatrics
+Pediatría,2023,14,48,29.17,meditron 7B,Pediatrics
+Pediatría,2024,5,30,16.67,meditron 7B,Pediatrics
+Pediatría,2025,7,40,17.5,meditron 7B,Pediatrics
+Prueba A,2018,4,28,14.29,meditron 7B,Test A
+Prueba A,2019,7,36,19.44,meditron 7B,Test A
+Prueba A,2020,6,35,17.14,meditron 7B,Test A
+Prueba A,2022,10,36,27.78,meditron 7B,Test A
+Prueba A,2023,6,27,22.22,meditron 7B,Test A
+Prueba A,2024,7,28,25.0,meditron 7B,Test A
+Prueba A,2025,9,34,26.47,meditron 7B,Test A
+Prueba B,2018,9,36,25.0,meditron 7B,Test B
+Prueba B,2019,12,32,37.5,meditron 7B,Test B
+Prueba B,2020,10,34,29.41,meditron 7B,Test B
+Prueba B,2022,8,32,25.0,meditron 7B,Test B
+Prueba B,2023,5,32,15.62,meditron 7B,Test B
+Prueba B,2024,11,39,28.21,meditron 7B,Test B
+Prueba B,2025,9,31,29.03,meditron 7B,Test B
+Psiquiatría,2018,5,22,22.73,meditron 7B,Psychiatry
+Psiquiatría,2019,6,28,21.43,meditron 7B,Psychiatry
+Psiquiatría,2020,7,18,38.89,meditron 7B,Psychiatry
+Psiquiatría,2022,7,27,25.93,meditron 7B,Psychiatry
+Psiquiatría,2023,6,30,20.0,meditron 7B,Psychiatry
+Psiquiatría,2024,5,31,16.13,meditron 7B,Psychiatry
+Psiquiatría,2025,5,17,29.41,meditron 7B,Psychiatry
+Radiología,2018,9,24,37.5,meditron 7B,Radiology
+Radiología,2019,7,36,19.44,meditron 7B,Radiology
+Radiología,2022,6,30,20.0,meditron 7B,Radiology
+Radiología,2023,6,37,16.22,meditron 7B,Radiology
+Radiología,2024,11,40,27.5,meditron 7B,Radiology
+Radiología,2025,5,39,12.82,meditron 7B,Radiology
+Urología,2018,11,42,26.19,meditron 7B,Urology
+Urología,2020,7,39,17.95,meditron 7B,Urology
+Urología,2022,4,31,12.9,meditron 7B,Urology
+Urología,2023,9,30,30.0,meditron 7B,Urology
+Urología,2024,9,29,31.03,meditron 7B,Urology
+Urología,2025,7,39,17.95,meditron 7B,Urology
+Anatomía Patológica & Patología,2018,35,91,38.46,OpenBioLLM-8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,32,92,34.78,OpenBioLLM-8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,33,97,34.02,OpenBioLLM-8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,32,97,32.99,OpenBioLLM-8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,23,98,23.47,OpenBioLLM-8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,24,98,24.49,OpenBioLLM-8B,Pathological Anatomy and Pathology
+Anestesiología,2018,27,94,28.72,OpenBioLLM-8B,Anesthesiology
+Anestesiología,2019,31,92,33.7,OpenBioLLM-8B,Anesthesiology
+Anestesiología,2020,33,88,37.5,OpenBioLLM-8B,Anesthesiology
+Anestesiología,2022,40,95,42.11,OpenBioLLM-8B,Anesthesiology
+Anestesiología,2023,21,92,22.83,OpenBioLLM-8B,Anesthesiology
+Anestesiología,2024,25,97,25.77,OpenBioLLM-8B,Anesthesiology
+Anestesiología,2025,31,95,32.63,OpenBioLLM-8B,Anesthesiology
+Cirugía General,2018,30,96,31.25,OpenBioLLM-8B,General Surgery
+Cirugía General,2019,32,96,33.33,OpenBioLLM-8B,General Surgery
+Cirugía General,2020,31,98,31.63,OpenBioLLM-8B,General Surgery
+Cirugía General,2022,34,97,35.05,OpenBioLLM-8B,General Surgery
+Cirugía General,2023,27,93,29.03,OpenBioLLM-8B,General Surgery
+Cirugía General,2024,20,96,20.83,OpenBioLLM-8B,General Surgery
+Cirugía General,2025,24,100,24.0,OpenBioLLM-8B,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,28,92,30.43,OpenBioLLM-8B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,35,93,37.63,OpenBioLLM-8B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,20,97,20.62,OpenBioLLM-8B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,19,93,20.43,OpenBioLLM-8B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,30,188,15.96,OpenBioLLM-8B,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,29,91,31.87,OpenBioLLM-8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,33,93,35.48,OpenBioLLM-8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,34,99,34.34,OpenBioLLM-8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,36,95,37.89,OpenBioLLM-8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,18,91,19.78,OpenBioLLM-8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,23,95,24.21,OpenBioLLM-8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,21,92,22.83,OpenBioLLM-8B,Gynecology and Obstetrics
+Neurocirugía,2022,31,99,31.31,OpenBioLLM-8B,Neurosurgery
+Neurocirugía,2023,15,97,15.46,OpenBioLLM-8B,Neurosurgery
+Neurocirugía,2024,28,92,30.43,OpenBioLLM-8B,Neurosurgery
+Neurocirugía,2025,19,95,20.0,OpenBioLLM-8B,Neurosurgery
+Oftalmología,2018,23,90,25.56,OpenBioLLM-8B,Ophthalmology
+Oftalmología,2019,28,91,30.77,OpenBioLLM-8B,Ophthalmology
+Oftalmología,2020,32,94,34.04,OpenBioLLM-8B,Ophthalmology
+Oftalmología,2022,33,96,34.38,OpenBioLLM-8B,Ophthalmology
+Oftalmología,2023,18,98,18.37,OpenBioLLM-8B,Ophthalmology
+Oftalmología,2024,15,91,16.48,OpenBioLLM-8B,Ophthalmology
+Oftalmología,2025,21,95,22.11,OpenBioLLM-8B,Ophthalmology
+Pediatría,2018,32,96,33.33,OpenBioLLM-8B,Pediatrics
+Pediatría,2019,40,96,41.67,OpenBioLLM-8B,Pediatrics
+Pediatría,2020,33,94,35.11,OpenBioLLM-8B,Pediatrics
+Pediatría,2022,35,97,36.08,OpenBioLLM-8B,Pediatrics
+Pediatría,2023,28,95,29.47,OpenBioLLM-8B,Pediatrics
+Pediatría,2024,28,99,28.28,OpenBioLLM-8B,Pediatrics
+Pediatría,2025,24,94,25.53,OpenBioLLM-8B,Pediatrics
+Prueba A,2018,38,95,40.0,OpenBioLLM-8B,Test A
+Prueba A,2019,41,95,43.16,OpenBioLLM-8B,Test A
+Prueba A,2020,44,87,50.57,OpenBioLLM-8B,Test A
+Prueba A,2022,35,98,35.71,OpenBioLLM-8B,Test A
+Prueba A,2023,33,94,35.11,OpenBioLLM-8B,Test A
+Prueba A,2024,28,99,28.28,OpenBioLLM-8B,Test A
+Prueba A,2025,33,97,34.02,OpenBioLLM-8B,Test A
+Prueba B,2018,42,98,42.86,OpenBioLLM-8B,Test B
+Prueba B,2019,35,92,38.04,OpenBioLLM-8B,Test B
+Prueba B,2020,26,88,29.55,OpenBioLLM-8B,Test B
+Prueba B,2022,36,94,38.3,OpenBioLLM-8B,Test B
+Prueba B,2023,27,96,28.12,OpenBioLLM-8B,Test B
+Prueba B,2024,20,96,20.83,OpenBioLLM-8B,Test B
+Prueba B,2025,25,96,26.04,OpenBioLLM-8B,Test B
+Psiquiatría,2018,37,97,38.14,OpenBioLLM-8B,Psychiatry
+Psiquiatría,2019,55,95,57.89,OpenBioLLM-8B,Psychiatry
+Psiquiatría,2020,51,95,53.68,OpenBioLLM-8B,Psychiatry
+Psiquiatría,2022,47,97,48.45,OpenBioLLM-8B,Psychiatry
+Psiquiatría,2023,45,98,45.92,OpenBioLLM-8B,Psychiatry
+Psiquiatría,2024,48,94,51.06,OpenBioLLM-8B,Psychiatry
+Psiquiatría,2025,42,98,42.86,OpenBioLLM-8B,Psychiatry
+Radiología,2018,33,97,34.02,OpenBioLLM-8B,Radiology
+Radiología,2019,29,91,31.87,OpenBioLLM-8B,Radiology
+Radiología,2022,27,97,27.84,OpenBioLLM-8B,Radiology
+Radiología,2023,26,99,26.26,OpenBioLLM-8B,Radiology
+Radiología,2024,20,99,20.2,OpenBioLLM-8B,Radiology
+Radiología,2025,26,98,26.53,OpenBioLLM-8B,Radiology
+Urología,2018,44,95,46.32,OpenBioLLM-8B,Urology
+Urología,2020,35,93,37.63,OpenBioLLM-8B,Urology
+Urología,2022,32,92,34.78,OpenBioLLM-8B,Urology
+Urología,2023,20,91,21.98,OpenBioLLM-8B,Urology
+Urología,2024,23,90,25.56,OpenBioLLM-8B,Urology
+Urología,2025,18,93,19.35,OpenBioLLM-8B,Urology
+Anatomía Patológica & Patología,2018,36,100,36.0,BioMistral-7B-DARE,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,35,100,35.0,BioMistral-7B-DARE,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,28,100,28.0,BioMistral-7B-DARE,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,37,99,37.37,BioMistral-7B-DARE,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,37,97,38.14,BioMistral-7B-DARE,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,27,98,27.55,BioMistral-7B-DARE,Pathological Anatomy and Pathology
+Anestesiología,2018,20,98,20.41,BioMistral-7B-DARE,Anesthesiology
+Anestesiología,2019,27,97,27.84,BioMistral-7B-DARE,Anesthesiology
+Anestesiología,2020,32,98,32.65,BioMistral-7B-DARE,Anesthesiology
+Anestesiología,2022,28,100,28.0,BioMistral-7B-DARE,Anesthesiology
+Anestesiología,2023,40,100,40.0,BioMistral-7B-DARE,Anesthesiology
+Anestesiología,2024,28,99,28.28,BioMistral-7B-DARE,Anesthesiology
+Anestesiología,2025,38,98,38.78,BioMistral-7B-DARE,Anesthesiology
+Cirugía General,2018,25,100,25.0,BioMistral-7B-DARE,General Surgery
+Cirugía General,2019,32,100,32.0,BioMistral-7B-DARE,General Surgery
+Cirugía General,2020,31,99,31.31,BioMistral-7B-DARE,General Surgery
+Cirugía General,2022,27,100,27.0,BioMistral-7B-DARE,General Surgery
+Cirugía General,2023,25,100,25.0,BioMistral-7B-DARE,General Surgery
+Cirugía General,2024,29,100,29.0,BioMistral-7B-DARE,General Surgery
+Cirugía General,2025,31,100,31.0,BioMistral-7B-DARE,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,30,98,30.61,BioMistral-7B-DARE,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,32,97,32.99,BioMistral-7B-DARE,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,43,100,43.0,BioMistral-7B-DARE,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,34,96,35.42,BioMistral-7B-DARE,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,70,196,35.71,BioMistral-7B-DARE,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,20,99,20.2,BioMistral-7B-DARE,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,27,99,27.27,BioMistral-7B-DARE,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,30,99,30.3,BioMistral-7B-DARE,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,34,100,34.0,BioMistral-7B-DARE,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,31,100,31.0,BioMistral-7B-DARE,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,31,99,31.31,BioMistral-7B-DARE,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,34,99,34.34,BioMistral-7B-DARE,Gynecology and Obstetrics
+Neurocirugía,2022,22,98,22.45,BioMistral-7B-DARE,Neurosurgery
+Neurocirugía,2023,27,100,27.0,BioMistral-7B-DARE,Neurosurgery
+Neurocirugía,2024,33,99,33.33,BioMistral-7B-DARE,Neurosurgery
+Neurocirugía,2025,25,100,25.0,BioMistral-7B-DARE,Neurosurgery
+Oftalmología,2018,11,97,11.34,BioMistral-7B-DARE,Ophthalmology
+Oftalmología,2019,26,98,26.53,BioMistral-7B-DARE,Ophthalmology
+Oftalmología,2020,35,98,35.71,BioMistral-7B-DARE,Ophthalmology
+Oftalmología,2022,24,97,24.74,BioMistral-7B-DARE,Ophthalmology
+Oftalmología,2023,29,99,29.29,BioMistral-7B-DARE,Ophthalmology
+Oftalmología,2024,21,100,21.0,BioMistral-7B-DARE,Ophthalmology
+Oftalmología,2025,34,100,34.0,BioMistral-7B-DARE,Ophthalmology
+Pediatría,2018,29,99,29.29,BioMistral-7B-DARE,Pediatrics
+Pediatría,2019,32,100,32.0,BioMistral-7B-DARE,Pediatrics
+Pediatría,2020,39,100,39.0,BioMistral-7B-DARE,Pediatrics
+Pediatría,2022,33,99,33.33,BioMistral-7B-DARE,Pediatrics
+Pediatría,2023,30,100,30.0,BioMistral-7B-DARE,Pediatrics
+Pediatría,2024,27,100,27.0,BioMistral-7B-DARE,Pediatrics
+Pediatría,2025,30,99,30.3,BioMistral-7B-DARE,Pediatrics
+Prueba A,2018,32,100,32.0,BioMistral-7B-DARE,Test A
+Prueba A,2019,40,98,40.82,BioMistral-7B-DARE,Test A
+Prueba A,2020,29,88,32.95,BioMistral-7B-DARE,Test A
+Prueba A,2022,33,100,33.0,BioMistral-7B-DARE,Test A
+Prueba A,2023,37,100,37.0,BioMistral-7B-DARE,Test A
+Prueba A,2024,35,100,35.0,BioMistral-7B-DARE,Test A
+Prueba A,2025,35,100,35.0,BioMistral-7B-DARE,Test A
+Prueba B,2018,24,98,24.49,BioMistral-7B-DARE,Test B
+Prueba B,2019,37,100,37.0,BioMistral-7B-DARE,Test B
+Prueba B,2020,31,89,34.83,BioMistral-7B-DARE,Test B
+Prueba B,2022,35,99,35.35,BioMistral-7B-DARE,Test B
+Prueba B,2023,35,100,35.0,BioMistral-7B-DARE,Test B
+Prueba B,2024,30,99,30.3,BioMistral-7B-DARE,Test B
+Prueba B,2025,36,100,36.0,BioMistral-7B-DARE,Test B
+Psiquiatría,2018,42,99,42.42,BioMistral-7B-DARE,Psychiatry
+Psiquiatría,2019,44,100,44.0,BioMistral-7B-DARE,Psychiatry
+Psiquiatría,2020,51,100,51.0,BioMistral-7B-DARE,Psychiatry
+Psiquiatría,2022,39,99,39.39,BioMistral-7B-DARE,Psychiatry
+Psiquiatría,2023,46,100,46.0,BioMistral-7B-DARE,Psychiatry
+Psiquiatría,2024,29,100,29.0,BioMistral-7B-DARE,Psychiatry
+Psiquiatría,2025,38,100,38.0,BioMistral-7B-DARE,Psychiatry
+Radiología,2018,25,99,25.25,BioMistral-7B-DARE,Radiology
+Radiología,2019,40,99,40.4,BioMistral-7B-DARE,Radiology
+Radiología,2022,23,98,23.47,BioMistral-7B-DARE,Radiology
+Radiología,2023,32,100,32.0,BioMistral-7B-DARE,Radiology
+Radiología,2024,39,100,39.0,BioMistral-7B-DARE,Radiology
+Radiología,2025,30,97,30.93,BioMistral-7B-DARE,Radiology
+Urología,2018,33,100,33.0,BioMistral-7B-DARE,Urology
+Urología,2020,41,100,41.0,BioMistral-7B-DARE,Urology
+Urología,2022,22,98,22.45,BioMistral-7B-DARE,Urology
+Urología,2023,31,100,31.0,BioMistral-7B-DARE,Urology
+Urología,2024,26,96,27.08,BioMistral-7B-DARE,Urology
+Urología,2025,32,100,32.0,BioMistral-7B-DARE,Urology
+Anatomía Patológica & Patología,2018,36,100,36.0,MediPhi-Instruct 3.8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,29,100,29.0,MediPhi-Instruct 3.8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,33,99,33.33,MediPhi-Instruct 3.8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,45,100,45.0,MediPhi-Instruct 3.8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,39,100,39.0,MediPhi-Instruct 3.8B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,41,100,41.0,MediPhi-Instruct 3.8B,Pathological Anatomy and Pathology
+Anestesiología,2018,43,99,43.43,MediPhi-Instruct 3.8B,Anesthesiology
+Anestesiología,2019,48,100,48.0,MediPhi-Instruct 3.8B,Anesthesiology
+Anestesiología,2020,31,100,31.0,MediPhi-Instruct 3.8B,Anesthesiology
+Anestesiología,2022,40,100,40.0,MediPhi-Instruct 3.8B,Anesthesiology
+Anestesiología,2023,46,100,46.0,MediPhi-Instruct 3.8B,Anesthesiology
+Anestesiología,2024,44,99,44.44,MediPhi-Instruct 3.8B,Anesthesiology
+Anestesiología,2025,50,100,50.0,MediPhi-Instruct 3.8B,Anesthesiology
+Cirugía General,2018,30,100,30.0,MediPhi-Instruct 3.8B,General Surgery
+Cirugía General,2019,33,100,33.0,MediPhi-Instruct 3.8B,General Surgery
+Cirugía General,2020,34,100,34.0,MediPhi-Instruct 3.8B,General Surgery
+Cirugía General,2022,33,100,33.0,MediPhi-Instruct 3.8B,General Surgery
+Cirugía General,2023,41,100,41.0,MediPhi-Instruct 3.8B,General Surgery
+Cirugía General,2024,44,100,44.0,MediPhi-Instruct 3.8B,General Surgery
+Cirugía General,2025,35,100,35.0,MediPhi-Instruct 3.8B,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,28,100,28.0,MediPhi-Instruct 3.8B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,41,100,41.0,MediPhi-Instruct 3.8B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,40,100,40.0,MediPhi-Instruct 3.8B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,47,100,47.0,MediPhi-Instruct 3.8B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,86,200,43.0,MediPhi-Instruct 3.8B,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,32,100,32.0,MediPhi-Instruct 3.8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,36,100,36.0,MediPhi-Instruct 3.8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,29,100,29.0,MediPhi-Instruct 3.8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,30,100,30.0,MediPhi-Instruct 3.8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,35,100,35.0,MediPhi-Instruct 3.8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,43,100,43.0,MediPhi-Instruct 3.8B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,30,100,30.0,MediPhi-Instruct 3.8B,Gynecology and Obstetrics
+Neurocirugía,2022,28,100,28.0,MediPhi-Instruct 3.8B,Neurosurgery
+Neurocirugía,2023,46,100,46.0,MediPhi-Instruct 3.8B,Neurosurgery
+Neurocirugía,2024,41,100,41.0,MediPhi-Instruct 3.8B,Neurosurgery
+Neurocirugía,2025,35,100,35.0,MediPhi-Instruct 3.8B,Neurosurgery
+Oftalmología,2018,42,100,42.0,MediPhi-Instruct 3.8B,Ophthalmology
+Oftalmología,2019,27,100,27.0,MediPhi-Instruct 3.8B,Ophthalmology
+Oftalmología,2020,24,100,24.0,MediPhi-Instruct 3.8B,Ophthalmology
+Oftalmología,2022,30,100,30.0,MediPhi-Instruct 3.8B,Ophthalmology
+Oftalmología,2023,46,100,46.0,MediPhi-Instruct 3.8B,Ophthalmology
+Oftalmología,2024,33,100,33.0,MediPhi-Instruct 3.8B,Ophthalmology
+Oftalmología,2025,37,100,37.0,MediPhi-Instruct 3.8B,Ophthalmology
+Pediatría,2018,45,100,45.0,MediPhi-Instruct 3.8B,Pediatrics
+Pediatría,2019,39,100,39.0,MediPhi-Instruct 3.8B,Pediatrics
+Pediatría,2020,35,100,35.0,MediPhi-Instruct 3.8B,Pediatrics
+Pediatría,2022,39,100,39.0,MediPhi-Instruct 3.8B,Pediatrics
+Pediatría,2023,45,100,45.0,MediPhi-Instruct 3.8B,Pediatrics
+Pediatría,2024,45,100,45.0,MediPhi-Instruct 3.8B,Pediatrics
+Pediatría,2025,34,100,34.0,MediPhi-Instruct 3.8B,Pediatrics
+Prueba A,2018,43,100,43.0,MediPhi-Instruct 3.8B,Test A
+Prueba A,2019,38,100,38.0,MediPhi-Instruct 3.8B,Test A
+Prueba A,2020,35,90,38.89,MediPhi-Instruct 3.8B,Test A
+Prueba A,2022,42,100,42.0,MediPhi-Instruct 3.8B,Test A
+Prueba A,2023,45,99,45.45,MediPhi-Instruct 3.8B,Test A
+Prueba A,2024,46,100,46.0,MediPhi-Instruct 3.8B,Test A
+Prueba A,2025,50,100,50.0,MediPhi-Instruct 3.8B,Test A
+Prueba B,2018,39,100,39.0,MediPhi-Instruct 3.8B,Test B
+Prueba B,2019,31,100,31.0,MediPhi-Instruct 3.8B,Test B
+Prueba B,2020,37,90,41.11,MediPhi-Instruct 3.8B,Test B
+Prueba B,2022,36,100,36.0,MediPhi-Instruct 3.8B,Test B
+Prueba B,2023,40,100,40.0,MediPhi-Instruct 3.8B,Test B
+Prueba B,2024,41,100,41.0,MediPhi-Instruct 3.8B,Test B
+Prueba B,2025,42,100,42.0,MediPhi-Instruct 3.8B,Test B
+Psiquiatría,2018,55,100,55.0,MediPhi-Instruct 3.8B,Psychiatry
+Psiquiatría,2019,45,100,45.0,MediPhi-Instruct 3.8B,Psychiatry
+Psiquiatría,2020,45,100,45.0,MediPhi-Instruct 3.8B,Psychiatry
+Psiquiatría,2022,41,100,41.0,MediPhi-Instruct 3.8B,Psychiatry
+Psiquiatría,2023,58,100,58.0,MediPhi-Instruct 3.8B,Psychiatry
+Psiquiatría,2024,52,100,52.0,MediPhi-Instruct 3.8B,Psychiatry
+Psiquiatría,2025,52,100,52.0,MediPhi-Instruct 3.8B,Psychiatry
+Radiología,2018,42,100,42.0,MediPhi-Instruct 3.8B,Radiology
+Radiología,2019,41,100,41.0,MediPhi-Instruct 3.8B,Radiology
+Radiología,2022,26,100,26.0,MediPhi-Instruct 3.8B,Radiology
+Radiología,2023,41,100,41.0,MediPhi-Instruct 3.8B,Radiology
+Radiología,2024,39,100,39.0,MediPhi-Instruct 3.8B,Radiology
+Radiología,2025,32,100,32.0,MediPhi-Instruct 3.8B,Radiology
+Urología,2018,48,100,48.0,MediPhi-Instruct 3.8B,Urology
+Urología,2020,28,100,28.0,MediPhi-Instruct 3.8B,Urology
+Urología,2022,32,100,32.0,MediPhi-Instruct 3.8B,Urology
+Urología,2023,50,100,50.0,MediPhi-Instruct 3.8B,Urology
+Urología,2024,44,100,44.0,MediPhi-Instruct 3.8B,Urology
+Urología,2025,38,100,38.0,MediPhi-Instruct 3.8B,Urology
+Anatomía Patológica & Patología,2018,46,99,46.46,medgemma-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,46,100,46.0,medgemma-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,41,100,41.0,medgemma-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,41,99,41.41,medgemma-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,46,100,46.0,medgemma-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,47,100,47.0,medgemma-4b-it,Pathological Anatomy and Pathology
+Anestesiología,2018,39,100,39.0,medgemma-4b-it,Anesthesiology
+Anestesiología,2019,52,100,52.0,medgemma-4b-it,Anesthesiology
+Anestesiología,2020,44,100,44.0,medgemma-4b-it,Anesthesiology
+Anestesiología,2022,40,100,40.0,medgemma-4b-it,Anesthesiology
+Anestesiología,2023,47,100,47.0,medgemma-4b-it,Anesthesiology
+Anestesiología,2024,44,100,44.0,medgemma-4b-it,Anesthesiology
+Anestesiología,2025,43,100,43.0,medgemma-4b-it,Anesthesiology
+Cirugía General,2018,42,100,42.0,medgemma-4b-it,General Surgery
+Cirugía General,2019,46,100,46.0,medgemma-4b-it,General Surgery
+Cirugía General,2020,43,100,43.0,medgemma-4b-it,General Surgery
+Cirugía General,2022,43,100,43.0,medgemma-4b-it,General Surgery
+Cirugía General,2023,41,100,41.0,medgemma-4b-it,General Surgery
+Cirugía General,2024,39,100,39.0,medgemma-4b-it,General Surgery
+Cirugía General,2025,46,100,46.0,medgemma-4b-it,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,31,99,31.31,medgemma-4b-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,45,100,45.0,medgemma-4b-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,46,99,46.46,medgemma-4b-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,47,100,47.0,medgemma-4b-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,88,200,44.0,medgemma-4b-it,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,36,100,36.0,medgemma-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,41,100,41.0,medgemma-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,36,100,36.0,medgemma-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,34,100,34.0,medgemma-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,37,100,37.0,medgemma-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,42,100,42.0,medgemma-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,34,100,34.0,medgemma-4b-it,Gynecology and Obstetrics
+Neurocirugía,2022,35,100,35.0,medgemma-4b-it,Neurosurgery
+Neurocirugía,2023,45,100,45.0,medgemma-4b-it,Neurosurgery
+Neurocirugía,2024,52,100,52.0,medgemma-4b-it,Neurosurgery
+Neurocirugía,2025,42,100,42.0,medgemma-4b-it,Neurosurgery
+Oftalmología,2018,35,100,35.0,medgemma-4b-it,Ophthalmology
+Oftalmología,2019,38,100,38.0,medgemma-4b-it,Ophthalmology
+Oftalmología,2020,37,100,37.0,medgemma-4b-it,Ophthalmology
+Oftalmología,2022,37,100,37.0,medgemma-4b-it,Ophthalmology
+Oftalmología,2023,34,99,34.34,medgemma-4b-it,Ophthalmology
+Oftalmología,2024,35,100,35.0,medgemma-4b-it,Ophthalmology
+Oftalmología,2025,38,98,38.78,medgemma-4b-it,Ophthalmology
+Pediatría,2018,43,99,43.43,medgemma-4b-it,Pediatrics
+Pediatría,2019,54,100,54.0,medgemma-4b-it,Pediatrics
+Pediatría,2020,46,100,46.0,medgemma-4b-it,Pediatrics
+Pediatría,2022,46,100,46.0,medgemma-4b-it,Pediatrics
+Pediatría,2023,52,100,52.0,medgemma-4b-it,Pediatrics
+Pediatría,2024,46,99,46.46,medgemma-4b-it,Pediatrics
+Pediatría,2025,45,100,45.0,medgemma-4b-it,Pediatrics
+Prueba A,2018,52,100,52.0,medgemma-4b-it,Test A
+Prueba A,2019,58,99,58.59,medgemma-4b-it,Test A
+Prueba A,2020,46,90,51.11,medgemma-4b-it,Test A
+Prueba A,2022,56,100,56.0,medgemma-4b-it,Test A
+Prueba A,2023,48,100,48.0,medgemma-4b-it,Test A
+Prueba A,2024,57,100,57.0,medgemma-4b-it,Test A
+Prueba A,2025,45,100,45.0,medgemma-4b-it,Test A
+Prueba B,2018,54,100,54.0,medgemma-4b-it,Test B
+Prueba B,2019,48,100,48.0,medgemma-4b-it,Test B
+Prueba B,2020,47,90,52.22,medgemma-4b-it,Test B
+Prueba B,2022,52,100,52.0,medgemma-4b-it,Test B
+Prueba B,2023,38,100,38.0,medgemma-4b-it,Test B
+Prueba B,2024,43,100,43.0,medgemma-4b-it,Test B
+Prueba B,2025,55,100,55.0,medgemma-4b-it,Test B
+Psiquiatría,2018,52,99,52.53,medgemma-4b-it,Psychiatry
+Psiquiatría,2019,56,100,56.0,medgemma-4b-it,Psychiatry
+Psiquiatría,2020,66,100,66.0,medgemma-4b-it,Psychiatry
+Psiquiatría,2022,60,100,60.0,medgemma-4b-it,Psychiatry
+Psiquiatría,2023,61,100,61.0,medgemma-4b-it,Psychiatry
+Psiquiatría,2024,58,100,58.0,medgemma-4b-it,Psychiatry
+Psiquiatría,2025,65,100,65.0,medgemma-4b-it,Psychiatry
+Radiología,2018,40,100,40.0,medgemma-4b-it,Radiology
+Radiología,2019,47,100,47.0,medgemma-4b-it,Radiology
+Radiología,2022,36,100,36.0,medgemma-4b-it,Radiology
+Radiología,2023,43,100,43.0,medgemma-4b-it,Radiology
+Radiología,2024,43,100,43.0,medgemma-4b-it,Radiology
+Radiología,2025,39,100,39.0,medgemma-4b-it,Radiology
+Urología,2018,57,100,57.0,medgemma-4b-it,Urology
+Urología,2020,42,100,42.0,medgemma-4b-it,Urology
+Urología,2022,41,100,41.0,medgemma-4b-it,Urology
+Urología,2023,50,99,50.51,medgemma-4b-it,Urology
+Urología,2024,37,100,37.0,medgemma-4b-it,Urology
+Urología,2025,34,100,34.0,medgemma-4b-it,Urology
+Anatomía Patológica & Patología,2018,63,96,65.62,medgemma-1.5-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,51,96,53.12,medgemma-1.5-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,54,99,54.55,medgemma-1.5-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,64,99,64.65,medgemma-1.5-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,61,99,61.62,medgemma-1.5-4b-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,51,98,52.04,medgemma-1.5-4b-it,Pathological Anatomy and Pathology
+Anestesiología,2018,55,96,57.29,medgemma-1.5-4b-it,Anesthesiology
+Anestesiología,2019,65,97,67.01,medgemma-1.5-4b-it,Anesthesiology
+Anestesiología,2020,50,94,53.19,medgemma-1.5-4b-it,Anesthesiology
+Anestesiología,2022,48,96,50.0,medgemma-1.5-4b-it,Anesthesiology
+Anestesiología,2023,54,96,56.25,medgemma-1.5-4b-it,Anesthesiology
+Anestesiología,2024,60,99,60.61,medgemma-1.5-4b-it,Anesthesiology
+Anestesiología,2025,57,96,59.38,medgemma-1.5-4b-it,Anesthesiology
+Cirugía General,2018,43,97,44.33,medgemma-1.5-4b-it,General Surgery
+Cirugía General,2019,57,99,57.58,medgemma-1.5-4b-it,General Surgery
+Cirugía General,2020,50,94,53.19,medgemma-1.5-4b-it,General Surgery
+Cirugía General,2022,51,95,53.68,medgemma-1.5-4b-it,General Surgery
+Cirugía General,2023,52,99,52.53,medgemma-1.5-4b-it,General Surgery
+Cirugía General,2024,50,100,50.0,medgemma-1.5-4b-it,General Surgery
+Cirugía General,2025,56,100,56.0,medgemma-1.5-4b-it,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,38,99,38.38,medgemma-1.5-4b-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,58,96,60.42,medgemma-1.5-4b-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,51,95,53.68,medgemma-1.5-4b-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,47,96,48.96,medgemma-1.5-4b-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,112,194,57.73,medgemma-1.5-4b-it,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,55,97,56.7,medgemma-1.5-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,53,97,54.64,medgemma-1.5-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,46,96,47.92,medgemma-1.5-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,46,99,46.46,medgemma-1.5-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,48,99,48.48,medgemma-1.5-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,47,99,47.47,medgemma-1.5-4b-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,51,95,53.68,medgemma-1.5-4b-it,Gynecology and Obstetrics
+Neurocirugía,2022,50,97,51.55,medgemma-1.5-4b-it,Neurosurgery
+Neurocirugía,2023,50,95,52.63,medgemma-1.5-4b-it,Neurosurgery
+Neurocirugía,2024,49,98,50.0,medgemma-1.5-4b-it,Neurosurgery
+Neurocirugía,2025,53,96,55.21,medgemma-1.5-4b-it,Neurosurgery
+Oftalmología,2018,47,98,47.96,medgemma-1.5-4b-it,Ophthalmology
+Oftalmología,2019,41,97,42.27,medgemma-1.5-4b-it,Ophthalmology
+Oftalmología,2020,47,96,48.96,medgemma-1.5-4b-it,Ophthalmology
+Oftalmología,2022,39,99,39.39,medgemma-1.5-4b-it,Ophthalmology
+Oftalmología,2023,47,96,48.96,medgemma-1.5-4b-it,Ophthalmology
+Oftalmología,2024,42,100,42.0,medgemma-1.5-4b-it,Ophthalmology
+Oftalmología,2025,51,98,52.04,medgemma-1.5-4b-it,Ophthalmology
+Pediatría,2018,54,97,55.67,medgemma-1.5-4b-it,Pediatrics
+Pediatría,2019,63,93,67.74,medgemma-1.5-4b-it,Pediatrics
+Pediatría,2020,53,96,55.21,medgemma-1.5-4b-it,Pediatrics
+Pediatría,2022,57,97,58.76,medgemma-1.5-4b-it,Pediatrics
+Pediatría,2023,57,97,58.76,medgemma-1.5-4b-it,Pediatrics
+Pediatría,2024,63,96,65.62,medgemma-1.5-4b-it,Pediatrics
+Pediatría,2025,59,96,61.46,medgemma-1.5-4b-it,Pediatrics
+Prueba A,2018,66,97,68.04,medgemma-1.5-4b-it,Test A
+Prueba A,2019,66,99,66.67,medgemma-1.5-4b-it,Test A
+Prueba A,2020,51,88,57.95,medgemma-1.5-4b-it,Test A
+Prueba A,2022,68,95,71.58,medgemma-1.5-4b-it,Test A
+Prueba A,2023,62,98,63.27,medgemma-1.5-4b-it,Test A
+Prueba A,2024,62,98,63.27,medgemma-1.5-4b-it,Test A
+Prueba A,2025,57,98,58.16,medgemma-1.5-4b-it,Test A
+Prueba B,2018,63,97,64.95,medgemma-1.5-4b-it,Test B
+Prueba B,2019,54,93,58.06,medgemma-1.5-4b-it,Test B
+Prueba B,2020,57,88,64.77,medgemma-1.5-4b-it,Test B
+Prueba B,2022,58,96,60.42,medgemma-1.5-4b-it,Test B
+Prueba B,2023,54,98,55.1,medgemma-1.5-4b-it,Test B
+Prueba B,2024,51,96,53.12,medgemma-1.5-4b-it,Test B
+Prueba B,2025,59,98,60.2,medgemma-1.5-4b-it,Test B
+Psiquiatría,2018,65,96,67.71,medgemma-1.5-4b-it,Psychiatry
+Psiquiatría,2019,63,98,64.29,medgemma-1.5-4b-it,Psychiatry
+Psiquiatría,2020,73,99,73.74,medgemma-1.5-4b-it,Psychiatry
+Psiquiatría,2022,65,98,66.33,medgemma-1.5-4b-it,Psychiatry
+Psiquiatría,2023,68,95,71.58,medgemma-1.5-4b-it,Psychiatry
+Psiquiatría,2024,69,100,69.0,medgemma-1.5-4b-it,Psychiatry
+Psiquiatría,2025,70,97,72.16,medgemma-1.5-4b-it,Psychiatry
+Radiología,2018,56,98,57.14,medgemma-1.5-4b-it,Radiology
+Radiología,2019,58,99,58.59,medgemma-1.5-4b-it,Radiology
+Radiología,2022,44,97,45.36,medgemma-1.5-4b-it,Radiology
+Radiología,2023,57,98,58.16,medgemma-1.5-4b-it,Radiology
+Radiología,2024,50,96,52.08,medgemma-1.5-4b-it,Radiology
+Radiología,2025,49,96,51.04,medgemma-1.5-4b-it,Radiology
+Urología,2018,52,99,52.53,medgemma-1.5-4b-it,Urology
+Urología,2020,57,100,57.0,medgemma-1.5-4b-it,Urology
+Urología,2022,53,100,53.0,medgemma-1.5-4b-it,Urology
+Urología,2023,59,98,60.2,medgemma-1.5-4b-it,Urology
+Urología,2024,52,99,52.53,medgemma-1.5-4b-it,Urology
+Urología,2025,55,98,56.12,medgemma-1.5-4b-it,Urology
+Anatomía Patológica & Patología,2018,46,92,50.0,JSL-MedLlama 3 8B v2.0,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,36,82,43.9,JSL-MedLlama 3 8B v2.0,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,43,93,46.24,JSL-MedLlama 3 8B v2.0,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,51,90,56.67,JSL-MedLlama 3 8B v2.0,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,54,92,58.7,JSL-MedLlama 3 8B v2.0,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,50,99,50.51,JSL-MedLlama 3 8B v2.0,Pathological Anatomy and Pathology
+Anestesiología,2018,47,89,52.81,JSL-MedLlama 3 8B v2.0,Anesthesiology
+Anestesiología,2019,39,82,47.56,JSL-MedLlama 3 8B v2.0,Anesthesiology
+Anestesiología,2020,32,79,40.51,JSL-MedLlama 3 8B v2.0,Anesthesiology
+Anestesiología,2022,41,86,47.67,JSL-MedLlama 3 8B v2.0,Anesthesiology
+Anestesiología,2023,45,93,48.39,JSL-MedLlama 3 8B v2.0,Anesthesiology
+Anestesiología,2024,47,89,52.81,JSL-MedLlama 3 8B v2.0,Anesthesiology
+Anestesiología,2025,49,93,52.69,JSL-MedLlama 3 8B v2.0,Anesthesiology
+Cirugía General,2018,37,90,41.11,JSL-MedLlama 3 8B v2.0,General Surgery
+Cirugía General,2019,33,89,37.08,JSL-MedLlama 3 8B v2.0,General Surgery
+Cirugía General,2020,36,93,38.71,JSL-MedLlama 3 8B v2.0,General Surgery
+Cirugía General,2022,37,92,40.22,JSL-MedLlama 3 8B v2.0,General Surgery
+Cirugía General,2023,47,93,50.54,JSL-MedLlama 3 8B v2.0,General Surgery
+Cirugía General,2024,47,93,50.54,JSL-MedLlama 3 8B v2.0,General Surgery
+Cirugía General,2025,49,91,53.85,JSL-MedLlama 3 8B v2.0,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,23,88,26.14,JSL-MedLlama 3 8B v2.0,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,35,80,43.75,JSL-MedLlama 3 8B v2.0,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,47,84,55.95,JSL-MedLlama 3 8B v2.0,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,43,91,47.25,JSL-MedLlama 3 8B v2.0,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,86,184,46.74,JSL-MedLlama 3 8B v2.0,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,39,92,42.39,JSL-MedLlama 3 8B v2.0,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,38,88,43.18,JSL-MedLlama 3 8B v2.0,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,28,91,30.77,JSL-MedLlama 3 8B v2.0,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,36,92,39.13,JSL-MedLlama 3 8B v2.0,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,36,95,37.89,JSL-MedLlama 3 8B v2.0,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,44,89,49.44,JSL-MedLlama 3 8B v2.0,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,50,95,52.63,JSL-MedLlama 3 8B v2.0,Gynecology and Obstetrics
+Neurocirugía,2022,40,95,42.11,JSL-MedLlama 3 8B v2.0,Neurosurgery
+Neurocirugía,2023,49,93,52.69,JSL-MedLlama 3 8B v2.0,Neurosurgery
+Neurocirugía,2024,46,90,51.11,JSL-MedLlama 3 8B v2.0,Neurosurgery
+Neurocirugía,2025,45,95,47.37,JSL-MedLlama 3 8B v2.0,Neurosurgery
+Oftalmología,2018,36,93,38.71,JSL-MedLlama 3 8B v2.0,Ophthalmology
+Oftalmología,2019,35,91,38.46,JSL-MedLlama 3 8B v2.0,Ophthalmology
+Oftalmología,2020,31,84,36.9,JSL-MedLlama 3 8B v2.0,Ophthalmology
+Oftalmología,2022,33,89,37.08,JSL-MedLlama 3 8B v2.0,Ophthalmology
+Oftalmología,2023,42,94,44.68,JSL-MedLlama 3 8B v2.0,Ophthalmology
+Oftalmología,2024,31,90,34.44,JSL-MedLlama 3 8B v2.0,Ophthalmology
+Oftalmología,2025,34,95,35.79,JSL-MedLlama 3 8B v2.0,Ophthalmology
+Pediatría,2018,43,91,47.25,JSL-MedLlama 3 8B v2.0,Pediatrics
+Pediatría,2019,44,90,48.89,JSL-MedLlama 3 8B v2.0,Pediatrics
+Pediatría,2020,40,89,44.94,JSL-MedLlama 3 8B v2.0,Pediatrics
+Pediatría,2022,41,89,46.07,JSL-MedLlama 3 8B v2.0,Pediatrics
+Pediatría,2023,50,95,52.63,JSL-MedLlama 3 8B v2.0,Pediatrics
+Pediatría,2024,47,93,50.54,JSL-MedLlama 3 8B v2.0,Pediatrics
+Pediatría,2025,50,93,53.76,JSL-MedLlama 3 8B v2.0,Pediatrics
+Prueba A,2018,53,92,57.61,JSL-MedLlama 3 8B v2.0,Test A
+Prueba A,2019,50,88,56.82,JSL-MedLlama 3 8B v2.0,Test A
+Prueba A,2020,40,82,48.78,JSL-MedLlama 3 8B v2.0,Test A
+Prueba A,2022,49,92,53.26,JSL-MedLlama 3 8B v2.0,Test A
+Prueba A,2023,52,94,55.32,JSL-MedLlama 3 8B v2.0,Test A
+Prueba A,2024,56,91,61.54,JSL-MedLlama 3 8B v2.0,Test A
+Prueba A,2025,54,94,57.45,JSL-MedLlama 3 8B v2.0,Test A
+Prueba B,2018,55,91,60.44,JSL-MedLlama 3 8B v2.0,Test B
+Prueba B,2019,46,86,53.49,JSL-MedLlama 3 8B v2.0,Test B
+Prueba B,2020,41,80,51.25,JSL-MedLlama 3 8B v2.0,Test B
+Prueba B,2022,39,94,41.49,JSL-MedLlama 3 8B v2.0,Test B
+Prueba B,2023,49,93,52.69,JSL-MedLlama 3 8B v2.0,Test B
+Prueba B,2024,42,95,44.21,JSL-MedLlama 3 8B v2.0,Test B
+Prueba B,2025,54,90,60.0,JSL-MedLlama 3 8B v2.0,Test B
+Psiquiatría,2018,60,93,64.52,JSL-MedLlama 3 8B v2.0,Psychiatry
+Psiquiatría,2019,57,87,65.52,JSL-MedLlama 3 8B v2.0,Psychiatry
+Psiquiatría,2020,67,94,71.28,JSL-MedLlama 3 8B v2.0,Psychiatry
+Psiquiatría,2022,44,87,50.57,JSL-MedLlama 3 8B v2.0,Psychiatry
+Psiquiatría,2023,68,91,74.73,JSL-MedLlama 3 8B v2.0,Psychiatry
+Psiquiatría,2024,68,92,73.91,JSL-MedLlama 3 8B v2.0,Psychiatry
+Psiquiatría,2025,66,95,69.47,JSL-MedLlama 3 8B v2.0,Psychiatry
+Radiología,2018,44,87,50.57,JSL-MedLlama 3 8B v2.0,Radiology
+Radiología,2019,38,90,42.22,JSL-MedLlama 3 8B v2.0,Radiology
+Radiología,2022,32,95,33.68,JSL-MedLlama 3 8B v2.0,Radiology
+Radiología,2023,38,94,40.43,JSL-MedLlama 3 8B v2.0,Radiology
+Radiología,2024,48,94,51.06,JSL-MedLlama 3 8B v2.0,Radiology
+Radiología,2025,40,94,42.55,JSL-MedLlama 3 8B v2.0,Radiology
+Urología,2018,55,90,61.11,JSL-MedLlama 3 8B v2.0,Urology
+Urología,2020,34,92,36.96,JSL-MedLlama 3 8B v2.0,Urology
+Urología,2022,30,92,32.61,JSL-MedLlama 3 8B v2.0,Urology
+Urología,2023,52,94,55.32,JSL-MedLlama 3 8B v2.0,Urology
+Urología,2024,43,92,46.74,JSL-MedLlama 3 8B v2.0,Urology
+Urología,2025,40,92,43.48,JSL-MedLlama 3 8B v2.0,Urology
+Anatomía Patológica & Patología,2018,74,100,74.0,OpenBioLLM-70B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,64,100,64.0,OpenBioLLM-70B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,70,100,70.0,OpenBioLLM-70B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,77,100,77.0,OpenBioLLM-70B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,77,100,77.0,OpenBioLLM-70B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,70,100,70.0,OpenBioLLM-70B,Pathological Anatomy and Pathology
+Anestesiología,2018,69,100,69.0,OpenBioLLM-70B,Anesthesiology
+Anestesiología,2019,70,100,70.0,OpenBioLLM-70B,Anesthesiology
+Anestesiología,2020,64,100,64.0,OpenBioLLM-70B,Anesthesiology
+Anestesiología,2022,66,100,66.0,OpenBioLLM-70B,Anesthesiology
+Anestesiología,2023,65,100,65.0,OpenBioLLM-70B,Anesthesiology
+Anestesiología,2024,75,100,75.0,OpenBioLLM-70B,Anesthesiology
+Anestesiología,2025,74,100,74.0,OpenBioLLM-70B,Anesthesiology
+Cirugía General,2018,62,100,62.0,OpenBioLLM-70B,General Surgery
+Cirugía General,2019,60,100,60.0,OpenBioLLM-70B,General Surgery
+Cirugía General,2020,63,100,63.0,OpenBioLLM-70B,General Surgery
+Cirugía General,2022,64,100,64.0,OpenBioLLM-70B,General Surgery
+Cirugía General,2023,74,100,74.0,OpenBioLLM-70B,General Surgery
+Cirugía General,2024,73,100,73.0,OpenBioLLM-70B,General Surgery
+Cirugía General,2025,71,100,71.0,OpenBioLLM-70B,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,51,100,51.0,OpenBioLLM-70B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,69,100,69.0,OpenBioLLM-70B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,71,100,71.0,OpenBioLLM-70B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,69,100,69.0,OpenBioLLM-70B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,146,200,73.0,OpenBioLLM-70B,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,69,100,69.0,OpenBioLLM-70B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,68,100,68.0,OpenBioLLM-70B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,63,100,63.0,OpenBioLLM-70B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,62,100,62.0,OpenBioLLM-70B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,63,100,63.0,OpenBioLLM-70B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,64,100,64.0,OpenBioLLM-70B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,68,100,68.0,OpenBioLLM-70B,Gynecology and Obstetrics
+Neurocirugía,2022,62,100,62.0,OpenBioLLM-70B,Neurosurgery
+Neurocirugía,2023,74,100,74.0,OpenBioLLM-70B,Neurosurgery
+Neurocirugía,2024,75,100,75.0,OpenBioLLM-70B,Neurosurgery
+Neurocirugía,2025,57,100,57.0,OpenBioLLM-70B,Neurosurgery
+Oftalmología,2018,57,100,57.0,OpenBioLLM-70B,Ophthalmology
+Oftalmología,2019,63,100,63.0,OpenBioLLM-70B,Ophthalmology
+Oftalmología,2020,70,100,70.0,OpenBioLLM-70B,Ophthalmology
+Oftalmología,2022,70,100,70.0,OpenBioLLM-70B,Ophthalmology
+Oftalmología,2023,66,100,66.0,OpenBioLLM-70B,Ophthalmology
+Oftalmología,2024,64,100,64.0,OpenBioLLM-70B,Ophthalmology
+Oftalmología,2025,65,100,65.0,OpenBioLLM-70B,Ophthalmology
+Pediatría,2018,63,100,63.0,OpenBioLLM-70B,Pediatrics
+Pediatría,2019,70,100,70.0,OpenBioLLM-70B,Pediatrics
+Pediatría,2020,58,100,58.0,OpenBioLLM-70B,Pediatrics
+Pediatría,2022,71,100,71.0,OpenBioLLM-70B,Pediatrics
+Pediatría,2023,72,100,72.0,OpenBioLLM-70B,Pediatrics
+Pediatría,2024,70,100,70.0,OpenBioLLM-70B,Pediatrics
+Pediatría,2025,74,100,74.0,OpenBioLLM-70B,Pediatrics
+Prueba A,2018,75,100,75.0,OpenBioLLM-70B,Test A
+Prueba A,2019,69,100,69.0,OpenBioLLM-70B,Test A
+Prueba A,2020,68,90,75.56,OpenBioLLM-70B,Test A
+Prueba A,2022,78,100,78.0,OpenBioLLM-70B,Test A
+Prueba A,2023,80,100,80.0,OpenBioLLM-70B,Test A
+Prueba A,2024,78,100,78.0,OpenBioLLM-70B,Test A
+Prueba A,2025,79,100,79.0,OpenBioLLM-70B,Test A
+Prueba B,2018,73,100,73.0,OpenBioLLM-70B,Test B
+Prueba B,2019,72,100,72.0,OpenBioLLM-70B,Test B
+Prueba B,2020,74,90,82.22,OpenBioLLM-70B,Test B
+Prueba B,2022,76,100,76.0,OpenBioLLM-70B,Test B
+Prueba B,2023,69,100,69.0,OpenBioLLM-70B,Test B
+Prueba B,2024,78,100,78.0,OpenBioLLM-70B,Test B
+Prueba B,2025,77,100,77.0,OpenBioLLM-70B,Test B
+Psiquiatría,2018,79,100,79.0,OpenBioLLM-70B,Psychiatry
+Psiquiatría,2019,87,100,87.0,OpenBioLLM-70B,Psychiatry
+Psiquiatría,2020,91,100,91.0,OpenBioLLM-70B,Psychiatry
+Psiquiatría,2022,78,100,78.0,OpenBioLLM-70B,Psychiatry
+Psiquiatría,2023,83,100,83.0,OpenBioLLM-70B,Psychiatry
+Psiquiatría,2024,92,100,92.0,OpenBioLLM-70B,Psychiatry
+Psiquiatría,2025,89,100,89.0,OpenBioLLM-70B,Psychiatry
+Radiología,2018,71,100,71.0,OpenBioLLM-70B,Radiology
+Radiología,2019,73,100,73.0,OpenBioLLM-70B,Radiology
+Radiología,2022,67,100,67.0,OpenBioLLM-70B,Radiology
+Radiología,2023,71,100,71.0,OpenBioLLM-70B,Radiology
+Radiología,2024,72,100,72.0,OpenBioLLM-70B,Radiology
+Radiología,2025,62,100,62.0,OpenBioLLM-70B,Radiology
+Urología,2018,83,100,83.0,OpenBioLLM-70B,Urology
+Urología,2020,63,100,63.0,OpenBioLLM-70B,Urology
+Urología,2022,68,100,68.0,OpenBioLLM-70B,Urology
+Urología,2023,75,100,75.0,OpenBioLLM-70B,Urology
+Urología,2024,67,100,67.0,OpenBioLLM-70B,Urology
+Urología,2025,69,100,69.0,OpenBioLLM-70B,Urology
+Anatomía Patológica & Patología,2018,82,100,82.0,medgemma-27b-text-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,77,100,77.0,medgemma-27b-text-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,88,100,88.0,medgemma-27b-text-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,86,100,86.0,medgemma-27b-text-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,92,100,92.0,medgemma-27b-text-it,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,85,100,85.0,medgemma-27b-text-it,Pathological Anatomy and Pathology
+Anestesiología,2018,85,100,85.0,medgemma-27b-text-it,Anesthesiology
+Anestesiología,2019,83,100,83.0,medgemma-27b-text-it,Anesthesiology
+Anestesiología,2020,76,100,76.0,medgemma-27b-text-it,Anesthesiology
+Anestesiología,2022,76,99,76.77,medgemma-27b-text-it,Anesthesiology
+Anestesiología,2023,77,100,77.0,medgemma-27b-text-it,Anesthesiology
+Anestesiología,2024,84,100,84.0,medgemma-27b-text-it,Anesthesiology
+Anestesiología,2025,84,100,84.0,medgemma-27b-text-it,Anesthesiology
+Cirugía General,2018,74,100,74.0,medgemma-27b-text-it,General Surgery
+Cirugía General,2019,77,100,77.0,medgemma-27b-text-it,General Surgery
+Cirugía General,2020,81,100,81.0,medgemma-27b-text-it,General Surgery
+Cirugía General,2022,83,100,83.0,medgemma-27b-text-it,General Surgery
+Cirugía General,2023,80,100,80.0,medgemma-27b-text-it,General Surgery
+Cirugía General,2024,74,100,74.0,medgemma-27b-text-it,General Surgery
+Cirugía General,2025,79,100,79.0,medgemma-27b-text-it,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,60,100,60.0,medgemma-27b-text-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,79,100,79.0,medgemma-27b-text-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,82,100,82.0,medgemma-27b-text-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,81,100,81.0,medgemma-27b-text-it,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,158,200,79.0,medgemma-27b-text-it,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,77,100,77.0,medgemma-27b-text-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,83,100,83.0,medgemma-27b-text-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,82,100,82.0,medgemma-27b-text-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,80,100,80.0,medgemma-27b-text-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,79,100,79.0,medgemma-27b-text-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,80,100,80.0,medgemma-27b-text-it,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,83,100,83.0,medgemma-27b-text-it,Gynecology and Obstetrics
+Neurocirugía,2022,71,100,71.0,medgemma-27b-text-it,Neurosurgery
+Neurocirugía,2023,87,100,87.0,medgemma-27b-text-it,Neurosurgery
+Neurocirugía,2024,83,100,83.0,medgemma-27b-text-it,Neurosurgery
+Neurocirugía,2025,68,100,68.0,medgemma-27b-text-it,Neurosurgery
+Oftalmología,2018,75,100,75.0,medgemma-27b-text-it,Ophthalmology
+Oftalmología,2019,78,100,78.0,medgemma-27b-text-it,Ophthalmology
+Oftalmología,2020,80,100,80.0,medgemma-27b-text-it,Ophthalmology
+Oftalmología,2022,75,100,75.0,medgemma-27b-text-it,Ophthalmology
+Oftalmología,2023,76,100,76.0,medgemma-27b-text-it,Ophthalmology
+Oftalmología,2024,74,100,74.0,medgemma-27b-text-it,Ophthalmology
+Oftalmología,2025,77,100,77.0,medgemma-27b-text-it,Ophthalmology
+Pediatría,2018,78,100,78.0,medgemma-27b-text-it,Pediatrics
+Pediatría,2019,91,100,91.0,medgemma-27b-text-it,Pediatrics
+Pediatría,2020,74,100,74.0,medgemma-27b-text-it,Pediatrics
+Pediatría,2022,85,100,85.0,medgemma-27b-text-it,Pediatrics
+Pediatría,2023,85,100,85.0,medgemma-27b-text-it,Pediatrics
+Pediatría,2024,86,100,86.0,medgemma-27b-text-it,Pediatrics
+Pediatría,2025,75,100,75.0,medgemma-27b-text-it,Pediatrics
+Prueba A,2018,83,100,83.0,medgemma-27b-text-it,Test A
+Prueba A,2019,82,100,82.0,medgemma-27b-text-it,Test A
+Prueba A,2020,74,90,82.22,medgemma-27b-text-it,Test A
+Prueba A,2022,87,100,87.0,medgemma-27b-text-it,Test A
+Prueba A,2023,84,100,84.0,medgemma-27b-text-it,Test A
+Prueba A,2024,91,100,91.0,medgemma-27b-text-it,Test A
+Prueba A,2025,82,100,82.0,medgemma-27b-text-it,Test A
+Prueba B,2018,91,100,91.0,medgemma-27b-text-it,Test B
+Prueba B,2019,86,100,86.0,medgemma-27b-text-it,Test B
+Prueba B,2020,82,90,91.11,medgemma-27b-text-it,Test B
+Prueba B,2022,87,100,87.0,medgemma-27b-text-it,Test B
+Prueba B,2023,87,100,87.0,medgemma-27b-text-it,Test B
+Prueba B,2024,86,100,86.0,medgemma-27b-text-it,Test B
+Prueba B,2025,84,100,84.0,medgemma-27b-text-it,Test B
+Psiquiatría,2018,85,100,85.0,medgemma-27b-text-it,Psychiatry
+Psiquiatría,2019,89,100,89.0,medgemma-27b-text-it,Psychiatry
+Psiquiatría,2020,90,100,90.0,medgemma-27b-text-it,Psychiatry
+Psiquiatría,2022,89,100,89.0,medgemma-27b-text-it,Psychiatry
+Psiquiatría,2023,88,100,88.0,medgemma-27b-text-it,Psychiatry
+Psiquiatría,2024,90,100,90.0,medgemma-27b-text-it,Psychiatry
+Psiquiatría,2025,94,100,94.0,medgemma-27b-text-it,Psychiatry
+Radiología,2018,82,100,82.0,medgemma-27b-text-it,Radiology
+Radiología,2019,79,100,79.0,medgemma-27b-text-it,Radiology
+Radiología,2022,69,100,69.0,medgemma-27b-text-it,Radiology
+Radiología,2023,78,99,78.79,medgemma-27b-text-it,Radiology
+Radiología,2024,76,100,76.0,medgemma-27b-text-it,Radiology
+Radiología,2025,72,100,72.0,medgemma-27b-text-it,Radiology
+Urología,2018,86,100,86.0,medgemma-27b-text-it,Urology
+Urología,2020,78,100,78.0,medgemma-27b-text-it,Urology
+Urología,2022,82,100,82.0,medgemma-27b-text-it,Urology
+Urología,2023,83,100,83.0,medgemma-27b-text-it,Urology
+Urología,2024,72,100,72.0,medgemma-27b-text-it,Urology
+Urología,2025,75,100,75.0,medgemma-27b-text-it,Urology
+Anatomía Patológica & Patología,2018,79,100,79.0,OctoMed-7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,75,100,75.0,OctoMed-7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,83,100,83.0,OctoMed-7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,82,100,82.0,OctoMed-7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,81,100,81.0,OctoMed-7B,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,74,100,74.0,OctoMed-7B,Pathological Anatomy and Pathology
+Anestesiología,2018,79,100,79.0,OctoMed-7B,Anesthesiology
+Anestesiología,2019,79,100,79.0,OctoMed-7B,Anesthesiology
+Anestesiología,2020,74,98,75.51,OctoMed-7B,Anesthesiology
+Anestesiología,2022,81,99,81.82,OctoMed-7B,Anesthesiology
+Anestesiología,2023,65,99,65.66,OctoMed-7B,Anesthesiology
+Anestesiología,2024,75,100,75.0,OctoMed-7B,Anesthesiology
+Anestesiología,2025,80,100,80.0,OctoMed-7B,Anesthesiology
+Cirugía General,2018,67,99,67.68,OctoMed-7B,General Surgery
+Cirugía General,2019,79,100,79.0,OctoMed-7B,General Surgery
+Cirugía General,2020,72,100,72.0,OctoMed-7B,General Surgery
+Cirugía General,2022,77,100,77.0,OctoMed-7B,General Surgery
+Cirugía General,2023,83,100,83.0,OctoMed-7B,General Surgery
+Cirugía General,2024,67,100,67.0,OctoMed-7B,General Surgery
+Cirugía General,2025,73,100,73.0,OctoMed-7B,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,60,100,60.0,OctoMed-7B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,74,100,74.0,OctoMed-7B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,79,100,79.0,OctoMed-7B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,72,100,72.0,OctoMed-7B,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,142,200,71.0,OctoMed-7B,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,85,99,85.86,OctoMed-7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,83,100,83.0,OctoMed-7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,82,100,82.0,OctoMed-7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,73,100,73.0,OctoMed-7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,80,100,80.0,OctoMed-7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,71,100,71.0,OctoMed-7B,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,72,100,72.0,OctoMed-7B,Gynecology and Obstetrics
+Neurocirugía,2022,74,100,74.0,OctoMed-7B,Neurosurgery
+Neurocirugía,2023,85,100,85.0,OctoMed-7B,Neurosurgery
+Neurocirugía,2024,78,99,78.79,OctoMed-7B,Neurosurgery
+Neurocirugía,2025,71,99,71.72,OctoMed-7B,Neurosurgery
+Oftalmología,2018,76,100,76.0,OctoMed-7B,Ophthalmology
+Oftalmología,2019,68,100,68.0,OctoMed-7B,Ophthalmology
+Oftalmología,2020,78,100,78.0,OctoMed-7B,Ophthalmology
+Oftalmología,2022,74,100,74.0,OctoMed-7B,Ophthalmology
+Oftalmología,2023,72,100,72.0,OctoMed-7B,Ophthalmology
+Oftalmología,2024,68,99,68.69,OctoMed-7B,Ophthalmology
+Oftalmología,2025,76,100,76.0,OctoMed-7B,Ophthalmology
+Pediatría,2018,81,100,81.0,OctoMed-7B,Pediatrics
+Pediatría,2019,82,100,82.0,OctoMed-7B,Pediatrics
+Pediatría,2020,70,100,70.0,OctoMed-7B,Pediatrics
+Pediatría,2022,77,100,77.0,OctoMed-7B,Pediatrics
+Pediatría,2023,71,99,71.72,OctoMed-7B,Pediatrics
+Pediatría,2024,78,100,78.0,OctoMed-7B,Pediatrics
+Pediatría,2025,79,100,79.0,OctoMed-7B,Pediatrics
+Prueba A,2018,84,100,84.0,OctoMed-7B,Test A
+Prueba A,2019,80,100,80.0,OctoMed-7B,Test A
+Prueba A,2020,77,90,85.56,OctoMed-7B,Test A
+Prueba A,2022,76,100,76.0,OctoMed-7B,Test A
+Prueba A,2023,84,100,84.0,OctoMed-7B,Test A
+Prueba A,2024,84,100,84.0,OctoMed-7B,Test A
+Prueba A,2025,80,100,80.0,OctoMed-7B,Test A
+Prueba B,2018,86,100,86.0,OctoMed-7B,Test B
+Prueba B,2019,83,100,83.0,OctoMed-7B,Test B
+Prueba B,2020,79,90,87.78,OctoMed-7B,Test B
+Prueba B,2022,81,99,81.82,OctoMed-7B,Test B
+Prueba B,2023,89,99,89.9,OctoMed-7B,Test B
+Prueba B,2024,82,100,82.0,OctoMed-7B,Test B
+Prueba B,2025,83,99,83.84,OctoMed-7B,Test B
+Psiquiatría,2018,79,100,79.0,OctoMed-7B,Psychiatry
+Psiquiatría,2019,88,100,88.0,OctoMed-7B,Psychiatry
+Psiquiatría,2020,87,100,87.0,OctoMed-7B,Psychiatry
+Psiquiatría,2022,87,100,87.0,OctoMed-7B,Psychiatry
+Psiquiatría,2023,89,100,89.0,OctoMed-7B,Psychiatry
+Psiquiatría,2024,78,100,78.0,OctoMed-7B,Psychiatry
+Psiquiatría,2025,89,100,89.0,OctoMed-7B,Psychiatry
+Radiología,2018,76,99,76.77,OctoMed-7B,Radiology
+Radiología,2019,84,100,84.0,OctoMed-7B,Radiology
+Radiología,2022,70,100,70.0,OctoMed-7B,Radiology
+Radiología,2023,84,100,84.0,OctoMed-7B,Radiology
+Radiología,2024,72,100,72.0,OctoMed-7B,Radiology
+Radiología,2025,77,100,77.0,OctoMed-7B,Radiology
+Urología,2018,79,99,79.8,OctoMed-7B,Urology
+Urología,2020,73,100,73.0,OctoMed-7B,Urology
+Urología,2022,81,100,81.0,OctoMed-7B,Urology
+Urología,2023,79,100,79.0,OctoMed-7B,Urology
+Urología,2024,71,100,71.0,OctoMed-7B,Urology
+Urología,2025,79,100,79.0,OctoMed-7B,Urology
+Anatomía Patológica & Patología,2018,67,100,67.0,medgemma-4b-it-FT,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2019,67,100,67.0,medgemma-4b-it-FT,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2020,66,100,66.0,medgemma-4b-it-FT,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2023,68,100,68.0,medgemma-4b-it-FT,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2024,75,100,75.0,medgemma-4b-it-FT,Pathological Anatomy and Pathology
+Anatomía Patológica & Patología,2025,50,100,50.0,medgemma-4b-it-FT,Pathological Anatomy and Pathology
+Anestesiología,2018,63,100,63.0,medgemma-4b-it-FT,Anesthesiology
+Anestesiología,2019,69,100,69.0,medgemma-4b-it-FT,Anesthesiology
+Anestesiología,2020,64,100,64.0,medgemma-4b-it-FT,Anesthesiology
+Anestesiología,2022,67,100,67.0,medgemma-4b-it-FT,Anesthesiology
+Anestesiología,2023,63,100,63.0,medgemma-4b-it-FT,Anesthesiology
+Anestesiología,2024,78,100,78.0,medgemma-4b-it-FT,Anesthesiology
+Anestesiología,2025,58,100,58.0,medgemma-4b-it-FT,Anesthesiology
+Cirugía General,2018,62,100,62.0,medgemma-4b-it-FT,General Surgery
+Cirugía General,2019,65,100,65.0,medgemma-4b-it-FT,General Surgery
+Cirugía General,2020,71,100,71.0,medgemma-4b-it-FT,General Surgery
+Cirugía General,2022,67,100,67.0,medgemma-4b-it-FT,General Surgery
+Cirugía General,2023,76,100,76.0,medgemma-4b-it-FT,General Surgery
+Cirugía General,2024,58,100,58.0,medgemma-4b-it-FT,General Surgery
+Cirugía General,2025,62,100,62.0,medgemma-4b-it-FT,General Surgery
+Cirugía de Tórax y Cardiovascular,2019,59,100,59.0,medgemma-4b-it-FT,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2022,77,100,77.0,medgemma-4b-it-FT,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2023,78,100,78.0,medgemma-4b-it-FT,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2024,75,100,75.0,medgemma-4b-it-FT,Thoracic and Cardiovascular Surgery
+Cirugía de Tórax y Cardiovascular,2025,102,200,51.0,medgemma-4b-it-FT,Thoracic and Cardiovascular Surgery
+Ginecología y Obstetricia,2018,64,100,64.0,medgemma-4b-it-FT,Gynecology and Obstetrics
+Ginecología y Obstetricia,2019,71,100,71.0,medgemma-4b-it-FT,Gynecology and Obstetrics
+Ginecología y Obstetricia,2020,61,100,61.0,medgemma-4b-it-FT,Gynecology and Obstetrics
+Ginecología y Obstetricia,2022,66,100,66.0,medgemma-4b-it-FT,Gynecology and Obstetrics
+Ginecología y Obstetricia,2023,61,100,61.0,medgemma-4b-it-FT,Gynecology and Obstetrics
+Ginecología y Obstetricia,2024,68,100,68.0,medgemma-4b-it-FT,Gynecology and Obstetrics
+Ginecología y Obstetricia,2025,51,100,51.0,medgemma-4b-it-FT,Gynecology and Obstetrics
+Neurocirugía,2022,58,100,58.0,medgemma-4b-it-FT,Neurosurgery
+Neurocirugía,2023,70,100,70.0,medgemma-4b-it-FT,Neurosurgery
+Neurocirugía,2024,75,100,75.0,medgemma-4b-it-FT,Neurosurgery
+Neurocirugía,2025,45,100,45.0,medgemma-4b-it-FT,Neurosurgery
+Oftalmología,2018,50,100,50.0,medgemma-4b-it-FT,Ophthalmology
+Oftalmología,2019,56,100,56.0,medgemma-4b-it-FT,Ophthalmology
+Oftalmología,2020,71,100,71.0,medgemma-4b-it-FT,Ophthalmology
+Oftalmología,2022,59,100,59.0,medgemma-4b-it-FT,Ophthalmology
+Oftalmología,2023,60,100,60.0,medgemma-4b-it-FT,Ophthalmology
+Oftalmología,2024,53,100,53.0,medgemma-4b-it-FT,Ophthalmology
+Oftalmología,2025,42,100,42.0,medgemma-4b-it-FT,Ophthalmology
+Pediatría,2018,73,100,73.0,medgemma-4b-it-FT,Pediatrics
+Pediatría,2019,79,100,79.0,medgemma-4b-it-FT,Pediatrics
+Pediatría,2020,73,100,73.0,medgemma-4b-it-FT,Pediatrics
+Pediatría,2022,86,100,86.0,medgemma-4b-it-FT,Pediatrics
+Pediatría,2023,77,100,77.0,medgemma-4b-it-FT,Pediatrics
+Pediatría,2024,83,100,83.0,medgemma-4b-it-FT,Pediatrics
+Pediatría,2025,50,100,50.0,medgemma-4b-it-FT,Pediatrics
+Prueba A,2018,73,100,73.0,medgemma-4b-it-FT,Test A
+Prueba A,2019,83,100,83.0,medgemma-4b-it-FT,Test A
+Prueba A,2020,62,90,68.89,medgemma-4b-it-FT,Test A
+Prueba A,2022,74,100,74.0,medgemma-4b-it-FT,Test A
+Prueba A,2023,86,100,86.0,medgemma-4b-it-FT,Test A
+Prueba A,2024,80,100,80.0,medgemma-4b-it-FT,Test A
+Prueba A,2025,64,100,64.0,medgemma-4b-it-FT,Test A
+Prueba B,2018,71,100,71.0,medgemma-4b-it-FT,Test B
+Prueba B,2019,74,100,74.0,medgemma-4b-it-FT,Test B
+Prueba B,2020,70,90,77.78,medgemma-4b-it-FT,Test B
+Prueba B,2022,73,100,73.0,medgemma-4b-it-FT,Test B
+Prueba B,2023,65,100,65.0,medgemma-4b-it-FT,Test B
+Prueba B,2024,70,100,70.0,medgemma-4b-it-FT,Test B
+Prueba B,2025,55,100,55.0,medgemma-4b-it-FT,Test B
+Psiquiatría,2018,74,100,74.0,medgemma-4b-it-FT,Psychiatry
+Psiquiatría,2019,88,100,88.0,medgemma-4b-it-FT,Psychiatry
+Psiquiatría,2020,87,100,87.0,medgemma-4b-it-FT,Psychiatry
+Psiquiatría,2022,80,100,80.0,medgemma-4b-it-FT,Psychiatry
+Psiquiatría,2023,86,100,86.0,medgemma-4b-it-FT,Psychiatry
+Psiquiatría,2024,86,100,86.0,medgemma-4b-it-FT,Psychiatry
+Psiquiatría,2025,78,100,78.0,medgemma-4b-it-FT,Psychiatry
+Radiología,2018,71,100,71.0,medgemma-4b-it-FT,Radiology
+Radiología,2019,72,100,72.0,medgemma-4b-it-FT,Radiology
+Radiología,2022,68,100,68.0,medgemma-4b-it-FT,Radiology
+Radiología,2023,72,100,72.0,medgemma-4b-it-FT,Radiology
+Radiología,2024,74,100,74.0,medgemma-4b-it-FT,Radiology
+Radiología,2025,49,100,49.0,medgemma-4b-it-FT,Radiology
+Urología,2018,71,100,71.0,medgemma-4b-it-FT,Urology
+Urología,2020,67,100,67.0,medgemma-4b-it-FT,Urology
+Urología,2022,68,100,68.0,medgemma-4b-it-FT,Urology
+Urología,2023,76,100,76.0,medgemma-4b-it-FT,Urology
+Urología,2024,68,100,68.0,medgemma-4b-it-FT,Urology
+Urología,2025,44,100,44.0,medgemma-4b-it-FT,Urology
