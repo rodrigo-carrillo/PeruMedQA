@@ -22,7 +22,7 @@ Percent (%) of correct answers by test (specialty or subspeciality), LLM and yea
 
 In this expanded work, we conducted one stress evaluation (https://arxiv.org/pdf/2509.18234v1). We randomized the order of the multiple-choice answers and repeated the evaluation with the LLMs. If the LLMs possessed genuine knowledge of the correct answers, they would have selected it irrespective of its position (i.e., whether the correct answer was option A or C).
 
-MedGemma 27B, OctoMed 7B, and Meditron 7B were the only cases where there was no statistically significant difference between the original LLMs’ answers and those from the stress evaluation. In other words, whether the multiple-choice answers were presented in the original order or randomly shuffled, these three LLMs performed similarly in all cases. For all other LLMs, there was at least one case where there was a statistically significant difference (p < 0.005 for paired T-test or Wilcoxon Test).
+MedGemma 27B, OctoMed 7B, and Meditron 7B were the only cases where there was no statistically significant difference between the original LLMs’ answers and those from the stress evaluation. In other words, whether the multiple-choice answers were presented in the original order or randomly shuffled, these three LLMs performed similarly in all cases. For all other LLMs, there was at least one case where there was a statistically significant difference (p < 0.05 for paired T-test or Wilcoxon Test).
 
 Note: Text in red highlights the statistically significant p-values and the cases where there was the most substantial disparity between the original results and the results obtained from the stress tests (regardless of whether the disparity was statistically significant or not). 
 
