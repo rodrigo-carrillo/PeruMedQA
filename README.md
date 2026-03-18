@@ -34,7 +34,10 @@ Note: Text in red highlights the statistically significant p-values and the case
 --------------------------------------------------
 
 
-### PrePrint
+### PrePrint & Publication
 
 Carrillo-Larco RM, Melgarejo JL, Castillo-Cara M, Bravo-Rocca G. PeruMedQA: Benchmarking Large Language Models (LLMs) on Peruvian Medical Exams--Dataset Construction and Evaluation. arXiv preprint arXiv:2509.11517. 2025 Sep 15.
 https://arxiv.org/abs/2509.11517
+
+Carrillo-Larco RM, Lovón-Melgarejo J, Castillo-Cara M, Bravo-Rocca G. PeruMedQA: Benchmarking Large Language Models (LLMs) on Peruvian Medical Exams—Dataset Construction and Evaluation. Med.Sci.Educ 2026.
+https://link.springer.com/article/10.1007/s40670-026-02692-w
