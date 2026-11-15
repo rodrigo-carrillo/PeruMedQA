@@ -48,41 +48,52 @@ The CSV files are UTF-8 with BOM, and every cell is quoted. We recommend the par
   - `warnings`. These are not errors, and all questions were kept in the dataset. There are three kinds:
     1. A question repeated within the same exam, with different options: 2020 PEDIATRIA P40/P87 and 2023 ANATOMIA PATOLOGICA P73/P85.
     2. Two exams with identical content in the same year: CIRUGIA CARDIOVASCULAR and CIRUGIA DE TORAX Y CARDIOVASCULAR, in both 2025 and 2026. CONAREME published them as two separate PDFs.
-    3. Questions shared across different exams, in `groups` (see below).
+    3. The same question appearing in two different exams (duplicate pairs), in `groups` (see below).
 - `files_tracking`: for each of the 100 exams, the source file, its number of questions and options, and whether its CSV and JSON match.
 
-### Questions shared across exams
+### Duplicate questions across exams
 
-`report.warnings[*].groups` lists 572 groups of `question_id`. The questions in each group have the same question text (the stem) and come from different exams. Together, the groups cover 1,148 questions: 568 groups have 2 questions and 4 groups have 3.
+CONAREME often uses the same question in more than one exam. For example, a question can appear in the specialty exam (PRUEBA A / B, ESPECIALIDAD A / B) and again in a subspecialty exam of the same year.
 
-The questions in a group are not always fully identical:
+`report.warnings[*].groups` lists these cases. Each entry is a **duplicate pair**: the `question_id` of the same question in two different exams. In 4 cases, the question appears in three exams, so the entry has three `question_id`.
 
-| Options | Groups |
+- Example from 2018: `["2018_PEDIATRIA_034", "2018_PRUEBA_A_047"]`. Question 47 of the specialty exam PRUEBA A is the same as question 34 of the PEDIATRIA exam.
+- In total, there are 572 duplicate pairs, covering 1,148 questions (11.5% of the dataset).
+- "Same question" means the same question text (stem). In most pairs the options and the correct answer are also the same:
+
+| Options in the two copies | Duplicate pairs |
 |---|---|
 | Same options, same order | 224 |
-| Same options, different order (so the letter of the correct answer can change) | 312 |
+| Same options, different order (the letter of the correct answer can change) | 312 |
 | Different options | 36 |
 
-In 559 of the 572 groups, the text of the correct answer is the same.
+The text of the correct answer is the same in 559 of the 572 pairs.
 
-The sharing comes from how CONAREME builds its exams. The specialty exams (PRUEBA A / B, ESPECIALIDAD A / B) and the subspecialty exams of the same year reuse questions from each other, and in 2025 and 2026 two subspecialty exams are identical. As a result, 566 of the 572 groups are within a single year:
+#### Duplicate pairs by year
 
-| Year | Groups | Questions involved | % of the year's questions | Of which: identical cardiovascular pair | Of which: specialty + subspecialty exam |
-|---|---|---|---|---|---|
-| 2018 | 33 | 66 | 6.0% | – | 33 |
-| 2019 | 5 | 10 | 0.8% | – | 5 |
-| 2020 | 0 | 0 | 0% | – | – |
-| 2022 | 115 | 232 | 19.3% | – | 42 |
-| 2023 | 95 | 192 | 14.8% | – | 33 |
-| 2024 | 58 | 116 | 8.9% | – | 40 |
-| 2025 | 133 | 266 | 19.0% | 100 | 28 |
-| 2026 | 127 | 254 | 16.9% | 100 | 19 |
+In 566 of the 572 pairs, both copies are from the same year. Each column below counts pairs according to the two exams that share the question:
 
-The remaining groups pair two subspecialty exams of the same year.
+| Year | Questions in the year | Duplicate pairs | Questions involved (% of the year) | Specialty exam + subspecialty exam | Two subspecialty exams | Identical cardiovascular exams¹ |
+|---|---|---|---|---|---|---|
+| 2018 | 1,100 | 33 | 66 (6.0%) | 33 | 0 | 0 |
+| 2019 | 1,200 | 5 | 10 (0.8%) | 5 | 0 | 0 |
+| 2020 | 980 | 0 | 0 (0%) | 0 | 0 | 0 |
+| 2022 | 1,200 | 115² | 232 (19.3%) | 42 | 73 | 0 |
+| 2023 | 1,300 | 95² | 192 (14.8%) | 33 | 62 | 0 |
+| 2024 | 1,300 | 58 | 116 (8.9%) | 40 | 18 | 0 |
+| 2025 | 1,400 | 133 | 266 (19.0%) | 28 | 5 | 100 |
+| 2026 | 1,500 | 127 | 254 (16.9%) | 19 | 8 | 100 |
 
-Only 6 groups (12 questions) cross years. In each of them, a question from an earlier exam was reused in a later year:
+How to read a row, using 2018: 33 questions appeared twice, once in a specialty exam and once in a subspecialty exam. These 33 pairs are 66 of the 1,100 questions of 2018 (6.0%). There was no identical cardiovascular exam that year.
 
-| Group |
+¹ In 2025 and 2026, CIRUGIA CARDIOVASCULAR and CIRUGIA DE TORAX Y CARDIOVASCULAR are two separate PDFs with the same 100 questions, so each year has 100 pairs from these two exams.
+² Includes 2 cases in which the question appears in three exams.
+
+#### Duplicate pairs across years
+
+Only 6 pairs (12 questions) have copies in different years. In each of them, a question from an earlier exam was reused in a later year:
+
+| Duplicate pair |
 |---|
 | `2018_OFTALMOLOGIA_096` + `2025_OFTALMOLOGIA_046` |
 | `2018_OFTALMOLOGIA_083` + `2024_OFTALMOLOGIA_073` |
@@ -93,11 +104,15 @@ Only 6 groups (12 questions) cross years. In each of them, a question from an ea
 
 ### Should a year be dropped?
 
-No. The sharing appears in every year except 2020, and it reflects how the real exams are built. For each use:
+No. Duplicate pairs appear in every year except 2020, and they reflect how the real exams are built. For each use:
 
-- **Benchmarking (evaluation only).** Keep everything. Results by exam are correct as they are, because each exam is scored on its own questions. When pooling all exams into one overall score, consider counting each group only once. At least, drop one exam of each identical cardiovascular pair (2025 and 2026), so that those 200 questions are not counted twice.
-- **Train/test split.** Split by year, not by question and not by exam. A split by exam within a year would leak up to 19% of the year's questions. Splitting by year keeps 566 of the 572 groups on one side. For the other 6 groups, remove the copies in the training years.
-- **Training only.** Remove duplicates with `groups`, for example by keeping the first `question_id` of each group.
+- **Benchmarking (evaluation only).**
+  - Keep everything. Results by exam are correct as they are, because each exam is scored on its own questions.
+  - When pooling all exams into one overall score, consider counting each duplicate pair only once. At least, drop one of the two identical cardiovascular exams in 2025 and 2026, so that those 200 questions are not counted twice.
+- **Train/test split.**
+  - Split by year, not by question and not by exam. A split by exam within the same year would put up to 19% of the year's questions in both train and test.
+  - Splitting by year keeps 566 of the 572 duplicate pairs on one side. For the other 6 pairs, remove the copy in the training years.
+- **Training only.** Remove one copy of each duplicate pair, for example by keeping only the first `question_id` of each entry in `groups`.
 
 ### Changes from version 1
 
