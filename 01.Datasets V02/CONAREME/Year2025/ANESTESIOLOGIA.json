@@ -1,0 +1,1349 @@
+{
+  "metadata": {
+    "year": 2025,
+    "exam": "ANESTESIOLOGIA",
+    "source_pdf": "ANESTESIOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Anestesiología",
+    "sha256_pdf": "f198067688a27b3a00ee745155bc7f6550edb8bd93acf1a1f12a3b59d80207ba",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:31:01",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Anestesiología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9952,
+        "vec_max_loser": 0.0569,
+        "pix_min_winner": 0.5872,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 22643,
+      "coverage_out_chars": 22643,
+      "human_reference": "_backup_csv_verificados/Year2025/ANESTESIOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 73,
+        "identico": 427
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál es el bloqueante neuromuscular no despolarizante compuesto de bencilisoquinolona con una duración clínica de acción corta?",
+      "options": {
+        "A": "Mivacurio",
+        "B": "Succinilcolina",
+        "C": "Atracurio",
+        "D": "Vecuronio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Durante la visita anestésica es importante que los pacientes sean estratificados por sus riesgos de tromboembolia venosa perioperatoria, ya que es un riesgo potencial en los pacientes hospitalizados, incluidos los pacientes quirúrgicos. ¿Cuál es el índice de valoración clínica para riesgo de TEV?",
+      "options": {
+        "A": "Child-Turcotte- Pugh",
+        "B": "Caprini",
+        "C": "CHA2DS2-VASc",
+        "D": "ASA"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Qué anestésico endovenoso actúa como agonista α2 no selectivo sobre los receptores adrenérgicos α2, su biotransformación se efectúa mediante una glucoronización directa y reacciones metabólicas efectuadas por el citocromo P 450 y tiene efecto simpaticolítico, ansiolítico, sedante, hipnótico y analgésico?",
+      "options": {
+        "A": "Dexmedetomidina",
+        "B": "Droperidol",
+        "C": "Ketamina",
+        "D": "Etomidato"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Mujer de 53 años, presenta de forma súbita taquiarritmia con pulso mayor a 150X', complejo QRS estrecho irregular, acompañada de hipotensión, alteración aguda del estado mental, signos de shock, insuficiencia cardiaca aguda. ¿Cuál es la indicación inmediata?",
+      "options": {
+        "A": "Adenosina",
+        "B": "Amiodarona",
+        "C": "Adrenalina",
+        "D": "Cardioversión sincrónica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Primigesta de 38 semanas, se realiza cesárea segmentaria con anestesia epidural, presentando en el post operatorio dolor de espalda y bloqueo motor persistente. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hematoma epidural",
+        "B": "Lumbalgia",
+        "C": "Hernia discal L3- L4",
+        "D": "Lesión de ligamento supraespinoso"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Varón de 26 años, con traumatismo craneoencefálico y presenta paro cardiaco intraoperatorio. Se desea evaluar la actividad cerebral. EEG: enlentecimiento del trazado, que desaparecen las ondas rápidas y predominan las frecuencias lentas. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hipotensión arterial",
+        "B": "Hipoxemia",
+        "C": "Isquemia",
+        "D": "Hipoxia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Varón de 33 años, PO colecistectomía laparoscópica, mueve las cuatro extremidades a la orden, respira profundamente y tose libremente, PA ± 20% del nivel preanestésico, se despierta al llamado, mantiene una SatO2 de 96%. ¿Cuál es la puntuación de Aldrete?",
+      "options": {
+        "A": "10",
+        "B": "8",
+        "C": "9",
+        "D": "7"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es la técnica de monitorización neurológica invasiva del flujo sanguíneo del sistema nervioso?",
+      "options": {
+        "A": "Oximetría cerebral",
+        "B": "Saturación venosa de oxígeno en el bulbo yugular",
+        "C": "Monitorización de la presión parcial de oxígeno tisular",
+        "D": "Ecografía doppler transcraneal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "Varón de 62 años operado de prostatectomía radical con anestesia general remifentanilo y propofol, que presenta temblores en el post operatorio inmediato, debido a:",
+      "options": {
+        "A": "Recuperación tardía de la medula espinal",
+        "B": "Se presenta disminución del consumo de oxígeno",
+        "C": "Hipoanalgesia que estimulan los receptores NMDA",
+        "D": "Se asocia disminución del gasto cardiaco y bradicardia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "La retención urinaria post operatoria puede causar sobredistensión de la vejiga y daño permanente del detrusor, debido a:",
+      "options": {
+        "A": "Hidratación intraoperatoria menor de 750 ml",
+        "B": "Administración de fentanilo intraoperatorio",
+        "C": "Administración intraoperatoria de anticolinérgicos",
+        "D": "Antecedente de incontinencia urinaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Mujer de 42 años, operada de histerectomía abdominal, en tratamiento con inhibidores de la monoaminooxidasa. ¿Qué analgésico está contraindicado?",
+      "options": {
+        "A": "Fentanilo",
+        "B": "Paracetamol",
+        "C": "Tramadol",
+        "D": "Morfina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Los pacientes con obesidad mórbida y supermórbida pueden presentar complicaciones postoperatorias como hipertensión pulmonar, miocardiopatía, hipertensión sistémica e infarto de miocardio. El mayor el riesgo se encuentra asociado a:",
+      "options": {
+        "A": "Diabetes mellitus",
+        "B": "Hipertensión arterial",
+        "C": "Apnea obstructiva del sueño",
+        "D": "Gota"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Varón de 38 años, programado para colecistectomía laparoscópica electiva, antecedente de fumador desde hace 15 años, una cajetilla/día. En la evaluación pre anestésica se le refiere dejar de fumar 30 días antes de la operación. ¿Cuál es el beneficio que se logra con dejar de fumar?",
+      "options": {
+        "A": "Nivel de cianuro se mantiene, sin alterar el uso de O2",
+        "B": "Beneficio recién se materializa en tres años",
+        "C": "Nivel de nicotina no se altera a nivel sérico",
+        "D": "Nivel de CO disminuye, mejorando la administración O2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Sobre el soporte vital cardiovascular avanzado y manejo de la parada cardiaca. ¿Cuáles son los ritmos desfibrilables?",
+      "options": {
+        "A": "Taquicardia ventricular sin pulso o fibrilación ventricular",
+        "B": "Asistolia y actividad eléctrica sin pulso",
+        "C": "Taquicardia ventricular y actividad eléctrica sin pulso",
+        "D": "Fibrilación ventricular y actividad eléctrica sin pulso"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "La laudanosina es un metabolito del ..... , que tiene propiedades estimulantes sobre el sistema nervioso central.",
+      "options": {
+        "A": "rocuronio.",
+        "B": "pancuronio",
+        "C": "mivacurio",
+        "D": "atracurio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "En la anestesia neuroaxial, la depresión respiratoria tardía se asocia sobre todo a opioides hidrófilos, pues la distribución cefálica del opioide sucede a las 12 horas siguientes a la administración de ...",
+      "options": {
+        "A": "fentanilo.",
+        "B": "sufentanilo.",
+        "C": "morfina.",
+        "D": "ketamina."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "¿Qué fármaco se utiliza en el tratamiento de la taquicardia supraventricular?",
+      "options": {
+        "A": "Lidocaína",
+        "B": "Magnesio",
+        "C": "Adenosina",
+        "D": "Sotalol"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuál es el fármaco antiarrítmico antagonista de los receptores β-adrenérgicos empleado en el tratamiento de las taquicardias supraventriculares y ventriculares de repetición?",
+      "options": {
+        "A": "Fenitoína",
+        "B": "Lidocaína",
+        "C": "Amiodarona",
+        "D": "Mexiletina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Con el pinzamiento aórtico en cirugía vascular, fisiológicamente se produce el aumento ...",
+      "options": {
+        "A": "del gasto cardiaco.",
+        "B": "de la presión venosa central.",
+        "C": "de la fracción de eyección.",
+        "D": "del flujo sanguíneo renal."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Se produce bradicardia después de una segunda dosis de succinilcolina. ¿Qué fármaco revierte esta complicación?",
+      "options": {
+        "A": "Atropina",
+        "B": "Midazolan",
+        "C": "Fentanilo",
+        "D": "Neostigmine"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Varón de 72 años, programado para colecistectomía laparoscópica. Presenta en la monitorización electrocardiográfica elevación del segmento ..... , siendo compatible con isquemia transmural.",
+      "options": {
+        "A": "QR",
+        "B": "ST",
+        "C": "PQ",
+        "D": "RS"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Varón de 62 años, postoperado de laparotomía exploratoria por obstrucción intestinal. Examen: PA: 89/59 mmHg, FC: 96X´, SatO2: 98%, volumen urinario disminuido. ¿Cuál es la causa más común de oliguria en el postoperatorio?",
+      "options": {
+        "A": "Necrosis tubular aguda",
+        "B": "Hemólisis",
+        "C": "Reducción del volumen intravascular",
+        "D": "Bajo gasto cardiaco"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Sobre las características farmacocinéticas de las benzodiazepinas, el fármaco con mayor semivida de eliminación es:",
+      "options": {
+        "A": "Lorazepam",
+        "B": "Remimazolam",
+        "C": "Midazolam",
+        "D": "Diazepam"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Mujer de 40 años operada de histerectomía abdominal con anestesia general inhalatoria, actualmente en tratamiento de infección urinaria con aminoglucosidos. ¿Cuál es la complicación que se puede presentar en el post operatorio inmediato?",
+      "options": {
+        "A": "Laringoespasmo moderado",
+        "B": "Cefalea frontal",
+        "C": "Bloqueo neuromuscular residual",
+        "D": "Nausea refractarias"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Varón 35 años, con adicción a opioides, se le programa para artroscopía de rodilla. ¿Qué técnica anestésica es la más adecuada?",
+      "options": {
+        "A": "Anestesia general balanceada",
+        "B": "TIVA",
+        "C": "Sedoanalgesia",
+        "D": "Anestesia regional"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "La monitorización de la frecuencia respiratoria como el apnea y bradipnea son acontecimientos que se presentan en el intra y post operatorio, son monitorizados mediante la ...",
+      "options": {
+        "A": "capnografía.",
+        "B": "pulsioximetría.",
+        "C": "electromiografía.",
+        "D": "gasometría."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "En relación al crecimiento de la columna vertebral ¿A qué edad el paciente pediátrico alcanza el nivel del adulto (L1 para el cono medular y S2 el saco dural)?",
+      "options": {
+        "A": "A los 6 meses.",
+        "B": "Al final del segundo año",
+        "C": "Al final del primer año de vida",
+        "D": "Al final de los cuatro años de vida"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Varón de 56 años, HTA y DM mal controlada, dislipidemia, ingresa por colecistitis aguda complicada. Valoración preanestésica: se auscultan soplo en segundo espacio paraesternal derecho, mesosistólico, creciente - decreciente, irradiado hacia las carótidas, con ruidos S3, que reduce de intensidad a la maniobra de valsalva. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Estenosis mitral",
+        "B": "Estenosis aórtica",
+        "C": "Insuficiencia mitral",
+        "D": "Prolapso de la válvula mitral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "En la evaluación preanestésica inicial para cirugía torácica, las consideraciones anestésicas en pacientes con cáncer debe incluir el efecto de masa, los efectos metabólicos, la medicación que toma el paciente y ...",
+      "options": {
+        "A": "el análisis de gases arterial.",
+        "B": "la espirometría.",
+        "C": "la prueba de esfuerzo.",
+        "D": "la metástasis."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "En la parada cardíaca pediátrica la dosis endovenosa de adrenalina es de ..... y si el acceso venoso no está disponible se puede administrar la dosis por TET de ...",
+      "options": {
+        "A": "0,01mg/Kg - 0,1mg/Kg.",
+        "B": "0,1mg/Kg - 0.5mg/Kg.",
+        "C": "0.1mg/Kg - 0.6mg/Kg.",
+        "D": "0.01mg/Kg - 0.5mg/Kg."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Cuál es el fármaco usado para reversión del bloqueo neuromuscular que liga selectivamente los relajantes mediante un mecanismo de encapsulación que inactiva el bloqueante neuromuscular?",
+      "options": {
+        "A": "Sugammadex",
+        "B": "Neostigmina",
+        "C": "Piridostigmina",
+        "D": "Edrofonio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "El objetivo en los ajustes de dosis durante la anestesia es conseguir y mantener una concentración terapéutica estable del fármaco en el sitio denominado ..... donde ejerce sus efectos.",
+      "options": {
+        "A": "compartimento central",
+        "B": "biofase",
+        "C": "histeresis",
+        "D": "compartimiento periférico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "En el aparato cardiovascular. ¿Cuál es el cambio fisiológico durante el embarazo?",
+      "options": {
+        "A": "Disminución del volumen eritrocitario",
+        "B": "Disminución del gasto cardiaco",
+        "C": "Aumento de la resistencia vascular sistémica",
+        "D": "Aumento del volumen plasmático"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Se acude a emergencia para evaluación preanestésica de mujer de 60 años, con hemorragia subaracnoidea. A la evaluación paciente presenta cefalea moderada. Examen: rigidez de nuca, ausencia de déficit, salvo parálisis de pares craneales. ¿A qué grado corresponde de acuerdo a la clasificación de Hunt-Hess?",
+      "options": {
+        "A": "II",
+        "B": "III",
+        "C": "IV",
+        "D": "V"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "La bradicardia es una complicación que en el post operatorio inmediato se presenta debido a :",
+      "options": {
+        "A": "Reversión con anticolinesterásicos",
+        "B": "Administración de ketamina",
+        "C": "Reversión con suggamadex",
+        "D": "Atropina endovenosa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Mujer de 45 años, operada de mastectomía bilateral, con anestesia general balanceada y se está monitorizando la profundidad anestésica mediante el uso el BIS (índice biespectral), indicando el equipo un valor de 50. El paciente se encuentra ...",
+      "options": {
+        "A": "con sedación moderada.",
+        "B": "adecuadamente anestesiada.",
+        "C": "en coma.",
+        "D": "semi despierto."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Varón de 4 años, con diagnóstico de abdomen agudo quirúrgico, se le realiza laparotomía exploratoria. Sobre el tratamiento del dolor agudo. ¿Qué analgésico es el menos recomendable?",
+      "options": {
+        "A": "Morfina",
+        "B": "Fentanilo",
+        "C": "Meperidina",
+        "D": "Ketamina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál es el bloqueante neuromuscular de inicio de acción rápida y una duración ultracorta que estimula los receptores colinérgicos en la unión neuromuscular y los sitios autónomos muscarínicos?",
+      "options": {
+        "A": "Atracurio",
+        "B": "Succinilcolina",
+        "C": "Vecuronio",
+        "D": "Rocuronio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿Cuál es la clasificación de Mallampati en donde se visualiza paladar duro, paladar blando, pilares palatinos y la úvula completa?",
+      "options": {
+        "A": "II",
+        "B": "III",
+        "C": "I",
+        "D": "IV"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿Cuál es el fármaco que conserva el tono muscular y los reflejos protectores de la vía aérea?",
+      "options": {
+        "A": "Fentanilo",
+        "B": "Morfina",
+        "C": "Ketamina",
+        "D": "Codeína"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Varón de 82 años, con cáncer de próstata y metástasis a cadera derecha, con sonda vesical permeable. Se desea programar para RTU. Pronóstico reservado. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Solicitar exámenes pre quirúrgicos y programar",
+        "B": "Alternativas a la cirugía",
+        "C": "Interconsulta a UCI para postoperatorio",
+        "D": "Solicitar evaluación para cuidados paliativos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "La monitorización no invasiva que se utiliza para vigilar la saturación fraccionada de oxígeno arterial, corresponde a:",
+      "options": {
+        "A": "Capnografía",
+        "B": "Pulsioximetría",
+        "C": "End tidal CO2",
+        "D": "AGA"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "La hipertensión pulmonar debida a enfermedad del corazón izquierdo se debe a ...",
+      "options": {
+        "A": "hipoxemia.",
+        "B": "enfermedad vascular pulmonar.",
+        "C": "disfunción diastólica.",
+        "D": "apnea del sueño."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "¿Cuál es el agonista-α2 específico, que prolonga el bloqueo motor y sensitivo de los anestésicos locales de acción prolongada aproximadamente en 4 h?",
+      "options": {
+        "A": "Dexametasona",
+        "B": "Lidocaína",
+        "C": "Fentanilo",
+        "D": "Dexmedetomidina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "..... en el espacio epidural se asocia a la reactivación post parto del herpes simple labial.",
+      "options": {
+        "A": "El fentanilo",
+        "B": "El sufentanilo",
+        "C": "La morfina",
+        "D": "El tramadol"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Paciente en soporte cardiovascular avanzado por parada cardiaca, le corresponde la segunda dosis de amiodarona endovenosa de ..... mg.",
+      "options": {
+        "A": "300",
+        "B": "150",
+        "C": "100",
+        "D": "250"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "La médula espinal tiene una terminación distal variable, desde ..... en los niños hasta el borde inferior de ..... en los adultos debido a las diferentes tasas de crecimiento entre el canal vertebral óseo y el sistema nervioso central.",
+      "options": {
+        "A": "L5 / L1",
+        "B": "L3 / L2",
+        "C": "L4 / L1",
+        "D": "L3 / L1"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "El modelo farmacocinético - farmacodinámico utilizados en sistemas de perfusión de hipnóticos controlados por objetivos para la administración de ketamina corresponde a:",
+      "options": {
+        "A": "Domino",
+        "B": "Paedfusor",
+        "C": "Kataria",
+        "D": "Minto"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "En el tratamiento del dolor agudo post operatorio. ¿Cuál opiode está contraindicado en el espacio subaracnoideo?",
+      "options": {
+        "A": "Morfina de liberación sostenida",
+        "B": "Citrato de fentanilo",
+        "C": "Sufentanilo",
+        "D": "Clorhidrato de petidina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "El dolor agudo post operatorio no controlado puede contribuir a la morbimortalidad de los pacientes por:",
+      "options": {
+        "A": "Aumento de oxígeno por vasodiatacion coronaria",
+        "B": "Aumenta la actividad gastrointestinal",
+        "C": "Aumento del consumo de oxígeno miocárdico",
+        "D": "Se activa el sistema nervioso parasimpático"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "El laringoespasmo sostenido ocasiona edema agudo pulmonar debido ...",
+      "options": {
+        "A": "a la disminución del gradiente de presión hidrostática.",
+        "B": "al aumento del flujo sanguíneo hacia lado derecho del corazón.",
+        "C": "a la disminución de la postcarga del ventrículo izquierdo.",
+        "D": "al aumento de la fracción de eyección."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "Varón de 35 años post operado de laparotomía exploratoria por abdomen agudo, para el tratamiento del dolor agudo post operatorio se recomienda:",
+      "options": {
+        "A": "Bloqueo plexo nervioso",
+        "B": "Analgesia epidural",
+        "C": "Parche de opioides",
+        "D": "Analgesia multimodal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "Varón de 63 años, presenta bradiarritmia con pulso persistente que causa hipotensión, alteración aguda del estado mental, signos de shock, insuficiencia cardiaca aguda. El tratamiento con atropina no fue efectivo. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Adenosina",
+        "B": "Amiodarona",
+        "C": "Cardioversión sincrónica",
+        "D": "Adrenalina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Paciente que en su tratamiento de dolor postoperatorio presenta tolerancia a la morfina, para mantener un nivel determinado de analgesia y de acuerdo a las dosis equianalgesicas de la morfina ¿Qué analgésico NO debería administrarse?",
+      "options": {
+        "A": "Tramadol",
+        "B": "Fentanilo",
+        "C": "Metadona",
+        "D": "Oxicodona"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "La duración ultracorta de la acción de la ..... se debe a la rápida hidrolisis por butirilcolinesterasa.",
+      "options": {
+        "A": "atracurio",
+        "B": "vecuronio",
+        "C": "succinilcolina",
+        "D": "pancuronioi"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Mujer de 37 años, PA: 100/60 mmHg, FC: 70X´, SatO2 97%, peso 63 Kg, estatura 1.60 m, la administración de líquidos de mantenimiento durante 2 horas de cirugía según la fórmula de estimación de necesidades de mantenimiento de agua tomados de Holliday y Segar corresponde a ..... ml.",
+      "options": {
+        "A": "90",
+        "B": "206",
+        "C": "186",
+        "D": "93"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "En cirugía laparoscópica se utiliza neumoperitoneo por insuflación de CO2 requiriendo monitorización con ...... para evitar hipercapnía en el paciente.",
+      "options": {
+        "A": "pulsioximetría",
+        "B": "pletismografía",
+        "C": "capnografía",
+        "D": "curva flujo tiempo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Qué tipo de fibra contiene mielina y la mayor velocidad de conducción nerviosa, con funciones motora, táctil y propioceptivas?",
+      "options": {
+        "A": "B",
+        "B": "C",
+        "C": "D",
+        "D": "A"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Qué categoría corresponde según la clasificación del estado físico de la Sociedad Americana de Anestesiología un paciente con enfermedad sistémica grave que supone una amenaza continua para su vida?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "4"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál de los bloqueantes neuromusculares se metaboliza por la eliminación de Hofmann?",
+      "options": {
+        "A": "Atracurio",
+        "B": "Succinilcolina",
+        "C": "Vecuronio",
+        "D": "Rocuronio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Durante la valoración preanestésica en un paciente varón de 53 años, programado para hernioplastía laparoscópica. En tratamiento con β-bloqueantes y digoxina. ¿Cuál es la indicación preoperatoria?",
+      "options": {
+        "A": "Interrumpa la administración el día de la cirugía",
+        "B": "Solo interrumpir β-bloqueantes el día de la cirugía",
+        "C": "Continúe con su administración el día de la cirugía",
+        "D": "Solo suspender β-bloqueantes 12 h previas a la cirugía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Qué fármaco inhibe el influjo glutaminérgico mediado por NMDA hacia el sistema gabaérgico, inhibe los receptores muscarínicos y no suele ejercer efectos depresores en los sistemas cardiovascular ni respiratorio?",
+      "options": {
+        "A": "Ketamina",
+        "B": "Propofol",
+        "C": "Etomidato",
+        "D": "Dexmedetomidina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Niña de 4 años, es operada de adenoidectomía con anestesia general presentando en el postoperatorio inmediato un estado de confusión transitorio reversible. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Delirium postoperatorio",
+        "B": "Agitación al despertar",
+        "C": "Efecto colateral de anestésicos endovenosos",
+        "D": "Neurotoxicidad"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "¿Cómo se denomina al tiempo que tarda entre la concentración plasmática máxima y la concentración máxima en el lugar de acción?",
+      "options": {
+        "A": "Biofase",
+        "B": "Tiempo de vida media",
+        "C": "Histeresis",
+        "D": "Sitio efecto"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Entre los predictores de un resultado perioperatorio deficiente en los pacientes con enfermedades hepáticas se incluyen los siguientes parámetros de la clasificación de Child-Turcotte- Pugh.",
+      "options": {
+        "A": "Ascitis, urea, creatinina, albúmina, encefalopatía",
+        "B": "Ascitis, hemoglobina, albúmina, creatinina, encefalopatía",
+        "C": "Ascitis, hemoglobina, albúmina, tiempo de protrombina, bilirrubina",
+        "D": "Ascitis, bilirrubina, albúmina, tiempo de protrombina, encefalopatía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "En el uso de diversas técnicas para lograr una analgesia postoperatoria se describe la existencia de casos de condrolisis glenohumeral. Que se encuentra asociado a:",
+      "options": {
+        "A": "Analgesia intraarticular",
+        "B": "Bloqueo troncal",
+        "C": "Opioides intraarticular",
+        "D": "Bloqueo de Bier"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "En el tratamiento del dolor agudo postoperatorio de un paciente con tolerancia a los opioides, existe un principio que NO es apropiado realizar:",
+      "options": {
+        "A": "Ocuparse de las expectativas del paciente y su familia",
+        "B": "Puntuaciones elevadas del dolor referido por el paciente",
+        "C": "Desintoxicación en el periodo perioperatorio",
+        "D": "Mantenimiento de la necesidad basal de opioides"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Mujer de 65 años con fibrilación auricular, antecedente de HTA y DM bien controladas; según la puntuación CHA2DS2- VASc, el riesgo de embolia sistémica a largo plazo corresponde a:",
+      "options": {
+        "A": "Bajo riesgo",
+        "B": "Riesgo intermedio",
+        "C": "Alto riesgo",
+        "D": "No tiene riesgo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Qué fármaco es un compuesto de vida corta, tiene un metabolismo completo (99%) en el hígado, se indica para reversión del efecto de las benzodiazepinas, tiene un volumen de distribución alto y la distribución extravascular es elevada?",
+      "options": {
+        "A": "Midazolam",
+        "B": "Dexmedetomidina",
+        "C": "Flumazenilo",
+        "D": "Metadona"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "La .............. y ................son causas reversibles de parada cardiaca.",
+      "options": {
+        "A": "hiponatremia / el neumotórax a tensión",
+        "B": "hipernatremia / la trombosis pulmonar",
+        "C": "hipotermia / el taponamiento cardiaco",
+        "D": "hiponatremia / la trombosis coronaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Varón de 62 años, fumador. Antecedente: DM, HTA, e infartó cardiaco hace 3 años. Ingresa con diagnóstico de insuficiencia cardiaca y apendicitis aguda, paciente refiere ligera limitación de la actividad física que produce fatiga y palpitaciones. Según la clasificación de la New Heart Association (NYHA). ¿A qué clase funcional corresponde?",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "II",
+        "D": "IV"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Una alternativa en el tratamiento del dolor agudo postoperatorio son los TENS (neuroestimulación eléctrica transcutánea) y su benéfico es debido a:",
+      "options": {
+        "A": "Liberación de cortisol",
+        "B": "Bloqueo dopaminérgico",
+        "C": "Liberación de endorfinas endógenas",
+        "D": "Está relacionado a factores psicológicos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "¿Cuál es el analgésico opioide que tiene una potencia de una quinta a una décima parte de la morfina?",
+      "options": {
+        "A": "Codeina",
+        "B": "Buprenorfina",
+        "C": "Tramadol",
+        "D": "Ketamina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál es el fármaco bloqueante de los canales del sodio que se mantiene como tratamiento de elección en la neuralgia del trigémino?",
+      "options": {
+        "A": "Mexiletina",
+        "B": "Gabapentina",
+        "C": "Pregabalina",
+        "D": "Carbamacepina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Mujer de 52 años, portadora de distopía genital, programada para cura quirúrgica. Antecedente: DM2 hace10 años, tratamiento con metformina. Metabólicamente estable. Acude para evaluación preanestésica. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Evaluación de exámenes pre quirúrgicos",
+        "B": "Evaluación de vía aérea",
+        "C": "Evaluación de los sistemas cardiovascular, renal y neurológico",
+        "D": "Solicitar evaluación por endocrinología"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Puérpera mediata de parto por cesárea con anestesia neuroaxial, a las 24 h inicia cefalea frontal que empeora con la incorporación o en sedestación y se alivia en decúbito supino, mareos, diplopía. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Aracnoiditis",
+        "B": "Lesión nerviosa",
+        "C": "Cefalea pospunción dural",
+        "D": "Síndrome de la cola de caballo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "¿Cuál es el anestésico local con potencia intermedia del bloqueo de conducción?",
+      "options": {
+        "A": "Procaína",
+        "B": "Bupivacaína",
+        "C": "Lidocaína",
+        "D": "Tetracaína"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "En la visita anestésica a un paciente programado para cirugía cardiaca, se percata que el soplo es audible sin la necesidad del uso de un estetoscopio. ¿Qué grado de intensidad de soplo cardiaco corresponde?",
+      "options": {
+        "A": "IV",
+        "B": "III",
+        "C": "V",
+        "D": "VI"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "La ..... se caracteriza por una velocidad constante de eliminación del fármaco.",
+      "options": {
+        "A": "cinética de primer orden",
+        "B": "cinética de orden cero",
+        "C": "cinética final",
+        "D": "histéresis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Mujer de 37 años, programada para cirugía laparoscópica de vesícula, refiere reacciones adversas medicamentosas a los AINEs, post operada de cesárea con anestesia regional sin intercurrencias, no refiere otros antecedentes. En la evaluación preanestésica se evalúa vía aérea y en la apertura oral se puede visualizar paladar blando y base de la úvula. Según la clasificación de Mallampati. ¿A qué clase correspondería?",
+      "options": {
+        "A": "III",
+        "B": "II",
+        "C": "I",
+        "D": "IV"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "¿Cuál es el fármaco utilizado en la analgesia del dolor postoperatorio, que está asociado con mayor tasa de depresión respiratoria en pacientes sometidos a cirugía laparoscópica?",
+      "options": {
+        "A": "Paracetamol",
+        "B": "Ketamina",
+        "C": "Opioides",
+        "D": "Gabapentina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Varón de 72 años operado de fractura supracondílea de cadera izquierda con anestesia general que presenta en el post operatorio inmediato deterioro cognitivo, alteración de la atención y del estado mental. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Agitación al despertar",
+        "B": "Retraso del despertar",
+        "C": "Demencia senil",
+        "D": "Delirium post operatorio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Para el tratamiento del dolor postoperatorio torácico. ¿Cuál es la técnica indicada que puede producir con mayor frecuencia neumotórax?",
+      "options": {
+        "A": "Bloqueo intercostal",
+        "B": "Bloqueo epidural toráxico",
+        "C": "Bloqueo del plano transverso del abdomen",
+        "D": "Analgesia interpleural"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "La indicación de ayuno preoperatorio en pacientes pediátricos es de.........horas de ayuno para alimentos sólidos, .......horas de ayuno para la leche materna, y .......horas de ayuno para líquidos claros.",
+      "options": {
+        "A": "8-6-4",
+        "B": "6-3-2",
+        "C": "8-4-2",
+        "D": "6-4-2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Cuando se realiza la intubación endotraqueal de un paciente. ¿Qué nos indica que la posición del tubo endotraqueal es correcto?",
+      "options": {
+        "A": "Pulsoximetría",
+        "B": "Radiografía",
+        "C": "Capnografía",
+        "D": "Auscultación"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "¿Cuál es el objetivo de la evaluación pre anestésica?",
+      "options": {
+        "A": "Evaluar los exámenes pre operatorios completos",
+        "B": "Evaluar el riesgo y reducir la morbilidad perioperatoria",
+        "C": "Lograr la firma del consentimiento informado por el paciente",
+        "D": "Remitir al paciente a evaluación por especialistas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Mujer de 42 años operada de distopia genital, con anestesia peridural con lidocaína y morfina, que presenta en post operatorio naúsea y vómitos incoercibles. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Hidrocortisona",
+        "B": "Dimenhidrinato",
+        "C": "Atropina",
+        "D": "Naloxona"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "El ..... es un fármaco no volátil que destaca por alcanzar rápidamente su valor de CAM objetivo y el lavado rápido, mejora la liberación de catecolaminas y no reduce la resistencia vascular sistémica ni el gasto cardiaco, manteniendo la estabilidad hemodinámica y no tiene impacto negativo sobre la mucosa bronquial ni sobre la actividad del músculo liso.",
+      "options": {
+        "A": "óxido nitroso",
+        "B": "sevoflurano",
+        "C": "desflurano",
+        "D": "isoflurano"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Varón de 40 años, programado para una cirugía oncológica por cáncer gástrico, con una duración de cirugía de 3 horas aproximadamente. Hace 20 días presentó infección respiratoria. Examen: SatO2 97%. Laboratorio: Hb 10mg/dl. Según el Índice de riesgo pulmonar perioperatorio ARISCAT el riesgo que presenta el paciente es:",
+      "options": {
+        "A": "Moderado",
+        "B": "Bajo.",
+        "C": "Alto",
+        "D": "No tiene riesgo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "La ketamina se administra en dosis subanestésicas en el tratamiento del dolor agudo postoperatorio, produciendo buena analgesia, debido a:",
+      "options": {
+        "A": "Por administrase exclusivamente por vía EV.",
+        "B": "Aumenta requerimiento de analgésicos de rescate.",
+        "C": "Acción antagonista del NMDA.",
+        "D": "Acción en sistema límbico."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Tercigesta de 38 semanas, se realizará cesárea de emergencia. Valoración preoperatoria: se auscultan latidos cardiacos en ápex, pansistólico, de tono alto, silbante, irradiado a axila, disminuye en bipedestación. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Insuficiencia aórtica",
+        "B": "Insuficiencia mitral",
+        "C": "Estenosis aórtica",
+        "D": "Miocardiopatía hipertrófica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Paciente en cirugía torácica, en posición lateral, la VPH es capaz de reducir el flujo sanguíneo al pulmón no ventilado en un 50%. El estímulo para ventilación pulmonar hipóxica es sobre todo la ....., que redistribuye el flujo sanguíneo pulmonar.",
+      "options": {
+        "A": "acidosis metabólica",
+        "B": "alcalosis metabólica",
+        "C": "presión alveolar de O2",
+        "D": "posición del paciente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Durante la visita preanestésica. ¿Qué medicación preoperatoria debe interrumpir su administración 48 horas antes?",
+      "options": {
+        "A": "Fármacos tiroideos",
+        "B": "AINES",
+        "C": "Opioides",
+        "D": "Antiepilépticos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "En el tratamiento del dolor agudo postoperatorio la incidencia de náusea y prurito es menor cuando se administra opioides lipófilos como:",
+      "options": {
+        "A": "Morfina",
+        "B": "Ketamina",
+        "C": "Sufentanilo",
+        "D": "Hidromorfina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Qué fármaco es un opioide semisintético?",
+      "options": {
+        "A": "Fentanilo",
+        "B": "Heroína",
+        "C": "Metadona",
+        "D": "Remifentanilo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "En relación al aparato pulmonar. ¿Cuál es la capacidad pulmonar sin cambios en la paciente embarazada a término?",
+      "options": {
+        "A": "Capacidad inspiratoria",
+        "B": "Capacidad residual funcional",
+        "C": "Capacidad pulmonar total",
+        "D": "Capacidad vital"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Varón de 55 años, con EPOC, será operado de adenoma de próstata. ¿Cuál es el objetivo de la evaluación pre operatoria?",
+      "options": {
+        "A": "Realizar AGA pre quirúrgico",
+        "B": "Optimizar la función pulmonar en el pre quirúrgico",
+        "C": "Oxígeno suplementario intraoperatorio",
+        "D": "Administrar inhaladores en el pre quirúrgico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál es el fármaco utilizado para tratar la hipertermia maligna?",
+      "options": {
+        "A": "Dantroleno",
+        "B": "Flumacenil",
+        "C": "Naloxona",
+        "D": "Topiramato"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Varón de 50 años, operado de adenoma prostático con anestesia general balanceada. Para garantizar la reversión neuromuscular se debe monitorizar objetivamente con:",
+      "options": {
+        "A": "Estimulador de nervio periférico",
+        "B": "Electromiografía",
+        "C": "Tren de cuatro (TOF)",
+        "D": "Mecanomiografía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Varón de 72 años, con obesidad y apnea del sueño. Se realiza reducción cruenta por fractura cadera derecha. ¿Cuál es el tratamiento adecuado para el dolor post operatorio?",
+      "options": {
+        "A": "Bloqueo de nervios periféricos",
+        "B": "Ketamina subcutánea en baja dosis",
+        "C": "Dexmedetomidina en parche cutáneo",
+        "D": "Colonidina subcutáneo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,1452 @@
+{
+  "metadata": {
+    "year": 2019,
+    "exam": "CIRUGÍA CARDIOVASCULAR",
+    "source_pdf": "CIRUGÍA CARDIOVASCULAR.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Cirugía Cardiovascular",
+    "sha256_pdf": "e0066a9f881dcca802b2e33228de4ed0385b8fe3a5adfdcb21651adb1d0f1f29",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:18",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 12,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Cirugía Cardiovascular",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9944,
+        "vec_max_loser": 0.0051,
+        "pix_min_winner": 0.6148,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 30489,
+      "coverage_out_chars": 30489,
+      "human_reference": "_backup_csv_verificados/Year2019/CIRUGÍA CARDIOVASCULAR.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 32,
+        "identico": 513,
+        "csv_antiguo_truncado": 12,
+        "mayor": 43
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Paciente de 45 años, con talla de 170 cm y 70 kg de peso, ha ingresado hace 30 min a la UCI de recuperación cardiovascular en el postoperatorio inmediato de una revascularización miocárdica con 3 bypass aortocoronarios. Examen: PA 90/60 mmHg, FC 110X’, FR 15X’ y se evidencia eliminación de 1000 ml de sangre por drenajes. ¿Cuál es la mejor conducta a seguir?",
+      "options": {
+        "A": "Conducta expectante por una hora",
+        "B": "Realización de estudios de perfil de coagulación",
+        "C": "Transfusión de componentes sanguíneos como concentrado de glóbulos rojos y plaquetas",
+        "D": "Administrar protamina y ácido tranexámico",
+        "E": "Retorno a sala de operaciones para reesternotomía y revisión de hemostasia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuál es la estructura que se lesiona con mayor frecuencia en un traumatismo cardiaco penetrante?",
+      "options": {
+        "A": "Ventrículo izquierdo",
+        "B": "Aurícula derecha",
+        "C": "Ventrículo derecho",
+        "D": "Aurícula izquierda",
+        "E": "Aorta"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Mujer de 72 años, referida por tos hace 6 semanas con inicio de sibilancias, respiración acortada, sudoración nocturna y pérdida de peso. Su historia clínica incluye hipertensión arterial, dislipidemia y consumo de una cajetilla de cigarros por día. Rx Tórax: masa en lóbulo inferior izquierdo y derrame pleural izquierdo. ¿Cuál es la conducta siguiente más apropiada?",
+      "options": {
+        "A": "Quimioterapia.",
+        "B": "Biopsia pleural cerrada.",
+        "C": "Resección quirúrgica de la masa",
+        "D": "Toracocentesis y citología",
+        "E": "Toracoscopia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Paciente de 65 años con antecedente de tres infartos y que en la actualidad presenta disnea y angina por cardiopatía isquémica, con aneurisma antero-apical e insuficiencia mitral moderada (FE = 30%). La mejor opción terapéutica será:",
+      "options": {
+        "A": "Aneurismorrafía + revascularización + cambio mitral",
+        "B": "Cirugía de Door + revascularización de miocardio + cambio mitral",
+        "C": "Trasplante cardiaco",
+        "D": "Cirugía de Door + revascularización de miocardio",
+        "E": "Cirugía de Door + plastia mitral + revascularización de miocardio"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "El principal aminoácido neurotransmisor implicado en el mecanismo de lesión neurológica luego de la cirugía de revascularización coronaria es:",
+      "options": {
+        "A": "Metionina",
+        "B": "Glutamato",
+        "C": "Prolina",
+        "D": "Histidina",
+        "E": "Glicina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Varón de 69 años con triple bypass aortocoronario, al momento con infusión de dobutamina a 12 mcg/Kg/min, noradrenalina 0.2 mgr/Kg/min y que presenta los siguientes parámetros hemodinámicas PA: 90/60 mmHg, IC: 1.8 L/min/m2, PVC: 15 mmHg; AI: 22 mmHg; RVS: 3200 dinas; RVP: 500 dinas. ¿Cuál es la conducta correcta a seguir?",
+      "options": {
+        "A": "Instalar ECMO",
+        "B": "Reingresar a circulación extracorpórea y revisar los puentes",
+        "C": "El paciente está compensado y sólo necesita protamina",
+        "D": "Colocar balón de contrapulsación",
+        "E": "Iniciar asociación de vasopresina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "En el traumatismo penetrante del corazón, el mejor tratamiento es:",
+      "options": {
+        "A": "Pericardiocentesis",
+        "B": "Observación y monitoreo",
+        "C": "Esternotomía de urgencia",
+        "D": "Drenaje torácico",
+        "E": "Balón de contrapulsación"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Mujer de 65 años con antecedente de trombosis venosa poplítea en miembro inferior derecho hace 2 años, luego de cirugía en cadera. Desde entonces tiene edema de pierna derecha +/++++. Acude a consulta por que ha aumentado la presencia de venas ingurgitadas en esa misma pierna ¿Cuál es la mejor indicación?",
+      "options": {
+        "A": "Antiagregación plaquetaria",
+        "B": "Anticoagulación plena",
+        "C": "Safenectomía convencional",
+        "D": "Usar medias elásticas de compresión graduada",
+        "E": "Safenectomía por endoablación (láser o radiofrecuencia)"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál es la válvula con mayor tendencia a desarrollar endocarditis infecciosa?",
+      "options": {
+        "A": "Mitral",
+        "B": "Aórtica",
+        "C": "Tricúspide",
+        "D": "Pulmonar",
+        "E": "De Tebesio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "En la transposición de grandes vasos. ¿Qué tipo de lesión asociada es esencial para la supervivencia inmediata del recién nacido?",
+      "options": {
+        "A": "Comunicación interventricular",
+        "B": "Estenosis pulmonar",
+        "C": "Atresia tricuspídea",
+        "D": "Comunicación interauricular",
+        "E": "Cabalgamiento de la aorta"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "El síndrome de Raynoud afecta las extremidades superiores y clínicamente se caracteriza por:",
+      "options": {
+        "A": "Manos pálidas y frías",
+        "B": "Ausencia de pulsos periféricos",
+        "C": "Claudicación de miembro superior",
+        "D": "Dolor en reposo de manos",
+        "E": "Presencia de úlceras"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Dos horas después del cateterismo cardíaco para la evaluación de una cardiopatía congénita, se observa que un niño de 1 año tiene el pulso femoral derecho ausente en el sitio de la punción, el pie derecho está frío y sin pulso; puede mover el pie y lo retira al dolor. Los pulsos en la otra pierna y el pie son normales. ¿Cuál de las siguientes es la mejor conducta a seguir?",
+      "options": {
+        "A": "Arteriografía para evaluar lesión",
+        "B": "Exploración quirúrgica inmediata de la arteria femoral derecha con una embolectomía de Fogarty",
+        "C": "Heparinización y observación",
+        "D": "Exploración quirúrgica inmediata de la arteria femoral derecha con un injerto de interposición de vena safena",
+        "E": "Exploración quirúrgica inmediata de la arteria femoral derecha con arteriotomía y abordaje del colgajo de la íntima"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "La confluencia de la vena radial y cubital originan la vena:",
+      "options": {
+        "A": "Axilar",
+        "B": "Braquial",
+        "C": "Basílica",
+        "D": "Cefálica",
+        "E": "Mediana"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "¿Cuál de las siguientes es una arteria parietal que emerge de la aorta abdominal?",
+      "options": {
+        "A": "Tronco celíaco",
+        "B": "Suprarrenal media",
+        "C": "Testicular",
+        "D": "Ovárica",
+        "E": "Frénica inferior"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Mujer de 30 años con velocidad de eritrosedimentación incrementada, claudicación de miembro superior izquierdo, PA brazo derecho: 70/50 mm Hg y de 60/40 mm Hg en el brazo izquierdo, pulsos distales rítmicos. Ecodoppler: engrosamiento parietal severo de ambas carótidas e inversión de flujo de arteria vertebral izquierda. Angiotem: oclusión del origen de arteria subclavia izquierda. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Aneurisma de aorta ascendente",
+        "B": "Cardioembolia",
+        "C": "Coartación de aorta",
+        "D": "Arteritis de Takayasu",
+        "E": "Disección arterial aguda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Durante el procedimiento quirúrgico de reemplazo de válvulas mitral y aórtica con prótesis mecánica en un paciente de 30 años, se evidencia una depresión severa de la función ventricular derecha e izquierda, asociado a hipertensión pulmonar importante; lo que imposibilita salida de circulación extracorpórea. Se decide soporte de ECMO venoarterial central como puente a recuperación. Para dicho soporte se debe colocar las cánulas de drenaje y de retorno de ECMO, respectivamente, en:",
+      "options": {
+        "A": "Vena femoral y arteria femoral",
+        "B": "Atrio derecho y arteria femoral",
+        "C": "Atrio derecho y aorta ascendente",
+        "D": "Arteria femoral y vena femoral",
+        "E": "Atrio derecho y arteria pulmonar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "En relación a la transposición de grandes vasos (TGV) es correcto que:",
+      "options": {
+        "A": "Los niños con un tabique ventricular intacto son el grupo más afectado y responden a la infusión de prostaglandina E1 o septostomía",
+        "B": "Es la cardiopatía congénita cianótica más frecuente.",
+        "C": "Se asocia más frecuentemente a sexo femenino",
+        "D": "En la D-TGA la aorta es posterior y hacia la derecha de la arteria pulmonar",
+        "E": "La indicación de cirugía correctiva es mejor a los 30 días"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuál es la complicación más frecuente en várices primarias?",
+      "options": {
+        "A": "Celulitis",
+        "B": "Claudicación",
+        "C": "Tromboembolia pulmonar",
+        "D": "Varicotrombosis",
+        "E": "Trombosis venosa profunda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Ingresa por Emergencia varón de 68 años, sin antecedentes conocidos; con dolor torácico retroesternal asociado a signos neurovegetativos y hallazgo electrocardiográfico de infradesnivel del segmento ST en cara anterior; además PA: 80/50 mmHg y taquicardia sinusal. Cinecoronariografía: lesión severa de tronco principal de coronaria izquierda y tercio proximal de descendente anterior; además lesión significativa en tercio medio de coronaria derecha. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Angioplastia primaria percutánea a tronco de coronaria izquierda y coronaria derecha urgente",
+        "B": "Angioplastia primaria percutánea a tronco coronaria izquierda y coronaria derecha programada",
+        "C": "Cirugía de revascularización miocárdica electiva",
+        "D": "Sólo considerar tratamiento médico óptimo",
+        "E": "Cirugía de revascularización miocárdica urgente"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "En la sala de emergencias se encuentra una tomografía de un varón de 45 años que muestra disección aguda de la aorta descendente. El síntoma más frecuente para este diagnóstico es:",
+      "options": {
+        "A": "Convulsiones",
+        "B": "Dolor torácico",
+        "C": "Disnea",
+        "D": "Palpitaciones",
+        "E": "Síncope"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿En cuál de las siguientes condiciones la presión telediastólica del ventrículo izquierdo es mayor que la presión de enclavamiento capilar pulmonar?",
+      "options": {
+        "A": "Aumento de la presión intratorácica",
+        "B": "Enfermedad pulmonar obstructiva crónica",
+        "C": "Ventrículo izquierdo no distensible por isquemia",
+        "D": "Aumento de la resistencia vascular pulmonar",
+        "E": "Mixoma auricular izquierdo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "A la emergencia llega un paciente varón de 35 años con una herida por arma de fuego en región cervical media derecha y hemiparesia izquierda. El manejo consiste en:",
+      "options": {
+        "A": "Cirugía de emergencia para exploración y reparación de la arteria carótida",
+        "B": "Arteriografía diagnóstica",
+        "C": "Cirugía de emergencia para exploración y ligadura de la arteria carótida",
+        "D": "Ecodoppler carotídeo",
+        "E": "Reparo endovascular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "En la disección aguda de aorta, es cierto que la cirugía:",
+      "options": {
+        "A": "Siempre debe ser electiva",
+        "B": "Está contraindicada en la afectación de troncos supraaórticos",
+        "C": "Está indicada de forma inmediata si afecta a la aorta ascendente",
+        "D": "Está contraindicada en presencia de hemopericardio",
+        "E": "Está indicada de urgencia en la afectación de la aorta descendente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Joven de 17 años asintomática, presenta soplo sistólico eyectivo con frémito en el borde esternal izquierdo alto, precedido por un clic sistólico; el componente pulmonar del 2º ruido es prácticamente inaudible. La coloración de mucosas es normal. ECG: hipertrofia severa del ventrículo derecho. Rx Tórax: gran prominencia del 2º arco izquierdo por dilatación del tronco pulmonar y rama pulmonar izquierda. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Comunicación interventricular",
+        "B": "Comunicación interauricular",
+        "C": "Estenosis aórtica congénita",
+        "D": "Hipertensión pulmonar",
+        "E": "Estenosis pulmonar valvular"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Varón de 52 años, operado de triple bypass aortocoronario con cambio de válvula aórtica a quien no se puede destetar de extracorpórea después de 30 min; por lo que se decide colocar balón de contrapulsación. La indicación del balón es para aumentar:",
+      "options": {
+        "A": "La poscarga",
+        "B": "El flujo coronario",
+        "C": "La contractilidad",
+        "D": "La resistencia periférica",
+        "E": "La precarga"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Una comunicación interauricular es inoperable cuando:",
+      "options": {
+        "A": "La persona está por encima de los 5 años de edad",
+        "B": "Existe hipertensión pulmonar a nivel superior de la presión arterial sistémica",
+        "C": "Existe sobrecarga de volumen del ventrículo derecho",
+        "D": "Existe insuficiencia tricúspide asociada",
+        "E": "Se asocia a drenaje venoso pulmonar anómalo parcial"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Paciente padece de fatiga, disnea ocasional y claudicación intermitente de piernas al caminar o correr. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Complejo de Eisenmenger",
+        "B": "Comunicación interventricular",
+        "C": "Comunicación interauricular",
+        "D": "Tetralogía de Fallot",
+        "E": "Coartación de aorta"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "La arteria mesentérica superior está localizado 1 cm distal a la arteria:",
+      "options": {
+        "A": "Hipogástrica",
+        "B": "Iliaca",
+        "C": "Mesentérica inferior",
+        "D": "Tronco celiaco",
+        "E": "Renal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál de las siguientes es la causa más común de los quilotórax?",
+      "options": {
+        "A": "Linfomas",
+        "B": "Carcinoma",
+        "C": "Iatrogenia quirúrgica",
+        "D": "Traumatismo torácico",
+        "E": "Congénita"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Mujer de 35 años presenta hipertensión arterial de difícil manejo y claudicación intermitente a 300 m. Angiotem: múltiples lesiones estenóticas en aorta torácica y abdominal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Enfermedad de Takayasu",
+        "B": "Enfermedad de Gilbert",
+        "C": "Síndrome de Marfan",
+        "D": "Síndrome de Ehlers Danlos",
+        "E": "Síndrome de Proteus"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Qué tipo de inflamación es más característico de la fiebre reumática?",
+      "options": {
+        "A": "Pancarditis",
+        "B": "Endocarditis",
+        "C": "Miocarditis",
+        "D": "Pericarditis",
+        "E": "Vasculitis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "La presencia de nódulos linfáticos supraclaviculares afectados por un carcinoma broncogénico corresponde a un estadio:",
+      "options": {
+        "A": "N3",
+        "B": "N2",
+        "C": "M1",
+        "D": "T1b",
+        "E": "Nx"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "En relación a la cardiomiopatía es correcto que:",
+      "options": {
+        "A": "La cardiomiopatía hipertrófica se caracteriza por grandes cavidades ventriculares",
+        "B": "La causa más común es la cardiomiopatía dilatada idiopática",
+        "C": "No se realiza trasplante cardiaco en fase terminal de la enfermedad",
+        "D": "La cardiomiopatía restrictiva usualmente resulta de infección viral o consumo de alcohol",
+        "E": "Los pacientes hipertensos o con enfermedad valvular son un subgrupo importante"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Durante la angioplastia de la arteria femoral se requiere el uso de heparina para la anticoagulación del paciente. ¿Cuál de estas acciones es producida por la heparina?",
+      "options": {
+        "A": "Inhibe de forma irreversible a la ciclooxigenasa",
+        "B": "Estimula la actividad de la antitrombina",
+        "C": "Inhibe directamente la trombina",
+        "D": "Inhibe la síntesis de factores de coagulación dependientes de la vitamina K",
+        "E": "Inhibe selectivamente al factor Xa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "En relación a la anomalía de Ebstein es correcto que:",
+      "options": {
+        "A": "Hay dilatación severa de ventrículo derecho",
+        "B": "El tratamiento ideal es el cambio valvular tricuspídeo",
+        "C": "Es asintomática en la etapa escolar",
+        "D": "Raramente existe bloqueo de rama derecha del haz de His",
+        "E": "Las valvas septal y posterior de la tricúspide están desplazadas hacia la cavidad del ventrículo derecho, originando hipoplasia funcional del ventrículo derecho e insuficiencia tricuspídea"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "El factor más importante que contribuye a variar el flujo sanguíneo en una estenosis arterial es:",
+      "options": {
+        "A": "El grado de calcificación de la arteria",
+        "B": "El diámetro de la estenosis",
+        "C": "La longitud de la estenosis",
+        "D": "La presión sanguínea",
+        "E": "La viscosidad sanguínea"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Al salir de la circulación extracorpórea en el periodo post bomba inmediato, la hemostasia se obtiene con la administración de protamina. Si esta se aplica a una velocidad inadecuada. ¿Cuál será la complicación más probable?",
+      "options": {
+        "A": "Hipotermia",
+        "B": "Síndrome de hombre rojo",
+        "C": "Vasodilatación sistémica",
+        "D": "Hipertensión",
+        "E": "Asistolia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "En un paciente con infarto de miocardio de localización inferior, que además presenta elevación de la presión venosa yugular, hepatomegalia, hipotensión y elevación del segmento ST en la derivación V4R, el diagnóstico más probable es:",
+      "options": {
+        "A": "Tromboembolismo pulmonar",
+        "B": "Insuficiencia ventricular derecha por efecto Berheim",
+        "C": "Hemopericardio",
+        "D": "Infarto de ventrículo derecho",
+        "E": "Pericarditis epistenocárdiaca"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "En el análisis de la onda de pulso arterial, la onda dícrota corresponde a:",
+      "options": {
+        "A": "El cierre de la válvula aórtica",
+        "B": "La apertura de la válvula mitral",
+        "C": "El cierre de la válvula mitral",
+        "D": "La apertura de la válvula aórtica",
+        "E": "Un signo de hipotensión arterial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "En relación a la fibrilación auricular es correcto que:",
+      "options": {
+        "A": "La de comienzo reciente debe tratarse exclusivamente con digitálicos",
+        "B": "En la aislada de comienzo reciente, nunca está indicada la cardioversión, pues fracasa en más del 90% de los casos",
+        "C": "Más del 80% de las aisladas son secundarias a hipertiroidismo larvado",
+        "D": "La aislada nunca es causa de insuficiencia cardíaca",
+        "E": "Si permanece y no hay contraindicación, está indicada la anticoagulación oral permanente"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Mujer de 35 años con safena mayor izquierda de 8 mm de diámetro y reflujo severo en cayado y muslo. Realizar una safenectomía está contraindicado si concomitantemente se diagnostica:",
+      "options": {
+        "A": "Trombosis de vena femoral",
+        "B": "Edema de miembro inferior ++/++++",
+        "C": "Oclusión de la safena menor",
+        "D": "Úlcera varicosa en tobillo",
+        "E": "Varicoflebitis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "La claudicación intermitente que se presenta en las pantorrillas, está asociada a oclusión arterial en:",
+      "options": {
+        "A": "Arterias iliacas bilaterales",
+        "B": "Arteria poplítea del lado implicado",
+        "C": "Arteria femoral común del lado implicado",
+        "D": "Arteria femoral superficial del lado implicado",
+        "E": "Arteria tibial posterior del lado implicado"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "El gradiente ventrículo-aórtico en la miocardiopatía hipertrófica disminuye con la administración de:",
+      "options": {
+        "A": "Betobloqueadores",
+        "B": "Digitálicos",
+        "C": "Dopamina",
+        "D": "Nitroglicerina",
+        "E": "Nitroprusiato"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Varón de 80 años de aspecto saludable, consulta por síncopes. ECG: bloqueo completo de rama izquierda. Ecocardiograma: válvula aórtica calcificada con gradiente transaórtico medio de 70 mm Hg, área valvular de 0,5 cm2 y fracción de eyección del ventrículo izquierdo normal. ¿Cuál es la mejor opción terapéutica?",
+      "options": {
+        "A": "Drogas antiarrítmicas previo estudio Holter para detectar la causa de los síncopes",
+        "B": "Marcapasos permanente DDD para preservar la contracción auricular",
+        "C": "Valvuloplastia percutánea con catéter balón dada la edad del paciente",
+        "D": "Prótesis aórtica preferentemente biológica",
+        "E": "Aspirina a dosis bajas y seguimiento clínico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "La arteria tronco tibioperoneo se divide en las arterias:",
+      "options": {
+        "A": "Femoral superficial y femoral profunda",
+        "B": "Tibial anterior y peronea",
+        "C": "Tibial anterior y poplítea",
+        "D": "Tibial posterior y peronea",
+        "E": "Tibial anterior y tibial posterior"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "En relación con la técnica de valvuloplastia percutánea con balón es correcto que:",
+      "options": {
+        "A": "Es el tratamiento de elección de la estenosis pulmonar congénita",
+        "B": "En la estenosis aórtica del adulto proporciona mejores resultados que la cirugía de sustitución valvular",
+        "C": "No es aplicable a niños con estenosis aórtica congénita",
+        "D": "En la estenosis mitral alcanza los mejores resultados cuando la válvula está calcificada o existe enfermedad subvalvular",
+        "E": "En la estenosis mitral sólo debe indicarse cuando existe contraindicación a la comisurotomía quirúrgica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es la principal causa de la disminución de la luz en las arterias coronarias con endoprótesis?",
+      "options": {
+        "A": "Retracción de la endoprótesis",
+        "B": "Hipoplasia de la neoíntima",
+        "C": "Compresión de la endoprótesis",
+        "D": "Tromboluminal",
+        "E": "Oclusión por ateroma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Ante la presencia de una aorta en porcelana, el reemplazo de válvula aórtica utilizando la técnica estándar y pinzamiento aórtico, resulta en un riesgo inaceptablemente alto de:",
+      "options": {
+        "A": "Infarto de miocardio",
+        "B": "Taponamiento cardíaco",
+        "C": "Accidente cerebrovascular",
+        "D": "Mediastinitis",
+        "E": "Ruptura de aorta"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "En la UCI cardiológica se encuentra paciente de 32 años, con historia de insuficiencia cardiaca avanzada de etiología no isquémica de 2 años de evolución, CF III en lista de espera para trasplante cardíaco, quien ingresa 4 días atrás por descompensación aguda. Actualmente con evolución inadecuada en últimas 24 horas ingresando en choque cardiogénico, siendo necesario soporte ventilatorio invasivo. Actualmente PA: 80/50 mmHg. FC 130X’, SatO2: 94% FiO2: 60%. VM PEEP: 10 cmH2O. Se instaló cateter de arteria pulmonar cuantificando GC: 2.8 LPM, IC: 1.9 LPM/m2, PVC 19 cmH2O y PCP 30 cmH2O. Se colocó balón de contrapulsación intraaórtico. Medicación: dobutamina 12 ug/kg/min y noradrenalina 0.6 ug/kg/min; además lactatemia > 4 ng/dl, oligoanuria y cifras de transaminasas por encima de 300 mg/dl. ¿Cuál es la mejor conducta a seguir?",
+      "options": {
+        "A": "Colocación de asistencia circulatoria univentricular como puente a trasplante cardiaco",
+        "B": "Continuar soporte vasopresor y agregar otra droga vasopresora",
+        "C": "Trasplante cardíaco de urgencia",
+        "D": "Medidas paliativas e información a la familia",
+        "E": "Colocación de ECMO venoarterial como puente a estabilización y posterior soporte ventricular, en espera de trasplante"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿En cuál de los siguientes enunciados está indicada la cirugía de revascularización miocárdica?",
+      "options": {
+        "A": "Lesión severa de un vaso",
+        "B": "Lesión de dos vasos, buena función ventricular y asintomático con tratamiento médico",
+        "C": "Lesión del 20% del tronco principal izquierdo",
+        "D": "Lesión severa de la circunfleja, no subsidiaria de dilatación por angioplastia",
+        "E": "Lesión de dos vasos, uno de ellos la descendente anterior en su tercio proximal, con disfunción ventricular"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Los aneurismas de la aorta ascendente:",
+      "options": {
+        "A": "Generalmente se rompen",
+        "B": "Por lo común se deben a enfermedad degenerativa del tejido conectivo",
+        "C": "La mayoría de las veces no sufren insuficiencia cardíaca",
+        "D": "Siempre son secundarios a la sífilis",
+        "E": "Generalmente se deben a ateroesclerosis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "En el caso de requerirse desfibrilación cardiaca, con paletas internas, al salir de la circulación extracorpórea para retomar el ritmo cardiaco. ¿Cuál es la intensidad en joules que se debe aplicar al usar un desfibrilador bifásico?",
+      "options": {
+        "A": "11 a 16",
+        "B": "5 a 10",
+        "C": "17 a 21",
+        "D": "22 a 30",
+        "E": "31 a 36"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "La fibrilación ventricular primaria en el infarto agudo de miocardio:",
+      "options": {
+        "A": "Es una complicación tardía, que generalmente aparece luego de las 48 horas de evolución del infarto",
+        "B": "Aparece en caso de insuficiencia cardíaca severa, por lo que el pronóstico es muy malo",
+        "C": "Se llama primaria porque nunca se precede de taquicardia ventricular",
+        "D": "El tratamiento previo con betabloqueantes no es capaz de prevenir su aparición",
+        "E": "Si se trata rápidamente con cardioversión eléctrica el pronóstico es bueno y la supervivencia al primer año es superior al 90%"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Paciente de 68 años sometido a triple bypass aortocoronario con circulación extracorpórea, luego de la salida de extracorpórea presenta los siguientes parámetros hemodinámicas, IC: 1.8 L/min/m2, PVC: 10 mm Hg, AI: 8 mm Hg, RVS: 1200 dinas, RVP: 200 dinas. ¿Cuál es la conducta indicada a seguir?",
+      "options": {
+        "A": "Iniciar asociación de noradrenalina + dobutamina",
+        "B": "Colocar balón de contrapulsación intraaórtico",
+        "C": "Reingresar a circulación extracorpórea y revisar los puentes",
+        "D": "El paciente está compensado y sólo necesita protamina",
+        "E": "Administrar volumen"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Varón de 60 años con diagnóstico tomográfico de aneurisma de aorta abdominal de 4cm, no tiene síntomas. La mejor modalidad para la vigilancia de ese aneurisma es:",
+      "options": {
+        "A": "Ecografía dos veces al año",
+        "B": "Una ecografía anual",
+        "C": "Resonancia magnética anual",
+        "D": "Tomografía computarizada anual de corte fino (3 mm)",
+        "E": "Tomografía computarizada de corte fino (3 mm) dos veces al año"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Dentro de los errores de programación del balón intraaórtico de contrapulsación, el más nocivo para el corazón es el:",
+      "options": {
+        "A": "Inflado tardío",
+        "B": "Desinflado tardío",
+        "C": "Inflado precoz",
+        "D": "Desinflado precoz",
+        "E": "Inflado intermedio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "La técnica quirúrgica que se aplica para extraer un émbolo de un segmento arterial agudamente ocluido se denomina:",
+      "options": {
+        "A": "Aterectomía",
+        "B": "Angioplastia",
+        "C": "Endarterectomía",
+        "D": "Derivación vascular",
+        "E": "Trombectomía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "En relación al canal AV, es correcto que:",
+      "options": {
+        "A": "Está asociado al síndrome de Down en más del 50% de estos pacientes",
+        "B": "Frecuentemente llegan a la vida adulta con hipertensión pulmonar severa",
+        "C": "El tratamiento paliativo incluye cirugía de Blalock",
+        "D": "El defecto completo consiste en un CIA tipo ostium primun asociado a un CIV en la zona de entrada del tabique ventricular con una hendidura en el velo anterior de la válvula mitral y una fisura de la valva septal de la tricúspide",
+        "E": "La hipertensión pulmonar contraindica la corrección total temprana"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál de las siguientes condiciones acorta el tiempo de coagulación activado?",
+      "options": {
+        "A": "Lisis plaquetaria",
+        "B": "Hemodilución",
+        "C": "Hipotermia",
+        "D": "Trombocitopenia",
+        "E": "Inhibidores de plaquetas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Paciente de 45 años con lesión mitral reumática conocida, sin síntomas cardiológicos y sin necesidad de uso de medicamentos, que ingresa al servicio de urgencias por palpitaciones rápidas. ECG: fibrilación auricular con respuesta ventricular a 150X’. Ecocardiograma: estenosis mitral con área valvular de 1,7 cm2, función ventricular izquierda normal y aurícula izquierda severamente dilatada. ¿Cuál de las siguientes alternativas expresa la mejor opción terapéutica a seguir?",
+      "options": {
+        "A": "Independientemente del tratamiento inicial, se debe recomendar anticoagulación oral",
+        "B": "Cirugía de sustitución valvular mitral urgente",
+        "C": "Tratamiento inmediato con propanolol EV. para frenar la frecuencia ventricular",
+        "D": "Cardioversión eléctrica urgente",
+        "E": "Administrar inotrópicos tipo noradrenalina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuál es la etiología mas frecuente de la rotura de un aneurisma de la aorta torácica descendente que drena fuera de la cavidad torácica?",
+      "options": {
+        "A": "Sifilítica",
+        "B": "Arteriosclerótica",
+        "C": "Micótica",
+        "D": "Traumática",
+        "E": "Congénita"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "La arteria carótida común deriva del … arco aórtico.",
+      "options": {
+        "A": "III",
+        "B": "I",
+        "C": "II",
+        "D": "IV",
+        "E": "V"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "La trombosis de la arteria mesentérica superior es responsable de la isquemia:",
+      "options": {
+        "A": "Esplénica",
+        "B": "Gástrica",
+        "C": "Hepática",
+        "D": "Intestinal",
+        "E": "Pancreática"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Mujer de 70 años, refiere dolor al caminar aproximadamente 1 cuadra desde hace 8 meses a nivel de la cadera y nalga izquierda. Antecedente: tabaquismo pesado por años, diabetes mellitus tipo 2, HTA y dislipidemia. Toma diariamente amlodipino, metformina y rosuvastatina. Examen: pulso femoral izquierdo disminuido y ausencia de pulso poplíteo izquierdo; los pulsos femoral y poplíteo derechos están conservados. El lugar más probable de estenosis está ubicado a nivel de la arteria:",
+      "options": {
+        "A": "Iliaca común izquierda",
+        "B": "Aorta abdominal",
+        "C": "Femoral profunda izquierda",
+        "D": "Femoral superficial izquierda",
+        "E": "Poplítea izquierda"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "El flujo sanguíneo (Q) a través de una sección transversal de una arteria está relacionado a su Velocidad (V) y al área de esa sección transversal (A) según:",
+      "options": {
+        "A": "Q=V/A",
+        "B": "Q=A/V",
+        "C": "V=QA",
+        "D": "V=A/Q",
+        "E": "A=Q/V"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "Son factores de riesgo para muerte prematura luego de CABG, EXCEPTO:",
+      "options": {
+        "A": "Insuficiencia cardiaca congestiva crónica",
+        "B": "Enfermedad vascular periférica",
+        "C": "Angina Inestable",
+        "D": "Número de vasos con obstrucciones importantes",
+        "E": "Cirugía de urgencia para IMA con afección hemodinámica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál de los siguientes órganos es menos frecuentemente afectado en las metástasis de un carcinoma broncogénico?",
+      "options": {
+        "A": "Huesos",
+        "B": "Hígado",
+        "C": "Suprarrenales",
+        "D": "Piel",
+        "E": "Cerebro"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "El mecanismo que describe el proceso por el cual el corazón aumenta su volumen de eyección al elevar el volumen telediastólico se denomina de:",
+      "options": {
+        "A": "Laplace",
+        "B": "Paget",
+        "C": "Regulación heterométrica",
+        "D": "Poscarga",
+        "E": "Regulación homeométrica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "El riesgo de rotura del aneurisma de aorta abdominal infrarenal depende directamente del…",
+      "options": {
+        "A": "grado de calcificación arterial.",
+        "B": "la edad del paciente.",
+        "C": "la longitud del aneurisma.",
+        "D": "tiempo de enfermedad.",
+        "E": "diámetro del aneurisma."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Durante la fase 0 del potencial de acción de la célula muscular cardiaca ocurre preferentemente:",
+      "options": {
+        "A": "La salida del ion potasio",
+        "B": "El ingreso del ion calcio",
+        "C": "El ingreso del ion potasio",
+        "D": "la salida del ion sodio",
+        "E": "El ingreso del ion sodio"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "A la consulta externa acude mujer de 40 años multigesta, hace 10 años tiene pesadez, ardor, edema y várices en pierna derecha. ¿Cuál es la prueba a solicitar para definir la necesidad de una safenectomía como tratamiento de las várices?",
+      "options": {
+        "A": "Flebografía",
+        "B": "Fotopletismografía",
+        "C": "Neumopletismografía",
+        "D": "Ecodoppler",
+        "E": "Tomografía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "En relación a la comunicación interauricular es correcto que:",
+      "options": {
+        "A": "Generalmente se manifiesta en la etapa escolar con disnea",
+        "B": "Existe cortocircuito del flujo de D-I con sobrecarga de volumen de AD a AI",
+        "C": "El tipo más común es el ostium primun que afecta la zona inferior del tabique",
+        "D": "Con el defecto seno venoso es frecuente el drenaje venoso pulmonar parcial anómalo",
+        "E": "Habitualmente produce hipertensión pulmonar temprana"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "En relación a la comunicación interventricular (CIV), es correcto que:",
+      "options": {
+        "A": "La forma trabecular es la más frecuente",
+        "B": "El “banding de arteria pulmonar” siempre está indicado en los lactantes",
+        "C": "Con un CIV moderado o grande hay retraso del desarrollo y crecimiento, infecciones pulmonares repetidas e insuficiencia cardiaca congestiva",
+        "D": "El cuadro clínico incluye soplo diastólico en borde esternal izquierdo",
+        "E": "El cierre del CVI se puede facilitar con prostaglandinas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál es el nivel de hipotermia necesario para poder tener un tiempo de 40 minutos de parada circulatoria?",
+      "options": {
+        "A": "Leve",
+        "B": "Profunda",
+        "C": "Moderada",
+        "D": "Muy profunda",
+        "E": "Extremadamente profunda"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Cuál es la prueba de imágenes más útil para realizar el diagnóstico del aneurisma de aorta torácico?",
+      "options": {
+        "A": "Radiografía simple de tórax",
+        "B": "Ecocardiografía",
+        "C": "Tomografía computarizada",
+        "D": "Angiografía por resonancia",
+        "E": "Cateterismo cardiaco"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Paciente de 60 años, diabético hace 15 años, acude por dolor en pantorrilla que impide caminar más de 100 m y aparición de una úlcera en dorso del segundo dedo del pie izquierdo. Se evidencia ausencia de vellosidad, llenado capilar mayor de 2 s, pulsos pedio y tibial posterior ausentes, ITB: 0.62, ondas monofásicas infrapopliteas. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Antibioticoterapia",
+        "B": "Cámara hiperbárica",
+        "C": "Revascularización",
+        "D": "Curaciones locales",
+        "E": "Reposo absoluto"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "La insuficiencia de la vena safena mayor es el causante más frecuente de las várices en miembros inferiores. La vena safena mayor ...",
+      "options": {
+        "A": "es una vena comunicante.",
+        "B": "no tiene válvulas.",
+        "C": "pertenece al sistema venoso profundo.",
+        "D": "pertenece al sistema venoso superficial.",
+        "E": "tributa en la vena poplítea."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Un hombre de 70 años presenta un aneurisma de aorta abdominal asintomático de 4,5 cm. ¿Cuál de los siguientes enunciados es verdadero?",
+      "options": {
+        "A": "Debe realizarse una reparación endovascular",
+        "B": "Debe realizarse una cura quirúrgica abierta de emergencia",
+        "C": "Debe realizarse una cura quirúrgica abierta electiva",
+        "D": "No hay beneficio en recomendar cirugía",
+        "E": "Si el paciente tiene un riesgo bajo, el aneurisma debe repararse mediante un abordaje endovascular"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Qué diagnóstico sugiere la presencia de un derrame pleural con un pH = 5.95 y una amilasa de 1000 u en líquido pleural?",
+      "options": {
+        "A": "Pancreatitis",
+        "B": "Seudoquiste de páncreas",
+        "C": "Empiema.",
+        "D": "Metástasis pleural",
+        "E": "Rotura esofágica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Varón de 49 años traído a emergencia por accidente automovilístico. El paciente refiere dolor torácico. Examen: FC 118X’, FR 18X’, PA 142/96 mmHg, saturación de oxígeno: 96 %, laceraciones múltiples en la cara. ¿Cuál de los siguientes hallazgos, en la radiografía de tórax, es indicativo de injuria de la aorta?",
+      "options": {
+        "A": "Neumotórax",
+        "B": "Hematoma pleural apical",
+        "C": "Contusión pulmonar izquierda",
+        "D": "Múltiples fracturas costales derechas",
+        "E": "Neumomediastino"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "La comunicación interventricular (CIV) constituye el tipo más frecuente de cardiopatía congénita; y durante el primer año, alrededor del … % de las CIV pequeñas se cierran espontáneamente",
+      "options": {
+        "A": "40",
+        "B": "10",
+        "C": "20",
+        "D": "80",
+        "E": "90"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Varón de 54 años asintomático presenta soplo sistólico de eyección, de máxima intensidad en borde esternal izquierdo a la altura del tercer espacio intercostal; además de desdoblamiento fijo del segundo tono. ECG: bloqueo de rama derecha. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Sujeto sano con soplo funcional",
+        "B": "Hipertensión pulmonar primaria",
+        "C": "Estenosis pulmonar leve",
+        "D": "Estenosis aórtica congénita leve",
+        "E": "Comunicación interauricular"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Paciente de 35 años presenta desde hace un año angina al caminar, al momento estable. EKG: hipertrofia ventricular izquierda. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Cardiopatía isquémica crónica",
+        "B": "Estenosis mitral congénita",
+        "C": "Estenosis aórtica bicúspide",
+        "D": "Insuficiencia tricuspídea",
+        "E": "Estenosis pulmonar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Paciente 18 años con CIA tipo Ostium Secundum sometido a cierre de CIA. Cateterismo cardiaco por Swan Ganz en UCI posquirúrgica indica AP: 82/38 mmHg (53), PCP: 20 mmHg; RVS: 1200 Dinas, RVP 7.3 Woods; ecovisión post cirugía inmediata: FEVI 50%, FAC 24%, S’ de VD: 9.5%. Según la guía ESC 2018. ¿A qué tipo de hipertensión pulmonar corresponde?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "1",
+        "E": "5"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "El abordaje quirúrgico que permite una mejor visualización de las venas braquiocefálicas es a través de:",
+      "options": {
+        "A": "Estereotomía",
+        "B": "La vía cervical",
+        "C": "La vía cervicotorácica",
+        "D": "La vía transpleural derecha",
+        "E": "La vía transpleural izquierda"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Varón de 70 años con estenosis del 50% de bulbo carotídeo derecho presenta episodio de amaurosis fugaz ipsilateral. La arteria que más probablemente se haya ocluido, es la:",
+      "options": {
+        "A": "Auricular posterior",
+        "B": "Carótida externa",
+        "C": "Facial",
+        "D": "Retinal",
+        "E": "Occipital"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "En la arteritis de Takayasu ocurre que:",
+      "options": {
+        "A": "Los vasos afectados preferentemente son los de los miembros inferiores",
+        "B": "Los vasos afectados son preferentemente intraabdominales",
+        "C": "El infiltrado inflamatorio empieza en la íntima",
+        "D": "La histopatología es la arteriolitis necrotizante",
+        "E": "El proceso inflamatorio empieza primero en la unión de la media con la adventicia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Se requiere llevar una guía hidrofílica en forma retrógrada por el tronco braquiocefálico. La vía de acceso arterial deberá estar localizada en:",
+      "options": {
+        "A": "Miembro superior izquierdo",
+        "B": "Región inguinal derecha",
+        "C": "Región inguinal izquierda",
+        "D": "Región lumbar izquierda",
+        "E": "Miembro superior derecho"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Varón de 60 años refiere dolor precordial de grandes esfuerzos, clase funcional II de la NYHA. Coronariografía: estenosis significativa en los segmentos medios de los tres vasos principales con buen lecho distal; ventriculografía izquierda muestra hipocinesia global con fracción de eyección del 35%. ¿Cuál es la mejor opción terapéutica?",
+      "options": {
+        "A": "Bypass aortocoronario",
+        "B": "Angioplastia coronaria",
+        "C": "Tratamiento médico",
+        "D": "Inhibidores de la ECA",
+        "E": "Trasplante cardíaco"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Llega a trauma shock paciente de 25 años con trauma punzo penetrante en área precordial. Examen: FC 130X’, PA: 60/40 mm Hg, ingurgitación yugular. Ecografía Fast: hemopericardio. ¿Cuál es el tratamiento quirúrgico más adecuado?",
+      "options": {
+        "A": "Ventana pericárdica subxifoidea",
+        "B": "Toracostomía",
+        "C": "Observación",
+        "D": "Toracotomía anterolateral izquierda",
+        "E": "Esternotomía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "En una persona cardiológicamente normal, la trombosis de la vena poplítea puede originar una tromboembolia:",
+      "options": {
+        "A": "Pulmonar",
+        "B": "Cerebral",
+        "C": "Digital",
+        "D": "Tibial",
+        "E": "Subclavia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "La tromboangeítis obliterante ocurre predominantemente en personas con:",
+      "options": {
+        "A": "Defectos cardiacos congénitos",
+        "B": "Enfermedad aterosclerótica cardiaca",
+        "C": "Hábitos de tabaquismo pesado",
+        "D": "Dietas con alto contenido de grasas saturadas",
+        "E": "Baja tolerancia al ejercicio"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Varón de 66 años, en posoperatorio de 5 horas luego de CABG. El drenaje mediastinal fue de 300 cc por hora. Hace una hora no hay evidencia de sangrado. A pesar de administracion de fluidos, la PA media ha descendido de 80 a 40 mmHg. La PVC está en 20 mmHg y se requiere de dobutamina para mantener la presión arterial. ¿Cuál es la conducta más apropiada a seguir?",
+      "options": {
+        "A": "Administración de noradrenalina",
+        "B": "Exploración quirúrgica del mediastino",
+        "C": "Aspiración de drenajes",
+        "D": "Colocación de balón intraaórtico",
+        "E": "Transfusión sanguínea de 02 unidades de sangre"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Mujer de 70 años en su segundo día posoperatorio, de aneurisma de aorta abdominal, cursa con diarrea con rastros de sangre; ha recibido una dosis profiláctica de 2 g de ceftriaxona en sala de operaciones. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Coagulopatía",
+        "B": "Colitis isquémica",
+        "C": "Colitis pseudomebranosa",
+        "D": "Falla hepática aguda",
+        "E": "Fístula aortoentérica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Varón de 50 años con enfermedad coronaria quien está medicado con clopidogrel 75 mg diarios; recibe la propuesta de tomar ácido acetilsalicílico 100 mg/día. En este caso hay que tener en cuenta que:",
+      "options": {
+        "A": "Ambos son antagonistas en su efecto sobre las plaquetas",
+        "B": "Alterarán los resultados de INR",
+        "C": "Debe aumentarse sus dosis si son usados concomitantemente",
+        "D": "Incrementan el riesgo de isquemia cerebral",
+        "E": "Ambos son sinérgicos en su efecto sobre las plaquetas"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Durante la auscultación, como parte del examen físico, de un paciente asintomático de 70 años se le encuentra un soplo carotídeo ¿Cuál es el mejor test de tamizaje de estenosis carotídea que se le indica?",
+      "options": {
+        "A": "Ecodoppler carotídeo",
+        "B": "Angiotomografía de vasos supraaórticos",
+        "C": "Angioresonancia carotídea bilateral",
+        "D": "Arteriografía selectiva de arterias carótidas",
+        "E": "Ecocardiografía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Cuál de las siguientes arterias NO se puede palpar durante el examen físico?",
+      "options": {
+        "A": "Peronea",
+        "B": "Femoral común",
+        "C": "Pedia dorsal",
+        "D": "Poplítea",
+        "E": "Tibial posterior"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Paciente de 85 años, con alto riesgo quirúrgico por patología asociada, presenta síndrome de isquemia crónica en ambos miembros inferiores en grado IV de Fontaine por obstrucción iliofemoral bilateral. ¿Cuál es la conducta terapéutica correcta?",
+      "options": {
+        "A": "Bypass axilo-bifemoral",
+        "B": "Amputación de ambos miembros inferiores",
+        "C": "Tratamiento vasodilatador y anticoagulante",
+        "D": "Bypass aorto-bifemoral",
+        "E": "Endarterectomía global aorto-iliaca"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Paciente de 68 años sometido a triple bypass aortocoronario electivo, con historia de fatiga, baja de peso de 10 kg, hace 1 mes; además de dificultad para comer alimentos sólidos hace 2 semanas. Su historia incluye antecedente de esófago de Barrett, acalasia, abuso de alcohol, ingestión de lejía y tabaquismo de 30 años. La esófagogastroduodenoscopia confirma el diagnóstico de adenocarcinoma del esófago distal. ¿Cuál de las siguientes es el principal factor de riesgo para esta entidad?",
+      "options": {
+        "A": "Acalasia",
+        "B": "Abuso de alcohol",
+        "C": "Tabaquismo",
+        "D": "Esófago de Barret",
+        "E": "Ingestión de lejía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "La rotura traumática de aorta ocurre con más frecuencia:",
+      "options": {
+        "A": "Entre el origen de la arteria subclavia izquierda y el ligamento arterioso",
+        "B": "En la raíz de aorta, distal a las coronarias",
+        "C": "En la aorta descendente",
+        "D": "Antes de la salida de los troncos supraaórticos",
+        "E": "Entre el tronco braquiocefálico derecho y la arteria carótida izquierda"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

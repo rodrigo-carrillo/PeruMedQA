@@ -1,0 +1,1450 @@
+{
+  "metadata": {
+    "year": 2018,
+    "exam": "RADIOLOGIA",
+    "source_pdf": "RADIOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Radiología",
+    "sha256_pdf": "c9ec61911ae63dd4c89c6ae79df3fa691c74b09f7ee86e9b15291063d524689c",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:14",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Radiología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9927,
+        "vec_max_loser": 0.0073,
+        "pix_min_winner": 0.1979,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 19275,
+      "coverage_out_chars": 19275,
+      "human_reference": "_backup_csv_verificados/Year2018/RADIOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 43,
+        "identico": 557
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Mujer de 30 años, sin antecedente familiar para cáncer de mama. Examen físico: normal. Ecografía de mamas: microquistes agrupados sin lesión sólida interna. ¿A qué categoría BI RADS corresponde?",
+      "options": {
+        "A": "5",
+        "B": "1",
+        "C": "3",
+        "D": "4",
+        "E": "6"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuántas semanas se recomienda mantener un catéter de colecistostomía percutánea dentro de la vesícula antes de poder retirarse?",
+      "options": {
+        "A": "4-6",
+        "B": "8-10",
+        "C": "12-15",
+        "D": "1- 2",
+        "E": "2-3"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿En qué patología vascular, se encuentra el signo característico \"cabeza de medusa\" como hallazgo en RM cerebral?",
+      "options": {
+        "A": "Hemangioma cavernoso",
+        "B": "Malformación A-V",
+        "C": "Aneurisma",
+        "D": "Angioma venoso",
+        "E": "Trombosis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "¿Cuál es el signo ecográfico característico de la colecistitis enfisematosa?",
+      "options": {
+        "A": "Cálculos biliares",
+        "B": "Engrosamiento de pared vesicular",
+        "C": "Distensión vesicular",
+        "D": "Murphy ecográfico",
+        "E": "Gas en pared vesicular"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "¿Cuál es el comportamiento de señal en Resonancia Magnética de la hemorragia parenquimatosa cerebral en fase aguda (12-48 horas)?",
+      "options": {
+        "A": "Hiperintensa en T1 y T2",
+        "B": "Hipointensa en T1 y T2",
+        "C": "Intermedia en T1 , hiperintensa en T2",
+        "D": "Intermedia en T1, hipointensa en T2",
+        "E": "Hipointensa en T1 e hiperintensa en T2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Paciente con sospecha de infección fuera del sistema esquelético. ¿Qué estudio de medicina nuclear puede realizarse para detectar una infección oculta?",
+      "options": {
+        "A": "Leucocitos marcados con Indio-111",
+        "B": "Tecnecio-99m",
+        "C": "Yodo-123",
+        "D": "FDG",
+        "E": "Talio-201"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "En la descripción de un nódulo mamográfico. ¿Cuál es el margen que se caracteriza por ondulaciones de ciclo corto?",
+      "options": {
+        "A": "Microlobulado",
+        "B": "Circunscrito",
+        "C": "Oscurecido",
+        "D": "Indefinido",
+        "E": "Espiculado"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es el primer estudio radiológico que debe realizarse en los pacientes sintomáticos con enfermedad de Crohn?",
+      "options": {
+        "A": "Resonancia",
+        "B": "Tránsito intestinal",
+        "C": "Colon a doble contraste",
+        "D": "Tomografía",
+        "E": "Gammagrafía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "Varón de 50 años con cervicalgia prolongada, déficit sensitivo y debilidad motora. RM columna vertebral: lesión intramedular cervical central, delimitada, hipointensa en T1 e hiperintensa en T2, realce nodular con la sustancia de contraste. ¿Cuál es la primera posibilidad diagnóstica?",
+      "options": {
+        "A": "Ganglioglioma",
+        "B": "Hemangioma",
+        "C": "Ependimoma",
+        "D": "Astrocitoma",
+        "E": "Hemangioblastoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "¿Qué fármaco se utiliza en la colecistografía isotópica?",
+      "options": {
+        "A": "Gadolinio",
+        "B": "IDA con Tc-99m",
+        "C": "Tc-99m DTPA",
+        "D": "Yodo-123",
+        "E": "Indio-111"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Cuál es la indicación más frecuente de la embolización esplénica?",
+      "options": {
+        "A": "Púrpura trombocitopénica idiopática",
+        "B": "Aneurisma arterial esplénico",
+        "C": "Talasemia",
+        "D": "Hiperesplenismo por hipertensión portal",
+        "E": "Tumor esplénico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál es una contraindicación absoluta de fibrinólisis?",
+      "options": {
+        "A": "Hipertensión no controlada",
+        "B": "Endocarditis bacteriana",
+        "C": "Sangrado interno activo",
+        "D": "Retinopatía diabética",
+        "E": "Embarazo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Cuál es el tumor benigno que afecta con más frecuencia el retroperitoneo?",
+      "options": {
+        "A": "Paraganglioma",
+        "B": "Lipoma",
+        "C": "Linfangioma",
+        "D": "Hemangioma",
+        "E": "Teratoma maduro"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Mujer de 60 años acude a marcación con arpón bajo guía mamográfica. Mamografía: mama derecha con microcalcificaciones amorfas, agrupadas en cuadrantes inferointernos. ¿Cuál es la mejor incidencia mamográfica para que ingrese el arpón?",
+      "options": {
+        "A": "Lateromedial",
+        "B": "Craneal exagerada",
+        "C": "Interaxilar",
+        "D": "Caudocraneal",
+        "E": "Tangencial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "En una radiografía de tórax en posición de pie. ¿Cuál es el principal hallazgo radiológico asociado a derrame pleural no loculado?",
+      "options": {
+        "A": "Opacificación de un hemitórax",
+        "B": "Ensanchamiento mediastinal",
+        "C": "Concavidad en base pulmonar",
+        "D": "Aplanamiento del diafragma",
+        "E": "Borramiento del seno costofrénico"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿En cuál de los tumores óseos benignos, NO hay captación significativa en la gammagrafía ósea?",
+      "options": {
+        "A": "Osteoma osteoide",
+        "B": "Encondroma",
+        "C": "Osteocondroma",
+        "D": "Condroblastoma",
+        "E": "Histiocitoma fibroso"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "¿Cuál es el origen más frecuente de tumores del mediastino posterior en adultos?",
+      "options": {
+        "A": "Quístico",
+        "B": "Neurogénico",
+        "C": "Ganglionar",
+        "D": "Vascular",
+        "E": "Óseo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Qué órgano debe incluir la evaluación tomográfica en el estadiaje del cáncer de pulmón?",
+      "options": {
+        "A": "Duodeno",
+        "B": "Vesícula Biliar",
+        "C": "Suprarrenal",
+        "D": "Páncreas",
+        "E": "Estómago"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Cuál es la neoplasia cerebral extraaxial más frecuente en adultos?",
+      "options": {
+        "A": "Neurinoma",
+        "B": "Meningioma",
+        "C": "Hemangiopericitoma",
+        "D": "Teratoma",
+        "E": "Craneofaringioma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Cuál es la neoplasia maligna más frecuente en dar metástasis a la vesícula biliar?",
+      "options": {
+        "A": "Sarcoma",
+        "B": "Linfoma",
+        "C": "Melanoma",
+        "D": "Neuroblastoma",
+        "E": "Timoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Cuál es la complicación más frecuente en una biopsia por aspiración con aguja fina bajo guía ecográfica de nódulo tiroideo?",
+      "options": {
+        "A": "Hematoma carotideo",
+        "B": "Infección",
+        "C": "Punción traqueal",
+        "D": "Dolor",
+        "E": "Parálisis del nervio recurrente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cuál es la indicación más frecuente para la creación de un shunt portosistémico intrahepático transyugular (TIPS)?",
+      "options": {
+        "A": "Ascitis masiva persistente",
+        "B": "Hidrotórax refractario resistente",
+        "C": "Gastropatía hipertensiva portal",
+        "D": "Sangrado de várices gastroesofágicas",
+        "E": "Síndrome hepatorrenal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Mujer de 20 años, con historia de dismenorrea y sospecha de endometriosis diseminada. ¿Cuál es la técnica de imagen de elección para confirmar el diagnóstico?",
+      "options": {
+        "A": "Ecografía",
+        "B": "Tomografía",
+        "C": "Resonancia",
+        "D": "Radiografía",
+        "E": "Gammagrafía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "¿Cuál es la técnica que realiza una oclusión vascular temporal o permanente inducida por la administración intravascular de materiales a través de una vía percutánea?",
+      "options": {
+        "A": "Filtro en VCI",
+        "B": "Colecistostomía",
+        "C": "Drenaje biliar",
+        "D": "Fibrinolisis",
+        "E": "Embolización"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Qué estudio radiológico sirve para evaluar la uretra masculina anterior?",
+      "options": {
+        "A": "Uretrografía retrógrada",
+        "B": "Cistografía miccional",
+        "C": "Resonancia funcional",
+        "D": "Fluoroscopía",
+        "E": "Ecografía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "¿Cuál es el método radiológico de elección, en carcinoma de senos paranasales, para evaluar erosión, remodelación, matriz ósea y calcificaciones?",
+      "options": {
+        "A": "F-FDG PET",
+        "B": "Ecografía",
+        "C": "Radiografía",
+        "D": "Tomografía",
+        "E": "Resonancia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Cuál es el método imagenológico de elección para determinar el estadiaje local en el cáncer endometrial?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Ecografía",
+        "C": "F-FDG PET",
+        "D": "Radiografía",
+        "E": "Resonancia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Gestante de 32 semanas. Ecografía obstétrica: feto único activo con discrepancia progresiva de la edad gestacional según la longitud femoral y el DBP, rizomelia, mano en tridente, macromelia, abombamiento de la frente, nariz en silla de montar y tórax normal. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hipofosfatasa congénita",
+        "B": "Acondroplasia",
+        "C": "Acondrogénesis",
+        "D": "Displasia tanatofórica",
+        "E": "Osteogénesis imperfecta"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál es el método diagnóstico que requiere la inyección intravenosa de una pequeña cantidad de un radiofármaco que se absorbe en los huesos?",
+      "options": {
+        "A": "Resonancia",
+        "B": "Ecografía",
+        "C": "Mamografía",
+        "D": "Gammagrafía",
+        "E": "Tomografía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Cuál es el criterio tomográfico diagnóstico de los adenomas suprarrenales benignos?",
+      "options": {
+        "A": "Realce intenso con contraste",
+        "B": "Masa de densidad inferior a 10 UH",
+        "C": "Washout tardío",
+        "D": "Masa de densidad superior a 50 UH",
+        "E": "Porcentaje de contraste que desaparece menor a 50%"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Varón de 30 años, buzo profesional, refiere dolor crónico de la cadera derecha. RM de caderas: hipointensidad semilunar en el hueso subcondral en T1 y T2 de la cabeza femoral derecha (signo de la medialuna). Gammagrafía: hipercaptación. ¿En qué etapa de necrosis avascular se encuentra?",
+      "options": {
+        "A": "IV",
+        "B": "V",
+        "C": "III",
+        "D": "II",
+        "E": "I"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "Paciente anciano se presenta con dolor agudo en el cuadrante inferior izquierdo. La sospecha clínica es diverticulitis. ¿Qué examen de elección debería realizarse?",
+      "options": {
+        "A": "Ecografía Doppler",
+        "B": "Tomografía",
+        "C": "Radiografía a doble contraste",
+        "D": "Tránsito intestinal",
+        "E": "Resonancia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Mujer con diagnóstico de cáncer de cérvix y conglomerados ganglionares en pelvis que condiciona dolor y anuria. ¿Cuál es el procedimiento intervencionista a realizar?",
+      "options": {
+        "A": "Urografía excretora",
+        "B": "Pielografía ascendente",
+        "C": "Nefrostomía percutánea",
+        "D": "Uretrocistografía",
+        "E": "Nefrolitotomía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "¿Cuál es el examen radiológico indicado para evaluar permeabilidad de trompas uterinas?",
+      "options": {
+        "A": "Ecografía",
+        "B": "Tomografía",
+        "C": "Resonancia",
+        "D": "Histerosonografía",
+        "E": "Histerosalpingografía"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "En relación al cáncer de tiroides y el uso del PET-CT, señale la respuesta correcta:",
+      "options": {
+        "A": "La recaptación de FDG es indicativo de un tipo de tumor no agresivo",
+        "B": "Los carcinomas medular y anaplásico no son ávidos por FDG",
+        "C": "Existen falsos negativos en los casos de infección o inflamación",
+        "D": "No sirve para lesiones que no concentran yodo pero producen tiroglobulina",
+        "E": "El carcinoma diferenciado de tiroides, generalmente no es ávido a la FDG"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Paciente acude a control post tratamiento por cáncer papilar de tiroides. ¿Qué grupos ganglionares cervicales son más sospechosos de presentar metástasis?",
+      "options": {
+        "A": "I y II",
+        "B": "V y VI",
+        "C": "III y IV",
+        "D": "I y VII",
+        "E": "II y V"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "En relación a los filtros de vena cava inferior. ¿Cuál es la respuesta correcta?",
+      "options": {
+        "A": "No es necesario realizar cavografía previa",
+        "B": "Deben colocarse en su mayoría por encima de la vena renal",
+        "C": "Se colocan de rutina en mujeres embarazadas",
+        "D": "Tasa de recurrencia de TEP es alta posterior a su uso",
+        "E": "Evitan la tromboembolia pulmonar originada en miembros inferiores"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál es el estudio radiológico indicado para la valoración de una paciente con presencia de masa pélvica?",
+      "options": {
+        "A": "Histerosalpingografia",
+        "B": "Ecografía",
+        "C": "Radiografía",
+        "D": "Tránsito intestinal",
+        "E": "Fluoroscopía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿Cuáles son las estructuras vasculares más utilizadas en las fístulas arteriovenosas para hemodiálisis?",
+      "options": {
+        "A": "Humerocefálica",
+        "B": "Axilohumeral",
+        "C": "Radiocubital",
+        "D": "Femorotibial",
+        "E": "Tibioperoneo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "En cáncer de pene. ¿Qué método de diagnóstico se utiliza para evaluar extensión del compromiso del pene, luego de una erección artificial?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Ecografía",
+        "C": "F-FDG PET",
+        "D": "Radiografía",
+        "E": "Resonancia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Paciente con diagnóstico de silicosis simple. TC de tórax: nódulos pulmonares bien definidos de 1 a 10 mm. ¿Cuál es su ubicación más frecuente?",
+      "options": {
+        "A": "Inferior izquierdo",
+        "B": "Superior derecho",
+        "C": "Mediolateral",
+        "D": "Língula",
+        "E": "Lateral izquierdo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Cuál es el tumor benigno de la parótida más frecuente?",
+      "options": {
+        "A": "Tumor de Whartin",
+        "B": "Adenoma pleomorfo",
+        "C": "Hemangioma capilar",
+        "D": "Linfangioma quístico",
+        "E": "Schwannoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "¿En qué porcentaje mejora la exactitud diagnóstica del cáncer, la fusión de las modalidades de imágenes de la tomografía de emisión de positrones (PET) con la tomografía computarizada (TC)?",
+      "options": {
+        "A": "20",
+        "B": "40",
+        "C": "70",
+        "D": "90",
+        "E": "10"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Varón de 30 años, sufre traumatismo cerebral por accidente de tránsito. TC cerebral: normal. RM cerebral: focos hiperintensos en T2 en la sustancia blanca cerebral, cerebelosa y en el tronco cerebral, sin realce con la sustancia de contraste. ¿Cuál es la primera posibilidad diagnóstica?",
+      "options": {
+        "A": "Hematoma epidural",
+        "B": "Hemorragia subaracnoidea",
+        "C": "Lesión axonal difusa",
+        "D": "Hematoma subdural",
+        "E": "Hemangioma venoso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Qué tipo de lesión aparece con más frecuencia en el mediastino medio?",
+      "options": {
+        "A": "Quiste",
+        "B": "Timoma",
+        "C": "Adenopatía",
+        "D": "Teratoma",
+        "E": "Linfoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuál es la técnica de elección en el carcinoma de orofaringe, para estadiar los ganglios linfáticos cervicales de tamaño normal que tienen metástasis?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Ecografía",
+        "C": "Radiografía",
+        "D": "Resonancia",
+        "E": "F-FDG PET"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Qué órgano es el sitio más común de metástasis en el carcinoma de células renales?",
+      "options": {
+        "A": "Óseo",
+        "B": "Hígado",
+        "C": "Pulmón",
+        "D": "Páncreas",
+        "E": "Bazo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "En la clasificación de Bosniak de los quistes renales. ¿Qué tipo corresponde a la descripción tomográfica de imagen quística con fina calcificación mural, sin realce con la sustancia de contraste?",
+      "options": {
+        "A": "III",
+        "B": "I",
+        "C": "IV",
+        "D": "II",
+        "E": "V"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál es la complicación relativamente infrecuente en una colecistostomía percutánea con abordaje subcostal?",
+      "options": {
+        "A": "Hemorragia",
+        "B": "Infección",
+        "C": "Peritonitis",
+        "D": "Neumotórax",
+        "E": "Aspiración"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál es un signo directo por TC en un paciente con sospecha de lesión aguda de la aorta torácica?",
+      "options": {
+        "A": "Pseudoaneurisma",
+        "B": "Hematoma periaórtico",
+        "C": "Infarto esplénico",
+        "D": "Formación de trombos",
+        "E": "Embolia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Qué estructuras encefálicas están mayormente comprometidas en la atrofia cerebral de Pick?",
+      "options": {
+        "A": "Lóbulos frontales y temporales",
+        "B": "Lóbulos parietales",
+        "C": "Protuberancia anular",
+        "D": "Bulbo raquídeo",
+        "E": "Lóbulos occipitales."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuál es la indicación para un enema de bario con contraste simple?",
+      "options": {
+        "A": "Diarrea acuosa",
+        "B": "Dolor abdominal",
+        "C": "Detectar cáncer",
+        "D": "Sospecha de fístula",
+        "E": "Sangrado rectal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "Paciente que durante estudio tomográfico de abdomen con contraste yodado, para despistaje de cáncer, presenta una reacción anafiláctica severa; por lo cual se asegura la vía aérea, se administra oxígeno y suero salino. ¿Cuál es el medicamento a utilizar de forma inmediata?",
+      "options": {
+        "A": "Dexametasona",
+        "B": "Adrenalina",
+        "C": "Ketamina",
+        "D": "Clorfeniramina",
+        "E": "Diazepam"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Cuál es la característica ecográfica sospechosa de un nódulo tiroideo maligno?",
+      "options": {
+        "A": "Hiperecogénico",
+        "B": "Espongiforme",
+        "C": "Más alto que ancho",
+        "D": "Vascularidad periférica",
+        "E": "Margen definido"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Varón de 30 años, con debilidad progresiva de extremidades inferiores de larga data. Radiografía ósea: normal. Gammagrafía ósea: captación difusa e intensa en la mayor parte de los grupos musculares. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Miositis diseminada",
+        "B": "Hematoma",
+        "C": "Sarcoma",
+        "D": "Fibromialgia",
+        "E": "Distensión muscular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "En una TC de abdomen. ¿A partir de cuántos grados de contigüedad del cáncer pancreático con la vena porta y vasos mesentéricos superiores, se considera irresecable?",
+      "options": {
+        "A": "180",
+        "B": "150",
+        "C": "120",
+        "D": "90",
+        "E": "60"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿A qué clasificación TI RADS corresponde un quiste simple de 5 mm?",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "4",
+        "D": "2",
+        "E": "5"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Cuál es la lesión que al estudio ecográfico presenta una masa renal hiperecogénica, de contornos definidos, con sombra acústica posterior y sin calcificaciones?",
+      "options": {
+        "A": "Linfoma",
+        "B": "Hematoma",
+        "C": "Metástasis",
+        "D": "Oncocitoma",
+        "E": "Angiomiolipoma"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿En una ecografía transvaginal, realizada a una gestante, a partir de que semana se observa el saco gestacional?",
+      "options": {
+        "A": "11",
+        "B": "13",
+        "C": "5",
+        "D": "7",
+        "E": "9"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál de las siguientes patologías corresponde a un trastorno de la migración neuroblástica cerebral?",
+      "options": {
+        "A": "Holoprosencefalia",
+        "B": "Malformación de Chiari",
+        "C": "Malformación de Dandy-walker",
+        "D": "Lisencefalia",
+        "E": "Disgenesia del cuerpo calloso"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuál es el hallazgo tomográfico más indicativo de pancreatitis crónica?",
+      "options": {
+        "A": "Aumento focal del tamaño del páncreas",
+        "B": "Dilatación del conducto pancreático",
+        "C": "Intenso realce del parénquima con el contraste",
+        "D": "Calcificaciones pancreáticas intraductales",
+        "E": "Atrofia del parénquima pancreático"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "La torsión testicular es una urgencia quirúrgica. ¿Cuál es el examen imagenológico para confirmarla?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Ecografía Doppler-color",
+        "C": "Gammagrafía con yodo 131",
+        "D": "Resonancia",
+        "E": "Uretrocistografía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Varón de 50 años acude a control por cáncer de tiroides. TC de tórax: nódulo pulmonar de contornos definidos de 10 mm con densidad grasa y macrocalcificaciones (palomitas de maíz). ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hematoma",
+        "B": "Papiloma",
+        "C": "Granuloma",
+        "D": "Hamartoma",
+        "E": "Metástasis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "¿Cuál es el medio donde se introduce las muestras histológicas obtenidas en una biopsia percutánea de mama?",
+      "options": {
+        "A": "Alcohol",
+        "B": "Bencina",
+        "C": "Yodo",
+        "D": "Formol",
+        "E": "Agua"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "En las fracturas ocasionadas por maltrato infantil. ¿Cuál es la estructura anatómica más afectada?",
+      "options": {
+        "A": "Tercio medio de clavícula",
+        "B": "Metatarsiano",
+        "C": "Arcos costales posteriores",
+        "D": "Húmero diafisiario",
+        "E": "Sacro coccígeo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es el hallazgo radiológico más frecuente en un mesotelioma maligno?",
+      "options": {
+        "A": "Desplazamiento del mediastino",
+        "B": "Engrosamiento pleural irregular",
+        "C": "Pérdida de volumen del hemitórax",
+        "D": "Derrame pleural loculado",
+        "E": "Masa en cisura interlobular"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿En un estudio mamográfico, que porcentaje de asimetrías en desarrollo, representan lesiones malignas?",
+      "options": {
+        "A": "15",
+        "B": "30",
+        "C": "45",
+        "D": "60",
+        "E": "75"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Paciente con dolor intenso en el flanco, después de estar caminando todo el día. ¿Qué examen debe solicitar para confirmar litiasis renal como causa del dolor?",
+      "options": {
+        "A": "Tomografía",
+        "B": "PET-CT",
+        "C": "Ecografía",
+        "D": "Radiografía",
+        "E": "Resonancia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Cuál es la técnica de imagen para realizar un drenaje percutáneo de un absceso renal?",
+      "options": {
+        "A": "Gammagrafía",
+        "B": "Fluoroscopía",
+        "C": "Resonancia",
+        "D": "Ecografía",
+        "E": "Radiografía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuántas veces más equivale la dosis de radiación que absorbe un paciente durante la TC de abdomen en comparación con una radiografía de tórax?",
+      "options": {
+        "A": "50-75",
+        "B": "300-350",
+        "C": "80-90",
+        "D": "100-250",
+        "E": "30-50"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "¿Cuál es la mejor prueba gammagráfica para detección de tejido esplénico?",
+      "options": {
+        "A": "Con uso de DTPA",
+        "B": "Marcada con eritrocitos labilizados con calor",
+        "C": "Con eritrocitos marcados con Iodo 131",
+        "D": "Con eritrocitos marcados con Tecnecio 99m",
+        "E": "Con uso de Xenon 133"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Qué radiofármaco se usa en la gammagrafía ósea?",
+      "options": {
+        "A": "Yodo 123",
+        "B": "Tc-99m",
+        "C": "Galio 67",
+        "D": "Talio 201",
+        "E": "Indio 111"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "¿Qué fase de la TC con contraste detecta la extensión venosa del carcinoma de células renales?",
+      "options": {
+        "A": "Venosa",
+        "B": "Nefrográfica",
+        "C": "Corticomedular",
+        "D": "Excretora",
+        "E": "Portal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Paciente de 60 años con diagnóstico de astrocitoma cerebral, quien recibió radioterapia. ¿Qué técnica de imagen utilizaría para diferenciar tumor residual o recurrente de una necrosis por radiación?",
+      "options": {
+        "A": "Resonancia",
+        "B": "Tomografía computarizada",
+        "C": "Angiografía digital",
+        "D": "Tomografía por emisión de positrones",
+        "E": "Gammagrafía de perfusión"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Niño de 2 años con dolor abdominal tipo cólico intermitente que le genera irritabilidad y llanto, además presenta heces en mermelada de grosella y masa abdominal palpable. Ecografía abdominal: imagen de seudoriñón en flanco derecho. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Apendicitis",
+        "B": "Hernia inguinal",
+        "C": "Intususcepción",
+        "D": "Vólvulo",
+        "E": "Adherencias"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿Cuál es el grado que corresponde al hallazgo de inflamación pancreática y peripancreática, en la clasificación tomográfica de pancreatitis aguda?",
+      "options": {
+        "A": "C",
+        "B": "A",
+        "C": "B",
+        "D": "D",
+        "E": "E"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Paciente de 60 años con sospecha de mieloma múltiple. ¿Cuál es el primer método diagnóstico que evalúa lesión ósea?",
+      "options": {
+        "A": "Gammagrafía",
+        "B": "Radiografía",
+        "C": "Resonancia",
+        "D": "Tomografía",
+        "E": "Ecografía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Paciente con obesidad mórbida es llevado a emergencia por accidente de tránsito. Examen: palidez, dolor abdominal y taquicardia. Ecografía: no presenta líquido libre. ¿Cuál es el siguiente método de diagnóstico a realizar?",
+      "options": {
+        "A": "Resonancia sin contraste",
+        "B": "Tomografía con contraste",
+        "C": "Radiografía convencional",
+        "D": "Resonancia con contraste",
+        "E": "Tomografía sin contraste"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Mujer de 56 años con nódulo palpable en mama derecha. Mamografía: patrón mamario D. Ecografia: quiste de pared imperceptible, con ecos tenues y homogéneos, con vascularización periférica sin componente sólido en su interior. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Quiste complejo",
+        "B": "Quiste simple",
+        "C": "Colección simple",
+        "D": "Quiste complicado",
+        "E": "Colección mixta"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Mujer de 40 años de edad, acude a chequeo mamográfico de tamizaje. Mamografía derecha: calcificaciones agrupadas menos definidas en la proyección craneocaudal que en el oblicuo medio lateral, por lo que se indica una proyección adicional de 90° (lateral estricta), encontrándose calcificaciones semilunares, curvilíneas o lineales. ¿Cuál es el tipo de calcificación?",
+      "options": {
+        "A": "Leche cálcica",
+        "B": "Hilos de sutura",
+        "C": "Distróficas",
+        "D": "Macrocalcificaciones",
+        "E": "Redondeadas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "¿Cuál es el lugar más frecuente de metástasis en el carcinoma de células renales?",
+      "options": {
+        "A": "Hueso",
+        "B": "Pulmón",
+        "C": "Hígado",
+        "D": "Suprarrenal",
+        "E": "Páncreas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Varón de 70 años con diagnóstico de neumonía y tratamiento interrumpido. TC de tórax: zona de consolidación con imagen redondeada e irregular que muestra vascularización centrípeta. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Empiema",
+        "B": "Hemotórax",
+        "C": "Hidrotórax",
+        "D": "Atelectasia",
+        "E": "Absceso"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿En qué parte del riñón se origina el carcinoma de células renales?",
+      "options": {
+        "A": "Túbulos proximales",
+        "B": "Glomérulo",
+        "C": "Túbulos distales",
+        "D": "Asa de Henle",
+        "E": "Tubo colector"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "¿Cuál de los radiofármacos de yodo se utiliza en gammagrafía de tiroides?",
+      "options": {
+        "A": "123",
+        "B": "128",
+        "C": "133",
+        "D": "138",
+        "E": "143"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Varón de 50 años acude a consulta médica por presentar acidez, disfagia a nivel subesternal y dolor abdominal superior. ¿Qué examen radiológico contrastado le indicaría?",
+      "options": {
+        "A": "Esófagograma",
+        "B": "Tránsito intestinal",
+        "C": "Colon doble contraste",
+        "D": "Esófagogastroduodenal",
+        "E": "Enteroclisis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "¿Cuál es la indicación de drenaje biliar transhepático percutáneo?",
+      "options": {
+        "A": "Colecistitis",
+        "B": "Pancreatitis",
+        "C": "Colangitis",
+        "D": "Hepatitis",
+        "E": "Ascitis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es la ubicación más frecuente de un embarazo ectópico?",
+      "options": {
+        "A": "Ovario",
+        "B": "Cérvix",
+        "C": "Abdomen",
+        "D": "Trompa",
+        "E": "Endometrio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "En la calidad de imagen ecográfica mamaria. ¿Cuál es el factor que se refiere a la configuración de la profundidad de tejido que aparece en el monitor que incluye al parenquima fibroglandular y el músculo pectoral?",
+      "options": {
+        "A": "Frecuencia del transductor",
+        "B": "Zona focal",
+        "C": "Imagen compuesta",
+        "D": "Ganancia en escala de grises",
+        "E": "Campo de la imagen"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Gestante de 30 semanas acude a control. Ecografía: feto único activo, cerebro con dilatación quística y agrandamiento del 4to ventrículo, hipoplasia del vermis y elevación del tentorium. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Malformación de Dandy Walker",
+        "B": "Megacisterna magna",
+        "C": "Quiste aracnoideo de la fosa posterior",
+        "D": "Quiste de la bolsa de blake",
+        "E": "Hipoplasia pontocerebelar"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es el mejor método de imágenes para estudiar los traumatismos abdominales?",
+      "options": {
+        "A": "PET-CT",
+        "B": "Gammagrafía",
+        "C": "Resonancia",
+        "D": "Tomografía",
+        "E": "Ecografía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "En una radiografía simple de abdomen. ¿Qué estructuras participan en el signo de la doble burbuja?",
+      "options": {
+        "A": "Duodeno e íleon",
+        "B": "Estómago y bulbo duodenal",
+        "C": "Yeyuno e íleon",
+        "D": "Íleon y colon ascendente",
+        "E": "Esófago y yeyuno"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "¿Cuál de los siguientes métodos diagnósticos NO forma parte del abordaje estándar al momento del diagnóstico, ni en el seguimiento del cáncer de riñón?",
+      "options": {
+        "A": "Ecografía",
+        "B": "Tomografía",
+        "C": "Resonancia",
+        "D": "PET CT",
+        "E": "Gammagrafía ósea"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Cuál es la causa más frecuente de invaginación colónica en los adultos?",
+      "options": {
+        "A": "Cáncer",
+        "B": "Divertículo",
+        "C": "Pólipo",
+        "D": "Adenoma",
+        "E": "Lipoma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Cuál es el hueso del carpo que se fractura con mayor frecuencia?",
+      "options": {
+        "A": "Semilunar",
+        "B": "Piramidal",
+        "C": "Escafoides",
+        "D": "Pisiforme",
+        "E": "Trapecio"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Mujer postmenopáusica con sangrado vaginal. ¿Qué examen imagenológico valora mejor el endometrio?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Ecografía transvaginal",
+        "C": "Histerosalpingografía",
+        "D": "Fluoroscopía",
+        "E": "F-FDG PET"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Cuál es la indicación para realizar una nefrostomía percutánea urgente?",
+      "options": {
+        "A": "Pionefrosis",
+        "B": "Retiro de cálculo",
+        "C": "Acceso para intervención ureteral",
+        "D": "Preservar función renal",
+        "E": "Curación de fístula"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Cuál es el tipo de tumor pielocalicial renal más frecuente?",
+      "options": {
+        "A": "Carcinoma de células renales",
+        "B": "Linfoma",
+        "C": "Leiomioma",
+        "D": "Carcinoma de células transicionales",
+        "E": "Oncocitoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál es el nombre de la fractura transversa de la base del quinto metatarsiano?",
+      "options": {
+        "A": "Barton",
+        "B": "Bennett",
+        "C": "Freiberg",
+        "D": "Jones",
+        "E": "Segond"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Varón de 40 años, con hipoacusia neurosensorial, acúfenos, mareos, trastorno de la marcha y cefalea. RM del ángulo pontocerebeloso: lesión de señal intermedia en T1 con intenso refuerzo con la sustancia de contraste, aspecto de \"cono de helado\" en el ángulo pontocerebeloso derecho. ¿Cuál es su primera posibilidad diagnóstica?",
+      "options": {
+        "A": "Neurinoma",
+        "B": "Meningioma",
+        "C": "Hemangioma",
+        "D": "Condrosarcoma",
+        "E": "Granuloma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Lactante prematuro presenta distensión abdominal, vómitos, sangre en heces, letargia y fiebre. Radiografía de abdomen simple: asas intestinales distendidas en forma asimétrica y patrón moteado de aire en la pared intestinal. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Enterocolitis necrotizante",
+        "B": "Estenosis del píloro",
+        "C": "Divertículo de Meckel",
+        "D": "Vólvulo intestinal",
+        "E": "Intususcepción"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

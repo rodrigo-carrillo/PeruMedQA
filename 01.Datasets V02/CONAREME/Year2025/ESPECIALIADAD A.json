@@ -1,0 +1,1349 @@
+{
+  "metadata": {
+    "year": 2025,
+    "exam": "ESPECIALIADAD A",
+    "source_pdf": "ESPECIALIADAD A.pdf",
+    "exam_type": "Especialidad",
+    "exam_title": "Prueba A",
+    "sha256_pdf": "cc4fe7436f2a408360bc265d87e287971212b37e169c1a17b134bc4e596540ce",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:31:04",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 12,
+      "exam_type": "Especialidad",
+      "exam_title": "Prueba A",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 1.0,
+        "vec_max_loser": 0.0569,
+        "pix_min_winner": 0.5876,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 32496,
+      "coverage_out_chars": 32496,
+      "human_reference": "_backup_csv_verificados/Year2025/ESPECIALIADAD A.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 95,
+        "identico": 405
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Varón de 65 años con antecedente de hipertensión arterial, acude por cefalea intensa, convulsiones y edema de papila. Examen: PA: 190/120 mmHg. ¿Cuál es el medicamento inicial a usar?",
+      "options": {
+        "A": "Labetalol",
+        "B": "Hidralazina",
+        "C": "Nitroprusiato",
+        "D": "Nitroglicerina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Mujer de 32 años asintomática que acude por chequeo. Al examen de mama a la expresión de uno de los pezones sale secreción blanco lechoso. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Solicitar prolactina",
+        "B": "Mamografía",
+        "C": "Ecografía de mamas",
+        "D": "Observación"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál es el sitio más frecuente de implantación del blastocisto?",
+      "options": {
+        "A": "Fondo uterino",
+        "B": "Segmento inferior del útero",
+        "C": "Cérvix uterino",
+        "D": "Cuerno uterino"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Varón de 43 años, llevado a urgencias porque sufrió hace 30 minutos impacto de timón en el tórax por accidente de tránsito. Presenta disnea intensa, dolor torácico izquierdo, taquipnea. Examen: PA:80/40 mmHg, FC: 100X', FR: 36X'; cianosis distal, movimiento paradojal de la pared torácica. RX: múltiples fracturas costales izquierdas. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Colocación de catéter central",
+        "B": "Ventilación no invasiva",
+        "C": "Fijación costal quirúrgica",
+        "D": "Intubación orotraqueal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Varón de 27 años, acude a consulta por visión doble y caída del párpado derecho. Examen: se evidencia pupila derecha dilatada con incapacidad para mover el ojo hacia el lado nasal ¿Cuál es el par craneal comprometido?",
+      "options": {
+        "A": "VI",
+        "B": "I",
+        "C": "III",
+        "D": "IV"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Mujer de 58 años con antecedentes de litiasis renal recurrente, presenta fiebre de 39.2 °C, vómitos y dolor lumbar izquierdo de 48 horas de evolución. Examen: PA: 90/60 mmHg, FC: 120X', dolor en fosa lumbar izquierda. Leucocitosis. Tomografía abdomino pélvica: litiasis obstructiva en uréter proximal izquierdo, dilatación del sistema pielocalicial y absceso perinéfrico. ¿Cuál es la intervención inicial más adecuada?",
+      "options": {
+        "A": "Litotricia extracorpórea y seguimiento con antibióticos",
+        "B": "Derivación urinaria urgente con catéter doble J y nefrostomía percutánea",
+        "C": "Antibióticos de amplio espectro y nefrectomía diferida",
+        "D": "Drenaje quirúrgico del absceso sin derivación urinaria"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Preescolar de 4 años, contacto de familiar con TB pulmonar acude a control presentando un resultado de PPD de 12 mm. Asintomático. Antecedentes: inmunizaciones completas. Examen físico normal. Rx de tórax sin hallazgos. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Reacción cruzada a BCG",
+        "B": "Infección por Mycobacterium tuberculosis",
+        "C": "Enfermedad por Mycobacterium tuberculosis",
+        "D": "Exposición a Mycobacterium tuberculosis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Varón de 64 años con diagnóstico de enfermedad pulmonar obstructiva crónica, ingresa a emergencia por descompensación. Examen: FR: 32X'. Laboratorio: pH: 7.24, PaCO2: 62 mmHg, PaO2: 55 mmHg. ¿Qué tipo de receptores son los más sensibles a los cambios de CO2?",
+      "options": {
+        "A": "Quimiorreceptores centrales bulbo raquídeo",
+        "B": "Receptores J (yuxtacapilares)",
+        "C": "Receptores de estiramiento pulmonar",
+        "D": "Quimiorreceptores periféricos en los cuerpos carotídeos y aórticos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "Varón de 38 años, gasfitero, presenta fiebre, escalofríos, cefalea frontal intensa, náusea, vómitos, dolor abdominal inespecífico, congestión conjuntival, mialgia intensa y fotofobia. Examen: febril, ictérico, PA: 105/75 mmHg, FC: 68 X', congestión conjuntival y faríngea, sensibilidad muscular, adenomegalia cervical, meningismo y hepatoesplenomegalia. Crepitantes en hemitórax derecho. ¿Cuál es el tratamiento indicado?",
+      "options": {
+        "A": "Gentamicina",
+        "B": "Sulfametoxazol",
+        "C": "Penicilina",
+        "D": "Metronidazol"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Varón de 46 años, hace una hora sufre impacto de proyectil de arma de fuego en abdomen. Examen: PA: 60/40 mmHg, FC: 100X'. Pálido. Tórax: MV normal. Cardiovascular: RC disminuidos de intensidad. Abdomen: distendido, orificio en mesogastrio, RHA disminuidos, signo de rebote (+). ¿Cuál es la indicación inmediata?",
+      "options": {
+        "A": "Laparatomía exploratoria",
+        "B": "Laparoscopía diagnóstica",
+        "C": "Exploración de la herida",
+        "D": "FAST"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Varón de 45 años, obeso y con diabetes mellitus no controlada, acude al servicio de urgencias por una gangrena de Fournier. Examen: PA: 120/60 mmHg, FC: 86X', FR: 24X'. Región anorectal: celulitis con edema y necrosis marcada con afectación del esfínter anal externo. ¿Qué tipo de colostomía es la más indicada?",
+      "options": {
+        "A": "En caño de escopeta",
+        "B": "Bocas separadas por piel",
+        "C": "En asa derecha",
+        "D": "En asa izquierda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Varón de 74 años con EPOC moderado (FEV1 50%), acude por disnea marcada, tos con esputo mucoso y tendencia a la somnolencia. Examen: PA: 110/70 mmHg, FC: 92X', FR: 28X'; SatO2: 87%, FiO2: 21%; pulmones: tirajes, roncantes bibasales; neurológico: somnoliento y por momentos agitado. Laboratorio: pH: 7.29, PCO2: 55 mmHg, PO2: 62 mmHg. ¿Cuál es el hallazgo más importante para manejo intrahospitalario?",
+      "options": {
+        "A": "Acidosis respiratoria",
+        "B": "Neumonía atípica",
+        "C": "Delirio hiperactivo",
+        "D": "Insuficiencia cardíaca"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Varón de 25 años post laparotomía por apendicitis complicada y peritonitis generalizada; al cuarto día posoperatorio presenta distensión abdominal, náusea y vómitos. Examen: abdomen distendido y doloroso, RHA: ausentes, SNG: 1000 ml de líquido verdoso. Electrolitos normales. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Perforación intestinal",
+        "B": "Obstrucción por bridas",
+        "C": "Íleo paralítico",
+        "D": "Síndrome de Ogilvie"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Según la norma técnica peruana para el manejo de la anemia en lactantes; si la suspensión del suplemento de hierro es mayor a 3 meses, debe...",
+      "options": {
+        "A": "continuar el tratamiento hasta los dos años.",
+        "B": "continuar el tratamiento por 6 meses.",
+        "C": "reiniciar la indicación hasta completar el esquema previamente indicado.",
+        "D": "iniciar un nuevo esquema, previa evaluación de hemoglobina."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Varón de 80 años, hace 2 semanas presenta cefalea, náusea, vómito y luego se agrega somnolencia y convulsiones. Tomografía cerebral signos de atrofia cortical. Punción lumbar: leucocitos 200/µL, hipoglucorraquia y presencia de bacilos gram positivos. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Oxacilina",
+        "B": "Ceftriaxona",
+        "C": "Ampicilina",
+        "D": "Aciclovir"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Mujer de 21 años, solicita información sobre screening para cáncer de cuello uterino; que no manifiesta sus antecedentes sexuales. ¿Cuál es la indicación?",
+      "options": {
+        "A": "Observación",
+        "B": "Test de Cobas",
+        "C": "Prueba conjunta",
+        "D": "Citología cervical"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Primigesta de 32 semanas por ecografía del primer trimestre; acude a control prenatal asintomática. Examen: AU: 27 cm, SPP: LCI, LCF: 142X´. Ecografía: gestación única activa con ponderado fetal en percentil 2 y doppler fetal normal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Error en la edad gestacional",
+        "B": "Restricción en el crecimiento intrauterino",
+        "C": "Crecimiento adecuado para la edad gestacional",
+        "D": "Pequeño para la edad gestacional"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Mujer de 42 años, acude a emergencia por dolor torácico y palpitaciones luego de consumo de cocaína. Examen: PA: 110/70 mmHg, FC: 135X', FR: 23X', T°: 36.5 °C, SatO2: 97%. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Taquicardia nodal",
+        "B": "Taquicardia supraventricular",
+        "C": "Taquicardia sinusal",
+        "D": "Taquicardia auricular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Tercigesta de 33 semanas, cesareada anterior dos veces; acude por sangrado vaginal indoloro. Examen: AU: 30 cm, SPP: LCD, LCF 144X'. Ecografía obstétrica: gestación única activa con ponderado fetal en percentil 60. Placenta cubre la totalidad del OCI y presenta ademas lagunas vasculares, adelgazamiento miometrio retroplacentario y vasos puente. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Rotura uterina",
+        "B": "Espectro de acretismo placentario",
+        "C": "Hematoma retroplacentario",
+        "D": "Rotura de vasa previa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Mujer de 38 años, acude por cefalea y convulsiones tónico clónicas generalizadas de larga data. Resonancia cerebral informa dos quistes parenquimatosos compatibles con neurocisticercosis. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Albendazol y Praziquantel",
+        "B": "Praziquantel",
+        "C": "Prednisona",
+        "D": "Albendazol"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Mujer de 19 años, acude por sensación de miedo, sudoración, palpitaciones, dolor torácico y sensación de temor; refiere que desde hace más de un mes presenta este episodio y le preocupa mucho. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "De ansiedad generalizada",
+        "B": "De angustia",
+        "C": "Obsesivo compulsivo",
+        "D": "Fóbico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Primípara de 32 años, Rh negativo; actualmente puérpera de 96 horas de parto vaginal, manifiesta que su hijo es Rh positivo y ella no ha recibido inmunoglobulina anti-D durante su embarazo, ni en el puerperio inmediato. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Diferir inmunoglobulina anti-D hasta el próximo embarazo",
+        "B": "Administrar corticoides intramuscular",
+        "C": "Solicitar prueba de coombs indirecta",
+        "D": "Colocar inmunoglobulina anti-D inmediatamente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Varón de 70 años, acude a consulta, porque hace 8 meses presenta dolor epigástrico constante que no mejora a la ingesta de alimentos, llenura precoz y melena. Examen: MEN, REH, adenopatía supraclavicular izquierda. Abdomen: se palpa masa dolorosa en epigastrio. Laboratorio: Hb: 8 g/dL. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "NM gástrico",
+        "B": "Úlcera duodenal",
+        "C": "Linfoma gástrico",
+        "D": "Tumor de Pancoast"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Varón de 14 años post amigdalectomizado presenta alteración del gusto. Examen: ageusia en el tercio posterior de la lengua, anestesia de la faringe, sequedad oral parcial y dificultad en la deglución. ¿Qué par craneal se encuentra comprometido?",
+      "options": {
+        "A": "IX",
+        "B": "VII",
+        "C": "XI",
+        "D": "XII"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Lactante de 9 meses, desde hace 3 días presenta fiebre y vómitos frecuentes. Examen: T°: 39 ºC, piel caliente, poco elástica. Laboratorio: leucocitos 20,000/µL, abastonados: 700/µL; examen de orina: nitrito positivo y 100 leucocitos/campo. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Hospitalizar para hidratación y antibioticoterapia parenteral",
+        "B": "Iniciar hidratación por vía oral e indicar antibioticoterapia oral",
+        "C": "Administrar antibioticoterapia parenteral",
+        "D": "Realizar ecografía renal para descartar absceso"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Desde hace tres años, el centro de salud ubicado en el ámbito de una comunidad cuya principal actividad económica es la explotación minera, ha incrementado la notificación de casos de menores de diez años con retardo del desarrollo psicomotor, irritabilidad, cefalea, vómitos y disgeusia. ¿Qué contaminante ambiental es la causa más probable?",
+      "options": {
+        "A": "Azufre",
+        "B": "Arsénico",
+        "C": "Plomo",
+        "D": "Níquel"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Varón de 36 años que acude por astenia, fatigabilidad. Examen: palidez de piel y mucosa. Laboratorio: anemia normocítica, normocrómica, hierro sérico disminuido, saturación de transferrina baja y ferritina aumentada. ¿Cuál es el mecanismo fisiopatológico de la anemia?",
+      "options": {
+        "A": "Disminución de la respuesta eritropoyética",
+        "B": "Secuestro de hierro en los macrófagos",
+        "C": "Producción inadecuada de transferrina",
+        "D": "Aumento de la hepcidina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Adolescente de 14 años, acude por náusea, vómitos y deposiciones líquidas sin moco sin sangre. Compañeros con síntomas similares tras comer hamburguesa en una excursión. ¿Cuál es el probable agente infeccioso en este caso?",
+      "options": {
+        "A": "Bacillus cereus",
+        "B": "Vibrion cholerae",
+        "C": "Staphylococcus aureus",
+        "D": "Campylobacter jejuni"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Obrero de 30 años llega a emergencia después de haber sido rescatado de incendio; presenta estridor laríngeo, tos y dificultad respiratoria. La oximetría muestra SatO2: 90%, pero la gasometría arterial revela una presión parcial de oxígeno (PaO2) normal. ¿Cuál es la causa de estos hallazgos?",
+      "options": {
+        "A": "Reduce la capacidad de hemoglobina para captar oxígeno por modificación en su estructura",
+        "B": "Se disuelve pobremente en el plasma sanguíneo reduciendo el oxígeno disuelto",
+        "C": "Se une a la hemoglobina formando carboxihemoglobina",
+        "D": "Interfiere con la liberación de oxígeno de la hemoglobina a los tejidos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Niño de 10 años, presenta hace 5 días rinorrea acuosa y disfagia, 2 días antes se agrega tos con flema, silbido de pecho, fiebre e hiporexia. Antecedentes: inmunizaciones completas. Examen: REG, FC: 78 X', FR: 26 X', SatO2: 95%. Tórax: MV pasa AHT, sibilantes y subcrepitos en AHT, tirajes IC. Laboratorio: Hemograma: leucocitos 12.000/µL; PCR: 5 mg/L; procalcitonina ligeramente elevado. ¿Cuál es el agente etiológico más probable?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Haemophilus influenzae tipo b",
+        "C": "Virus sincitial respiratorio",
+        "D": "Mycoplasma pneumoniae"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Varón de 75 años, procedente de una residencia de ancianos presenta sepsis de origen urinario. Hemocultivos y urocultivo muestran E. coli productora de betalactamasas de espectro ampliado; antibiograma pendiente. ¿Cuál es el antibiótico mejor indicado?",
+      "options": {
+        "A": "Aztreonam",
+        "B": "Ertapenem",
+        "C": "Cefotaxima",
+        "D": "Ceftriaxona"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "Varón de 40 años, hace un día con dolor en región inguinal izquierda después de levantar objeto pesado. Examen: MEG. Abdomen: globuloso, RHA disminuidos; a nivel del pliegue de la ingle aumento de volumen por tumoración 2x2 cm, indurada, no reductible y con signos de flogosis. Rx abdomen simple de pie: múltiples niveles hidroaéreos. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hernia de Spiegel estrangulada",
+        "B": "Hernia crural encarcelada",
+        "C": "Hernia inguinal estrangulada",
+        "D": "Íleo adinámico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Multigesta de 40 semanas, acude por dolor tipo contracción. Examen: AU: 31cm, SPP: LCI, LCF 144 X´. Tacto vaginal: dilatación: 9 cm, B: 100%, AP +1, membranas rotas con liquido claro, se palpa presentación cara mento anterior. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Programar cesárea de emergencia",
+        "B": "Usar vacuum de salida",
+        "C": "Convertir a presentación occipucio",
+        "D": "Dejar evolucionar parto vaginal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Mujer de 45 años usuaria crónica de AINES por osteoartritis, acude por hematemesis y melena activa. Examen: PA: 80/50 mmHg, FC: 112 X', FR: 22 X'. Palidez marcada de piel y mucosas. Luego de administrar el bolo de omeprazol se decide continuar con infusión del mismo medicamento. ¿Cuál es la velocidad de infusión del omeprazol en mg/h?",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "4",
+        "D": "10"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "¿Cuál es la hormona responsable de aumentar la producción hepática de glucosa durante un ayuno prolongado de 24 horas?",
+      "options": {
+        "A": "Glucagon",
+        "B": "Insulina",
+        "C": "Leptina",
+        "D": "Somatostatina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Mujer de 47 años, hipertensa mal controlada, acude por que hace 20 minutos presenta dolor precordial opresivo con irradiación a brazo izquierdo. EKG muestra supradesnivel del ST en todas las derivadas precordiales. En un escenario ideal. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Oxigenoterapia",
+        "B": "Fibrinolisis",
+        "C": "Doble antiagregación",
+        "D": "Intervención coronaria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Mujer de 32 años que presenta ataxia y temblor de manos. Antecedente: epilepsia tratada con fármaco que aumenta los niveles de GABA e inhibe los canales de calcio tipo T. Examen: petequias. Laboratorio: hiperamonemia. ¿Qué medicamento se ha utilizado?",
+      "options": {
+        "A": "Etosuximida",
+        "B": "Gabapentina",
+        "C": "Fenitoína",
+        "D": "Valproato"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Varón de 39 años, obeso, acude por anorexia, constipación, poliuria y dolores oseos difusos. Examen: PA: 130/80 mmHg, FC: 84X'. Laboratorio: calcio: 11.6 mg/dL. ¿Cuál es el diagnóstico presuntivo?",
+      "options": {
+        "A": "Consumo de tiazidas",
+        "B": "Hiperparatiroidismo primario",
+        "C": "Neoplasia metastásica",
+        "D": "Hiperparatoridismo secundario"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "En pacientes con acromegalia secundarios a adenomas que secretan GH. ¿Cuál es el tratamiento inicial?",
+      "options": {
+        "A": "Pegvisomant",
+        "B": "Cabergolina",
+        "C": "Octeótride",
+        "D": "Ablación quirúrgica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Primigesta de 41 semanas, acude a control prenatal por que aún no ha iniciado trabajo de parto. Examen: PA: 100/60 mmHg, FC: 72 X', AU: 32 cm, SPP: LCI, LCF: 132 X'. Tacto vaginal: D: 0 B: 50% AP -2. Ecografía: ponderado fetal 3700 g y oligohidramnios. Test no estresante normal. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Inducción de trabajo de parto",
+        "B": "Cesárea a las 42 semanas",
+        "C": "Vigilancia fetal cada 72 horas",
+        "D": "Cesárea de emergencia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Mujer de 30 años que durante una apendicectomía se encuentra una tumoración de menos de 2 cm en la punta del apéndice. No se observa muestra de extensión abdominal extraapendicular. ¿Cuál es la conducta indicada?",
+      "options": {
+        "A": "Colectomía ascendente",
+        "B": "Ileostomía",
+        "C": "Hemicolectomía derecha",
+        "D": "Apendicectomía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Varón de 18 años sufre caída sobre su hombro izquierdo, acude por limitación en la movilidad del miembro superior izquierdo. Examen: hombro en aducción, brazo en rotación interna y codo extendido. ¿Dónde se localiza la lesión?",
+      "options": {
+        "A": "Tronco inferior del plexo braquial",
+        "B": "Nervio cubital y braquial cutáneo medial",
+        "C": "Tronco superior del plexo braquial",
+        "D": "Tronco medio del plexo braquial"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "En el sistema de cuantificación POP-Q para prolapso genital. ¿Qué significa cuando el punto D se omite?",
+      "options": {
+        "A": "Dificultad para cuantificar",
+        "B": "Prolapso genital total",
+        "C": "Hay presencia de incontinencia",
+        "D": "No hay cérvix"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Mujer de 65 años, diabética con ERC en terapia dialítica hace 4 años, desde hace un mes presenta dorsalgia y fiebre; en la última semana se agrega debilidad en miembros inferiores y dificultad para la micción. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Metástasis ósea",
+        "B": "Osteomielitis vertebral",
+        "C": "Espóndiloartrosis",
+        "D": "Paraparesia espástica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Mujer de 75 años es trasladada al servicio de emergencia, porque desde hace 4 días presenta dolor abdominal a predominio de fosa iliaca izquierda, vómitos, alza térmica y rectorragia. Antecedente: estreñimiento crónico. Examen: pálida, PA: 90/60 mmHg, FC: 100X', FR: 30X'. Abdomen: distendido, RHA (-); a la palpación dolor abdominal generalizado, rebote(+); TR: dedo de guante con sangre. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Colitis infecciosa",
+        "B": "Apendicitis aguda",
+        "C": "Diverticulitis aguda",
+        "D": "Enfermedad de Crohn"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Qué sustancia facilita la absorción de hierro a nivel intestinal?",
+      "options": {
+        "A": "Polifenoles",
+        "B": "Calcio",
+        "C": "Fructosa",
+        "D": "Oxalatos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Con el objetivo de disminuir la incidencia de embarazo en adolescentes la Dirección Regional de Salud implementa un plan de comunicación educativa dirigido a los escolares de secundaria de su ámbito. ¿Qué tipo de intervención sanitaria se está implementando?",
+      "options": {
+        "A": "Rehabilitación",
+        "B": "Prevención",
+        "C": "Promoción",
+        "D": "Recuperación"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Mujer de 32 años, acude por dolor en fosa iliaca derecha desde hace tres días que se ha ido intensificando. Antecedentes de hidrosonografía hace 10 días. Examen: T°: 37 °C, FC: 80X'. Tacto vaginal: dolor a la movilización de cérvix, se evidencia flujo vaginal con mal olor. Eco TV útero de 7 cm, presencia de líquido en fondo de saco. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Clindamicina + gentamicina",
+        "B": "Doxiciclina + ceftriaxona + metronidazol",
+        "C": "Doxiciclina + azitromicina",
+        "D": "Ceftriaxona + doxiciclina + gentamicina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Varón de 32 años, ingresa por pérdida de conciencia de forma brusca acompañado de movimientos tónico clónicos generalizados; esposo refiere que desde hace 2 días no duerme por problemas familiares y estrés y que nunca ha tenido un cuadro similar. Examen: post ictal. Boca: signos de mordedura de lengua. ¿Cuál es la indicación?",
+      "options": {
+        "A": "Fenitoina",
+        "B": "Conducta expectante",
+        "C": "Fenobarbital",
+        "D": "Valproato de sodio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Primigesta de 37 semanas, sin controles prenatales, acude por presentar dolor tipo contracción esporádico. Examen: AU: 32 cm, SPP: LCI, LCF: 150 X'; Tacto vaginal: D: 0 B: 30% AP: -4. Laboratorio: VIH + y carga viral en 2000 copias/mL. ¿Cuál es la conducta más adecuada para la vía de parto?",
+      "options": {
+        "A": "Parto vaginal espontaneo",
+        "B": "Cesárea programada",
+        "C": "Inducción a las 39 semanas",
+        "D": "Parto instrumentado"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Recién nacido de 6 días, es traído a emergencia por presentar enrojecimiento, calor local, secreción purulenta y mal olor en la base del cordón umbilical, pobre succión y sueño incrementado. Examen: eritema periumbilical de 2 cm con induración e incremento de volumen; neurológico: succión irregular e hipoactividad. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Administrar antibióticos tópicos y realizar seguimiento ambulatorio estrecho",
+        "B": "Iniciar tratamiento antibiótico intramuscular y evaluar respuesta en 48 horas",
+        "C": "Realizar hemocultivo y esperar resultados para iniciar antibioticoterapia",
+        "D": "Hospitalizar al neonato e iniciar tratamiento antibiótico intravenoso de amplio espectro"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "Recién nacido prematuro de 28 semanas y 1050 g de peso se encuentra en la UCIN debido a su prematurez; durante la primera semana requirió múltiples extracciones sanguíneas para monitorización. A los 10 días, presenta palidez, taquicardia y una hemoglobina de 8.0 g/dL, lo que lleva al equipo médico a considerar una transfusión. ¿Qué medida inicial tiene mayor impacto en disminuir la probabilidad de requerir una transfusión en este paciente?",
+      "options": {
+        "A": "Administrar eritropoyetina para estimular la producción de glóbulos rojos",
+        "B": "Iniciar suplementación con hierro intravenoso para mejorar la síntesis de hemoglobina",
+        "C": "Restringir toma de muestras de sangre para exámenes de laboratorio",
+        "D": "Considerar la transfusión inmediata para corregir la anemia sintomática"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "Niño de 2 años, presenta hace 2 días tos seca a predominio nocturno. Antecedente: bronquiolitis a los 5 meses y síndrome obstructivo bronquial recurrente; hermano asmático y en su casa conviven con dos perros y un gato. Examen: FC: 32X', SatO2: 96%, T°: 37 °C; Tórax: taquipnea, tirajes IC, disbalance toracoabdominal, sibilantes espiratorios en AHT. ¿Cuál es la acción inicial más apropiada?",
+      "options": {
+        "A": "Solicitar Rx de tórax urgente",
+        "B": "Administrar corticoides sistémicos",
+        "C": "Administrar broncodilatadores",
+        "D": "Administrar antileucotrienos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Varón de 54 años, hipertenso y fumador, refiere dolor torácico tipo opresivo retroesternal que aumenta con el esfuerzo y se irradia a brazo y mandíbula, mejorando con reposo. Antecedente familiar de IAM en su padre a los 54 años. ¿Cuál es la conducta inicial a seguir?",
+      "options": {
+        "A": "Realizar electrocardiograma",
+        "B": "Solicitar péptido natriurético",
+        "C": "Programar ergometría",
+        "D": "Realizar angiotem"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Neonato pretérmino tardío nace con antecedente de ruptura de membranas de 20 h, líquido amniótico claro, peso de 2700 g, APGAR 9-10 y buen reflejo de succión. ¿Cuál es la conducta más apropiada?",
+      "options": {
+        "A": "Monitorizar signos de infección",
+        "B": "Solicitar ecocardiografía",
+        "C": "Estudio de LCR",
+        "D": "Iniciar antibióticos de amplio espectro"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Varón de 70 años, con antecedente de diabetes mellitus tipo 1 y enfermedad diverticular; consulta por dolor abdominal recurrente en el cuadrante inferior izquierdo, fiebre y presencia de neumaturia y fecaluria. Examen: dolor a la palpación profunda en esa zona. ¿Cuál es la complicación más probable?",
+      "options": {
+        "A": "Fístula colovesical",
+        "B": "Absceso pélvico",
+        "C": "Obstrucción colónica",
+        "D": "Infección urinaria"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Varón de 35 años es evaluado en consultorio de cardiología y luego de estudios electrofisiológicos es diagnosticado de síndrome de taqui-bradi; sin embargo luego de tratamiento médico ingresa a emergencia por episodios de palpitaciones y síncopes. ¿Cuál es la mejor indicación?",
+      "options": {
+        "A": "Marcapaso",
+        "B": "Carvedilol",
+        "C": "Atropina",
+        "D": "Ablación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Mujer de 35 años que acude por dismenorrea, dolor a la defecación desde hace un año. Ecografía: tumor quístico anexial con contenido como vidrio esmerilado de 3 cm. El tratamiento de primera opción además de los analgésicos incluye:",
+      "options": {
+        "A": "Agonista de la GnRH",
+        "B": "Antagonista de la GnRH",
+        "C": "Anticonceptivos combinados",
+        "D": "Progesterona"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Niño de 10 años es llevado urgencias por presentar desde hace 3 días ictericia, letargo, somnolencia y hematemesis. Hace 7 días presentó alza térmica, dolor abdominal y vómitos que cedieron con sintomáticos. Examen: ictericia de piel y mucosas, hígado a 3 cm DRCD doloroso. Glasgow 12, ROT: aumentados. Según su presunción diagnóstica. ¿Cuál es la conducta inicial a seguir?",
+      "options": {
+        "A": "Hidratación parenteral y referencia a centro hospitalario de mayor complejidad",
+        "B": "Iniciar tratamiento empírico con antibióticos de amplio espectro",
+        "C": "Administrar omeprazol para proteger la mucosa gástrica y mantener en observación",
+        "D": "Solicitar pruebas de función hepática y realizar una ecografía abdominal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Qué efecto inmediato se espera en la filtración glomerular, al administrar un fármaco que inhiba la angiotensina II?",
+      "options": {
+        "A": "Aumento de la presión oncótica capilar",
+        "B": "Aumento por vasoconstricción de la arteriola eferente",
+        "C": "Sin cambios, la TFG depende de la presión hidrostática",
+        "D": "Disminución por vasodilatación de la arteriola eferente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "La conjuntivitis neonatal es una infección ocular que puede tener graves consecuencias para el recién nacido. ¿Cuál es la vía de infección más frecuente?",
+      "options": {
+        "A": "Transmisión de gérmenes por las manos",
+        "B": "Diseminación de gérmenes desde las mucosas de las vías respiratorias superiores",
+        "C": "Parto vaginal",
+        "D": "Contacto directo con secreciones respiratorias de familiares"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "RN masculino de 12 horas, presenta vómitos biliosos sin distensión abdominal. Antecedente: nacido por gestación con polihidramnios. Rx abdominal: “doble burbuja” sin aire distal. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Mal rotación intestinal",
+        "B": "Íleo meconial",
+        "C": "Vólvulo intestinal",
+        "D": "Atresia duodenal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Primigesta de 28 semanas asintomática, acude a control prenatal. Se realizó ecografía morfológica sin alteraciones. Examen: PA: 100/80 mmHg, FC: 80 X'. Altura uterina: 26 cm, LCF: 144 X'. La paciente pregunta por su esquema de inmunización. ¿Qué vacuna le corresponde?",
+      "options": {
+        "A": "VPH",
+        "B": "Rubéola",
+        "C": "Tdap",
+        "D": "Varicela"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Lactante de 40 días, es traído a emergencia por dificultad respiratoria. Antecedente: EG: 32 semanas; parto cesárea, con oxigenoterapia durante 32 días. Examen: FR: 65X', FC: 110X'. Tórax: sibilantes en AHT y tirajes IC. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Displasia broncopulmonar",
+        "B": "Neumonía intrahospitalaria",
+        "C": "Síndrome obstructivo bronquial",
+        "D": "Bronquiolitis obliterante"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Mujer de 23 años es llevada a consulta por presentar desde hace 2 años conducta extrovertida excesiva, impulsividad y estado de ánimo expansivo y a veces irritable que alterna con episodios de apatía, indiferencia y pérdida de la capacidad de sentir placer. ¿Cuál es el medicamento básico para el tratamiento de esta patología?",
+      "options": {
+        "A": "Paroxetina",
+        "B": "Litio",
+        "C": "Lorazepam",
+        "D": "Mirtazapina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "El equipo de gestión del centro de salud elabora el ASIS y requiere incorporar un indicador de los determinantes sociales ambientales. ¿Cuál deberá elegir?",
+      "options": {
+        "A": "Porcentaje de hogares con agua potable",
+        "B": "Personal médico por cien mil habitantes",
+        "C": "Tasa de reingresos hospitalarios",
+        "D": "Cobertura de vacunación infantil"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "Mujer de 56 años con DM tipo 2 acude por polidipsia, poliurea. Examen: IMC:32. Laboratorio: HbA1C 10.8 %. Glucosa basal 280 mg/dL. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Cambio de estilo de vida y control HbA1C",
+        "B": "Iniciar insulinoterapia",
+        "C": "Iniciar sulfonilureas",
+        "D": "Solicitar prueba de tolerancia a la glucosa oral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "¿Cuál es el mecanismo fisiológico por el cual se puede presentar hipertensión arterial en la postmenopausia?",
+      "options": {
+        "A": "Cambios en la sensibilidad barorreceptora",
+        "B": "Reducción de la actividad del sistema renina-angiotensina",
+        "C": "Aumento en la resistencia vascular periférica",
+        "D": "Pérdida del efecto protector del estrógeno"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Varón de 20 años, hace 6 días sufre atropello por vehículo, presenta herida en el muslo derecho. Examen: PA: 90/60 mmHg, FR: 24X', FC: 100X'. Herida en tercio medio de muslo derecho, bordes negruzcos, ampollas con contenido rojo vinoso y secreción fétida. Laboratorio: Hb: 7.5 g/dL. ¿Cuál es el tratamiento prioritario?",
+      "options": {
+        "A": "Antibióticos de amplio espectro",
+        "B": "Transfusión sanguínea",
+        "C": "Vacuna antitetánica",
+        "D": "Desbridamiento y drenaje"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Escolar de 8 años, presenta desde hace cinco días fiebre, hiporexia, náusea, malestar general y dolor abdominal. Antecedente: vivienda sin servicios básicos. Examen: MEG, REH, FC: 80X', T°: 38.8 °C. Peso: 25 Kg. Piel: caliente, seca. Abdomen: RHA incrementados, blando, hepatoesplenomegalia y doloroso a la palpación en mesogastrio. Laboratorio: leucopenia. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Dengue",
+        "B": "Paludismo",
+        "C": "Brucelosis",
+        "D": "Fiebre tifoidea"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Niño de 7 años referido de centro de salud por anemia refractaria al tratamiento con hierro. Examen: FC: 120X', FR: 20X', T°: 36.7 °C. Manchas café con leche e hiperpigmentación cutánea; talla corta, pulgares y radios anormales, hipogonadismo, dismorfias en cabeza. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Anemia megaloblástica",
+        "B": "Anemia de Fanconi",
+        "C": "Sindrome de Shawchman-Diamond",
+        "D": "Anemia regenerativa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Varón de 30 años, acude por dolor torácico, fiebre, diaforesis nocturna y baja de peso. Antecedentes: inmunodeficiencia y consumidor de sustancias ilícitas. Examen: pulmones: VV y MV abolidos en 1/3 inferior de HTD. Rx de tórax muestra derrame pleural derecho. ¿Cuál de las siguientes pruebas en el líquido pleural es útil para el diagnóstico de tuberculosis pleural?",
+      "options": {
+        "A": "Proteínas bajas",
+        "B": "Glucosa alta",
+        "C": "DHL elevado",
+        "D": "Test de ADA positivo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Varón de 68 años con antecedente de cardiopatía isquémica, sufre un infarto agudo del miocardio y desarrolla daño estructural celular extenso. ¿Cuál es el mecanismo predominante de daño celular irreversible en este contexto?",
+      "options": {
+        "A": "Entrada masiva de calcio intracelular",
+        "B": "Disminución del Na intracelular",
+        "C": "Disminución del K extracelular",
+        "D": "Detención de H+ intracelular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Varón de 64 años, consulta por fiebre, escalofríos, cefalea, náuseas, sudoración, tos improductiva y dolor torácico. Antecedente de alcoholismo. Examen: Tº: 39.2°C, FC: 118X', FR: 23X', se ausculta crepitantes y frote pleural. ¿Cuál es el examen de elección para confirmar su diagnóstico?",
+      "options": {
+        "A": "RX tórax",
+        "B": "Cultivo de esputo",
+        "C": "Procalcitonina sérica",
+        "D": "TC tórax con contraste"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Mujer de 57 años, acude para solicitar terapia de reemplazo hormonal, presenta bochornos dos veces al día. FUR hace 10 años. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Estrógenos parenterales",
+        "B": "Medidas higiénico dietéticas",
+        "C": "Estrógenos vía oral",
+        "D": "Estrógeno más progesterona"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Escolar de 7 años, presenta aplanamiento plantar bilateral asintomático. Examen: disminución del arco plantar y valgo de retropié; en bipedestación el arco desaparece. ¿Cuál es el diagnóstico del pie plano?",
+      "options": {
+        "A": "Neurológico",
+        "B": "Con contractura",
+        "C": "Flexible",
+        "D": "Rígido congénito"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Varón de 25 años, ingresa a sala de urgencia por presentar palpitaciones y dolor precordial. Examen: PA: 110/60 mmHg. FC: 155 X'. FR: 20 X'. SatO2: 97%. EKG: compatible con taquicardia de reentrada nodal auriculoventricular. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Labetalol",
+        "B": "Cardioversión eléctrica",
+        "C": "Amiodarona",
+        "D": "Adenosina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "RN a término con dificultad respiratoria, sialorrea y asfixia con la primera alimentación oral. La sonda nasogástrica no progresa más allá de 10 cm. Rx: sonda enrollada en el esófago superior, presencia de aire en estómago e intestinos. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Fístula traqueoesofágica",
+        "B": "Atresia esofágica con fístula traqueoesofágica",
+        "C": "Estenosis pilórica",
+        "D": "Anillo vascular presente"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Varón de 52 años, alcohólico crónico, presenta cefalea, temblor; se agrega desorientación, agitación y alucinaciones visuales, traído a emergencia por convulsiones tónico clónico generalizadas. Último episodio de ingesta de alcohol hace 2 días. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Tiamina",
+        "B": "Diazepam",
+        "C": "Dextrosa 33%",
+        "D": "Fenitoina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Mujer de 25 años programada para colecistectomía por colecistitis aguda, refiere haber ingerido un vaso de limonada azucarada una hora antes de la intervención. ¿Cuál es la conducta adecuada?",
+      "options": {
+        "A": "Se administra un antiemético y se procede",
+        "B": "Postergar la cirugía por 2 horas",
+        "C": "Postergar la cirugía por 24 horas",
+        "D": "Se monitoriza de cerca durante la inducción anestésica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "¿Cuál es el marcador pronóstico cuyo valor en sangre permite monitorizar la evolución, y está asociado a mayor mortalidad y progresión a disfunción orgánica en sepsis?",
+      "options": {
+        "A": "Procalcitonina",
+        "B": "Lactato",
+        "C": "PCR",
+        "D": "Glucemia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Neonato de 2 horas presenta sialorrea súbito, tos y cianosis durante la alimentación. Antecedente: nacido de parto cesárea, líquido amniótico aumentado. Examen: abdomen: escafoideo, RHA ausentes. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Neumonía por aspiración meconial",
+        "B": "Fístula traqueoesofágica tipo H",
+        "C": "Atresia esofágica",
+        "D": "Hernia diafragmática"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Adulto de 28 años con resultado de dos baciloscopias negativas, con alta probabilidad de TB clínica activa; según criterio médico. ¿Cuál es la conducta a seguir según marco normativo nacional?",
+      "options": {
+        "A": "PPD y cultivo",
+        "B": "Iniciar tratamiento",
+        "C": "Alta y control anual",
+        "D": "PDR m y cultivo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Recién nacido de 10 días, es traído a control. Examen: FC: 100X', FR: 50X', T°: 37.2 °C. Tórax: MV pasa bien en AHT. Abdomen: RHA presentes; cordón umbilical: presente, húmedo con secreción amarillenta mal oliente y eritema periumbilical. Hemograma: leucocitos: 10,000/uL, Hto: 42%, abastonados 0. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Onfalocele",
+        "B": "Onfalitis",
+        "C": "Peritonitis",
+        "D": "Celulitis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Niño de 10 años, acude por dolor testicular derecho súbito desde hace 3 horas, acompañado de náusea. Examen: testículo en posición alta, edematoso muy doloroso a la palpación. Doppler testicular: disminución del flujo arterial en el testículo comprometido. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Torsión testicular",
+        "B": "Orquitis",
+        "C": "Epididimitis",
+        "D": "Varicocele"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Varón de 35 años, residente de Quillabamba, Cusco (valle tropical), es admitido con fiebre alta intermitente, esplenomegalia y anemia severa de progresión rápida; refiere haber recibido múltiples picaduras de insectos al amanecer y anochecer. El frotis de sangre periférica muestra la presencia de parásito en eritrocitos. ¿Cuál es la característica inmunológica del huésped crucial para el desarrollo de paroxismos febriles?",
+      "options": {
+        "A": "Inducción de autoanticuerpos contra eritrocitos",
+        "B": "Liberación de citoquinas proinflamatorias",
+        "C": "Formación de hipnozoitos hepáticos",
+        "D": "Liberación de T killer contra eritrocitos parasitados"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Mujer de 64 años, operada de gastrectomía parcial hace 2 años, acude por anorexia, diarrea, pérdida de peso, parestesia en MMII y marcha atáxica. Examen: palidez marcada y presencia de glositis y lengua depapilada. Laboratorio: hemoglobina de 7.5 g/dL, VCM: 110 fL y presencia de polisegmentación de neutrófilos. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Riboflavina",
+        "B": "Tiamina",
+        "C": "Niacina",
+        "D": "Cobalamina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Neonato de 12 días, recibe LME, traído a urgencias por ictericia. Examen: FC: 120X'; FR: 30X´; T°: 37°C, ictericia hasta raíz de muslos; llenado capilar <2\"; sensorio: activo y reactivo succión vigorosa. Laboratorio: bilirrubina total: 18 mg/dL a predominio indirecta; madre es A+ y el neonato es O+. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Ictericia por lactancia materna",
+        "B": "Deficiencia de G6PD",
+        "C": "Incompatibilidad ABO",
+        "D": "Sepsis neonatal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Un estudio sobre incidencia de anemia entre gestantes expuestas y no expuestas a la dieta \"A\", demostró una diferencia con un valor de p<0.05. Si los niveles de hemoglobina en ambos grupos no presentan diferencia. ¿Cuál es el tipo de error?",
+      "options": {
+        "A": "II",
+        "B": "1-a",
+        "C": "1-p",
+        "D": "I"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Recién nacido de 37 semanas, peso 2000 g, es evaluado en las primeras horas de vida, letárgico, nauseoso, succión débil y temblores finos. Glicemia capilar: 39 mg/dL. ¿Cuál es la causa más probable?",
+      "options": {
+        "A": "Disminución de reservas energéticas",
+        "B": "Adaptación metabólica transitoria",
+        "C": "Hiperinsulinismo congénito",
+        "D": "Asfixia perinatal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Niño de 6 años, procedente de la sierra, es traído por madre quien refiere que hace un mes presenta dolor abdominal, náusea y deposiciones sanguinolentas. Antecedente: vivienda rústica en el campo; crianza de cerdos. Examen: peso: 18 Kg. Abdomen: RHA +++, blando, doloroso a la palpación en hipogastrio. ¿Cuál es el agente etiológico más probable?",
+      "options": {
+        "A": "Cryptosporidium",
+        "B": "Balantidium coli",
+        "C": "Giardia lamblia",
+        "D": "Cyclospora"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Niño de 16 meses, traído por dificultad para evacuar desde hace tres semanas; presenta vómitos y alza térmica no cuantificada. Antecedente: estreñimiento en forma intermitente. Examen: FC: 115X', FR: 30X', SatO2: 100%, PA:113/85 mmHg. Abdomen: moderadamente distendido, depresible y doloroso a la palpación. ¿Cuál es la conducta inicial a seguir?",
+      "options": {
+        "A": "Rx abdomen de pie",
+        "B": "Resonancia abdominal",
+        "C": "Enemas evacuantes",
+        "D": "Polietilenglicol en gastroclisis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Mujer de 18 años acude por debilidad muscular progresiva y constipación. Toma diuréticos para perder peso. EKG: aplanamiento de la onda T y aparición de la onda U. ¿Cuál es el efecto esperado en el potencial de acción de las neuronas motoras?",
+      "options": {
+        "A": "Aumenta el umbral necesario para la generación del potencial de acción",
+        "B": "Genera una repolarización más lenta debido a la disminución de la conductancia de K⁺",
+        "C": "Disminuye la excitabilidad neuronal por hiperpolarización",
+        "D": "Prolonga la duración del potencial de acción, dificultando la despolarización repetida"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Mujer de 64 años, presenta episodios intermitentes de dolor intenso en labios, encías y pómulos, que se intensifican al contacto. Examen: normal. Resonancia magnética sin alteraciones. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Neurinoma acústico",
+        "B": "Meningioma",
+        "C": "Parálisis del nervio facial",
+        "D": "Neuralgia del trigémino"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "RN de 8 días, traido a urgencias por pobre ganancia ponderal, irritabilidad, orina escasa y pobre succión. Antecedente: nacido por cesárea, alta conjunta, madre adolescente con embarazo controlado. Examen: FC: 140X'; FR: 30X'; T°: 37.8°C. Ictericia hasta raíz de muslos, adelgazado y llanto enérgico. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Ictericia neonatal",
+        "B": "Deshidratación hipernatrémica",
+        "C": "Hipoglicemia",
+        "D": "Sepsis neonatal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Lactante de 40 días, es referido a Lima, por presentar desde el nacimiento coriza y hace 3 días lactancia entrecortada. Antecedentes: EG: 38 semanas, parto eutócico. Recibe corticoides nasales y clorfeniramina. Examen: Peso: 3900 g, FC: 90X', FR: 40X', T: 37 °C; ictericia hasta abdomen. Abdomen: hepatomegalia, RHA presente. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Sífilis congénita",
+        "B": "Atresia biliar",
+        "C": "Toxoplasmosis congénita",
+        "D": "Atresia de coanas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Adolescente de 12 años, traído por madre, quien refiere que hace 2 meses presenta manchas blancas en cara. Examen: máculas hipocrómicas redondeadas, algunas eritematosas, bordes no definidos, descamación escasa en cara y tórax. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Pitiriasis alba",
+        "B": "Tiña versicolor",
+        "C": "Dermatitis seborreica",
+        "D": "Vitíligo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Joven procedente de área rural andina presenta una úlcera cutánea grande e indolora con bordes elevados e indurados. Se observan amastigotes dentro de los macrófagos en una biopsia de la lesión. ¿Cuál es el agente causal más probable?",
+      "options": {
+        "A": "Trypanosoma cruzi",
+        "B": "Leishmania braziliensis",
+        "C": "Leishmania donovani",
+        "D": "Mycobacterium leprae"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Puérpera mediata de 33 años, acude por presentar fiebre y congestión mamaria desde hace 3 días. Se inicia cobertura antibiótica con dicloxacilina y compresas; luego de 72 horas de tratamiento continua febril. Se le realiza ecografía mamaria y se encuentra colección de 45 mm en cuadrante supero externo de mama derecha. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Rotación de antibiótico",
+        "B": "Extracción vigorosa de leche",
+        "C": "Drenaje quirúrgico",
+        "D": "Compresas tibias"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Mujer de 24 años con presencia de irregularidades menstruales desde hace dos años, hirsutismo leve, IMC: 20. Glucosa en ayunas: 80 mg/dL. ¿Cuál es el tratamiento más adecuado?",
+      "options": {
+        "A": "Metformina",
+        "B": "Anticonceptivos orales combinados",
+        "C": "Espironolactona",
+        "D": "Finasteride"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

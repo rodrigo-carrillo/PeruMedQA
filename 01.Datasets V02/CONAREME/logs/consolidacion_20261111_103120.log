@@ -1,0 +1,178 @@
+2026-11-11 10:31:20 | INFO    | ====================================================================================================
+2026-11-11 10:31:20 | INFO    | Consolidación de exámenes CONAREME
+2026-11-11 10:31:20 | INFO    | Carpeta base    : /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen Residencia Peru/00_CONAREME
+2026-11-11 10:31:20 | INFO    | Carpetas        : ['Year2018', 'Year2019', 'Year2020', 'Year2022', 'Year2023', 'Year2024', 'Year2025', 'Year2026']
+2026-11-11 10:31:20 | INFO    | Salida          : /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen Residencia Peru/00_Datasets
+2026-11-11 10:31:20 | INFO    | ====================================================================================================
+2026-11-11 10:31:20 | INFO    | [Year2018] — 11 JSON encontrado(s) (11 PDF)
+2026-11-11 10:31:20 | INFO    |   ✓ ANESTESIOLOGIA                           | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGIA                                  | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ GINECOLOGIA Y OBSTETRICIA                | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ OFTALMOLOGIA                             | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PATOLOGIA                                | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PEDIATRIA                                | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PRUEBA A                                 | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PRUEBA B                                 | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PSIQUIATRIA                              | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ RADIOLOGIA                               | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ UROLOGIA                                 | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    | [Year2019] — 12 JSON encontrado(s) (12 PDF)
+2026-11-11 10:31:20 | INFO    |   ✓ ANATOMIA PATOLOGICA                      | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ANESTESIOLOGIA                           | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGIA                                  | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGÍA CARDIOVASCULAR                   | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ GINECOLOGÍA                              | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ OFTALMOLOGIA                             | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PEDIATRIA                                | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PRUEBA A                                 | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PRUEBA B                                 | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PSIQUIATRIA                              | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ RADIOLOGÍA                               | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ UROLOGÍA                                 | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    | [Year2020] — 10 JSON encontrado(s) (10 PDF)
+2026-11-11 10:31:20 | INFO    |   ✓ ANATOMIA PATOLOGICA                      | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ANESTESIOLOGIA                           | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGIA GENERAL                          | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ GINECOLOGIA Y OBSTETRICIA                | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ OFTALMOLOGIA                             | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PEDIATRIA                                | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PRUEBA A                                 | filas:   90 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PRUEBA B                                 | filas:   90 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PSIQUIATRIA                              | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ UROLOGIA                                 | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    | [Year2022] — 12 JSON encontrado(s) (12 PDF)
+2026-11-11 10:31:20 | INFO    |   ✓ Anestesiología                           | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Cirugía Cardiovascular                   | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Cirugía General                          | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Especialidad Prueba A                    | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Especialidad Prueba B                    | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Ginecología y Obstetricia                | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Neurocirugía                             | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Oftalmología                             | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Pediatría                                | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Psiquiatría                              | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Radiología                               | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ Urología                                 | filas:  100 | opciones: 5 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    | [Year2023] — 13 JSON encontrado(s) (13 PDF)
+2026-11-11 10:31:20 | INFO    |   ✓ ANATOMIA PATOLOGICA                      | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ANESTESIOLOGIA                           | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGIA GENERAL                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGÍA DE TORÁX Y CARDIOVASCULAR        | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ GINECOLOGIA                              | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ NEUROCIRUGIA                             | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ OFTALMOLOGÍA                             | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PEDIATRÍA                                | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PRUEBA A                                 | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PRUEBA B                                 | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PSIQUIATRÍA                              | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ RADIOLOGÍA                               | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ UROLOGÍA                                 | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    | [Year2024] — 13 JSON encontrado(s) (13 PDF)
+2026-11-11 10:31:20 | INFO    |   ✓ ANATOMÍA PATOLÓGICA                      | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ANESTESIOLOGÍA                           | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGÍA DE TORAX                         | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGÍA                                  | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ESPECIALIADAD A                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ESPECIALIADAD B                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ GINECOLOGÍA                              | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ NEUROCIRUGÍA                             | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ OFTALMOLOGÍA                             | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PEDIATRÍA                                | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PSIQUIATRÍA                              | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ RADIOLOGÍA                               | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ UROLOGÍA                                 | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    | [Year2025] — 14 JSON encontrado(s) (14 PDF)
+2026-11-11 10:31:20 | INFO    |   ✓ ANATOMIA PATOLOGICA                      | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ANESTESIOLOGIA                           | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGIA CARDIOVASCULAR                   | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGIA DE TORAX Y CARDIOVASCULAR        | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ CIRUGIA GENERAL                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ESPECIALIADAD A                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ESPECIALIADAD B                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ GINECOLOGIA Y OBSTETRICIA                | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ NEUROCIRUGIA                             | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ OFTALMOLOGIA                             | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PEDIATRIA                                | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ PSIQUIATRIA                              | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ RADIOLOGIA                               | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ UROLOGIA                                 | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    | [Year2026] — 15 JSON encontrado(s) (15 PDF)
+2026-11-11 10:31:20 | INFO    |   ✓ ANATOMIA PATOLOGICA                      | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:20 | INFO    |   ✓ ANESTESIOLOGIA                           | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ CIRUGIA CARDIOVASCULAR                   | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ CIRUGIA DE TORAX Y CARDIOVASCULAR        | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ CIRUGIA GENERAL                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ ESPECIALIADAD A                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ ESPECIALIADAD B                          | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ GINECOLOGIA Y OBSTETRICIA                | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ NEUROCIRUGIA                             | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ OFTALMOLOGIA                             | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ ORTOPEDIA Y TRAUMATOLOGÍA                | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ PEDIATRIA                                | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ PSIQUIATRIA                              | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ RADIOLOGIA                               | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    |   ✓ UROLOGIA                                 | filas:  100 | opciones: 4 | CSV=JSON: True
+2026-11-11 10:31:21 | INFO    | ----------------------------------------------------------------------------------------------------
+2026-11-11 10:31:21 | INFO    | Total de filas    : 9,980
+2026-11-11 10:31:21 | INFO    | Total de columnas : 17
+2026-11-11 10:31:21 | INFO    | Columnas          : ['question_id', 'year', 'exam', 'exam_type', 'exam_title', 'specialty', 'question_number', 'n_options_original', 'questions', 'option_A', 'option_B', 'option_C', 'option_D', 'option_E', 'correct_answer', 'has_image', 'flags']
+2026-11-11 10:31:21 | INFO    | Distribución por año:
+2026-11-11 10:31:21 | INFO    |   • 2018   1100 preguntas  (11 exámenes)
+2026-11-11 10:31:21 | INFO    |   • 2019   1200 preguntas  (12 exámenes)
+2026-11-11 10:31:21 | INFO    |   • 2020    980 preguntas  (10 exámenes)
+2026-11-11 10:31:21 | INFO    |   • 2022   1200 preguntas  (12 exámenes)
+2026-11-11 10:31:21 | INFO    |   • 2023   1300 preguntas  (13 exámenes)
+2026-11-11 10:31:21 | INFO    |   • 2024   1300 preguntas  (13 exámenes)
+2026-11-11 10:31:21 | INFO    |   • 2025   1400 preguntas  (14 exámenes)
+2026-11-11 10:31:21 | INFO    |   • 2026   1500 preguntas  (15 exámenes)
+2026-11-11 10:31:21 | INFO    | Distribución por especialidad:
+2026-11-11 10:31:21 | INFO    |   • Anestesiología                             800
+2026-11-11 10:31:21 | INFO    |   • Cirugía General                            800
+2026-11-11 10:31:21 | INFO    |   • Ginecología y Obstetricia                  800
+2026-11-11 10:31:21 | INFO    |   • Oftalmología                               800
+2026-11-11 10:31:21 | INFO    |   • Pediatría                                  800
+2026-11-11 10:31:21 | INFO    |   • Psiquiatría                                800
+2026-11-11 10:31:21 | INFO    |   • Urología                                   800
+2026-11-11 10:31:21 | INFO    |   • Prueba A                                   790
+2026-11-11 10:31:21 | INFO    |   • Prueba B                                   790
+2026-11-11 10:31:21 | INFO    |   • Anatomía Patológica                        700
+2026-11-11 10:31:21 | INFO    |   • Radiología                                 700
+2026-11-11 10:31:21 | INFO    |   • Neurocirugía                               500
+2026-11-11 10:31:21 | INFO    |   • Cirugía Cardiovascular                     400
+2026-11-11 10:31:21 | INFO    |   • Cirugía de Tórax y Cardiovascular          400
+2026-11-11 10:31:21 | INFO    |   • Ortopedia y Traumatología                  100
+2026-11-11 10:31:21 | INFO    | Preguntas con 4 alternativas originales: 5,500 | con 5: 4,480
+2026-11-11 10:31:21 | INFO    | Distribución de respuestas: {'A': 2130, 'B': 2145, 'C': 2469, 'D': 2301, 'E': 935}
+2026-11-11 10:31:21 | INFO    | ----------------------------------------------------------------------------------------------------
+2026-11-11 10:31:21 | INFO    | [validación] expected_columns ...
+2026-11-11 10:31:21 | INFO    |   ✓ Estructura correcta
+2026-11-11 10:31:21 | INFO    | [validación] row_counts_reconciliation ...
+2026-11-11 10:31:21 | INFO    |   ✓ Sin discrepancias en 100 examen(es) (total filas: 9980)
+2026-11-11 10:31:21 | INFO    | [validación] question_id_unique / numbering ...
+2026-11-11 10:31:21 | INFO    |   ✓ question_id único
+2026-11-11 10:31:21 | INFO    | [validación] correct_answer_values ...
+2026-11-11 10:31:21 | INFO    |   ✓ Todas las respuestas son válidas para su número de alternativas (E nunca en exámenes de 4)
+2026-11-11 10:31:21 | INFO    | [validación] empty_critical_cells ...
+2026-11-11 10:31:21 | INFO    |   ✓ Sin celdas vacías en columnas críticas
+2026-11-11 10:31:21 | INFO    | [validación] duplicate_questions_within_exam ...
+2026-11-11 10:31:21 | WARNING |   ⚠ 2020 PEDIATRIA: enunciado repetido en P[40, 87] (distintas alternativas)
+2026-11-11 10:31:21 | WARNING |   ⚠ 2023 ANATOMIA PATOLOGICA: enunciado repetido en P[73, 85] (distintas alternativas)
+2026-11-11 10:31:21 | INFO    | [validación] duplicate_exams_across_files ...
+2026-11-11 10:31:21 | WARNING |   ⚠ exámenes con contenido idéntico (se conservan todos): [(2025, 'CIRUGIA CARDIOVASCULAR'), (2025, 'CIRUGIA DE TORAX Y CARDIOVASCULAR')]
+2026-11-11 10:31:21 | WARNING |   ⚠ exámenes con contenido idéntico (se conservan todos): [(2026, 'CIRUGIA CARDIOVASCULAR'), (2026, 'CIRUGIA DE TORAX Y CARDIOVASCULAR')]
+2026-11-11 10:31:21 | INFO    | [validación] duplicate_questions_across_exams ...
+2026-11-11 10:31:21 | INFO    |   ℹ 572 enunciado(s) aparecen en más de un examen (informativo; ver JSON de validación)
+2026-11-11 10:31:21 | INFO    | [validación] variants_consistency ...
+2026-11-11 10:31:21 | INFO    |   ✓ Variantes idénticas salvo option_E; variante 5 opciones sin option_E vacía; variante original con option_E vacía en exactamente 5,500 filas
+2026-11-11 10:31:21 | INFO    | ----------------------------------------------------------------------------------------------------
+2026-11-11 10:31:21 | INFO    | Escritura:
+2026-11-11 10:31:21 | INFO    |   ✓ conareme_master_5opciones.csv                        4.49 MB
+2026-11-11 10:31:21 | INFO    |   ✓ conareme_master_5opciones.json                       7.23 MB
+2026-11-11 10:31:21 | INFO    |   ✓ conareme_master_5opciones.parquet                    1.85 MB
+2026-11-11 10:31:21 | INFO    |   ✓ conareme_master_opciones_originales.csv              4.36 MB
+2026-11-11 10:31:21 | INFO    |   ✓ conareme_master_opciones_originales.json             7.10 MB
+2026-11-11 10:31:21 | INFO    |   ✓ conareme_master_opciones_originales.parquet          1.85 MB
+2026-11-11 10:31:22 | INFO    |   ✓ Relectura de CSV con pandas por defecto: OK
+2026-11-11 10:31:22 | INFO    |   ✓ Reporte de validación: conareme_master_validation.json
+2026-11-11 10:31:22 | INFO    | Validaciones: 0 error(es), 5 advertencia(s)
+2026-11-11 10:31:22 | INFO    | ✓ Proceso completado

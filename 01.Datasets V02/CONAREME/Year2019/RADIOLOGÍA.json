@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2019,
+    "exam": "RADIOLOGÍA",
+    "source_pdf": "RADIOLOGÍA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Radiología",
+    "sha256_pdf": "ef0b3bf966c1d463013c6ef76b7f04a5c39c307e801dfa12ce3a5373942ee151",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:24",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Radiología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.992,
+        "vec_max_loser": 0.0048,
+        "pix_min_winner": 0.6175,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 20606,
+      "coverage_out_chars": 20606,
+      "human_reference": "_backup_csv_verificados/Year2019/RADIOLOGÍA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 574,
+        "solo_espacios": 22,
+        "csv_antiguo_truncado": 4
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál es el hallazgo tomográfico mas indicativo en el diagnóstico de pancreatitis crónica?",
+      "options": {
+        "A": "Seudoaneurisma",
+        "B": "Dilatación del conducto pancreático principal",
+        "C": "Seudoquistes",
+        "D": "Atrofia del parénquima pancreático",
+        "E": "Calcificaciones pancreáticas intraductales"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "En ecografía. ¿Qué artefacto se forma cuando el haz de sonido choca con una estructura curva, la cual enfoca las ondas y las refleja?",
+      "options": {
+        "A": "Velocidad de propagación",
+        "B": "Lóbulo lateral",
+        "C": "Espejo",
+        "D": "Grosor de corte",
+        "E": "Reverberación"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "En un nódulo benigno de mama. ¿Cuál es el patrón de realce dinámico de contraste en RM?",
+      "options": {
+        "A": "Lavado",
+        "B": "Periferia se realza primero",
+        "C": "Rápido e inicial",
+        "D": "Gradual",
+        "E": "Meseta tardía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Lactante en el primer día de vida, presenta vómito bilioso, sin distensión intestinal. Rx abdominal: signo de doble burbuja. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Obstrucción ileal",
+        "B": "Estenosis del píloro",
+        "C": "Malrotación intestinal",
+        "D": "Duplicación intestinal",
+        "E": "Atresia duodenal"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "¿Qué tipo de atelectasia se produce cuando la superficie luminal de las paredes alveolares se unen entre si?",
+      "options": {
+        "A": "Cicatrización",
+        "B": "Adhesiva",
+        "C": "Compresión",
+        "D": "Reabsorción",
+        "E": "Pasiva"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "¿Qué venas conectan y garantizan el flujo del sistema superficial al sistema venoso profundo en los miembros inferiores?",
+      "options": {
+        "A": "Comunicantes",
+        "B": "Accesorias",
+        "C": "Superficiales",
+        "D": "Perforantes",
+        "E": "Profundas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál es el tipo de inestabilidad de hombro más frecuente?",
+      "options": {
+        "A": "Posterior",
+        "B": "Multidireccional",
+        "C": "Anterior",
+        "D": "Superior",
+        "E": "Lateral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es la característica en la ecografía Doppler color de un ganglio cervical benigno?",
+      "options": {
+        "A": "Desplazamiento de los vasos",
+        "B": "Localización periférica de vasos",
+        "C": "Patrón vascular caótico",
+        "D": "Pedículo vascular único",
+        "E": "Valor de impedancia alto"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "En tomografía, el hallazgo de una masa renal bien delimitada, de bordes lisos y redondeados, y que cuando es de gran tamaño puede presentar una cicatriz central, corresponde a:",
+      "options": {
+        "A": "Angiomiolipoma",
+        "B": "Oncocitoma",
+        "C": "Linfoma",
+        "D": "Sarcoma",
+        "E": "Leiomioma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "¿Cuál es el tumor ovárico mas frecuente en la infancia?",
+      "options": {
+        "A": "Fibrotecoma",
+        "B": "Cistoadenofibroma",
+        "C": "Cistoadenoma",
+        "D": "Teratoma",
+        "E": "Tumor de Brenner"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Cuál es una indicación para la embolización preesplénica?",
+      "options": {
+        "A": "Rotura de la arteria esplénica",
+        "B": "Hiperesplenismo",
+        "C": "Tumores esplénicos",
+        "D": "Talasemia",
+        "E": "Púrpura trombocitopénica idiopática"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál es la técnica de imagen de elección para el estadiaje local del cáncer uretral?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Uretrografía",
+        "C": "Resonancia",
+        "D": "Gammagrafía",
+        "E": "Ecografía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Cuál es el tumor extraaxial más frecuente del SNC?",
+      "options": {
+        "A": "Hemangiopericitoma",
+        "B": "Meningioma",
+        "C": "Germinoma",
+        "D": "Teratoma",
+        "E": "Cordoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "¿Por qué se caracteriza el cáncer de próstata?",
+      "options": {
+        "A": "La TC es el método de elección para el estadiaje local",
+        "B": "En el cáncer precoz la F-FDG-PET identifica lesiones en el lecho prostático",
+        "C": "El ultrasonido en el estadiaje es de gran utilidad",
+        "D": "El uso de RM dinámica con contraste es imprescindible",
+        "E": "La secuencia de T2 en RM es la más útil en la descripción y estadiaje del tumor"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Qué secuencia de RM se utiliza para distinguir los adenomas de las metástasis suprarrenales?",
+      "options": {
+        "A": "Flair",
+        "B": "T2",
+        "C": "STIR",
+        "D": "Eco-gradiente",
+        "E": "DP"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Varón de 15 años. Rx Tórax: adenopatía hiliar derecha y consolidación del lóbulo medio. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Mycoplasma pneumoniae",
+        "B": "Streptococo pneumoniae",
+        "C": "Tuberculosis primaria",
+        "D": "Virus sincitial respiratorio",
+        "E": "Neumonía por gram-negativos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "En la hemorragia cerebral aguda (12-48 horas). ¿Cuál es el comportamiento de señal en RM?",
+      "options": {
+        "A": "Intensidad media en T1 e hipointensa en T2",
+        "B": "Intensidad media en T1 y levemente hiperintensa en T2",
+        "C": "Hiperintenso en T1 y T2",
+        "D": "Hipointenso en T1 y T2",
+        "E": "Hiperintenso en T1 e hipointenso en T2"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿En qué bolsa sinovial, se desarrolla el quiste de Baker?",
+      "options": {
+        "A": "Prerrotuliana",
+        "B": "Pata de ganso",
+        "C": "Semimembranoso-ligamento colateral",
+        "D": "Semimembranoso-gastrocnemio",
+        "E": "Infrarrotuliana"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Cuál es el signo tomográfico indirecto de lesión aguda de la aorta torácica?",
+      "options": {
+        "A": "Extravasación del contraste",
+        "B": "Seudoaneurisma",
+        "C": "Seudocoartación",
+        "D": "Fístula aórtica",
+        "E": "Hematoma periaórtico"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Un drenaje biliar externo temporal es indispensable en caso de:",
+      "options": {
+        "A": "Colecistitis",
+        "B": "Colangitis",
+        "C": "Barro biliar",
+        "D": "Pólipo",
+        "E": "Litiasis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Cuál es la lesión ósea benigna mas frecuente en la mano y muñeca?",
+      "options": {
+        "A": "Osteoma",
+        "B": "Schwannoma",
+        "C": "Encondroma",
+        "D": "Cordoma",
+        "E": "Neuroma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cuál es la principal indicación de la nefrostomía percutánea?",
+      "options": {
+        "A": "Obstrucción urinaria",
+        "B": "Fístula urinaria",
+        "C": "Ectasia en riñón transplantado",
+        "D": "Implantación de stents",
+        "E": "Biopsia endoluminal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "¿Cuál es una reacción vasovagal moderada con el uso de sustancia de contraste en radiología intervencionista?",
+      "options": {
+        "A": "Urticaria",
+        "B": "Edema de glotis",
+        "C": "Bradicardia",
+        "D": "Edema pulmonar",
+        "E": "Broncoespasmo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Paciente operada en mama derecha por presentar tumor benigno. En los controles mamográficos se evidencia imagen nodular radiolúcida de contornos definidos con calcificaciones gruesas en su interior, localizada a nivel de la cicatriz post operatoria. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Carcinoma papilar",
+        "B": "Papiloma",
+        "C": "Quiste complejo",
+        "D": "Carcinoma medular",
+        "E": "Necrosis grasa"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Cuál es el método radiológico de elección para el diagnóstico de tumoración mediastínica?",
+      "options": {
+        "A": "Radiografía",
+        "B": "Tomografía",
+        "C": "Resonancia",
+        "D": "PET-CT",
+        "E": "Ecografía transesofágica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "En el mediastino. ¿Cuál es la localización mas frecuente del aneurisma aórtico?",
+      "options": {
+        "A": "Anterior",
+        "B": "Medio",
+        "C": "Posterior",
+        "D": "Superior",
+        "E": "Lateral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "RM del pie: \"masa de partes blandas en forma de lágrima en la zona plantar entre la cabeza de los metatarsianos, de señal intermedia y normalmente baja en T2\". ¿Cuál es la primera posibilidad diagnóstica?",
+      "options": {
+        "A": "Quiste sinovial",
+        "B": "Lipoma",
+        "C": "Cordoma",
+        "D": "Hemangioma",
+        "E": "Neuroma de Morton"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Qué músculo corresponde a la zona medial del codo?",
+      "options": {
+        "A": "Bíceps braquial",
+        "B": "Ancóneo",
+        "C": "Supinador",
+        "D": "Pronador redondo",
+        "E": "Braquirradial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál es el signo tomográfico mas confiable en la isquemia intestinal aguda?",
+      "options": {
+        "A": "Ausencia de realce con contraste IV del asa afectada",
+        "B": "Dilatación o íleo intestinal distal",
+        "C": "Engrosamiento de la pared del asa intestinal",
+        "D": "Neumoperitoneo",
+        "E": "Edema mesentérico difuso"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Qué es la radiación dispersa y cuánto dura?",
+      "options": {
+        "A": "Son fotones de Rayos X que no siguen la dirección original de los Rayos X y dura igual que el tiempo del disparo",
+        "B": "Son fotones de Rayos X y duran mucho más que el tiempo del disparo",
+        "C": "Son fotones de Rayos X consecuencia del efecto Compton y duran aproximadamente igual que el tiempo del disparo",
+        "D": "Son fotones de Rayos X y duran menos que el tiempo del disparo",
+        "E": "Son haces de energía que siguen la dirección original de los Rayos X y duran igual que el tiempo del disparo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "En el diagnóstico ecográfico de varicocele. ¿Cuál es la dilatación venosa mínima en milímetros del plexo venoso pampiniforme?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9",
+        "E": "11"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es una característica de la colecistitis aguda?",
+      "options": {
+        "A": "Presencia de colelitiasis y signo de Murphy en procedimiento ecográfico",
+        "B": "Engrosamiento parietal mayor de 5mm por ecografía",
+        "C": "Aumento del tamaño vesicular por ecografía y/o tomografía computarizada",
+        "D": "Líquido perivesicular, existe en un 10% de la colecistitis en ecografía",
+        "E": "La colangioresonancia es muy útil en el diagnóstico de colecistitis aguda"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál es la infección oportunista del SNC más frecuente en pacientes con SIDA?",
+      "options": {
+        "A": "Cisticercosis",
+        "B": "Toxoplasmosis",
+        "C": "Hidatidosis",
+        "D": "Tuberculosis",
+        "E": "Candidiasis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Los efectos biológicos de las radiaciones ionizantes se clasifican en dos tipos: a) Estocásticos. b) Determinísticos. En los efectos determinísticos, la gravedad del daño se incrementa con:",
+      "options": {
+        "A": "Incremento de la probabilidad",
+        "B": "Incremento de la dosis",
+        "C": "Disminución de la dosis",
+        "D": "Disminución de la tasa de la dosis",
+        "E": "Incremento de la dosis y de la probabilidad"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Mujer de 45 años, acude a despistaje mamográfico: mama derecha con calcificaciones radiolúcidas de localización periférica. ¿Cuál es la incidencia mamográfica a tomar para descartar calcificación cutánea?",
+      "options": {
+        "A": "Craneocaudal",
+        "B": "Mediolateral",
+        "C": "Medio-oblicua",
+        "D": "Lateral",
+        "E": "Tangencial"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "¿Por qué se caracteriza el glioblastoma multiforme?",
+      "options": {
+        "A": "En la RM se obseva como lesión extraaxial",
+        "B": "Es el más frecuente de los tumores primarios del SNC",
+        "C": "El tiempo de supervivencia es mayor a 5 años",
+        "D": "Más frecuente en la población pediátrica",
+        "E": "Está asociado a neurofibromatosis tipo I"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Si en RM cerebral se observa lesión esférica bien delimitada en la porción anterior del III ventrículo, de señal variable, sin realce con la sustancia de contraste. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Quiste neuroepitelial",
+        "B": "Hamartoma",
+        "C": "Quiste coloideo",
+        "D": "Meningioma",
+        "E": "Quiste porencefálico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "En el mediastino. ¿Cuál es la localización típica del quiste broncogénico?",
+      "options": {
+        "A": "Posterior",
+        "B": "Superior",
+        "C": "Lateral",
+        "D": "Medio",
+        "E": "Anterior"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿Cuál es un signo ecográfico de insuficiencia renal aguda?",
+      "options": {
+        "A": "Riñones aumentados de tamaño",
+        "B": "Disminución de grosor de cortical",
+        "C": "Riñones pequeños",
+        "D": "Pérdida de la diferencia corticomedular",
+        "E": "Disminución de ecogenicidad de seno renal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿Cuál es el procedimiento radiológico mas sensible para el diagnóstico de tumor del intestino delgado?",
+      "options": {
+        "A": "Tránsito intestinal con bario",
+        "B": "Cápsula endoscópica",
+        "C": "Enterografía por TC",
+        "D": "Enterografía y enteroclisis por RM",
+        "E": "Enteroclisis con bario"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Mujer de 50 años. Mamografía: en la proyección craneocaudal de la mama izquierda presenta calcificaciones borrosas y en la proyección mediolateral adicional se observa calcificaciones curvilíneas. ¿A qué tipo de calcificaciones corresponde?",
+      "options": {
+        "A": "Leche de calcio",
+        "B": "Cutáneas",
+        "C": "Pleomórficas",
+        "D": "Vasculares",
+        "E": "Distróficas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Cuál es el método imagenológico de elección para estudiar los transplantes renales?",
+      "options": {
+        "A": "PET",
+        "B": "Resonancia",
+        "C": "TC contrastada",
+        "D": "Ecografía",
+        "E": "Urograma excretor"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "¿Por qué se caracteriza los estudios de imagen en el diagnóstico de pacientes con traumatismo torácico?",
+      "options": {
+        "A": "La radiografía simple del tórax es menos sensible que la TC, pero es la primera aproximación diagnóstica",
+        "B": "La TC del tórax debe realizarse en todos los pacientes aunque no tenga radiografía del tórax",
+        "C": "La RM del tórax siempre debe realizarse en un paciente con TC patológica",
+        "D": "La ecografía en trauma torácico no sirve para determinar derrame pleural",
+        "E": "La RM del tórax debe realizarse en todos los pacientes con trauma torácico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "¿Cuál es un tumor neurógeno benigno?",
+      "options": {
+        "A": "Fibrolipoma",
+        "B": "Histiocitoma",
+        "C": "Hemangiopericitoma",
+        "D": "Ganglioneuroma",
+        "E": "Seudomixoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuál es la causa más probable de aumento hiliar derecho en el adulto?",
+      "options": {
+        "A": "Quiste broncogénico",
+        "B": "Arteria pulmonar derecha aumentada",
+        "C": "Várice pulmonar",
+        "D": "Linfadenopatía",
+        "E": "Aneurisma de la aorta descendente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuáles son los hallazgos tomográficos específicos de la isquemia intestinal aguda?",
+      "options": {
+        "A": "Tromboembolia en los vasos mesentéricos",
+        "B": "Dilatación intestinal",
+        "C": "Edema de la submucosa",
+        "D": "Edema mesentérico",
+        "E": "Ascitis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es el tendón del manguito rotador del hombro que discurre entre la superficie inferior del acromion y la parte superior de la cabeza humeral?",
+      "options": {
+        "A": "Subescapular",
+        "B": "Supraespinoso",
+        "C": "Infraespinoso",
+        "D": "Coracoideo",
+        "E": "Redondo menor"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Dónde suelen quedar retenidos los cálculos urinarios con más frecuencia?",
+      "options": {
+        "A": "Vejiga",
+        "B": "Sector medio del uréter",
+        "C": "Unión pieloureteral",
+        "D": "Unión urétero-vesical",
+        "E": "Pélvis renal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Qué patología constituye un falso negativo en la interpretación de RM de mama?",
+      "options": {
+        "A": "Cambios fibroquísticos",
+        "B": "Necrosis grasa",
+        "C": "Papiloma intraductal",
+        "D": "Fibroadenoma",
+        "E": "Carcinoma ductal in situ"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál de los siguientes tumores es más probable que se disemine por contigüidad y menos probable que presente metástasis a distancia?",
+      "options": {
+        "A": "Carcinoma de tiroides",
+        "B": "Teratoma maligno",
+        "C": "Linfoma",
+        "D": "Carcinoide tímico",
+        "E": "Timoma invasivo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Qué hallazgo tomográfico tardío se observa en la pancreatitis aguda?",
+      "options": {
+        "A": "Refuerzo homogéneo del páncreas",
+        "B": "Agrandamiento pancreático focal o difuso",
+        "C": "Contorno pancreático regular",
+        "D": "Ausencia de tractos en la grasa peripancreática",
+        "E": "Calcificaciones pancreáticas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Por qué se caracteriza el estudio del tubo digestivo con medios de contraste?",
+      "options": {
+        "A": "Son contrastes positivos el sulfato de bario, contrastes yodados hidrosolubles y metilcelulosa",
+        "B": "El contraste negativo, se administra mediante sustancia efervescente o enema de doble contraste",
+        "C": "Son contrastes negativos el aire y sustancias yodadas hidrosolubles",
+        "D": "Son contrastes positivos el sulfato de bario, leche y contraste yodados hidrosolubles",
+        "E": "El sulfato de bario es un contraste inerte que se absorbe por la vía enteral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Qué complicaciones locales extravasculares de la pancreatitis aguda puede identificarse mediante tomografía?",
+      "options": {
+        "A": "Seudoaneurisma",
+        "B": "Compromiso vascular mesentérico",
+        "C": "Infartos esplénicos",
+        "D": "Trombosis de la vena esplénica",
+        "E": "Abcesos pancreáticos"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Cuáles son las medidas básicas de protección radiológica?",
+      "options": {
+        "A": "Distancia, velocidad y tiempo",
+        "B": "Velocidad, blindaje y distancia",
+        "C": "Volumen, tiempo y velocidad",
+        "D": "Tiempo, velocidad y blindaje",
+        "E": "Distancia, tiempo y blindaje"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuál es el método de imagen más sensible para la detección precoz de osteonecrosis?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Resonancia",
+        "C": "Radiografía",
+        "D": "Ecografía",
+        "E": "Gammagrafía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Los Rayos X son:",
+      "options": {
+        "A": "Electrones que se emiten desde el núcleo",
+        "B": "Ondas electromagnéticas de alta energía",
+        "C": "Partículas de alta energía",
+        "D": "Radiaciones corpusculares de alta energía",
+        "E": "Fotones de distinta energía que viajan a la velocidad de la luz"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Lesión lobulada que se origina en el endocardio, de intensidad de señal similar al miocardio en RM. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Fibroelastoma",
+        "B": "Hemangioma",
+        "C": "Mixoma",
+        "D": "Trombo",
+        "E": "Lipoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Cómo se le denomina al defecto óseo (fractura) de la pars interarticular de la columna?",
+      "options": {
+        "A": "Listesis",
+        "B": "Modic II",
+        "C": "Lumbarización",
+        "D": "Espondilolisis",
+        "E": "Sacralización"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál es la causa más frecuente de masa del mediastino medio?",
+      "options": {
+        "A": "Linfadenopatía",
+        "B": "Higroma quístico",
+        "C": "Hematoma",
+        "D": "Quistes de duplicación",
+        "E": "Hernia hiatal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál es una característica radiológica de las várices esofágicas de la vena gástrica izquierda y de las gástricas cortas?",
+      "options": {
+        "A": "En el tránsito gastroduodenal se aprecian defectos de llenado lobulados y lisos que simulan pliegues engrosados",
+        "B": "TC simple es específica pues simula un tumor, pliegues engrosados o adenopatías perigástricas",
+        "C": "Resonancia magnética permite determinar los vasos venosos tortuosos",
+        "D": "Angiografía selectiva del tronco celiaco demuestra las várices esofágicas",
+        "E": "Endoscopía alta es el método de elección para el diagnóstico de varices esofágicas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuál de las siguientes estructuras abdominales constituye una de las mejores ventanas para transmitir el sonido en ecografía?",
+      "options": {
+        "A": "Hígado",
+        "B": "Bazo",
+        "C": "Páncreas",
+        "D": "Estómago",
+        "E": "Ovario"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál es la causa más frecuente de atelectasia?",
+      "options": {
+        "A": "Carcinoma de células escamosas",
+        "B": "Carcinoide bronquial",
+        "C": "Linfoma",
+        "D": "Metástasis",
+        "E": "Sarcoidosis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es la limitación mas importante con respecto a la exploración TC del abdomen?",
+      "options": {
+        "A": "La necesidad de utilizar medios de contraste yodados vía intravenosa",
+        "B": "Muy buena resolución de contraste en algunas áreas anatómicas",
+        "C": "Ausencia de información dinámica en tiempo real",
+        "D": "La TC abdominopélvica es donde se aplican las mayores dosis de radiación",
+        "E": "Deja de ser una técnica de imagen axial para convertirse en estudio volumétrico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "¿Cuál es una característica de la diverticulitis aguda?",
+      "options": {
+        "A": "TC abdominal es la exploración de elección en la fase aguda",
+        "B": "En TC abdominal es obligatorio administrar contraste oral e IV",
+        "C": "Ecografía abdominal es una técnica útil y sensible cuando se sospechan complicaciones",
+        "D": "Enema opaco es la técnica de elección en episodios agudos",
+        "E": "Enema a doble contraste puede ser una opción"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Lactante que en la tercera semana de edad, presenta vómitos no biliosos y progresivos después de la lactancia. Ecografía: grosor del píloro: 3-4mm, longitud pilórica: 15-19mm, diámetro pilórico: 10-14mm. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Duplicación pilórica",
+        "B": "Dilatación pilórica",
+        "C": "Gastropatía hipertrófica",
+        "D": "Obstrucción duodenal",
+        "E": "Estenosis hipertrófica del píloro"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es una característica de la ecografía abdominal?",
+      "options": {
+        "A": "Las heridas cutáneas son contraindicación absoluta para evaluación ecográfica del abdomen",
+        "B": "Para el examen del abdomen superior se requiere un ayuno mínimo de seis horas",
+        "C": "Las maniobras respiratorias solo implican inspiración y espiración profunda",
+        "D": "Los cambios de posición no facilitan desplazamientos del gas intestinal",
+        "E": "El examen ecográfico del abdomen siempre incluye la exploración del tubo digestivo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Qué modalidad del Doppler representa la potencia o intensidad del espectro del flujo y no la velocidad?",
+      "options": {
+        "A": "Color",
+        "B": "Modo B",
+        "C": "Pulsado",
+        "D": "Power",
+        "E": "Modo M"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "¿Cuál es la principal complicación de la embolización arterial?",
+      "options": {
+        "A": "Infección necrotizante",
+        "B": "Hemorragia masiva",
+        "C": "Migración del material embolizante",
+        "D": "Dolor intenso",
+        "E": "Fístula arterio-venosa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Qué anomalía del desarrollo corresponde a la fusión de los riñones, generalmente en sus polos inferiores, localizados en la región inferior del abdomen?",
+      "options": {
+        "A": "Hipoplásico",
+        "B": "Atrófico",
+        "C": "Ectopia",
+        "D": "Duplicación",
+        "E": "Herradura"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuál es el lugar más frecuente de vólvulo colónico?",
+      "options": {
+        "A": "Transverso",
+        "B": "Ascendente",
+        "C": "Descendente",
+        "D": "Ileocecal",
+        "E": "Sigmoides"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "En un niño de 6 años de edad. ¿Cuál es el tumor neurógeno más frecuente?",
+      "options": {
+        "A": "Neurofibroma",
+        "B": "Schwannoma",
+        "C": "Neuroganglioma",
+        "D": "Neuroganglioblastoma",
+        "E": "Quemodectoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Cuál es el procedimiento de elección en el diagnóstico de patología de la vesícula y la vía biliar?",
+      "options": {
+        "A": "Colecistografía oral",
+        "B": "Colangiopancreatografía por RM",
+        "C": "TC del abdomen superior",
+        "D": "Ecografía abdominal superior",
+        "E": "Colangiografía transparietohepática"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Las proyecciones postero-anterior y lateral, son posiciones estándares para evaluar el tórax. ¿Qué otra incidencia permite evaluar los ápices pulmonares?",
+      "options": {
+        "A": "Oblicuas",
+        "B": "En espiración",
+        "C": "Lordótica",
+        "D": "Tangencial",
+        "E": "Decúbito lateral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál es la complicación más frecuente asociada a la poliquistosis renal autosómica dominante?",
+      "options": {
+        "A": "Hematuria",
+        "B": "Nefropatía terminal",
+        "C": "Nefrolitiasis",
+        "D": "Cáncer renal",
+        "E": "Hemorragia intraquística"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿En qué día del periodo menstrual debe realizarse la RM de mama?",
+      "options": {
+        "A": "11-14",
+        "B": "16-20",
+        "C": "7-10",
+        "D": "20-30",
+        "E": "1- 6"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "La colangioresonancia magnética es muy sensible y específica para evaluar:",
+      "options": {
+        "A": "La vesícula biliar y colédoco",
+        "B": "Conducto pancreático principal y colédoco",
+        "C": "Las vías biliares intra y extrahepáticas, asi como el colédoco",
+        "D": "Vías biliares intrahepáticas y vesícula biliar",
+        "E": "La vesícula biliar y el páncreas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Varón de 30 años, presenta aumento de volumen en mama derecha. Mamografía: solo se evidencia tejido adiposo. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Fibroadenoma",
+        "B": "Ginecomastia",
+        "C": "Quiste",
+        "D": "Seudoginecomastia",
+        "E": "Papiloma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "En hallazgos tomográficos de fibrosis pulmonar, la definición de quistes aéreos subcentimétricos de pared gruesa alineados en capas en disposición subpleural, corresponde a:",
+      "options": {
+        "A": "Engrosamiento de los tabiques interlobulillares",
+        "B": "Patrón en empedrado (crazy paving)",
+        "C": "Quistes pulmonares",
+        "D": "Panalización",
+        "E": "Vidrio esmerilado"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuál es el signo mas importante por radiología simple de un colapso pulmonar total?",
+      "options": {
+        "A": "El desplazamiento del mediastino hacia el hemitórax sano",
+        "B": "Descenso del hemidiafragma del hemitórax afectado",
+        "C": "Pérdida del volumen pulmonar por fibrosis",
+        "D": "Ensanchamiento de los espacios intercostales en el hemitórax afectado",
+        "E": "El desplazamiento del mediastino hacia el hemitórax opacificado"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál es el procedimiento de elección para el diagnóstico radiológico de la hernia hiatal?",
+      "options": {
+        "A": "Radiografía simple del tórax",
+        "B": "Tránsito esofágico",
+        "C": "Tomografía computarizada de tórax",
+        "D": "Resonancia magnética del mediastino",
+        "E": "Endoscopía del tubo digestivo superior"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Mujer de 20 años con tumor sólido en mama derecha, se realiza biopsia percutánea de mama bajo guía ecográfica, las muestras tomadas deben ser enviadas a patología en un frasco que contiene:",
+      "options": {
+        "A": "Formol",
+        "B": "Alcohol",
+        "C": "Bencina",
+        "D": "Yodo",
+        "E": "Ácido acético"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "¿Cuál es la modalidad imagenológica de elección para estadiar los linfáticos regionales del cuello?",
+      "options": {
+        "A": "Resonancia",
+        "B": "Ecografía",
+        "C": "Gammagrafía",
+        "D": "Tomosíntesis",
+        "E": "Tomografía"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Cuáles son los hallazgos radiológicos mas importantes del cáncer pulmonar central?",
+      "options": {
+        "A": "Lesión lítica costal",
+        "B": "Patrón de consolidación",
+        "C": "Obstrucción bronquial y masa con aumento del tamaño hiliar",
+        "D": "La localización es apical",
+        "E": "Afectación a la pared torácica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "¿Qué tipo de metástasis hepática se calcifica con mayor frecuencia?",
+      "options": {
+        "A": "Testículo",
+        "B": "Melanoma",
+        "C": "Pulmón",
+        "D": "Colon",
+        "E": "Próstata"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Cuál es la complicación más frecuente en la biopsia percutánea torácica?",
+      "options": {
+        "A": "Neumotórax",
+        "B": "Hemorragia",
+        "C": "Embolismo aéreo",
+        "D": "Enfisema subcutáneo",
+        "E": "Dolor"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "¿Cuál es una característica del estudio TC trifásico del hígado?",
+      "options": {
+        "A": "La fase portal, sirve para detectar lesiones hipervasculares",
+        "B": "La fase venosa, sirve para identificar lesiones hipovasculares",
+        "C": "En la fase arterial las lesiones hipovasculares son hiperdensas",
+        "D": "Sirve para detectar y caracterizar lesiones focales hepáticas",
+        "E": "En fase arterial, los quistes simples realzan intensamente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Prematuro de bajo peso. Rx abdomen: neumatosis, neumoperitoneo y gas en la vena porta. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Íleo meconial",
+        "B": "Hernia diafragmática congénita",
+        "C": "Aspiración de meconio",
+        "D": "Eventración abdominal",
+        "E": "Enterocolitis necrotizante"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿Cuál de las siguientes patologías produce atelectasia por cicatrización?",
+      "options": {
+        "A": "Carcinoma broncogénico",
+        "B": "Hemotórax",
+        "C": "Asma",
+        "D": "Histoplasmosis",
+        "E": "Tuberculosis"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Cuál es la neoplasia renal mas frecuente de la infancia?",
+      "options": {
+        "A": "Tumor de Wilms",
+        "B": "Nefroblastoma",
+        "C": "Nefroma quístico",
+        "D": "Linfoma",
+        "E": "Oncocitoma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es una característica del medio de contraste iodado de uso intravascular?",
+      "options": {
+        "A": "Son macromoléculas que se unen a las proteínas",
+        "B": "Atraviesa la barrera hematoencefálica",
+        "C": "En los demas tejidos pasan por el espacio intracelular",
+        "D": "Pasa rápidamente al espacio intersticial o extracelular",
+        "E": "Se eliminan por excreción renal tubular"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Las líneas B de Kerley corresponden a:",
+      "options": {
+        "A": "Engrosamiento de los septos interlobulares",
+        "B": "Dilatación de los vasos linfáticos",
+        "C": "Vénulas dilatadas",
+        "D": "Paredes alveolares engrosadas",
+        "E": "Arterias dilatadas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "¿Por qué se caracteriza el carcinoma de la cavidad oral?",
+      "options": {
+        "A": "La TC demuestra mejor que RM la interfase del tumor- músculo y extensión perineural",
+        "B": "La TC es la modalidad de elección para los tumores de paladar duro",
+        "C": "La TC es mejor que RM para la detección temprana de la invasión cortical ósea directa",
+        "D": "La RM detecta más precozmente las metástasis/necrosis focal en ganglios linfáticos de tamaño normal.",
+        "E": "La F-FDG PET es indicada de rutina en el estadío inicial"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Cuál es el hallazgo en RM cerebral de la lesión traumática por cizallamiento?",
+      "options": {
+        "A": "Focos hipointensos en T1 que muestran realce con la sustancia de contraste",
+        "B": "En T2, hiperintensidad en focos o zonas difusas en la sustancia blanca",
+        "C": "Vacío de señal, en las imágenes T1 y T2",
+        "D": "Realce cortical giriforme con la sustancia de contraste",
+        "E": "En T2, hiperintensidad simétrica del globo pálido"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Qué tendón pertenece al compartimiento medial del tobillo?",
+      "options": {
+        "A": "Peroneo corto",
+        "B": "Tibial posterior",
+        "C": "Peroneo largo",
+        "D": "Extensor del I dedo",
+        "E": "Tibial anterior"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es la característica ecográfica de la arteritis de Takayasu?",
+      "options": {
+        "A": "Masa en la vena porta de bordes bien definidos",
+        "B": "Ensanchamiento de la bifurcación carotídea",
+        "C": "Adelgazamiento parietal hipoecogénico",
+        "D": "Separa la carotida interna de la externa",
+        "E": "Corte transversal: signo del macarrón"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Cuál es la causa más frecuente de aneurisma en arteria renal?",
+      "options": {
+        "A": "Ateroesclerosis",
+        "B": "Fibrodisplasia",
+        "C": "Neurofibromatosis",
+        "D": "Síndrome Ehlers-Danlos",
+        "E": "Poliarteritis nodosa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "En la ecografía prenatal. ¿En qué semana de gestación puede diagnosticarse la hernia diafragmática congénita?",
+      "options": {
+        "A": "16 y 24",
+        "B": "25 y 30",
+        "C": "31 y 36",
+        "D": "37 y 40",
+        "E": "5 y 15"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál es una característica de la colangioresonancia magnética?",
+      "options": {
+        "A": "Estudia la anatomía de los conductos biliares y pancreáticos",
+        "B": "Es útil en el diagnóstico de pancreatitis aguda",
+        "C": "El útil en el diagnóstico de litiasis vesicular",
+        "D": "Se necesita siempre de la administración de contraste",
+        "E": "Es útil en casos de aerobilia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Paciente acude por alta sospecha de ruptura de prótesis mamaria. ¿Cuál es el examen radiológico de elección?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Mamografía",
+        "C": "Ecografía",
+        "D": "Resonancia",
+        "E": "Tomosíntesis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Paciente que al estudio Doppler de vena porta presenta: velocidad de vena porta menor de 16cm/s, flujo hepatófugo de vena porta, derivación portosistémica y vena porta de calibre mayor de 13mm. ¿Cuál es su diagnóstico?",
+      "options": {
+        "A": "Hipertensión",
+        "B": "Trombosis",
+        "C": "Cavernomatosis",
+        "D": "Tumor",
+        "E": "Malformación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

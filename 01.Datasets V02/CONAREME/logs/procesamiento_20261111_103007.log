@@ -1,0 +1,434 @@
+2026-11-11 10:30:07 | INFO    | ====================================================================================================
+2026-11-11 10:30:07 | INFO    | Procesamiento de exámenes CONAREME — process_exams.py v1.0.0
+2026-11-11 10:30:07 | INFO    | Carpeta base : /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen Residencia Peru/00_CONAREME
+2026-11-11 10:30:07 | INFO    | Años         : ['Year2018', 'Year2019', 'Year2020', 'Year2022', 'Year2023', 'Year2024', 'Year2025', 'Year2026']
+2026-11-11 10:30:07 | INFO    | Modo         : ESCRITURA (CSV + JSON)
+2026-11-11 10:30:07 | INFO    | ====================================================================================================
+2026-11-11 10:30:07 | INFO    | [Year2018] 11 PDF(s)
+2026-11-11 10:30:08 | INFO    |   [2018] ANESTESIOLOGIA
+2026-11-11 10:30:08 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:08 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 34, 'identico': 562, 'csv_antiguo_truncado': 4}
+2026-11-11 10:30:08 | INFO    |       cobertura de texto: OK (18153/18153 caracteres) | márgenes: {'vec_min_winner': 0.9935, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.1419, 'pix_max_loser': 0.0}
+2026-11-11 10:30:09 | INFO    |   [2018] CIRUGIA
+2026-11-11 10:30:09 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:09 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 49, 'identico': 528, 'csv_antiguo_truncado': 23}
+2026-11-11 10:30:09 | INFO    |       cobertura de texto: OK (24673/24673 caracteres) | márgenes: {'vec_min_winner': 0.9927, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.3256, 'pix_max_loser': 0.0}
+2026-11-11 10:30:09 | INFO    |   [2018] GINECOLOGIA Y OBSTETRICIA
+2026-11-11 10:30:09 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:09 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 53, 'identico': 537, 'csv_antiguo_truncado': 10}
+2026-11-11 10:30:09 | INFO    |       cobertura de texto: OK (21941/21941 caracteres) | márgenes: {'vec_min_winner': 0.9938, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.2074, 'pix_max_loser': 0.0}
+2026-11-11 10:30:10 | INFO    |   [2018] OFTALMOLOGIA
+2026-11-11 10:30:10 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:10 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 540, 'solo_espacios': 33, 'csv_antiguo_truncado': 27}
+2026-11-11 10:30:10 | INFO    |       cobertura de texto: OK (21226/21226 caracteres) | márgenes: {'vec_min_winner': 0.9927, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.1351, 'pix_max_loser': 0.0}
+2026-11-11 10:30:11 | INFO    |   [2018] PATOLOGIA
+2026-11-11 10:30:11 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:11 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 27, 'identico': 561, 'csv_antiguo_truncado': 12}
+2026-11-11 10:30:11 | INFO    |       cobertura de texto: OK (19505/19505 caracteres) | márgenes: {'vec_min_winner': 0.9927, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.3783, 'pix_max_loser': 0.0}
+2026-11-11 10:30:12 | INFO    |   [2018] PEDIATRIA
+2026-11-11 10:30:12 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:12 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 66, 'identico': 523, 'csv_antiguo_truncado': 11}
+2026-11-11 10:30:12 | INFO    |       cobertura de texto: OK (25277/25277 caracteres) | márgenes: {'vec_min_winner': 0.9927, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.1123, 'pix_max_loser': 0.0}
+2026-11-11 10:30:12 | INFO    |   [2018] PRUEBA A
+2026-11-11 10:30:12 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:12 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 67, 'identico': 530, 'csv_antiguo_truncado': 3}
+2026-11-11 10:30:12 | INFO    |       cobertura de texto: OK (25434/25434 caracteres) | márgenes: {'vec_min_winner': 0.9927, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.1532, 'pix_max_loser': 0.0}
+2026-11-11 10:30:13 | INFO    |   [2018] PRUEBA B
+2026-11-11 10:30:13 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:13 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 68, 'identico': 529, 'mayor': 1, 'csv_antiguo_truncado': 2}
+2026-11-11 10:30:13 | INFO    |       cobertura de texto: OK (26053/26053 caracteres) | márgenes: {'vec_min_winner': 0.9935, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.1143, 'pix_max_loser': 0.0}
+2026-11-11 10:30:14 | INFO    |   [2018] PSIQUIATRIA
+2026-11-11 10:30:14 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:14 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 73, 'identico': 525, 'csv_antiguo_truncado': 2}
+2026-11-11 10:30:14 | INFO    |       cobertura de texto: OK (27526/27526 caracteres) | márgenes: {'vec_min_winner': 0.9927, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.3645, 'pix_max_loser': 0.0}
+2026-11-11 10:30:14 | INFO    |   [2018] RADIOLOGIA
+2026-11-11 10:30:14 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:14 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 43, 'identico': 557}
+2026-11-11 10:30:14 | INFO    |       cobertura de texto: OK (19275/19275 caracteres) | márgenes: {'vec_min_winner': 0.9927, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.1979, 'pix_max_loser': 0.0}
+2026-11-11 10:30:15 | INFO    |   [2018] UROLOGIA
+2026-11-11 10:30:15 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:15 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 526, 'solo_espacios': 53, 'csv_antiguo_truncado': 20, 'mayor': 1}
+2026-11-11 10:30:15 | INFO    |       cobertura de texto: OK (27775/27775 caracteres) | márgenes: {'vec_min_winner': 0.9935, 'vec_max_loser': 0.0073, 'pix_min_winner': 0.3418, 'pix_max_loser': 0.0}
+2026-11-11 10:30:15 | INFO    | [Year2019] 12 PDF(s)
+2026-11-11 10:30:16 | INFO    |   [2019] ANATOMIA PATOLOGICA
+2026-11-11 10:30:16 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:16 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 563, 'solo_espacios': 34, 'csv_antiguo_truncado': 3}
+2026-11-11 10:30:16 | INFO    |       cobertura de texto: OK (20278/20278 caracteres) | márgenes: {'vec_min_winner': 0.9953, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.623, 'pix_max_loser': 0.0}
+2026-11-11 10:30:17 | INFO    |   [2019] ANESTESIOLOGIA
+2026-11-11 10:30:17 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:17 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 557, 'csv_antiguo_truncado': 9, 'solo_espacios': 34}
+2026-11-11 10:30:17 | INFO    |       cobertura de texto: OK (19529/19529 caracteres) | márgenes: {'vec_min_winner': 0.992, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.6231, 'pix_max_loser': 0.0}
+2026-11-11 10:30:17 | INFO    |   [2019] CIRUGIA
+2026-11-11 10:30:17 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:17 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 564, 'solo_espacios': 34, 'csv_antiguo_truncado': 2}
+2026-11-11 10:30:17 | INFO    |       cobertura de texto: OK (21805/21805 caracteres) | márgenes: {'vec_min_winner': 0.9958, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.6157, 'pix_max_loser': 0.0}
+2026-11-11 10:30:18 | INFO    |   [2019] CIRUGÍA CARDIOVASCULAR
+2026-11-11 10:30:18 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:18 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 32, 'identico': 513, 'csv_antiguo_truncado': 12, 'mayor': 43}
+2026-11-11 10:30:18 | INFO    |       cobertura de texto: OK (30489/30489 caracteres) | márgenes: {'vec_min_winner': 0.9944, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.6148, 'pix_max_loser': 0.0}
+2026-11-11 10:30:19 | INFO    |   [2019] GINECOLOGÍA
+2026-11-11 10:30:19 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:19 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 540, 'solo_espacios': 58, 'mayor': 1, 'csv_antiguo_truncado': 1}
+2026-11-11 10:30:19 | INFO    |       cobertura de texto: OK (23257/23257 caracteres) | márgenes: {'vec_min_winner': 0.9959, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.6212, 'pix_max_loser': 0.0}
+2026-11-11 10:30:20 | INFO    |   [2019] OFTALMOLOGIA
+2026-11-11 10:30:20 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:20 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 41, 'identico': 559}
+2026-11-11 10:30:20 | INFO    |       cobertura de texto: OK (20458/20458 caracteres) | márgenes: {'vec_min_winner': 0.9959, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.6117, 'pix_max_loser': 0.0}
+2026-11-11 10:30:21 | INFO    |   [2019] PEDIATRIA
+2026-11-11 10:30:21 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:21 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 531, 'solo_espacios': 68, 'csv_antiguo_truncado': 1}
+2026-11-11 10:30:21 | INFO    |       cobertura de texto: OK (26862/26862 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.6206, 'pix_max_loser': 0.0}
+2026-11-11 10:30:21 | INFO    |   [2019] PRUEBA A
+2026-11-11 10:30:21 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:21 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 69, 'identico': 530, 'mayor': 1}
+2026-11-11 10:30:21 | INFO    |       cobertura de texto: OK (27731/27731 caracteres) | márgenes: {'vec_min_winner': 0.9959, 'vec_max_loser': 0.0048, 'pix_min_winner': 0.1496, 'pix_max_loser': 0.0}
+2026-11-11 10:30:22 | INFO    |   [2019] PRUEBA B
+2026-11-11 10:30:22 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:22 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 531, 'solo_espacios': 69}
+2026-11-11 10:30:22 | INFO    |       cobertura de texto: OK (28324/28324 caracteres) | márgenes: {'vec_min_winner': 0.9963, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.6158, 'pix_max_loser': 0.0}
+2026-11-11 10:30:23 | INFO    |   [2019] PSIQUIATRIA
+2026-11-11 10:30:23 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:23 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 62, 'identico': 535, 'csv_antiguo_truncado': 3}
+2026-11-11 10:30:23 | INFO    |       cobertura de texto: OK (28511/28511 caracteres) | márgenes: {'vec_min_winner': 0.9917, 'vec_max_loser': 0.0216, 'pix_min_winner': 0.612, 'pix_max_loser': 0.0}
+2026-11-11 10:30:24 | INFO    |   [2019] RADIOLOGÍA
+2026-11-11 10:30:24 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:24 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 574, 'solo_espacios': 22, 'csv_antiguo_truncado': 4}
+2026-11-11 10:30:24 | INFO    |       cobertura de texto: OK (20606/20606 caracteres) | márgenes: {'vec_min_winner': 0.992, 'vec_max_loser': 0.0048, 'pix_min_winner': 0.6175, 'pix_max_loser': 0.0}
+2026-11-11 10:30:24 | INFO    |   [2019] UROLOGÍA
+2026-11-11 10:30:24 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:24 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 561, 'solo_espacios': 39}
+2026-11-11 10:30:24 | INFO    |       cobertura de texto: OK (20424/20424 caracteres) | márgenes: {'vec_min_winner': 0.9959, 'vec_max_loser': 0.0051, 'pix_min_winner': 0.6199, 'pix_max_loser': 0.0}
+2026-11-11 10:30:24 | INFO    | [Year2020] 10 PDF(s)
+2026-11-11 10:30:25 | INFO    |   [2020] ANATOMIA PATOLOGICA
+2026-11-11 10:30:25 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 13 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:25 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 532, 'solo_espacios': 68}
+2026-11-11 10:30:25 | INFO    |       cobertura de texto: OK (29661/29661 caracteres) | márgenes: {'vec_min_winner': 0.9947, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5976, 'pix_max_loser': 0.0}
+2026-11-11 10:30:26 | INFO    |   [2020] ANESTESIOLOGIA
+2026-11-11 10:30:26 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:26 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 554, 'csv_antiguo_truncado': 19, 'solo_espacios': 27}
+2026-11-11 10:30:26 | INFO    |       cobertura de texto: OK (16981/16981 caracteres) | márgenes: {'vec_min_winner': 0.9942, 'vec_max_loser': 0.0112, 'pix_min_winner': 0.5889, 'pix_max_loser': 0.0}
+2026-11-11 10:30:27 | INFO    |   [2020] CIRUGIA GENERAL
+2026-11-11 10:30:27 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 13 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:27 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 80, 'identico': 520}
+2026-11-11 10:30:27 | INFO    |       cobertura de texto: OK (28294/28294 caracteres) | márgenes: {'vec_min_winner': 0.995, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5978, 'pix_max_loser': 0.0}
+2026-11-11 10:30:27 | INFO    |   [2020] GINECOLOGIA Y OBSTETRICIA
+2026-11-11 10:30:27 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 13 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:27 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 483, 'solo_espacios': 81, 'csv_antiguo_truncado': 36}
+2026-11-11 10:30:27 | INFO    |       cobertura de texto: OK (29281/29281 caracteres) | márgenes: {'vec_min_winner': 0.9937, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5859, 'pix_max_loser': 0.0}
+2026-11-11 10:30:28 | INFO    |   [2020] OFTALMOLOGIA
+2026-11-11 10:30:28 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:28 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 568, 'solo_espacios': 32}
+2026-11-11 10:30:28 | INFO    |       cobertura de texto: OK (19588/19588 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6126, 'pix_max_loser': 0.0}
+2026-11-11 10:30:29 | INFO    |   [2020] PEDIATRIA
+2026-11-11 10:30:29 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 13 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:29 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 80, 'identico': 505, 'csv_antiguo_truncado': 15}
+2026-11-11 10:30:29 | INFO    |       cobertura de texto: OK (28643/28643 caracteres) | márgenes: {'vec_min_winner': 0.9944, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.608, 'pix_max_loser': 0.0}
+2026-11-11 10:30:29 | WARNING |       ⚠ P87: enunciado idéntico a P40 (duplicado dentro del examen)
+2026-11-11 10:30:30 | INFO    |   [2020] PRUEBA A
+2026-11-11 10:30:30 | INFO    |       preguntas: 90 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 90/90
+2026-11-11 10:30:30 | INFO    |       respuestas = CSV humano: 90/90 | texto vs humano: {'solo_espacios': 65, 'identico': 464, 'csv_antiguo_truncado': 10, 'mayor': 1}
+2026-11-11 10:30:30 | INFO    |       cobertura de texto: OK (27361/27361 caracteres) | márgenes: {'vec_min_winner': 0.9955, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5935, 'pix_max_loser': 0.0}
+2026-11-11 10:30:30 | INFO    |   [2020] PRUEBA B
+2026-11-11 10:30:30 | INFO    |       preguntas: 90 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 90/90
+2026-11-11 10:30:30 | INFO    |       respuestas = CSV humano: 90/90 | texto vs humano: {'solo_espacios': 78, 'identico': 452, 'csv_antiguo_truncado': 10}
+2026-11-11 10:30:30 | INFO    |       cobertura de texto: OK (29265/29265 caracteres) | márgenes: {'vec_min_winner': 0.9941, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6014, 'pix_max_loser': 0.0}
+2026-11-11 10:30:31 | INFO    |   [2020] PSIQUIATRIA
+2026-11-11 10:30:31 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:31 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 67, 'identico': 533}
+2026-11-11 10:30:31 | INFO    |       cobertura de texto: OK (25997/25997 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5867, 'pix_max_loser': 0.0}
+2026-11-11 10:30:32 | INFO    |   [2020] UROLOGIA
+2026-11-11 10:30:32 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:32 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 70, 'identico': 500, 'csv_antiguo_truncado': 29, 'mayor': 1}
+2026-11-11 10:30:32 | INFO    |       cobertura de texto: OK (28869/28869 caracteres) | márgenes: {'vec_min_winner': 0.9944, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5998, 'pix_max_loser': 0.0}
+2026-11-11 10:30:32 | INFO    | [Year2022] 12 PDF(s)
+2026-11-11 10:30:33 | INFO    |   [2022] Anestesiología
+2026-11-11 10:30:33 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:33 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 45, 'identico': 535, 'csv_antiguo_truncado': 20}
+2026-11-11 10:30:33 | INFO    |       cobertura de texto: OK (24140/24140 caracteres) | márgenes: {'vec_min_winner': 0.9942, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6055, 'pix_max_loser': 0.0}
+2026-11-11 10:30:33 | INFO    |   [2022] Cirugía Cardiovascular
+2026-11-11 10:30:33 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:33 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 42, 'identico': 548, 'csv_antiguo_truncado': 10}
+2026-11-11 10:30:33 | INFO    |       cobertura de texto: OK (24560/24560 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6007, 'pix_max_loser': 0.0}
+2026-11-11 10:30:34 | INFO    |   [2022] Cirugía General
+2026-11-11 10:30:34 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:34 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 68, 'identico': 516, 'csv_antiguo_truncado': 16}
+2026-11-11 10:30:34 | INFO    |       cobertura de texto: OK (29986/29986 caracteres) | márgenes: {'vec_min_winner': 0.9954, 'vec_max_loser': 0.0112, 'pix_min_winner': 0.5944, 'pix_max_loser': 0.0}
+2026-11-11 10:30:35 | INFO    |   [2022] Especialidad Prueba A
+2026-11-11 10:30:35 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 13 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:35 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 87, 'identico': 508, 'csv_antiguo_truncado': 5}
+2026-11-11 10:30:35 | INFO    |       cobertura de texto: OK (31700/31700 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5969, 'pix_max_loser': 0.0}
+2026-11-11 10:30:35 | WARNING |       ⚠ P38: contiene una imagen (pág. 5); verificar que el texto sea autosuficiente
+2026-11-11 10:30:36 | INFO    |   [2022] Especialidad Prueba B
+2026-11-11 10:30:36 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 13 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:36 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 87, 'identico': 504, 'csv_antiguo_truncado': 8, 'mayor': 1}
+2026-11-11 10:30:36 | INFO    |       cobertura de texto: OK (31111/31111 caracteres) | márgenes: {'vec_min_winner': 0.9949, 'vec_max_loser': 0.0112, 'pix_min_winner': 0.6172, 'pix_max_loser': 0.0}
+2026-11-11 10:30:37 | INFO    |   [2022] Ginecología y Obstetricia
+2026-11-11 10:30:37 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:37 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 84, 'identico': 508, 'csv_antiguo_truncado': 8}
+2026-11-11 10:30:37 | INFO    |       cobertura de texto: OK (29044/29044 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6062, 'pix_max_loser': 0.0}
+2026-11-11 10:30:38 | INFO    |   [2022] Neurocirugía
+2026-11-11 10:30:38 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:38 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 512, 'csv_antiguo_truncado': 38, 'solo_espacios': 48, 'mayor': 2}
+2026-11-11 10:30:38 | INFO    |       cobertura de texto: OK (25077/25077 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0111, 'pix_min_winner': 0.6089, 'pix_max_loser': 0.0}
+2026-11-11 10:30:38 | INFO    |   [2022] Oftalmología
+2026-11-11 10:30:38 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:38 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 540, 'solo_espacios': 57, 'csv_antiguo_truncado': 3}
+2026-11-11 10:30:38 | INFO    |       cobertura de texto: OK (25967/25967 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6086, 'pix_max_loser': 0.0}
+2026-11-11 10:30:39 | INFO    |   [2022] Pediatría
+2026-11-11 10:30:39 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 13 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:39 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 80, 'identico': 514, 'csv_antiguo_truncado': 6}
+2026-11-11 10:30:39 | INFO    |       cobertura de texto: OK (34051/34051 caracteres) | márgenes: {'vec_min_winner': 0.9959, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5931, 'pix_max_loser': 0.0}
+2026-11-11 10:30:40 | INFO    |   [2022] Psiquiatría
+2026-11-11 10:30:40 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:40 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 62, 'identico': 536, 'csv_antiguo_truncado': 2}
+2026-11-11 10:30:40 | INFO    |       cobertura de texto: OK (26092/26092 caracteres) | márgenes: {'vec_min_winner': 0.9957, 'vec_max_loser': 0.0112, 'pix_min_winner': 0.586, 'pix_max_loser': 0.0}
+2026-11-11 10:30:41 | INFO    |   [2022] Radiología
+2026-11-11 10:30:41 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:41 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 68, 'identico': 525, 'csv_antiguo_truncado': 7}
+2026-11-11 10:30:41 | INFO    |       cobertura de texto: OK (23004/23004 caracteres) | márgenes: {'vec_min_winner': 0.9942, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6083, 'pix_max_loser': 0.0}
+2026-11-11 10:30:42 | INFO    |   [2022] Urología
+2026-11-11 10:30:42 | INFO    |       preguntas: 100 | opciones: 5 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:42 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 567, 'solo_espacios': 33}
+2026-11-11 10:30:42 | INFO    |       cobertura de texto: OK (20134/20134 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0111, 'pix_min_winner': 0.597, 'pix_max_loser': 0.0}
+2026-11-11 10:30:42 | INFO    | [Year2023] 13 PDF(s)
+2026-11-11 10:30:42 | INFO    |   [2023] ANATOMIA PATOLOGICA
+2026-11-11 10:30:42 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:42 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 51, 'identico': 449}
+2026-11-11 10:30:42 | INFO    |       cobertura de texto: OK (23860/23860 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5919, 'pix_max_loser': 0.0}
+2026-11-11 10:30:42 | WARNING |       ⚠ P85: enunciado idéntico a P73 (duplicado dentro del examen)
+2026-11-11 10:30:43 | INFO    |   [2023] ANESTESIOLOGIA
+2026-11-11 10:30:43 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 9 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:43 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 55, 'identico': 444, 'csv_antiguo_truncado': 1}
+2026-11-11 10:30:43 | INFO    |       cobertura de texto: OK (21990/21990 caracteres) | márgenes: {'vec_min_winner': 0.9942, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5938, 'pix_max_loser': 0.0}
+2026-11-11 10:30:44 | INFO    |   [2023] CIRUGIA GENERAL
+2026-11-11 10:30:44 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:44 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 74, 'identico': 426}
+2026-11-11 10:30:44 | INFO    |       cobertura de texto: OK (27675/27675 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6077, 'pix_max_loser': 0.0}
+2026-11-11 10:30:44 | INFO    |   [2023] CIRUGÍA DE TORÁX Y CARDIOVASCULAR
+2026-11-11 10:30:44 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 9 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:44 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'csv_antiguo_truncado': 2, 'identico': 447, 'solo_espacios': 51}
+2026-11-11 10:30:44 | INFO    |       cobertura de texto: OK (22029/22029 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6012, 'pix_max_loser': 0.0}
+2026-11-11 10:30:45 | INFO    |   [2023] GINECOLOGIA
+2026-11-11 10:30:45 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:45 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 417, 'solo_espacios': 83}
+2026-11-11 10:30:45 | INFO    |       cobertura de texto: OK (29140/29140 caracteres) | márgenes: {'vec_min_winner': 0.9944, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6124, 'pix_max_loser': 0.0}
+2026-11-11 10:30:46 | INFO    |   [2023] NEUROCIRUGIA
+2026-11-11 10:30:46 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:46 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 463, 'solo_espacios': 37}
+2026-11-11 10:30:46 | INFO    |       cobertura de texto: OK (20925/20925 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5812, 'pix_max_loser': 0.0}
+2026-11-11 10:30:47 | INFO    |   [2023] OFTALMOLOGÍA
+2026-11-11 10:30:47 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:47 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 47, 'identico': 449, 'csv_antiguo_truncado': 4}
+2026-11-11 10:30:47 | INFO    |       cobertura de texto: OK (21986/21986 caracteres) | márgenes: {'vec_min_winner': 0.9955, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5947, 'pix_max_loser': 0.0}
+2026-11-11 10:30:47 | INFO    |   [2023] PEDIATRÍA
+2026-11-11 10:30:47 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:47 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 427, 'solo_espacios': 71, 'csv_antiguo_truncado': 1, 'menor': 1}
+2026-11-11 10:30:47 | INFO    |       cobertura de texto: OK (29584/29584 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0031, 'pix_min_winner': 0.6042, 'pix_max_loser': 0.0}
+2026-11-11 10:30:48 | INFO    |   [2023] PRUEBA A
+2026-11-11 10:30:48 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:48 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 92, 'identico': 406, 'csv_antiguo_truncado': 2}
+2026-11-11 10:30:48 | INFO    |       cobertura de texto: OK (29965/29965 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6116, 'pix_max_loser': 0.0}
+2026-11-11 10:30:49 | INFO    |   [2023] PRUEBA B
+2026-11-11 10:30:49 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:49 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 414, 'solo_espacios': 86}
+2026-11-11 10:30:49 | INFO    |       cobertura de texto: OK (29184/29184 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5983, 'pix_max_loser': 0.0}
+2026-11-11 10:30:50 | INFO    |   [2023] PSIQUIATRÍA
+2026-11-11 10:30:50 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:50 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 433, 'solo_espacios': 67}
+2026-11-11 10:30:50 | INFO    |       cobertura de texto: OK (25782/25782 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6056, 'pix_max_loser': 0.0}
+2026-11-11 10:30:50 | INFO    |   [2023] RADIOLOGÍA
+2026-11-11 10:30:50 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 9 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:50 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 437, 'solo_espacios': 63}
+2026-11-11 10:30:50 | INFO    |       cobertura de texto: OK (19506/19506 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5933, 'pix_max_loser': 0.0}
+2026-11-11 10:30:51 | INFO    |   [2023] UROLOGÍA
+2026-11-11 10:30:51 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 9 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:51 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 452, 'solo_espacios': 45, 'mayor': 3}
+2026-11-11 10:30:51 | INFO    |       cobertura de texto: OK (20011/20011 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6047, 'pix_max_loser': 0.0}
+2026-11-11 10:30:51 | INFO    | [Year2024] 13 PDF(s)
+2026-11-11 10:30:52 | INFO    |   [2024] ANATOMÍA PATOLÓGICA
+2026-11-11 10:30:52 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:52 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 441, 'solo_espacios': 59}
+2026-11-11 10:30:52 | INFO    |       cobertura de texto: OK (25248/25248 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5873, 'pix_max_loser': 0.0}
+2026-11-11 10:30:52 | INFO    |   [2024] ANESTESIOLOGÍA
+2026-11-11 10:30:52 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 9 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:52 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 449, 'solo_espacios': 51}
+2026-11-11 10:30:52 | INFO    |       cobertura de texto: OK (19905/19905 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.594, 'pix_max_loser': 0.0}
+2026-11-11 10:30:53 | INFO    |   [2024] CIRUGÍA DE TORAX
+2026-11-11 10:30:53 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 9 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:53 | INFO    |       respuestas = CSV humano: 99/100 | texto vs humano: {'identico': 445, 'solo_espacios': 55}
+2026-11-11 10:30:53 | INFO    |       cobertura de texto: OK (21223/21223 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6047, 'pix_max_loser': 0.0}
+2026-11-11 10:30:53 | WARNING |       ⚠ P34: DISCREPANCIA de respuesta con el CSV humano (ver revisión)
+2026-11-11 10:30:54 | INFO    |   [2024] CIRUGÍA
+2026-11-11 10:30:54 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:54 | INFO    |       respuestas = CSV humano: 99/100 | texto vs humano: {'solo_espacios': 57, 'identico': 442, 'mayor': 1}
+2026-11-11 10:30:54 | INFO    |       cobertura de texto: OK (25468/25468 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5962, 'pix_max_loser': 0.0}
+2026-11-11 10:30:54 | WARNING |       ⚠ P87: DISCREPANCIA de respuesta con el CSV humano (ver revisión)
+2026-11-11 10:30:54 | INFO    |   [2024] ESPECIALIADAD A
+2026-11-11 10:30:54 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:54 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 89, 'identico': 411}
+2026-11-11 10:30:54 | INFO    |       cobertura de texto: OK (28418/28418 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0031, 'pix_min_winner': 0.5763, 'pix_max_loser': 0.0}
+2026-11-11 10:30:55 | INFO    |   [2024] ESPECIALIADAD B
+2026-11-11 10:30:55 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:55 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 96, 'identico': 404}
+2026-11-11 10:30:55 | INFO    |       cobertura de texto: OK (30369/30369 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6002, 'pix_max_loser': 0.0}
+2026-11-11 10:30:56 | INFO    |   [2024] GINECOLOGÍA
+2026-11-11 10:30:56 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:56 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 85, 'identico': 415}
+2026-11-11 10:30:56 | INFO    |       cobertura de texto: OK (27901/27901 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0031, 'pix_min_winner': 0.6068, 'pix_max_loser': 0.0}
+2026-11-11 10:30:57 | INFO    |   [2024] NEUROCIRUGÍA
+2026-11-11 10:30:57 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:57 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 44, 'identico': 453, 'mayor': 2, 'csv_antiguo_truncado': 1}
+2026-11-11 10:30:57 | INFO    |       cobertura de texto: OK (21918/21918 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5922, 'pix_max_loser': 0.0}
+2026-11-11 10:30:57 | INFO    |   [2024] OFTALMOLOGÍA
+2026-11-11 10:30:57 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:57 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 36, 'identico': 463, 'mayor': 1}
+2026-11-11 10:30:57 | INFO    |       cobertura de texto: OK (21923/21923 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.581, 'pix_max_loser': 0.0}
+2026-11-11 10:30:58 | INFO    |   [2024] PEDIATRÍA
+2026-11-11 10:30:58 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:58 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 82, 'identico': 417, 'csv_antiguo_truncado': 1}
+2026-11-11 10:30:58 | INFO    |       cobertura de texto: OK (28732/28732 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5983, 'pix_max_loser': 0.0}
+2026-11-11 10:30:59 | INFO    |   [2024] PSIQUIATRÍA
+2026-11-11 10:30:59 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:59 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 63, 'identico': 437}
+2026-11-11 10:30:59 | INFO    |       cobertura de texto: OK (26517/26517 caracteres) | márgenes: {'vec_min_winner': 0.9963, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5912, 'pix_max_loser': 0.0}
+2026-11-11 10:30:59 | INFO    |   [2024] RADIOLOGÍA
+2026-11-11 10:30:59 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:30:59 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 77, 'identico': 423}
+2026-11-11 10:30:59 | INFO    |       cobertura de texto: OK (23891/23891 caracteres) | márgenes: {'vec_min_winner': 0.9985, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6077, 'pix_max_loser': 0.0}
+2026-11-11 10:31:00 | INFO    |   [2024] UROLOGÍA
+2026-11-11 10:31:00 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 9 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:00 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 450, 'solo_espacios': 50}
+2026-11-11 10:31:00 | INFO    |       cobertura de texto: OK (20667/20667 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6031, 'pix_max_loser': 0.0}
+2026-11-11 10:31:00 | INFO    | [Year2025] 14 PDF(s)
+2026-11-11 10:31:01 | INFO    |   [2025] ANATOMIA PATOLOGICA
+2026-11-11 10:31:01 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:01 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 68, 'identico': 432}
+2026-11-11 10:31:01 | INFO    |       cobertura de texto: OK (28603/28603 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5876, 'pix_max_loser': 0.0}
+2026-11-11 10:31:01 | INFO    |   [2025] ANESTESIOLOGIA
+2026-11-11 10:31:01 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:01 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 73, 'identico': 427}
+2026-11-11 10:31:01 | INFO    |       cobertura de texto: OK (22643/22643 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5872, 'pix_max_loser': 0.0}
+2026-11-11 10:31:02 | INFO    |   [2025] CIRUGIA CARDIOVASCULAR
+2026-11-11 10:31:02 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:02 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 57, 'identico': 443}
+2026-11-11 10:31:02 | INFO    |       cobertura de texto: OK (24407/24407 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5948, 'pix_max_loser': 0.0}
+2026-11-11 10:31:03 | INFO    |   [2025] CIRUGIA DE TORAX Y CARDIOVASCULAR
+2026-11-11 10:31:03 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:03 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 57, 'identico': 443}
+2026-11-11 10:31:03 | INFO    |       cobertura de texto: OK (24407/24407 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5948, 'pix_max_loser': 0.0}
+2026-11-11 10:31:03 | INFO    |   [2025] CIRUGIA GENERAL
+2026-11-11 10:31:03 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:03 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 71, 'identico': 429}
+2026-11-11 10:31:03 | INFO    |       cobertura de texto: OK (27975/27975 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.6014, 'pix_max_loser': 0.0}
+2026-11-11 10:31:04 | INFO    |   [2025] ESPECIALIADAD A
+2026-11-11 10:31:04 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:04 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 95, 'identico': 405}
+2026-11-11 10:31:04 | INFO    |       cobertura de texto: OK (32496/32496 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5876, 'pix_max_loser': 0.0}
+2026-11-11 10:31:05 | INFO    |   [2025] ESPECIALIADAD B
+2026-11-11 10:31:05 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:05 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 92, 'identico': 408}
+2026-11-11 10:31:05 | INFO    |       cobertura de texto: OK (31964/31964 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5976, 'pix_max_loser': 0.0}
+2026-11-11 10:31:05 | INFO    |   [2025] GINECOLOGIA Y OBSTETRICIA
+2026-11-11 10:31:05 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:05 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 72, 'identico': 427, 'mayor': 1}
+2026-11-11 10:31:05 | INFO    |       cobertura de texto: OK (26133/26133 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5974, 'pix_max_loser': 0.0}
+2026-11-11 10:31:06 | INFO    |   [2025] NEUROCIRUGIA
+2026-11-11 10:31:06 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:06 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 428, 'solo_espacios': 68, 'csv_antiguo_truncado': 4}
+2026-11-11 10:31:06 | INFO    |       cobertura de texto: OK (30485/30485 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5951, 'pix_max_loser': 0.0}
+2026-11-11 10:31:06 | INFO    |   [2025] OFTALMOLOGIA
+2026-11-11 10:31:06 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:06 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 444, 'solo_espacios': 56}
+2026-11-11 10:31:06 | INFO    |       cobertura de texto: OK (24174/24174 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5973, 'pix_max_loser': 0.0}
+2026-11-11 10:31:07 | INFO    |   [2025] PEDIATRIA
+2026-11-11 10:31:07 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:07 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 89, 'identico': 411}
+2026-11-11 10:31:07 | INFO    |       cobertura de texto: OK (31749/31749 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5938, 'pix_max_loser': 0.0}
+2026-11-11 10:31:08 | INFO    |   [2025] PSIQUIATRIA
+2026-11-11 10:31:08 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:08 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 430, 'solo_espacios': 70}
+2026-11-11 10:31:08 | INFO    |       cobertura de texto: OK (23386/23386 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5871, 'pix_max_loser': 0.0}
+2026-11-11 10:31:08 | INFO    |   [2025] RADIOLOGIA
+2026-11-11 10:31:08 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:08 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 439, 'solo_espacios': 61}
+2026-11-11 10:31:08 | INFO    |       cobertura de texto: OK (21944/21944 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.597, 'pix_max_loser': 0.0}
+2026-11-11 10:31:09 | INFO    |   [2025] UROLOGIA
+2026-11-11 10:31:09 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 9 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:09 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 52, 'identico': 448}
+2026-11-11 10:31:09 | INFO    |       cobertura de texto: OK (21119/21119 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.6036, 'pix_max_loser': 0.0}
+2026-11-11 10:31:09 | INFO    | [Year2026] 15 PDF(s)
+2026-11-11 10:31:10 | INFO    |   [2026] ANATOMIA PATOLOGICA
+2026-11-11 10:31:10 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:10 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 431, 'solo_espacios': 69}
+2026-11-11 10:31:10 | INFO    |       cobertura de texto: OK (29119/29119 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5943, 'pix_max_loser': 0.0}
+2026-11-11 10:31:10 | INFO    |   [2026] ANESTESIOLOGIA
+2026-11-11 10:31:10 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:10 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 75, 'identico': 425}
+2026-11-11 10:31:10 | INFO    |       cobertura de texto: OK (26850/26850 caracteres) | márgenes: {'vec_min_winner': 0.9941, 'vec_max_loser': 0.0031, 'pix_min_winner': 0.5945, 'pix_max_loser': 0.0}
+2026-11-11 10:31:11 | INFO    |   [2026] CIRUGIA CARDIOVASCULAR
+2026-11-11 10:31:11 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:11 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 449, 'solo_espacios': 50, 'mayor': 1}
+2026-11-11 10:31:11 | INFO    |       cobertura de texto: OK (22259/22259 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6052, 'pix_max_loser': 0.0}
+2026-11-11 10:31:12 | INFO    |   [2026] CIRUGIA DE TORAX Y CARDIOVASCULAR
+2026-11-11 10:31:12 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:12 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 449, 'solo_espacios': 50, 'mayor': 1}
+2026-11-11 10:31:12 | INFO    |       cobertura de texto: OK (22259/22259 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.6052, 'pix_max_loser': 0.0}
+2026-11-11 10:31:13 | INFO    |   [2026] CIRUGIA GENERAL
+2026-11-11 10:31:13 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:13 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 71, 'identico': 428, 'csv_antiguo_truncado': 1}
+2026-11-11 10:31:13 | INFO    |       cobertura de texto: OK (30582/30582 caracteres) | márgenes: {'vec_min_winner': 0.9941, 'vec_max_loser': 0.0044, 'pix_min_winner': 0.593, 'pix_max_loser': 0.0}
+2026-11-11 10:31:13 | INFO    |   [2026] ESPECIALIADAD A
+2026-11-11 10:31:13 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:13 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 98, 'identico': 399, 'csv_antiguo_truncado': 3}
+2026-11-11 10:31:13 | INFO    |       cobertura de texto: OK (34117/34117 caracteres) | márgenes: {'vec_min_winner': 0.9971, 'vec_max_loser': 0.0034, 'pix_min_winner': 0.5928, 'pix_max_loser': 0.0}
+2026-11-11 10:31:14 | INFO    |   [2026] ESPECIALIADAD B
+2026-11-11 10:31:14 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:14 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 94, 'identico': 405, 'csv_antiguo_truncado': 1}
+2026-11-11 10:31:14 | INFO    |       cobertura de texto: OK (31387/31387 caracteres) | márgenes: {'vec_min_winner': 0.9989, 'vec_max_loser': 0.0031, 'pix_min_winner': 0.5873, 'pix_max_loser': 0.0}
+2026-11-11 10:31:15 | INFO    |   [2026] GINECOLOGIA Y OBSTETRICIA
+2026-11-11 10:31:15 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:15 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 81, 'identico': 417, 'csv_antiguo_truncado': 2}
+2026-11-11 10:31:15 | INFO    |       cobertura de texto: OK (32347/32347 caracteres) | márgenes: {'vec_min_winner': 0.9952, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5892, 'pix_max_loser': 0.0}
+2026-11-11 10:31:15 | INFO    |   [2026] NEUROCIRUGIA
+2026-11-11 10:31:15 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:15 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 75, 'identico': 425}
+2026-11-11 10:31:15 | INFO    |       cobertura de texto: OK (27689/27689 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5982, 'pix_max_loser': 0.0}
+2026-11-11 10:31:16 | INFO    |   [2026] OFTALMOLOGIA
+2026-11-11 10:31:16 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:16 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 58, 'identico': 440, 'csv_antiguo_truncado': 2}
+2026-11-11 10:31:16 | INFO    |       cobertura de texto: OK (23542/23542 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5874, 'pix_max_loser': 0.0}
+2026-11-11 10:31:17 | INFO    |   [2026] ORTOPEDIA Y TRAUMATOLOGÍA
+2026-11-11 10:31:17 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:17 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 86, 'identico': 414}
+2026-11-11 10:31:17 | INFO    |       cobertura de texto: OK (34858/34858 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5995, 'pix_max_loser': 0.0}
+2026-11-11 10:31:17 | INFO    |   [2026] PEDIATRIA
+2026-11-11 10:31:17 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 11 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:17 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'identico': 413, 'solo_espacios': 87}
+2026-11-11 10:31:17 | INFO    |       cobertura de texto: OK (30325/30325 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5964, 'pix_max_loser': 0.0}
+2026-11-11 10:31:18 | INFO    |   [2026] PSIQUIATRIA
+2026-11-11 10:31:18 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 12 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:18 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 81, 'identico': 419}
+2026-11-11 10:31:18 | INFO    |       cobertura de texto: OK (31304/31304 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5924, 'pix_max_loser': 0.0}
+2026-11-11 10:31:19 | INFO    |   [2026] RADIOLOGIA
+2026-11-11 10:31:19 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:19 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 78, 'identico': 422}
+2026-11-11 10:31:19 | INFO    |       cobertura de texto: OK (23990/23990 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5998, 'pix_max_loser': 0.0}
+2026-11-11 10:31:19 | INFO    |   [2026] UROLOGIA
+2026-11-11 10:31:19 | INFO    |       preguntas: 100 | opciones: 4 | páginas: 10 | métodos de respuesta concordantes: 100/100
+2026-11-11 10:31:19 | INFO    |       respuestas = CSV humano: 100/100 | texto vs humano: {'solo_espacios': 72, 'identico': 428}
+2026-11-11 10:31:19 | INFO    |       cobertura de texto: OK (25105/25105 caracteres) | márgenes: {'vec_min_winner': 1.0, 'vec_max_loser': 0.0569, 'pix_min_winner': 0.5935, 'pix_max_loser': 0.0}
+2026-11-11 10:31:19 | INFO    | ====================================================================================================
+2026-11-11 10:31:19 | INFO    | RESUMEN
+2026-11-11 10:31:19 | INFO    |   Exámenes procesados          : 100
+2026-11-11 10:31:19 | INFO    |   Preguntas extraídas          : 9980
+2026-11-11 10:31:19 | INFO    |   Métodos de respuesta (a)=(b) : 9980/9980
+2026-11-11 10:31:19 | INFO    |   Respuestas = CSV humano      : 9978/9980
+2026-11-11 10:31:19 | INFO    |   Cobertura de texto OK        : 100/100
+2026-11-11 10:31:19 | INFO    |   Diferencias de texto vs humano: {'solo_espacios': 6309, 'identico': 47592, 'csv_antiguo_truncado': 416, 'mayor': 62, 'menor': 1}
+2026-11-11 10:31:19 | INFO    |   Errores: 0 | Advertencias: 5
+2026-11-11 10:31:19 | WARNING |   ⚠ DISCREPANCIA respuesta: 2024 CIRUGÍA DE TORAX P34
+2026-11-11 10:31:19 | WARNING |   ⚠ DISCREPANCIA respuesta: 2024 CIRUGÍA P87
+2026-11-11 10:31:19 | INFO    |   Reporte JSON      : logs/reporte_verificacion_20261111_103007.json
+2026-11-11 10:31:19 | INFO    |   Revisión humana   : logs/revision_humana_20261111_103007.csv (484 fila(s))
+2026-11-11 10:31:19 | INFO    |   PNG de revisión   : logs/review_png_20261111_103007
+2026-11-11 10:31:19 | INFO    | ✓ Proceso completado

@@ -1,0 +1,615 @@
+﻿"year","exam","question_number","field","valor_csv_humano","valor_extraido","similitud","motivo","paginas_pdf"
+"2018","ANESTESIOLOGIA","24","option_E","Dos vías más infusión de volúmen y","Dos vías más infusión de volúmen y hemoderivados","0.8293","texto: csv_antiguo_truncado","3"
+"2018","ANESTESIOLOGIA","66","option_D","Oximetría, pulso, EKG, presión arterial y","Oximetría, pulso, EKG, presión arterial y temperatura.","0.8632","texto: csv_antiguo_truncado","7"
+"2018","ANESTESIOLOGIA","81","option_E","Pacientes con necesidad de manejo de dolor","Pacientes con necesidad de manejo de dolor complejo","0.9032","texto: csv_antiguo_truncado","8"
+"2018","ANESTESIOLOGIA","84","option_A","Intubación con paciente despierto y método","Intubación con paciente despierto y método endoscópico","0.875","texto: csv_antiguo_truncado","8"
+"2018","CIRUGIA","5","option_C","Agenesia testicular izquierda - criptorquidia","Agenesia testicular izquierda - criptorquidia derecha","0.9184","texto: csv_antiguo_truncado","1"
+"2018","CIRUGIA","5","option_D","Criptorquidia izquierda - testículo ectópico","Criptorquidia izquierda - testículo ectópico derecho","0.9167","texto: csv_antiguo_truncado","1"
+"2018","CIRUGIA","5","option_E","Agenesia testicular izquierda - testículo ectópico","Agenesia testicular izquierda - testículo ectópico derecho","0.9259","texto: csv_antiguo_truncado","1"
+"2018","CIRUGIA","18","option_C","Sobredosis o inyección intravascular accidental del","Sobredosis o inyección intravascular accidental del anestésico","0.9027","texto: csv_antiguo_truncado","2"
+"2018","CIRUGIA","18","option_E","Hipotensión por compromiso de nervios sensitivos y","Hipotensión por compromiso de nervios sensitivos y motores","0.9259","texto: csv_antiguo_truncado","2"
+"2018","CIRUGIA","29","option_D","Desbridamiento tardío después de la cuarta","Desbridamiento tardío después de la cuarta semana","0.9231","texto: csv_antiguo_truncado","4"
+"2018","CIRUGIA","30","option_A","Parotidectomia superficial sin conservación del","Parotidectomia superficial sin conservación del nervio facial","0.8704","texto: csv_antiguo_truncado","4"
+"2018","CIRUGIA","30","option_B","Parotidectomía superficial con conservación del","Parotidectomía superficial con conservación del nervio facial","0.8704","texto: csv_antiguo_truncado","4"
+"2018","CIRUGIA","30","option_D","Parotidectomía total con preservación del nervio","Parotidectomía total con preservación del nervio facial","0.932","texto: csv_antiguo_truncado","4"
+"2018","CIRUGIA","49","option_C","Reducción - fijación con placa y reparación de","Reducción - fijación con placa y reparación de partes blandas","0.8598","texto: csv_antiguo_truncado","6"
+"2018","CIRUGIA","49","option_E","Reducción - fijación con tornillo y reparación de","Reducción - fijación con tornillo y reparación de partes blandas","0.8673","texto: csv_antiguo_truncado","6"
+"2018","CIRUGIA","58","option_C","Glosectomía parcial + disección ganglionar","Glosectomía parcial + disección ganglionar selectiva de cuello","0.8077","texto: csv_antiguo_truncado","7"
+"2018","CIRUGIA","62","option_A","A la obstrucción por fecalito y ganglios del meso","A la obstrucción por fecalito y ganglios del meso apendicular","0.8909","texto: csv_antiguo_truncado","7"
+"2018","CIRUGIA","62","option_B","Al compromiso de serosa apendicular y peritoneo","Al compromiso de serosa apendicular y peritoneo parietal","0.9126","texto: csv_antiguo_truncado","7"
+"2018","CIRUGIA","62","option_C","A la obstrucción y secreción continuada de la","A la obstrucción y secreción continuada de la mucosa apendicular","0.8257","texto: csv_antiguo_truncado","7"
+"2018","CIRUGIA","64","option_C","Caso complejo con resultado de AAF sin","Caso complejo con resultado de AAF sin diagnóstico","0.8636","texto: csv_antiguo_truncado","7"
+"2018","CIRUGIA","64","option_D","Carcinoma papilar tiroideo de bajo riesgo, bien","Carcinoma papilar tiroideo de bajo riesgo, bien diferenciado < 1cm","0.8319","texto: csv_antiguo_truncado","7"
+"2018","CIRUGIA","73","option_A","Estenosis duodenal por páncreas anular -","Estenosis duodenal por páncreas anular - Endoscopía digestiva alta","0.7547","texto: csv_antiguo_truncado","8"
+"2018","CIRUGIA","73","option_B","Divertículo duodenal complicado - Endoscopía","Divertículo duodenal complicado - Endoscopía digestiva alta","0.8544","texto: csv_antiguo_truncado","8"
+"2018","CIRUGIA","73","option_C","Síndrome de la arteria mesentérica - Radiografía","Síndrome de la arteria mesentérica - Radiografía baritada de duodeno","0.8276","texto: csv_antiguo_truncado","8"
+"2018","CIRUGIA","73","option_E","Síndrome pilórico - Radiografía baritada de","Síndrome pilórico - Radiografía baritada de estómago-duodeno","0.835","texto: csv_antiguo_truncado","8"
+"2018","CIRUGIA","89","option_D","Endopielotomía endoscópica es una opción en","Endopielotomía endoscópica es una opción en lactantes","0.8958","texto: csv_antiguo_truncado","10"
+"2018","CIRUGIA","96","option_D","Coagulopatía, hipotensión, insuficiencia","Coagulopatía, hipotensión, insuficiencia respiratoria","0.8602","texto: csv_antiguo_truncado","11"
+"2018","GINECOLOGIA Y OBSTETRICIA","23","option_D","Anormalidad producida por el uso de","Anormalidad producida por el uso de dietilestilbestrol","0.7865","texto: csv_antiguo_truncado","3"
+"2018","GINECOLOGIA Y OBSTETRICIA","58","option_A","Ausencia de vejiga en uno de los fetos e","Ausencia de vejiga en uno de los fetos e incremento del tamaño en el otro","0.708","texto: csv_antiguo_truncado","6"
+"2018","GINECOLOGIA Y OBSTETRICIA","58","option_B","Alteración de la velocidad sistólica en la arteria","Alteración de la velocidad sistólica en la arteria cerebral media de ambos fetos","0.7692","texto: csv_antiguo_truncado","6"
+"2018","GINECOLOGIA Y OBSTETRICIA","58","option_E","Presencia de oligoamnios en un feto y","Presencia de oligoamnios en un feto y polihidramnios en el otro","0.74","texto: csv_antiguo_truncado","6"
+"2018","GINECOLOGIA Y OBSTETRICIA","69","option_C","Cotrimoxazol 160/800 mg cada 12 horas por 21","Cotrimoxazol 160/800 mg cada 12 horas por 21 días","0.9462","texto: csv_antiguo_truncado","7"
+"2018","GINECOLOGIA Y OBSTETRICIA","69","option_D","Nitrofurantoina 100 mg diario hasta el final del","Nitrofurantoina 100 mg diario hasta el final del embarazo","0.9143","texto: csv_antiguo_truncado","7"
+"2018","GINECOLOGIA Y OBSTETRICIA","88","option_D","El uso de antibióticos no reduce la sepsis","El uso de antibióticos no reduce la sepsis neonatal","0.9032","texto: csv_antiguo_truncado","9"
+"2018","GINECOLOGIA Y OBSTETRICIA","88","option_E","El uso de eritromicina amplía el período de","El uso de eritromicina amplía el período de latencia","0.9053","texto: csv_antiguo_truncado","9"
+"2018","GINECOLOGIA Y OBSTETRICIA","89","option_C","Fácil paso transplacentario de antígenos fetales o","Fácil paso transplacentario de antígenos fetales o anticuerpos maternos","0.8264","texto: csv_antiguo_truncado","9"
+"2018","GINECOLOGIA Y OBSTETRICIA","89","option_E","Respuesta inmunitaria materna estable al","Respuesta inmunitaria materna estable al antígeno","0.8989","texto: csv_antiguo_truncado","9"
+"2018","OFTALMOLOGIA","8","option_A","La exotropia intermitente se hace más evidente","La exotropia intermitente se hace más evidente en la fijación de cerca","0.7931","texto: csv_antiguo_truncado","1"
+"2018","OFTALMOLOGIA","8","option_B","En el cover test el movimiento del ojo no tapado","En el cover test el movimiento del ojo no tapado indica una foria","0.8496","texto: csv_antiguo_truncado","1"
+"2018","OFTALMOLOGIA","8","option_C","Para la medida de la exotropia se usa un prisma","Para la medida de la exotropia se usa un prisma con base externa","0.8468","texto: csv_antiguo_truncado","1"
+"2018","OFTALMOLOGIA","8","option_D","La presencia del ángulo kappa positivo simula","La presencia del ángulo kappa positivo simula una exotropia","0.8654","texto: csv_antiguo_truncado","1"
+"2018","OFTALMOLOGIA","8","option_E","La endotropia acomodativa se hace más evidente","La endotropia acomodativa se hace más evidente en la fijación de lejos","0.7931","texto: csv_antiguo_truncado","1"
+"2018","OFTALMOLOGIA","12","option_A","En el estadío 5 se presenta desprendimiento de","En el estadío 5 se presenta desprendimiento de retina parcial","0.8598","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","12","option_B","Su tratamiento es solo con laserterapia en","Su tratamiento es solo con laserterapia en estadio 5","0.8936","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","12","option_C","Se asocia a ángulo kappa positivo por un arrastre","Se asocia a ángulo kappa positivo por un arrastre temporal de la mácula","0.8167","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","15","option_A","La hiperfunción del oblicuo inferior se asocia a","La hiperfunción del oblicuo inferior se asocia a patrón en A","0.8889","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","15","option_B","La acción aumentada del recto medial en la","La acción aumentada del recto medial en la infraversión produce un patrón en A","0.7","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","15","option_C","La debilidad de los rectos laterales en la","La debilidad de los rectos laterales en la supraversión produce un patrón en V","0.7","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","15","option_D","Hipofunción del oblicuo superior se compensa","Hipofunción del oblicuo superior se compensa con cabeza inclinada al lado de lesión","0.6929","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","15","option_E","La hipofunción de los rectos superiores produce","La hipofunción de los rectos superiores produce un patrón en V","0.8624","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","18","option_A","Alejar el punto nulo de la posición primaria de la","Alejar el punto nulo de la posición primaria de la mirada","0.9346","texto: csv_antiguo_truncado","2"
+"2018","OFTALMOLOGIA","20","option_C","Son tumores benignos primarios de la órbita en niños","Son tumores benignos primarios de la órbita en niños azulado","0.9286","texto: csv_antiguo_truncado","3"
+"2018","OFTALMOLOGIA","21","option_D","Los síntomas aparecen en los primeros dos","Los síntomas aparecen en los primeros dos meses de vida","0.8542","texto: csv_antiguo_truncado","3"
+"2018","OFTALMOLOGIA","21","option_E","La mayoria de casos requieren corrección","La mayoria de casos requieren corrección quirúrgica","0.8791","texto: csv_antiguo_truncado","3"
+"2018","OFTALMOLOGIA","29","option_B","No parecen relacionarse con autoantígenos contra la","No parecen relacionarse con autoantígenos contra la retina","0.9358","texto: csv_antiguo_truncado","3"
+"2018","OFTALMOLOGIA","29","option_E","El Ca de mama de células pequeñas es la causa más","El Ca de mama de células pequeñas es la causa más común","0.9423","texto: csv_antiguo_truncado","3"
+"2018","OFTALMOLOGIA","38","option_B","La rubéola congénita se acompaña de retinopatía en","La rubéola congénita se acompaña de retinopatía en en gota de cera sal y pimienta","0.7634","texto: csv_antiguo_truncado","4"
+"2018","OFTALMOLOGIA","51","option_D","La refractiva se corrige con lentes esféricos","La refractiva se corrige con lentes esféricos negativos","0.9","texto: csv_antiguo_truncado","6"
+"2018","OFTALMOLOGIA","67","option_E","Frecuente neovascularización del segmento","Frecuente neovascularización del segmento posterior","0.8913","texto: csv_antiguo_truncado","7"
+"2018","OFTALMOLOGIA","73","option_E","Ambas pupilas no responden al estímulo","Ambas pupilas no responden al estímulo luminoso","0.8941","texto: csv_antiguo_truncado","8"
+"2018","OFTALMOLOGIA","82","option_E","Parálisis del oblicuo superior y recto superior en el","Parálisis del oblicuo superior y recto superior en el mismo ojo","0.9138","texto: csv_antiguo_truncado","9"
+"2018","OFTALMOLOGIA","88","option_B","Se describe como elevación insuficiente en","Se describe como elevación insuficiente en abeducción","0.8842","texto: csv_antiguo_truncado","9"
+"2018","OFTALMOLOGIA","99","option_A","Generalmente es por obstrucción del conducto","Generalmente es por obstrucción del conducto nasolagrimal","0.8713","texto: csv_antiguo_truncado","10"
+"2018","OFTALMOLOGIA","99","option_C","Las bacterias grampositivas son más comunes en","Las bacterias grampositivas son más comunes en diabéticos","0.8932","texto: csv_antiguo_truncado","10"
+"2018","PATOLOGIA","1","option_C","Epitelio cúbico simple en bronquios","Epitelio cúbico simple en bronquios extrapulmonares","0.814","texto: csv_antiguo_truncado","1"
+"2018","PATOLOGIA","1","option_D","Cartílago hialino discontinuo en bronquios","Cartílago hialino discontinuo en bronquios intrapulmonares","0.84","texto: csv_antiguo_truncado","1"
+"2018","PATOLOGIA","1","option_E","Cartílago hialino discontinuo en bronquios","Cartílago hialino discontinuo en bronquios extrapulmonares","0.84","texto: csv_antiguo_truncado","1"
+"2018","PATOLOGIA","2","option_D","Densidad de microvasculatura en el tejido","Densidad de microvasculatura en el tejido tumoral","0.9111","texto: csv_antiguo_truncado","1"
+"2018","PATOLOGIA","12","option_E","Neurotoxicidad, dermatitis alérgica, anemia y","Neurotoxicidad, dermatitis alérgica, anemia y edema pulmonar","0.8571","texto: csv_antiguo_truncado","2"
+"2018","PATOLOGIA","40","option_A","No se producen en animales normales después","No se producen en animales normales después del nacimiento","0.8515","texto: csv_antiguo_truncado","4"
+"2018","PATOLOGIA","40","option_B","Se han asociados sólo con cánceres del tracto","Se han asociados sólo con cánceres del tracto digestivo","0.9","texto: csv_antiguo_truncado","4"
+"2018","PATOLOGIA","40","option_C","Son responsables de cánceres fetales y en","Son responsables de cánceres fetales y en neonatos","0.9011","texto: csv_antiguo_truncado","4"
+"2018","PATOLOGIA","40","option_E","Son útiles en el diagnóstico y pronóstico del","Son útiles en el diagnóstico y pronóstico del cáncer","0.9278","texto: csv_antiguo_truncado","4"
+"2018","PATOLOGIA","44","option_C","Neuronas posganglionares de la vía","Neuronas posganglionares de la vía possinápticas","0.8293","texto: csv_antiguo_truncado","5"
+"2018","PATOLOGIA","61","option_E","Tumor invade la muscular propia pero no la","Tumor invade la muscular propia pero no la atraviesa","0.8936","texto: csv_antiguo_truncado","6"
+"2018","PATOLOGIA","96","option_B","Carcinoma medular de tiroides e","Carcinoma medular de tiroides e hiperparatiroidismo","0.7561","texto: csv_antiguo_truncado","10"
+"2018","PEDIATRIA","46","option_A","Corticoides inhalatorios + broncodilatadores de","Corticoides inhalatorios + broncodilatadores de acción prolongada","0.8393","texto: csv_antiguo_truncado","5"
+"2018","PEDIATRIA","46","option_E","Omalizumab + broncodilatadores de acción","Omalizumab + broncodilatadores de acción prolongada","0.8791","texto: csv_antiguo_truncado","5"
+"2018","PEDIATRIA","69","option_A","Penicilina G cristalina acuosa 100,000-150,000","Penicilina G cristalina acuosa 100,000-150,000 U/Kg/d IV por 7 días","0.8142","texto: csv_antiguo_truncado","8"
+"2018","PEDIATRIA","69","option_B","Penicilina G benzatínica 600,000 U/sem IM por 4","Penicilina G benzatínica 600,000 U/sem IM por 4 dosis","0.94","texto: csv_antiguo_truncado","8"
+"2018","PEDIATRIA","69","option_C","Penicilina G benzatínica 600,000 U IM dosis","Penicilina G benzatínica 600,000 U IM dosis única","0.9348","texto: csv_antiguo_truncado","8"
+"2018","PEDIATRIA","69","option_D","Penicilina G cristalina acuosa 100,000-150,000","Penicilina G cristalina acuosa 100,000-150,000 U/Kg/d IV por 10-14 días","0.7863","texto: csv_antiguo_truncado","8"
+"2018","PEDIATRIA","79","option_B","Colonizan la luz del intestino delgado y pueden","Colonizan la luz del intestino delgado y pueden invadir la mucosa","0.8393","texto: csv_antiguo_truncado","9"
+"2018","PEDIATRIA","79","option_C","El abceso amebiano hepático, es frecuente en","El abceso amebiano hepático, es frecuente en niños","0.9362","texto: csv_antiguo_truncado","9"
+"2018","PEDIATRIA","84","option_A","Representan más de la mitad de las muertes","Representan más de la mitad de las muertes neonatales","0.8842","texto: csv_antiguo_truncado","10"
+"2018","PEDIATRIA","84","option_D","La tasa de supervivencia se mantiene en la","La tasa de supervivencia se mantiene en la última década","0.8571","texto: csv_antiguo_truncado","10"
+"2018","PEDIATRIA","84","option_E","Se asocian con alta tasa de malformaciones","Se asocian con alta tasa de malformaciones congénitas","0.8842","texto: csv_antiguo_truncado","10"
+"2018","PRUEBA A","26","option_E","Intervenciones educativas a los padres sobre","Intervenciones educativas a los padres sobre higiene","0.9167","texto: csv_antiguo_truncado","3"
+"2018","PRUEBA A","36","option_A","Inhibidores de enzima de conversión de","Inhibidores de enzima de conversión de angiotensina II","0.8261","texto: csv_antiguo_truncado","4"
+"2018","PRUEBA A","65","option_B","Inhibición de liberación del péptido natriurético","Inhibición de liberación del péptido natriurético cerebral","0.9159","texto: csv_antiguo_truncado","7"
+"2018","PRUEBA B","7","questions","B. 10,000.  
+C. 150,000.  
+D. 1,000.  
+E. 100,000. 
+ 
+7. Recién nacido de parto vaginal teñido de meconio, que persiste con APGAR 0, a pesar de haberle realizado intubación 
+endotraqueal, aspiración, ventilación y masaje cardiaco. ¿Qué fármaco se debe administrar?","Recién nacido de parto vaginal teñido de meconio, que persiste con APGAR 0, a pesar de haberle realizado intubación endotraqueal, aspiración, ventilación y masaje cardiaco. ¿Qué fármaco se debe administrar?","0.8957","texto: mayor","1"
+"2018","PRUEBA B","99","option_A","Luego que el espermatozoide penetra la zona","Luego que el espermatozoide penetra la zona pelúcida","0.9053","texto: csv_antiguo_truncado","11"
+"2018","PRUEBA B","99","option_E","Después de la reanudación de la segunda","Después de la reanudación de la segunda división meiótica","0.8125","texto: csv_antiguo_truncado","11"
+"2018","PSIQUIATRIA","71","option_D","Farmacoterapia parenteral y hospitalización","Farmacoterapia parenteral y hospitalización breve","0.9348","texto: csv_antiguo_truncado","9"
+"2018","PSIQUIATRIA","71","option_E","Psicoterapia de apoyo y hospitalización","Psicoterapia de apoyo y hospitalización prolongada","0.8764","texto: csv_antiguo_truncado","9"
+"2018","UROLOGIA","15","option_A","Riñón no funcionante, hipotrofia renal y cálculo","Riñón no funcionante, hipotrofia renal y cálculo coraliforme","0.8889","texto: csv_antiguo_truncado","2"
+"2018","UROLOGIA","15","option_B","Cálculo obstructivo, hipotrofia renal y aire en","Cálculo obstructivo, hipotrofia renal y aire en parénquima","0.8952","texto: csv_antiguo_truncado","2"
+"2018","UROLOGIA","15","option_E","Nefromegalia, cálculo obstructivo y riñón no","Nefromegalia, cálculo obstructivo y riñón no funcionante","0.88","texto: csv_antiguo_truncado","2"
+"2018","UROLOGIA","22","option_D","Se sintetiza en el epitelio conductal y acinar","Se sintetiza en el epitelio conductal y acinar prostático","0.8932","texto: csv_antiguo_truncado","3"
+"2018","UROLOGIA","48","questions","D. calcio intracelular.  
+E. 5-alfa reductasa.  
+ 
+48. ¿Cuál de las siguientes es correcta con respecto al cáncer del tracto urinario superior?","¿Cuál de las siguientes es correcta con respecto al cáncer del tracto urinario superior?","0.7822","texto: mayor","6"
+"2018","UROLOGIA","48","option_C","El carcinoma de células pequeñas es el más","El carcinoma de células pequeñas es el más frecuente","0.8936","texto: csv_antiguo_truncado","6"
+"2018","UROLOGIA","48","option_D","Es más frecuente en la pelvis renal que en","Es más frecuente en la pelvis renal que en uréteres","0.9032","texto: csv_antiguo_truncado","6"
+"2018","UROLOGIA","50","option_A","pequeño que será tratado con ablación por","pequeño que será tratado con ablación por radiofrecuencia.","0.8283","texto: csv_antiguo_truncado","6"
+"2018","UROLOGIA","50","option_D","primario que va a ser tratado con nefrectomía","primario que va a ser tratado con nefrectomía laparoscópica.","0.8571","texto: csv_antiguo_truncado","6"
+"2018","UROLOGIA","50","option_E","primario que va a ser tratado con nefrectomía","primario que va a ser tratado con nefrectomía parcial.","0.9091","texto: csv_antiguo_truncado","6"
+"2018","UROLOGIA","66","option_A","Con compromiso inguinal bilateral la sobrevida es","Con compromiso inguinal bilateral la sobrevida es >80%","0.9515","texto: csv_antiguo_truncado","8"
+"2018","UROLOGIA","66","option_B","Solo se debe realizar disección glanglionar","Solo se debe realizar disección glanglionar superficial","0.8776","texto: csv_antiguo_truncado","8"
+"2018","UROLOGIA","66","option_C","En compromiso ganglionar pélvico la sobrevida es","En compromiso ganglionar pélvico la sobrevida es alta","0.9505","texto: csv_antiguo_truncado","8"
+"2018","UROLOGIA","66","option_D","Es el factor pronóstico más importante en la","Es el factor pronóstico más importante en la sobrevida","0.898","texto: csv_antiguo_truncado","8"
+"2018","UROLOGIA","66","option_E","La disección ganglionar inguinal rara vez tiene","La disección ganglionar inguinal rara vez tiene complicaciones","0.8624","texto: csv_antiguo_truncado","8"
+"2018","UROLOGIA","74","option_E","donante con 20% de glomeruloesclerosis en","donante con 20% de glomeruloesclerosis en biopsia renal.","0.8454","texto: csv_antiguo_truncado","8"
+"2018","UROLOGIA","91","option_A","Ceftriaxona 1 g IM cada 12h por 3 días +","Ceftriaxona 1 g IM cada 12h por 3 días + azitromicina 1 g VO dosis única","0.7143","texto: csv_antiguo_truncado","10"
+"2018","UROLOGIA","91","option_B","Ceftriaxona 500 mg IM dosis única + azitromicina","Ceftriaxona 500 mg IM dosis única + azitromicina 1 g VO dosis única","0.8348","texto: csv_antiguo_truncado","10"
+"2018","UROLOGIA","91","option_C","Ciprofloxacino 500mg VO cada 12h por 7 días +","Ciprofloxacino 500mg VO cada 12h por 7 días + azitromicina 1g VO dosis única","0.7438","texto: csv_antiguo_truncado","10"
+"2018","UROLOGIA","91","option_D","Levofloxacino 750 mg VO dosis única +","Levofloxacino 750 mg VO dosis única + azitromicina 2 g VO dosis única","0.6981","texto: csv_antiguo_truncado","10"
+"2018","UROLOGIA","91","option_E","Levofloxacino 500 mg VO cada 24h por 3 días +","Levofloxacino 500 mg VO cada 24h por 3 días + azitromicina 2 g VO dosis única","0.7377","texto: csv_antiguo_truncado","10"
+"2019","ANATOMIA PATOLOGICA","20","questions","Tumor dependiente de la submucosa colónica de rara presentación; histológicamente son células fusocelulares y en 
+algunos casos son epiteliodes. Los resultados de inmunohistoquímica dan positividad para CD34, KIT, DOG1 y es 
+negativa para SM","Tumor dependiente de la submucosa colónica de rara presentación; histológicamente son células fusocelulares y en algunos casos son epiteliodes. Los resultados de inmunohistoquímica dan positividad para CD34, KIT, DOG1 y es negativa para SMA. ¿Cuál es el diagnóstico?","0.9465","texto: csv_antiguo_truncado","3"
+"2019","ANATOMIA PATOLOGICA","34","option_B","Presenta áreas sólidas que pueden confundirse","Presenta áreas sólidas que pueden confundirse con un adenocarcinoma","0.8036","texto: csv_antiguo_truncado","4"
+"2019","ANATOMIA PATOLOGICA","34","option_D","Su compromiso tumoral puede comprometer","Su compromiso tumoral puede comprometer hasta la cavidad endometrial","0.729","texto: csv_antiguo_truncado","4"
+"2019","ANESTESIOLOGIA","2","option_D","Visibilidad del paladar blando, úvula y pilares","Visibilidad del paladar blando, úvula y pilares amigdalianos","0.8785","texto: csv_antiguo_truncado","1"
+"2019","ANESTESIOLOGIA","10","option_A","Aumenta la salida de calcio del retículo","Aumenta la salida de calcio del retículo sarcoplásmico","0.8511","texto: csv_antiguo_truncado","1"
+"2019","ANESTESIOLOGIA","10","option_D","Disminuye la salida de calcio del retículo","Disminuye la salida de calcio del retículo sarcoplásmico","0.8571","texto: csv_antiguo_truncado","1"
+"2019","ANESTESIOLOGIA","21","option_C","La aplicación de la lista de verificación de cirugía","La aplicación de la lista de verificación de cirugía segura","0.9369","texto: csv_antiguo_truncado","2"
+"2019","ANESTESIOLOGIA","24","option_C","Anestesia general inhalatoria con tubo de doble","Anestesia general inhalatoria con tubo de doble lumen","0.94","texto: csv_antiguo_truncado","3"
+"2019","ANESTESIOLOGIA","24","option_D","No dar dosis suplementarias por el catéter","No dar dosis suplementarias por el catéter epidural","0.9032","texto: csv_antiguo_truncado","3"
+"2019","ANESTESIOLOGIA","47","option_C","Posición en Trendelenburg más ingesta de","Posición en Trendelenburg más ingesta de cafeína","0.9091","texto: csv_antiguo_truncado","5"
+"2019","ANESTESIOLOGIA","57","option_E","Hipotensores","Hipotensores sistémicos más analgesia parenteral","0.4","texto: csv_antiguo_truncado","6"
+"2019","ANESTESIOLOGIA","97","questions","Según la Asociación Americana de Anestesiología - AS","Según la Asociación Americana de Anestesiología - ASA. El periodo de ayuno de leche materna en el preoperatorio recomendado para un lactante debe ser de:","0.5073","texto: csv_antiguo_truncado","10"
+"2019","CIRUGIA","13","option_C","Derivación bilio pancreático e intercambio","Derivación bilio pancreático e intercambio duodenal","0.9032","texto: csv_antiguo_truncado","2"
+"2019","CIRUGIA","96","option_C","Herida por aplastamiento aún con buena","Herida por aplastamiento aún con buena cobertura cutánea","0.8085","texto: csv_antiguo_truncado","10"
+"2019","CIRUGÍA CARDIOVASCULAR","8","option_E","Safenectomía","Safenectomía por endoablación (láser o radiofrecuencia)","0.3582","texto: csv_antiguo_truncado","1"
+"2019","CIRUGÍA CARDIOVASCULAR","17","option_A","Los niños con un tabique ventricular intacto son el grupo más afectado y responden a la infusión de prostaglandina","Los niños con un tabique ventricular intacto son el grupo más afectado y responden a la infusión de prostaglandina E1 o septostomía","0.9306","texto: csv_antiguo_truncado","3"
+"2019","CIRUGÍA CARDIOVASCULAR","34","option_D","Inhibe la síntesis de factores de coagulación","Inhibe la síntesis de factores de coagulación dependientes de la vitamina K","0.75","texto: csv_antiguo_truncado","5"
+"2019","CIRUGÍA CARDIOVASCULAR","35","option_E","Las valvas septal y posterior de la tricúspide están desplazadas hacia la cavidad del ventrículo derecho, originando","Las valvas septal y posterior de la tricúspide están desplazadas hacia la cavidad del ventrículo derecho, originando hipoplasia funcional del ventrículo derecho e insuficiencia tricuspídea","0.7632","texto: csv_antiguo_truncado","5"
+"2019","CIRUGÍA CARDIOVASCULAR","42","questions","El gradiente ventrículo-aórtico en la miocardiopatía hipertrófica disminuye con la administración de:","La claudicación intermitente que se presenta en las pantorrillas, está asociada a oclusión arterial en:","0.3431","texto: mayor","5,6"
+"2019","CIRUGÍA CARDIOVASCULAR","43","questions","Varón de 80 años de aspecto saludable, consulta por síncopes. ECG: bloqueo completo de rama izquierda. 
+Ecocardiograma: válvula aórtica calcificada con gradiente transaórtico medio de 70 mm Hg, área valvular de 0,5 cm2 y 
+fracción de eyección del ventrículo izquierdo normal. ¿Cuál es la mejor opción terapéutica?","El gradiente ventrículo-aórtico en la miocardiopatía hipertrófica disminuye con la administración de:","0.199","texto: mayor","6"
+"2019","CIRUGÍA CARDIOVASCULAR","44","questions","La arteria tronco tibioperoneo se divide en las arterias:","Varón de 80 años de aspecto saludable, consulta por síncopes. ECG: bloqueo completo de rama izquierda. Ecocardiograma: válvula aórtica calcificada con gradiente transaórtico medio de 70 mm Hg, área valvular de 0,5 cm2 y fracción de eyección del ventrículo izquierdo normal. ¿Cuál es la mejor opción terapéutica?","0.1902","texto: mayor","6"
+"2019","CIRUGÍA CARDIOVASCULAR","45","questions","En relación con la técnica de valvuloplastia percutánea con balón es correcto que:","La arteria tronco tibioperoneo se divide en las arterias:","0.1871","texto: mayor","6"
+"2019","CIRUGÍA CARDIOVASCULAR","46","questions","¿Cuál es la principal causa de la disminución de la luz en las arterias coronarias con endoprótesis?","En relación con la técnica de valvuloplastia percutánea con balón es correcto que:","0.3297","texto: mayor","6"
+"2019","CIRUGÍA CARDIOVASCULAR","46","option_D","En la estenosis mitral alcanza los mejores resultados cuando la válvula está calcificada o existe enfermedad","En la estenosis mitral alcanza los mejores resultados cuando la válvula está calcificada o existe enfermedad subvalvular","0.9474","texto: csv_antiguo_truncado","6"
+"2019","CIRUGÍA CARDIOVASCULAR","47","questions","Ante la presencia de una aorta en porcelana, el reemplazo de válvula aórtica utilizando la técnica estándar y pinzamiento 
+aórtico, resulta en un riesgo inaceptablemente alto de:","¿Cuál es la principal causa de la disminución de la luz en las arterias coronarias con endoprótesis?","0.2599","texto: mayor","6"
+"2019","CIRUGÍA CARDIOVASCULAR","48","questions","En la UCI cardiológica se encuentra paciente de 32 años, con historia de insuficiencia cardiaca avanzada de etiología 
+no isquémica de 2 años de evolución, CF III en lista de espera para trasplante cardíaco, quien ingresa 4 días atrás por 
+descompensación aguda. Actualmente con evolución inadecuada en últimas 24 horas ingresando en choque 
+cardiogénico, siendo necesario soporte ventilatorio invasivo. Actualmente PA: 80/50 mmHg. FC 130X’, SatO2: 94% 
+FiO2: 60%. VM PEEP: 10 cmH2O. Se instaló cateter de arteria pulmonar cuantificando GC: 2.8 LPM, IC: 1.9 LPM/m2, 
+PVC 19 cmH2O y PCP 30 cmH2O. Se colocó balón de contrapulsación intraaórtico. Medicación: dobutamina 12 
+ug/kg/min y noradrenalina 0.6 ug/kg/min; además lactatemia > 4 ng/dl, oligoanuria y cifras de transaminasas por encima 
+de 300 mg/dl. ¿Cuál es la mejor conducta a seguir?","Ante la presencia de una aorta en porcelana, el reemplazo de válvula aórtica utilizando la técnica estándar y pinzamiento aórtico, resulta en un riesgo inaceptablemente alto de:","0.1502","texto: mayor","6"
+"2019","CIRUGÍA CARDIOVASCULAR","49","questions","¿En cuál de los siguientes enunciados está indicada la cirugía de revascularización miocárdica?","En la UCI cardiológica se encuentra paciente de 32 años, con historia de insuficiencia cardiaca avanzada de etiología no isquémica de 2 años de evolución, CF III en lista de espera para trasplante cardíaco, quien ingresa 4 días atrás por descompensación aguda. Actualmente con evolución inadecuada en últimas 24 horas ingresando en choque cardiogénico, siendo necesario soporte ventilatorio invasivo. Actualmente PA: 80/50 mmHg. FC 130X’, SatO2: 94% FiO2: 60%. VM PEEP: 10 cmH2O. Se instaló cateter de arteria pulmonar cuantificando GC: 2.8 LPM, IC: 1.9 LPM/m2, PVC 19 cmH2O y PCP 30 cmH2O. Se colocó balón de contrapulsación intraaórtico. Medicación: dobutamina 12 ug/kg/min y noradrenalina 0.6 ug/kg/min; además lactatemia > 4 ng/dl, oligoanuria y cifras de transaminasas por encima de 300 mg/dl. ¿Cuál es la mejor conducta a seguir?","0.0989","texto: mayor","6"
+"2019","CIRUGÍA CARDIOVASCULAR","49","option_E","Colocación de ECMO venoarterial como puente a estabilización y posterior soporte ventricular, en espera de","Colocación de ECMO venoarterial como puente a estabilización y posterior soporte ventricular, en espera de trasplante","0.9507","texto: csv_antiguo_truncado","6"
+"2019","CIRUGÍA CARDIOVASCULAR","50","questions","Los aneurismas de la aorta ascendente:","¿En cuál de los siguientes enunciados está indicada la cirugía de revascularización miocárdica?","0.1955","texto: mayor","7"
+"2019","CIRUGÍA CARDIOVASCULAR","51","questions","En el caso de requerirse desfibrilación cardiaca, con paletas internas, al salir de la circulación extracorpórea para 
+retomar el ritmo cardiaco.  ¿Cuál es la intensidad en joules que se debe aplicar al usar un desfibrilador bifásico?","Los aneurismas de la aorta ascendente:","0.163","texto: mayor","7"
+"2019","CIRUGÍA CARDIOVASCULAR","52","questions","La fibrilación ventricular primaria en el infarto agudo de miocardio:","En el caso de requerirse desfibrilación cardiaca, con paletas internas, al salir de la circulación extracorpórea para retomar el ritmo cardiaco. ¿Cuál es la intensidad en joules que se debe aplicar al usar un desfibrilador bifásico?","0.1329","texto: mayor","7"
+"2019","CIRUGÍA CARDIOVASCULAR","53","questions","Paciente de 68 años sometido a triple bypass aortocoronario con circulación extracorpórea, luego de la salida de 
+extracorpórea presenta los siguientes parámetros hemodinámicas, IC: 1.8 L/min/m2, PVC: 10 mm Hg, AI: 8 mm Hg, 
+RVS: 1200 dinas, RVP: 200 dinas. ¿Cuál es la conducta indicada a seguir?","La fibrilación ventricular primaria en el infarto agudo de miocardio:","0.1648","texto: mayor","7"
+"2019","CIRUGÍA CARDIOVASCULAR","53","option_E","Si se trata rápidamente con cardioversión eléctrica el pronóstico es bueno y la supervivencia al primer año es","Si se trata rápidamente con cardioversión eléctrica el pronóstico es bueno y la supervivencia al primer año es superior al 90%","0.9322","texto: csv_antiguo_truncado","7"
+"2019","CIRUGÍA CARDIOVASCULAR","54","questions","Varón de 60 años con diagnóstico tomográfico de aneurisma de aorta abdominal de 4cm, no tiene síntomas.  La mejor 
+modalidad para la vigilancia de ese aneurisma es:","Paciente de 68 años sometido a triple bypass aortocoronario con circulación extracorpórea, luego de la salida de extracorpórea presenta los siguientes parámetros hemodinámicas, IC: 1.8 L/min/m2, PVC: 10 mm Hg, AI: 8 mm Hg, RVS: 1200 dinas, RVP: 200 dinas. ¿Cuál es la conducta indicada a seguir?","0.2276","texto: mayor","7"
+"2019","CIRUGÍA CARDIOVASCULAR","55","questions","Dentro de los errores de programación del balón intraaórtico de contrapulsación, el más nocivo para el corazón es el:","Varón de 60 años con diagnóstico tomográfico de aneurisma de aorta abdominal de 4cm, no tiene síntomas. La mejor modalidad para la vigilancia de ese aneurisma es:","0.3226","texto: mayor","7"
+"2019","CIRUGÍA CARDIOVASCULAR","55","option_D","Tomografía computarizada anual de corte fino (3","Tomografía computarizada anual de corte fino (3 mm)","0.9592","texto: csv_antiguo_truncado","7"
+"2019","CIRUGÍA CARDIOVASCULAR","55","option_E","Tomografía computarizada de corte fino (3 mm)","Tomografía computarizada de corte fino (3 mm) dos veces al año","0.8411","texto: csv_antiguo_truncado","7"
+"2019","CIRUGÍA CARDIOVASCULAR","56","questions","La técnica quirúrgica que se aplica para extraer un émbolo de un segmento arterial agudamente ocluido se denomina:","Dentro de los errores de programación del balón intraaórtico de contrapulsación, el más nocivo para el corazón es el:","0.2251","texto: mayor","7"
+"2019","CIRUGÍA CARDIOVASCULAR","57","questions","En relación al canal AV, es correcto que:","La técnica quirúrgica que se aplica para extraer un émbolo de un segmento arterial agudamente ocluido se denomina:","0.129","texto: mayor","7"
+"2019","CIRUGÍA CARDIOVASCULAR","58","questions","¿Cuál de las siguientes condiciones acorta el tiempo de coagulación activado?","En relación al canal AV, es correcto que:","0.2203","texto: mayor","8"
+"2019","CIRUGÍA CARDIOVASCULAR","58","option_D","El defecto completo consiste en un CIA tipo ostium primun asociado a un CIV en la zona de entrada del tabique","El defecto completo consiste en un CIA tipo ostium primun asociado a un CIV en la zona de entrada del tabique ventricular con una hendidura en el velo anterior de la válvula mitral y una fisura de la valva septal de la tricúspide","0.645","texto: csv_antiguo_truncado","8"
+"2019","CIRUGÍA CARDIOVASCULAR","59","questions","Paciente de 45 años con lesión mitral reumática conocida, sin síntomas cardiológicos y sin necesidad de uso de 
+medicamentos, que ingresa al servicio de urgencias por palpitaciones rápidas. ECG: fibrilación auricular con respuesta 
+ventricular a 150X’. Ecocardiograma: estenosis mitral con área valvular de 1,7 cm2, función ventricular izquierda normal 
+y aurícula izquierda severamente dilatada. ¿Cuál de las siguientes alternativas expresa la mejor opción terapéutica a 
+seguir?","¿Cuál de las siguientes condiciones acorta el tiempo de coagulación activado?","0.1483","texto: mayor","8"
+"2019","CIRUGÍA CARDIOVASCULAR","60","questions","¿Cuál es la etiología mas frecuente de la rotura de un aneurisma de la aorta torácica descendente que drena fuera de 
+la cavidad torácica?","Paciente de 45 años con lesión mitral reumática conocida, sin síntomas cardiológicos y sin necesidad de uso de medicamentos, que ingresa al servicio de urgencias por palpitaciones rápidas. ECG: fibrilación auricular con respuesta ventricular a 150X’. Ecocardiograma: estenosis mitral con área valvular de 1,7 cm2, función ventricular izquierda normal y aurícula izquierda severamente dilatada. ¿Cuál de las siguientes alternativas expresa la mejor opción terapéutica a seguir?","0.1697","texto: mayor","8"
+"2019","CIRUGÍA CARDIOVASCULAR","61","questions","La arteria carótida común deriva del … arco aórtico.","¿Cuál es la etiología mas frecuente de la rotura de un aneurisma de la aorta torácica descendente que drena fuera de la cavidad torácica?","0.1905","texto: mayor","8"
+"2019","CIRUGÍA CARDIOVASCULAR","62","questions","La trombosis de la arteria mesentérica superior es responsable de la isquemia:","La arteria carótida común deriva del … arco aórtico.","0.3846","texto: mayor","8"
+"2019","CIRUGÍA CARDIOVASCULAR","63","questions","Mujer de 70 años, refiere dolor al caminar aproximadamente 1 cuadra desde hace 8 meses a nivel de la cadera y nalga 
+izquierda. Antecedente: tabaquismo pesado por años, diabetes mellitus tipo 2, HTA y dislipidemia. Toma diariamente 
+amlodipino, metformina y rosuvastatina. Examen: pulso femoral izquierdo disminuido y ausencia de pulso poplíteo 
+izquierdo; los pulsos femoral y poplíteo derechos están conservados. El lugar más probable de estenosis está ubicado 
+a nivel de la arteria:","La trombosis de la arteria mesentérica superior es responsable de la isquemia:","0.0857","texto: mayor","8"
+"2019","CIRUGÍA CARDIOVASCULAR","64","questions","El flujo sanguíneo (Q) a través de una sección transversal de una arteria está relacionado a su Velocidad (V) y al área 
+de esa sección transversal (A) según:","Mujer de 70 años, refiere dolor al caminar aproximadamente 1 cuadra desde hace 8 meses a nivel de la cadera y nalga izquierda. Antecedente: tabaquismo pesado por años, diabetes mellitus tipo 2, HTA y dislipidemia. Toma diariamente amlodipino, metformina y rosuvastatina. Examen: pulso femoral izquierdo disminuido y ausencia de pulso poplíteo izquierdo; los pulsos femoral y poplíteo derechos están conservados. El lugar más probable de estenosis está ubicado a nivel de la arteria:","0.1033","texto: mayor","8"
+"2019","CIRUGÍA CARDIOVASCULAR","65","questions","Son factores de riesgo para muerte prematura luego de CABG, EXCEPTO:","El flujo sanguíneo (Q) a través de una sección transversal de una arteria está relacionado a su Velocidad (V) y al área de esa sección transversal (A) según:","0.2222","texto: mayor","8"
+"2019","CIRUGÍA CARDIOVASCULAR","66","questions","¿Cuál de los siguientes órganos es menos frecuentemente afectado en las metástasis de un carcinoma broncogénico?","Son factores de riesgo para muerte prematura luego de CABG, EXCEPTO:","0.2","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","67","questions","El mecanismo que describe el proceso por el cual el corazón aumenta su volumen de eyección al elevar el volumen 
+telediastólico se denomina de:","¿Cuál de los siguientes órganos es menos frecuentemente afectado en las metástasis de un carcinoma broncogénico?","0.2598","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","68","questions","El riesgo de rotura del aneurisma de aorta abdominal infrarenal depende directamente del…","El mecanismo que describe el proceso por el cual el corazón aumenta su volumen de eyección al elevar el volumen telediastólico se denomina de:","0.2424","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","69","questions","Durante la fase 0 del potencial de acción de la célula muscular cardiaca ocurre preferentemente:","El riesgo de rotura del aneurisma de aorta abdominal infrarenal depende directamente del…","0.3351","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","70","questions","A la consulta externa acude mujer de 40 años multigesta, hace 10 años tiene pesadez, ardor, edema y várices en pierna 
+derecha. ¿Cuál es la prueba a solicitar para definir la necesidad de una safenectomía como tratamiento de las várices?","Durante la fase 0 del potencial de acción de la célula muscular cardiaca ocurre preferentemente:","0.1807","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","71","questions","En relación a la comunicación interauricular es correcto que:","A la consulta externa acude mujer de 40 años multigesta, hace 10 años tiene pesadez, ardor, edema y várices en pierna derecha. ¿Cuál es la prueba a solicitar para definir la necesidad de una safenectomía como tratamiento de las várices?","0.2155","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","72","questions","En relación a la comunicación interventricular (CIV), es correcto que:","En relación a la comunicación interauricular es correcto que:","0.9008","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","73","questions","¿Cuál es el nivel de hipotermia necesario para poder tener un tiempo de 40 minutos de parada circulatoria?","En relación a la comunicación interventricular (CIV), es correcto que:","0.1364","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","73","option_C","Con un CIV moderado o grande hay retraso del desarrollo y crecimiento, infecciones pulmonares repetidas e","Con un CIV moderado o grande hay retraso del desarrollo y crecimiento, infecciones pulmonares repetidas e insuficiencia cardiaca congestiva","0.8607","texto: csv_antiguo_truncado","9"
+"2019","CIRUGÍA CARDIOVASCULAR","74","questions","¿Cuál es la prueba de imágenes más útil para realizar el diagnóstico del aneurisma de aorta torácico?","¿Cuál es el nivel de hipotermia necesario para poder tener un tiempo de 40 minutos de parada circulatoria?","0.5507","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","75","questions","Paciente de 60 años, diabético hace 15 años, acude por dolor en pantorrilla que impide caminar más de 100 m y 
+aparición de una úlcera en dorso del segundo dedo del pie izquierdo. Se evidencia ausencia de vellosidad, llenado 
+capilar mayor de 2 s, pulsos pedio y tibial posterior ausentes, ITB: 0.62, ondas monofásicas infrapopliteas.  ¿Cuál es la 
+conducta a seguir?","¿Cuál es la prueba de imágenes más útil para realizar el diagnóstico del aneurisma de aorta torácico?","0.0905","texto: mayor","9"
+"2019","CIRUGÍA CARDIOVASCULAR","76","questions","La insuficiencia de la vena safena mayor es el causante más frecuente de las várices en miembros inferiores. La vena 
+safena mayor ...","Paciente de 60 años, diabético hace 15 años, acude por dolor en pantorrilla que impide caminar más de 100 m y aparición de una úlcera en dorso del segundo dedo del pie izquierdo. Se evidencia ausencia de vellosidad, llenado capilar mayor de 2 s, pulsos pedio y tibial posterior ausentes, ITB: 0.62, ondas monofásicas infrapopliteas. ¿Cuál es la conducta a seguir?","0.2863","texto: mayor","10"
+"2019","CIRUGÍA CARDIOVASCULAR","77","questions","Un hombre de 70 años presenta un aneurisma de aorta abdominal asintomático de 4,5 cm. ¿Cuál de los siguientes 
+enunciados es verdadero?","La insuficiencia de la vena safena mayor es el causante más frecuente de las várices en miembros inferiores. La vena safena mayor ...","0.2322","texto: mayor","10"
+"2019","CIRUGÍA CARDIOVASCULAR","78","questions","¿Qué diagnóstico sugiere la presencia de un derrame pleural con un pH = 5.95 y una amilasa de 1000 u en líquido 
+pleural?","Un hombre de 70 años presenta un aneurisma de aorta abdominal asintomático de 4,5 cm. ¿Cuál de los siguientes enunciados es verdadero?","0.3386","texto: mayor","10"
+"2019","CIRUGÍA CARDIOVASCULAR","79","questions","Varón de 49 años traído a emergencia por accidente automovilístico. El paciente refiere dolor torácico. Examen: FC 
+118X’, FR 18X’, PA 142/96 mmHg, saturación de oxígeno: 96 %, laceraciones múltiples en la cara. ¿Cuál de los 
+siguientes hallazgos, en la radiografía de tórax, es indicativo de injuria de la aorta?","¿Qué diagnóstico sugiere la presencia de un derrame pleural con un pH = 5.95 y una amilasa de 1000 u en líquido pleural?","0.181","texto: mayor","10"
+"2019","CIRUGÍA CARDIOVASCULAR","80","questions","La comunicación interventricular (CIV) constituye el tipo más frecuente de cardiopatía congénita; y durante el primer 
+año, alrededor del … % de las CIV pequeñas se cierran espontáneamente","Varón de 49 años traído a emergencia por accidente automovilístico. El paciente refiere dolor torácico. Examen: FC 118X’, FR 18X’, PA 142/96 mmHg, saturación de oxígeno: 96 %, laceraciones múltiples en la cara. ¿Cuál de los siguientes hallazgos, en la radiografía de tórax, es indicativo de injuria de la aorta?","0.2249","texto: mayor","10"
+"2019","CIRUGÍA CARDIOVASCULAR","81","questions","Varón de 54 años asintomático presenta soplo sistólico de eyección, de máxima intensidad en borde esternal izquierdo 
+a la altura del tercer espacio intercostal; además de desdoblamiento fijo del segundo tono. ECG: bloqueo de rama 
+derecha. ¿Cuál es el diagnóstico más probable?","La comunicación interventricular (CIV) constituye el tipo más frecuente de cardiopatía congénita; y durante el primer año, alrededor del … % de las CIV pequeñas se cierran espontáneamente","0.1901","texto: mayor","10"
+"2019","CIRUGÍA CARDIOVASCULAR","82","questions","Paciente de 35 años presenta desde hace un año angina al caminar, al momento estable. EKG: hipertrofia ventricular 
+izquierda. ¿Cuál es el diagnóstico más probable?","Varón de 54 años asintomático presenta soplo sistólico de eyección, de máxima intensidad en borde esternal izquierdo a la altura del tercer espacio intercostal; además de desdoblamiento fijo del segundo tono. ECG: bloqueo de rama derecha. ¿Cuál es el diagnóstico más probable?","0.4146","texto: mayor","10"
+"2019","CIRUGÍA CARDIOVASCULAR","83","questions","Paciente 18 años con CIA tipo Ostium Secundum sometido a cierre de CI","Paciente de 35 años presenta desde hace un año angina al caminar, al momento estable. EKG: hipertrofia ventricular izquierda. ¿Cuál es el diagnóstico más probable?","0.2759","texto: mayor","10"
+"2019","CIRUGÍA CARDIOVASCULAR","84","questions","¿A qué tipo de hipertensión pulmonar 
+corresponde?","Paciente 18 años con CIA tipo Ostium Secundum sometido a cierre de CIA. Cateterismo cardiaco por Swan Ganz en UCI posquirúrgica indica AP: 82/38 mmHg (53), PCP: 20 mmHg; RVS: 1200 Dinas, RVP 7.3 Woods; ecovisión post cirugía inmediata: FEVI 50%, FAC 24%, S’ de VD: 9.5%. Según la guía ESC 2018. ¿A qué tipo de hipertensión pulmonar corresponde?","0.2494","texto: mayor","11"
+"2019","CIRUGÍA CARDIOVASCULAR","89","questions","Varón de 60 años refiere dolor precordial de grandes esfuerzos, clase funcional II de la NYH","Varón de 60 años refiere dolor precordial de grandes esfuerzos, clase funcional II de la NYHA. Coronariografía: estenosis significativa en los segmentos medios de los tres vasos principales con buen lecho distal; ventriculografía izquierda muestra hipocinesia global con fracción de eyección del 35%. ¿Cuál es la mejor opción terapéutica?","0.4279","texto: csv_antiguo_truncado","11"
+"2019","GINECOLOGÍA","46","questions","B. 3. 
+C. 2. 
+D. 4. 
+E. 6. 
+ 
+46. En relación a la estadificación de la FIGO, el carcinoma tubario que abarca una o ambas trompas con extensión pélvica 
+y que invade a otros tejidos pélvicos corresponde al estadío ...","En relación a la estadificación de la FIGO, el carcinoma tubario que abarca una o ambas trompas con extensión pélvica y que invade a otros tejidos pélvicos corresponde al estadío ...","0.9286","texto: mayor","5"
+"2019","GINECOLOGÍA","53","option_C","visualizar cabeza toráx y mitad superior del","visualizar cabeza toráx y mitad superior del abdomen.","0.9072","texto: csv_antiguo_truncado","6"
+"2019","PEDIATRIA","28","option_D","Su evolución es benigna y se resuelve en 12-72","Su evolución es benigna y se resuelve en 12-72 horas","0.9388","texto: csv_antiguo_truncado","4"
+"2019","PRUEBA A","63","questions","Mujer de 22 años, hace 1 mes se sometió a un aborto provocado con legrado uterino, manifiesta dolor abdomino-
+pélvico desde hace 2 días que se ha tornado muy intenso. Examen: P.","Mujer de 22 años, hace 1 mes se sometió a un aborto provocado con legrado uterino, manifiesta dolor abdomino-pélvico desde hace 2 días que se ha tornado muy intenso. Examen: P.A. 100/60mmHg, FC 100 X', T° 38.4 °C; abdomen doloroso a la palpación superficial y profunda con signos de reacción peritoneal; especuloscopía: secreción cervical mucopurulenta, no sangrado; tacto vaginal: útero de 8 cm, dolor a la lateralización cervical, anexo derecho engrosado por presencia de tumor muy doloroso y anexo izquierdo libre con discreto dolor. Laboratorio: leucocitosis y VSG elevado. ¿Cuál es el diagnóstico más probable?","0.4444","texto: mayor","8"
+"2019","PSIQUIATRIA","6","option_D","Aumento en la expresión de las proteínas de fase","Aumento en la expresión de las proteínas de fase aguda","0.9412","texto: csv_antiguo_truncado","1"
+"2019","PSIQUIATRIA","36","option_C","Disminución","Disminución de dopamina en líquido céfaloraquideo","0.3667","texto: csv_antiguo_truncado","5"
+"2019","PSIQUIATRIA","93","option_C","Seguir confiadamente la primera indicación","Seguir confiadamente la primera indicación médica","0.9231","texto: csv_antiguo_truncado","11"
+"2019","RADIOLOGÍA","17","option_B","Intensidad media en T1 y levemente hiperintensa","Intensidad media en T1 y levemente hiperintensa en T2","0.94","texto: csv_antiguo_truncado","2"
+"2019","RADIOLOGÍA","29","option_A","Ausencia de realce con contraste IV del asa","Ausencia de realce con contraste IV del asa afectada","0.9053","texto: csv_antiguo_truncado","3"
+"2019","RADIOLOGÍA","56","option_E","Fotones de distinta energía que viajan a la","Fotones de distinta energía que viajan a la velocidad de la luz","0.8113","texto: csv_antiguo_truncado","6"
+"2019","RADIOLOGÍA","83","option_C","Obstrucción bronquial y masa con aumento del","Obstrucción bronquial y masa con aumento del tamaño hiliar","0.8627","texto: csv_antiguo_truncado","9"
+"2020","ANESTESIOLOGIA","2","option_B","Tiene escasos efectos sobre la resistencia","Tiene escasos efectos sobre la resistencia vascular pulmonar","0.8235","texto: csv_antiguo_truncado","1"
+"2020","ANESTESIOLOGIA","2","option_C","No","No modifican la respuesta de los baroreceptores","0.0816","texto: csv_antiguo_truncado","1"
+"2020","ANESTESIOLOGIA","4","questions","Gestante 38 semanas considerada como categoría inmediata, con diagnóstico de procidencia de cordón umbilical 
+y SF","Gestante 38 semanas considerada como categoría inmediata, con diagnóstico de procidencia de cordón umbilical y SFA. ¿Cuál es la anestesia de elección para la cesárea?","0.81","texto: csv_antiguo_truncado","1"
+"2020","ANESTESIOLOGIA","8","option_A","Acidosis metabólica con compensación aguda","Acidosis metabólica con compensación aguda respiratoria, se opera","0.785","texto: csv_antiguo_truncado","1"
+"2020","ANESTESIOLOGIA","8","option_C","Acidosis metabólica no compensada, estabilizar","Acidosis metabólica no compensada, estabilizar al paciente","0.8846","texto: csv_antiguo_truncado","1"
+"2020","ANESTESIOLOGIA","21","option_B","Los agentes halogenados disminuyen menos la","Los agentes halogenados disminuyen menos la velocidad de filtración glomerular","0.7107","texto: csv_antiguo_truncado","3"
+"2020","ANESTESIOLOGIA","21","option_C","Los benzodiacepinas aumentan la velocidad de","Los benzodiacepinas aumentan la velocidad de filtración glomerular","0.8","texto: csv_antiguo_truncado","3"
+"2020","ANESTESIOLOGIA","21","option_E","La anestesia regional afecta más que la","La anestesia regional afecta más que la anestesia general","0.8125","texto: csv_antiguo_truncado","3"
+"2020","ANESTESIOLOGIA","23","option_E","Colocando lidocaína antes de administrar el","Colocando lidocaína antes de administrar el fármaco en vena grande","0.789","texto: csv_antiguo_truncado","3"
+"2020","ANESTESIOLOGIA","25","option_C","Parálisis gastrointestinal, acúmulo de gases y","Parálisis gastrointestinal, acúmulo de gases y secreciones","0.8846","texto: csv_antiguo_truncado","3"
+"2020","ANESTESIOLOGIA","34","option_D","Se ven la porción anterior de las cuerdas","Se ven la porción anterior de las cuerdas vocales","0.9111","texto: csv_antiguo_truncado","4"
+"2020","ANESTESIOLOGIA","34","option_E","Solo se ve la porción posterior de las cuerdas","Solo se ve la porción posterior de las cuerdas vocales y /o los cartílagos aritenoides","0.697","texto: csv_antiguo_truncado","4"
+"2020","ANESTESIOLOGIA","35","option_A","Paciente con hipotensión, secundaria a shock","Paciente con hipotensión, secundaria a shock cardiogénico","0.8713","texto: csv_antiguo_truncado","4"
+"2020","ANESTESIOLOGIA","35","option_E","Paciente con antecedente de síndrome","Paciente con antecedente de síndrome neuroléptico maligno","0.7742","texto: csv_antiguo_truncado","4"
+"2020","ANESTESIOLOGIA","42","option_B","Disminución","Disminución del tono de musculatura gastrointestinal","0.3492","texto: csv_antiguo_truncado","5"
+"2020","ANESTESIOLOGIA","42","option_D","Aumentan las contracciones del músculo","Aumentan las contracciones del músculo uterino","0.9048","texto: csv_antiguo_truncado","5"
+"2020","ANESTESIOLOGIA","61","option_A","Ayuno en caso de leche materna como mínimo","Ayuno en caso de leche materna como mínimo 1 hora","0.9231","texto: csv_antiguo_truncado","7"
+"2020","ANESTESIOLOGIA","63","option_B","Callarse y no decir a nadie, porque lo pueden","Callarse y no decir a nadie, porque lo pueden sancionar","0.9","texto: csv_antiguo_truncado","7"
+"2020","ANESTESIOLOGIA","63","option_D","Notificar y registrar evento adverso, luego","Notificar y registrar evento adverso, luego hablar con familiares y/o paciente explicando motivos del evento","0.5695","texto: csv_antiguo_truncado","7"
+"2020","GINECOLOGIA Y OBSTETRICIA","2","option_A","Índice de pulsatilidad de la arteria cerebral","Índice de pulsatilidad de la arteria cerebral media","0.9375","texto: csv_antiguo_truncado","1"
+"2020","GINECOLOGIA Y OBSTETRICIA","2","option_B","Velocidad máxima sistólica de la arteria cerebral","Velocidad máxima sistólica de la arteria cerebral media","0.9423","texto: csv_antiguo_truncado","1"
+"2020","GINECOLOGIA Y OBSTETRICIA","2","option_C","Velocidad máxima sistólica de la arteria","Velocidad máxima sistólica de la arteria umbilical","0.8889","texto: csv_antiguo_truncado","1"
+"2020","GINECOLOGIA Y OBSTETRICIA","8","option_B","Preeclampsia superpuesta a hipertensión","Preeclampsia superpuesta a hipertensión crónica","0.907","texto: csv_antiguo_truncado","2"
+"2020","GINECOLOGIA Y OBSTETRICIA","18","option_A","Hipertensión crónica más preeclampsia","Hipertensión crónica más preeclampsia sobreagregada","0.8409","texto: csv_antiguo_truncado","3"
+"2020","GINECOLOGIA Y OBSTETRICIA","28","option_A","Los antecedentes paternos tienen mayor","Los antecedentes paternos tienen mayor predominancia","0.8444","texto: csv_antiguo_truncado","4"
+"2020","GINECOLOGIA Y OBSTETRICIA","28","option_C","Los gemelos de sexo opuesto son mayormente","Los gemelos de sexo opuesto son mayormente monocigotos","0.875","texto: csv_antiguo_truncado","4"
+"2020","GINECOLOGIA Y OBSTETRICIA","47","option_A","Profilaxis antibiótica y estimulación del parto","Profilaxis antibiótica y estimulación del parto vaginal","0.9216","texto: csv_antiguo_truncado","6"
+"2020","GINECOLOGIA Y OBSTETRICIA","47","option_D","Control con tactos vaginales cada hora para","Control con tactos vaginales cada hora para evaluar la progresión","0.7963","texto: csv_antiguo_truncado","6"
+"2020","GINECOLOGIA Y OBSTETRICIA","52","option_A","Mayor prevalencia de presentar diabetes","Mayor prevalencia de presentar diabetes gestacional","0.8667","texto: csv_antiguo_truncado","7"
+"2020","GINECOLOGIA Y OBSTETRICIA","55","option_E","Responsabilizar al personal que conduce el","Responsabilizar al personal que conduce el parto","0.9333","texto: csv_antiguo_truncado","7"
+"2020","GINECOLOGIA Y OBSTETRICIA","64","option_D","Se debe traccionar firmemente el cordón y","Se debe traccionar firmemente el cordón y presionar el fondo","0.8119","texto: csv_antiguo_truncado","8"
+"2020","GINECOLOGIA Y OBSTETRICIA","67","option_A","Extirpación de los submucosos no incrementa la","Extirpación de los submucosos no incrementa la fecundidad","0.8932","texto: csv_antiguo_truncado","9"
+"2020","GINECOLOGIA Y OBSTETRICIA","67","option_C","Eliminar los miomas subserosos aumenta la","Eliminar los miomas subserosos aumenta la fecundidad","0.8817","texto: csv_antiguo_truncado","9"
+"2020","GINECOLOGIA Y OBSTETRICIA","67","option_D","La miomectomía de los intramurales aumenta la","La miomectomía de los intramurales aumenta la fecundidad","0.8911","texto: csv_antiguo_truncado","9"
+"2020","GINECOLOGIA Y OBSTETRICIA","68","option_A","El feto puede hacer hemólisis con mucha","El feto puede hacer hemólisis con mucha frecuencia","0.8764","texto: csv_antiguo_truncado","9"
+"2020","GINECOLOGIA Y OBSTETRICIA","68","option_B","El manejo de la isoinmunización se hará durante","El manejo de la isoinmunización se hará durante el embarazo","0.8868","texto: csv_antiguo_truncado","9"
+"2020","GINECOLOGIA Y OBSTETRICIA","68","option_C","La isoinmunización ABO es generalmente un","La isoinmunización ABO es generalmente un caso grave","0.8817","texto: csv_antiguo_truncado","9"
+"2020","GINECOLOGIA Y OBSTETRICIA","68","option_D","Si el feto es A o B puede sufrir de","Si el feto es A o B puede sufrir de hiperbilirrubinemia","0.7778","texto: csv_antiguo_truncado","9"
+"2020","GINECOLOGIA Y OBSTETRICIA","71","option_D","Es necesario tener una curva individual del","Es necesario tener una curva individual del desarrollo del feto","0.8113","texto: csv_antiguo_truncado","9"
+"2020","GINECOLOGIA Y OBSTETRICIA","80","option_A","A dicho nivel es mayor la cantidad de","A dicho nivel es mayor la cantidad de oncogenes heredados","0.7872","texto: csv_antiguo_truncado","10"
+"2020","GINECOLOGIA Y OBSTETRICIA","80","option_B","El tejido mamario es más abundante en dicho","El tejido mamario es más abundante en dicho cuadrante","0.8958","texto: csv_antiguo_truncado","10"
+"2020","GINECOLOGIA Y OBSTETRICIA","80","option_C","Existe menor cantidad de receptores de","Existe menor cantidad de receptores de progesterona","0.8539","texto: csv_antiguo_truncado","10"
+"2020","GINECOLOGIA Y OBSTETRICIA","80","option_D","Las células de dicho cuadrante contienen el gen","Las células de dicho cuadrante contienen el gen BRCA 2","0.9307","texto: csv_antiguo_truncado","10"
+"2020","GINECOLOGIA Y OBSTETRICIA","80","option_E","Tiene mayor riesgo de desarrollar cáncer","Tiene mayor riesgo de desarrollar cáncer microscópico","0.8602","texto: csv_antiguo_truncado","10"
+"2020","GINECOLOGIA Y OBSTETRICIA","82","option_E","Determinar si hay adherencia a planos","Determinar si hay adherencia a planos profundos","0.881","texto: csv_antiguo_truncado","11"
+"2020","GINECOLOGIA Y OBSTETRICIA","86","option_A","4 mg/día desde 3 meses previos al embarazo","4 mg/día desde 3 meses previos al embarazo hasta las 12 semanas","0.8","texto: csv_antiguo_truncado","11"
+"2020","GINECOLOGIA Y OBSTETRICIA","86","option_B","4 mg/día desde el inicio del embarazo hasta las","4 mg/día desde el inicio del embarazo hasta las 12 semanas","0.8952","texto: csv_antiguo_truncado","11"
+"2020","GINECOLOGIA Y OBSTETRICIA","86","option_C","0.4 mg/día desde 3 meses previos al","0.4 mg/día desde 3 meses previos al embarazo hasta las 12 semanas","0.7","texto: csv_antiguo_truncado","11"
+"2020","GINECOLOGIA Y OBSTETRICIA","86","option_D","0.4 mg/día desde el inicio del embarazo hasta","0.4 mg/día desde el inicio del embarazo hasta el fin del embarazo","0.8182","texto: csv_antiguo_truncado","11"
+"2020","GINECOLOGIA Y OBSTETRICIA","89","option_A","Tener un control idéntico a que si tuviera un solo","Tener un control idéntico a que si tuviera un solo feto","0.9524","texto: csv_antiguo_truncado","11"
+"2020","GINECOLOGIA Y OBSTETRICIA","89","option_B","Posibilidad de presentar mayor morbilidad y","Posibilidad de presentar mayor morbilidad y mortalidad que un embarazo único","0.7227","texto: csv_antiguo_truncado","11"
+"2020","GINECOLOGIA Y OBSTETRICIA","89","option_C","Mayor probabilidad de presentar diabetes","Mayor probabilidad de presentar diabetes insípida","0.8989","texto: csv_antiguo_truncado","11"
+"2020","GINECOLOGIA Y OBSTETRICIA","93","option_D","Acetato de medroxiprogesterona 150 mg","Acetato de medroxiprogesterona 150 mg trimestral","0.8706","texto: csv_antiguo_truncado","12"
+"2020","GINECOLOGIA Y OBSTETRICIA","98","option_B","Histerectomía inmediata y extirpación de","Histerectomía inmediata y extirpación de ovarios","0.9091","texto: csv_antiguo_truncado","13"
+"2020","GINECOLOGIA Y OBSTETRICIA","98","option_C","Repetir el frotis de Papanicolaou y control a los","Repetir el frotis de Papanicolaou y control a los tres meses","0.8991","texto: csv_antiguo_truncado","13"
+"2020","PEDIATRIA","87","questions","","Niño que lava vehículos en vía pública, presenta lesiones en piel de extremidades inferiores algunas costrosas, engrosadas de color marrón rodeada de eritema; algunas lesiones han evolucionado a necróticas con úlceras profundas en sacabocado. ¿Cuál es el diagnóstico más probable?","","enunciado duplicado de P40 (posible error del PDF original)","11"
+"2020","PEDIATRIA","17","option_B","Riesgo de hemorragia digestiva en caso de","Riesgo de hemorragia digestiva en caso de hipertensión portal","0.8039","texto: csv_antiguo_truncado","2"
+"2020","PEDIATRIA","17","option_D","La asociación de kernícterus en este tipo de","La asociación de kernícterus en este tipo de ictericia","0.898","texto: csv_antiguo_truncado","2"
+"2020","PEDIATRIA","17","option_E","Rápida instalación de cirrosis en caso de atresia","Rápida instalación de cirrosis en caso de atresia de vías biliares","0.8522","texto: csv_antiguo_truncado","2"
+"2020","PEDIATRIA","18","option_B","No realiza combinaciones de palabras a los 18","No realiza combinaciones de palabras a los 18 meses","0.9375","texto: csv_antiguo_truncado","3"
+"2020","PEDIATRIA","18","option_C","Los padres no comprenden el habla del niño a los","Los padres no comprenden el habla del niño a los 24 meses","0.9143","texto: csv_antiguo_truncado","3"
+"2020","PEDIATRIA","18","option_E","Dificultades para responder preguntas ""qué,","Dificultades para responder preguntas ""qué, cómo, cuándo, dónde, porqué"" a los 36 meses","0.6615","texto: csv_antiguo_truncado","3"
+"2020","PEDIATRIA","19","option_A","Convulsiones, malformación cerebral, EEG","Convulsiones, malformación cerebral, EEG anormal","0.9091","texto: csv_antiguo_truncado","3"
+"2020","PEDIATRIA","19","option_B","Espasmos","Espasmos mioclónicos, regresión del desarrollo, EEG lento","0.2462","texto: csv_antiguo_truncado","3"
+"2020","PEDIATRIA","19","option_D","Retraso del desarrollo, espasmos epilépticos,","Retraso del desarrollo, espasmos epilépticos, EEG anormal","0.8824","texto: csv_antiguo_truncado","3"
+"2020","PEDIATRIA","24","option_B","Hiperplasia linfonodular en mucosa del íleon","Hiperplasia linfonodular en mucosa del íleon terminal","0.9072","texto: csv_antiguo_truncado","3"
+"2020","PEDIATRIA","36","option_E","Elegir un cronograma de tratamiento simple y","Elegir un cronograma de tratamiento simple y breve","0.9362","texto: csv_antiguo_truncado","5"
+"2020","PEDIATRIA","60","option_E","Delegación de funciones a trabajadores","Delegación de funciones a trabajadores comunitarios","0.8539","texto: csv_antiguo_truncado","8"
+"2020","PEDIATRIA","68","option_C","Alimentación","Alimentación con alto contenido de carbohidratos","0.4","texto: csv_antiguo_truncado","9"
+"2020","PEDIATRIA","85","option_E","Repetir el análisis de orina cada 4 a 6 meses por 2","Repetir el análisis de orina cada 4 a 6 meses por 2 años","0.9533","texto: csv_antiguo_truncado","11"
+"2020","PEDIATRIA","88","option_D","No se van a necesitar otros exámenes","No se van a necesitar otros exámenes diagnósticos","0.8471","texto: csv_antiguo_truncado","11"
+"2020","PRUEBA A","13","option_D","Silueta cardiaca normal, flujo pulmonar","Silueta cardiaca normal, flujo pulmonar aumentado","0.8864","texto: csv_antiguo_truncado","2"
+"2020","PRUEBA A","23","option_A","Zidovudina en el RN durante las 3 semanas de","Zidovudina en el RN durante las 3 semanas de vida","0.9462","texto: csv_antiguo_truncado","3"
+"2020","PRUEBA A","23","option_D","ARV en el RN dentro de las primeras 48 horas","ARV en el RN dentro de las primeras 48 horas de vida","0.9167","texto: csv_antiguo_truncado","3"
+"2020","PRUEBA A","33","option_A","Colecistectomía parcial con sección en","Colecistectomía parcial con sección en infundíbulo","0.8636","texto: csv_antiguo_truncado","4"
+"2020","PRUEBA A","42","option_C","Hipocrecimiento por deficiencia de la hormona","Hipocrecimiento por deficiencia de la hormona del crecimiento","0.8491","texto: csv_antiguo_truncado","6"
+"2020","PRUEBA A","47","questions","Varón de 60 años, presenta dolor tipo ardor en epigastrio; en endoscopía digestiva alta de hace 10 años se le 
+encontró: atrofia gástrica y Helicobacter pylori (++); desde hace 4 meses baja 10 kilos de peso y viene presentando 
+llenura precoz. Examen: PA: 110/70 mmHg, FC: 95 X', T°: 37.5 °C; Sat. O2: 98%; se palpa adenopatía 
+supraclavicular izquierda; grupo sanguíneo","Varón de 60 años, presenta dolor tipo ardor en epigastrio; en endoscopía digestiva alta de hace 10 años se le encontró: atrofia gástrica y Helicobacter pylori (++); desde hace 4 meses baja 10 kilos de peso y viene presentando llenura precoz. Examen: PA: 110/70 mmHg, FC: 95 X', T°: 37.5 °C; Sat. O2: 98%; se palpa adenopatía supraclavicular izquierda; grupo sanguíneo A. Endoscopía alta: lesión ulcerada bien localizada compatible con pólipo velloso. Se sospecha de cáncer gástrico. ¿Qué estudio se debe solicitar para el estadiaje de la enfermedad?","0.8013","texto: csv_antiguo_truncado","6"
+"2020","PRUEBA A","49","option_A","Colonoscopía con repetición de la biopsia en un","Colonoscopía con repetición de la biopsia en un año","0.9592","texto: csv_antiguo_truncado","7"
+"2020","PRUEBA A","49","option_E","Cirugía abierta con colostomía y extirpación del","Cirugía abierta con colostomía y extirpación del pólipo","0.932","texto: csv_antiguo_truncado","7"
+"2020","PRUEBA A","77","option_B","Vacunarla en cualquier momento para evitar la","Vacunarla en cualquier momento para evitar la sensibilización","0.8491","texto: csv_antiguo_truncado","10"
+"2020","PRUEBA A","79","questions","C. después del parto. 
+D. entre la semana 27 y 36. 
+E. inmediatamente. 
+ 
+79. Puérpera de 12 horas de parto vaginal domiciliario, presenta sensación de alza térmica. Examen físico: T°: 40 °C, 
+FC: 100 X', PA: 90/60 mmHg; luce agudamente enferma. Tacto vaginal: útero puerperal doloroso, loquios sin mal 
+olor. ¿Cuál es el diagnóstico más probable?","Puérpera de 12 horas de parto vaginal domiciliario, presenta sensación de alza térmica. Examen físico: T°: 40 °C, FC: 100 X', PA: 90/60 mmHg; luce agudamente enferma. Tacto vaginal: útero puerperal doloroso, loquios sin mal olor. ¿Cuál es el diagnóstico más probable?","0.8797","texto: mayor","10"
+"2020","PRUEBA A","80","option_C","Colangiopancreatografía retrógrada","Colangiopancreatografía retrógrada endoscópica","0.85","texto: csv_antiguo_truncado","10"
+"2020","PRUEBA B","52","option_A","Síndrome de sobrecrecimiento bacteriano","Síndrome de sobrecrecimiento bacteriano intestinal alto","0.8298","texto: csv_antiguo_truncado","7"
+"2020","PRUEBA B","64","option_A","Sólo anbioticoterapia empírica para gram","Sólo anbioticoterapia empírica para gram negativos","0.8889","texto: csv_antiguo_truncado","9"
+"2020","PRUEBA B","64","option_E","Corticoides y esperar cultivo para iniciar","Corticoides y esperar cultivo para iniciar antibiótico","0.875","texto: csv_antiguo_truncado","9"
+"2020","PRUEBA B","66","option_A","Inyección endoscópica de dextranómero en el","Inyección endoscópica de dextranómero en el trayecto ureteral","0.8269","texto: csv_antiguo_truncado","9"
+"2020","PRUEBA B","70","option_C","Disminución de la presión oncótica del espacio","Disminución de la presión oncótica del espacio intersticial","0.8762","texto: csv_antiguo_truncado","10"
+"2020","PRUEBA B","70","option_D","Aumento de la presión hidrostática del espacio","Aumento de la presión hidrostática del espacio intersticial","0.8762","texto: csv_antiguo_truncado","10"
+"2020","PRUEBA B","80","option_A","Repetir por posible error en la obtención de la","Repetir por posible error en la obtención de la toma","0.9495","texto: csv_antiguo_truncado","11"
+"2020","PRUEBA B","80","option_B","Repetir microtoma en 15-20 minutos por valor","Repetir microtoma en 15-20 minutos por valor prepatológico","0.8627","texto: csv_antiguo_truncado","11"
+"2020","PRUEBA B","80","option_C","Valor en limites normales, dejar evolución","Valor en limites normales, dejar evolución natural de parto","0.8317","texto: csv_antiguo_truncado","11"
+"2020","PRUEBA B","80","option_D","Repetir microtoma en 1-2 horas por acidosis","Repetir microtoma en 1-2 horas por acidosis moderada","0.9053","texto: csv_antiguo_truncado","11"
+"2020","UROLOGIA","3","option_A","La arteria renal derecha nace por debajo de la","La arteria renal derecha nace por debajo de la vena renal izquierda","0.8142","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","3","option_B","La vena renal izquierda pasa por debajo de la","La vena renal izquierda pasa por debajo de la Aorta","0.9375","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","3","option_C","La arteria renal izquierda pasa por encima de la","La arteria renal izquierda pasa por encima de la Vena Cava inferior","0.8348","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","3","option_D","La vena renal derecha nace por encima de la","La vena renal derecha nace por encima de la arteria renal izquierda","0.7818","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","3","option_E","La vena renal derecha nace por debajo de la","La vena renal derecha nace por debajo de la Aorta","0.9348","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","5","option_A","Los niveles de testosterona en hombres suelen","Los niveles de testosterona en hombres suelen mantenerse bajos","0.8411","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","5","option_B","Solo un 10% de los embarazos concluyen de","Solo un 10% de los embarazos concluyen de manera exitosa","0.8454","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","5","option_C","Por lo general se restaura la fertilidad tanto en","Por lo general se restaura la fertilidad tanto en hombres como en mujeres","0.8033","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","5","option_D","Las anormalidades congénitas son frecuentes","Las anormalidades congénitas son frecuentes sobretodo en hijos de mujeres trasplantadas","0.6615","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","5","option_E","Se presenta retraso del crecimiento intrauterino","Se presenta retraso del crecimiento intrauterino en un 90%","0.9057","texto: csv_antiguo_truncado","1"
+"2020","UROLOGIA","24","option_A","Las células de Leydig del testículo izquierdo","Las células de Leydig del testículo izquierdo funcionan y siguen produciendo testosterona","0.6716","texto: csv_antiguo_truncado","3"
+"2020","UROLOGIA","24","option_B","El riesgo de que el testículo izquierdo degenere","El riesgo de que el testículo izquierdo degenere a un tumor maligno es muy bajo","0.7559","texto: csv_antiguo_truncado","3"
+"2020","UROLOGIA","24","option_C","La espermatogénesis en el testículo izquierdo","La espermatogénesis en el testículo izquierdo es normal","0.9","texto: csv_antiguo_truncado","3"
+"2020","UROLOGIA","24","option_D","Las","Las células germinales del cordón testicular izquierdo degeneraron y murieron","0.075","texto: csv_antiguo_truncado","3"
+"2020","UROLOGIA","24","option_E","El testículo izquierdo aumentará de tamaño con","El testículo izquierdo aumentará de tamaño con la adolescencia y funcionará normal","0.7188","texto: csv_antiguo_truncado","3"
+"2020","UROLOGIA","49","option_C","Enfermedad renal poliquistica autosomica","Enfermedad renal poliquistica autosomica dominante","0.8889","texto: csv_antiguo_truncado","6"
+"2020","UROLOGIA","60","option_D","Ceftriaxona 500 mg IM + azitromicina 500 mg","Ceftriaxona 500 mg IM + azitromicina 500 mg VO","0.9663","texto: csv_antiguo_truncado","7"
+"2020","UROLOGIA","61","option_E","Nefroureterectomía","Nefroureterectomía radical con manguito vesical","0.5538","texto: csv_antiguo_truncado","8"
+"2020","UROLOGIA","66","option_A","La suprarrenal derecha limita en su parte","La suprarrenal derecha limita en su parte anterior con la vena cava inferior","0.7009","texto: csv_antiguo_truncado","8"
+"2020","UROLOGIA","66","option_B","La suprarrenal izquierda limita en su parte","La suprarrenal izquierda limita en su parte medial con el estómago y páncreas","0.7167","texto: csv_antiguo_truncado","8"
+"2020","UROLOGIA","66","option_C","Ambas en posición cefálica con respecto al","Ambas en posición cefálica con respecto al riñón y su parte medial limita con la aorta","0.6562","texto: csv_antiguo_truncado","8"
+"2020","UROLOGIA","66","option_D","Ambas en posición cefálica con respecto al","Ambas en posición cefálica con respecto al riñón y anterior a los pilares del diafragma","0.6512","texto: csv_antiguo_truncado","8"
+"2020","UROLOGIA","66","option_E","La suprarrenal izquierda limita en su parte","La suprarrenal izquierda limita en su parte medial con la vena cava inferior","0.7227","texto: csv_antiguo_truncado","8"
+"2020","UROLOGIA","73","questions","B. 1. 
+C. 4. 
+D. 3. 
+E. 5. 
+ 
+73. La Escala Internacional de Sintomas Prostáticos-IPSS, es un cuestionario de ...... preguntas, que consiste en …... 
+y una pregunta sobre calidad de vida.","La Escala Internacional de Sintomas Prostáticos-IPSS, es un cuestionario de ...... preguntas, que consiste en …... y una pregunta sobre calidad de vida.","0.9157","texto: mayor","9"
+"2020","UROLOGIA","85","option_E","Prostatectomía laparoscópica asistida por robot","Prostatectomía laparoscópica asistida por robot (PLAR)","0.9307","texto: csv_antiguo_truncado","11"
+"2020","UROLOGIA","87","option_A","Se utiliza el gas Argón para obtener","Se utiliza el gas Argón para obtener temperaturas terapéuticas entre -10 - 0° centígrados","0.576","texto: csv_antiguo_truncado","11"
+"2020","UROLOGIA","87","option_B","El área de tratamiento debe extenderse como","El área de tratamiento debe extenderse como máximo 0.5cm más allá del margen del tumor","0.6667","texto: csv_antiguo_truncado","11"
+"2020","UROLOGIA","87","option_C","Se utiliza sistemas en base a Hidrogeno para","Se utiliza sistemas en base a Hidrogeno para obtener temperaturas terapéuticas menores a - 40°C","0.6331","texto: csv_antiguo_truncado","11"
+"2020","UROLOGIA","87","option_D","Actualmente el estandar de tratamiento es un","Actualmente el estandar de tratamiento es un ciclo doble de congelamiento-descongelamiento","0.6567","texto: csv_antiguo_truncado","11"
+"2020","UROLOGIA","87","option_E","Se puede realizar el procedimiento sin tener","Se puede realizar el procedimiento sin tener imágenes en tiempo real","0.7857","texto: csv_antiguo_truncado","11"
+"2022","Anestesiología","7","option_A","La frecuencia es de 1 ventilación cada 2 a 3","La frecuencia es de 1 ventilación cada 2 a 3 segundos.","0.898","texto: csv_antiguo_truncado","1"
+"2022","Anestesiología","8","option_A","Pedir ayuda y llamar a un anestesiólogo con mayor","Pedir ayuda y llamar a un anestesiólogo con mayor experiencia","0.8909","texto: csv_antiguo_truncado","1"
+"2022","Anestesiología","29","option_D","Volumen espiratorio forzado (máximo) en el primer","Volumen espiratorio forzado (máximo) en el primer segundo (VEMS) Posp","0.8305","texto: csv_antiguo_truncado","4"
+"2022","Anestesiología","32","option_D","Evitar infusiones de alta velocidad a temperatura de","Evitar infusiones de alta velocidad a temperatura de 40° C","0.9455","texto: csv_antiguo_truncado","4"
+"2022","Anestesiología","32","option_E","Usar infusiones con temperatura de 37 °C para evitar","Usar infusiones con temperatura de 37 °C para evitar la hipotermia","0.8814","texto: csv_antiguo_truncado","4"
+"2022","Anestesiología","34","option_B","Colocar a la paciente en Trendelemburg y aumentar","Colocar a la paciente en Trendelemburg y aumentar la tasa de infusión EV","0.8099","texto: csv_antiguo_truncado","4"
+"2022","Anestesiología","37","option_D","la lengua del paciente por relajación del músculo","la lengua del paciente por relajación del músculo geniogloso.","0.8909","texto: csv_antiguo_truncado","4"
+"2022","Anestesiología","39","option_C","Se produce un desperdicio de la sangre no","Se produce un desperdicio de la sangre no transfundida con aloanticuerpos","0.7193","texto: csv_antiguo_truncado","5"
+"2022","Anestesiología","39","option_D","Aumenta la incidencia de las reacciones adversas a","Aumenta la incidencia de las reacciones adversas a la donación autóloga","0.8264","texto: csv_antiguo_truncado","5"
+"2022","Anestesiología","40","option_B","Vías periféricas de gran calibre Pruebas cruzadas y","Vías periféricas de gran calibre Pruebas cruzadas y preparar para el ingreso a SOP","0.7669","texto: csv_antiguo_truncado","5"
+"2022","Anestesiología","41","option_B","Rotación de la aguja Tuohy dentro del espacio","Rotación de la aguja Tuohy dentro del espacio epidural","0.9091","texto: csv_antiguo_truncado","5"
+"2022","Anestesiología","42","option_B","Colocar catéter venoso central y pasar a sala de","Colocar catéter venoso central y pasar a sala de recuperación","0.8807","texto: csv_antiguo_truncado","5"
+"2022","Anestesiología","42","option_D","Continuar con la cirugía ya que no existe riesgo de","Continuar con la cirugía ya que no existe riesgo de shock hipovolémico","0.843","texto: csv_antiguo_truncado","5"
+"2022","Anestesiología","42","option_E","Colocar acceso vascular de gran calibre y detener la","Colocar acceso vascular de gran calibre y detener la cirugía","0.9286","texto: csv_antiguo_truncado","5"
+"2022","Anestesiología","44","option_B","Uso de CPAP 2-5 cm de H2O de O2 en el pulmón","Uso de CPAP 2-5 cm de H2O de O2 en el pulmón no ventilado","0.8713","texto: csv_antiguo_truncado","5"
+"2022","Anestesiología","51","option_E","Uso","Uso controlado y limitado del bloqueante neuromuscular","0.1053","texto: csv_antiguo_truncado","6"
+"2022","Anestesiología","66","option_D","En pacientes pediátricos usar tubo endotraqueal con","En pacientes pediátricos usar tubo endotraqueal con balón","0.9444","texto: csv_antiguo_truncado","8"
+"2022","Anestesiología","93","option_D","Pacientes con estridor intenso deben suspender","Pacientes con estridor intenso deben suspender medicación","0.8932","texto: csv_antiguo_truncado","11"
+"2022","Anestesiología","95","option_D","Tomografía computarizada con emisión de fotón","Tomografía computarizada con emisión de fotón único","0.9375","texto: csv_antiguo_truncado","11"
+"2022","Anestesiología","100","option_E","Administrar 5-10 cc de mezcla analgésica por vía","Administrar 5-10 cc de mezcla analgésica por vía epidural","0.9143","texto: csv_antiguo_truncado","11"
+"2022","Cirugía Cardiovascular","3","option_B","la derivación venosa fémoro-femoral con injerto","la derivación venosa fémoro-femoral con injerto cruzado.","0.9126","texto: csv_antiguo_truncado","1"
+"2022","Cirugía Cardiovascular","7","option_C","Alteraciones cutáneas con hiperpigmentación,","Alteraciones cutáneas con hiperpigmentación, eccema venoso","0.8627","texto: csv_antiguo_truncado","1"
+"2022","Cirugía Cardiovascular","15","option_A","Aumento de tamaño de la cavidad auricular","Aumento de tamaño de la cavidad auricular izquierda","0.8913","texto: csv_antiguo_truncado","2"
+"2022","Cirugía Cardiovascular","22","option_C","Obstrucción venosa, hipercoagubilidad y estasis","Obstrucción venosa, hipercoagubilidad y estasis venosa","0.9307","texto: csv_antiguo_truncado","3"
+"2022","Cirugía Cardiovascular","25","option_C","Aorta proximal a la salida de la arteria subclavia","Aorta proximal a la salida de la arteria subclavia derecha","0.9259","texto: csv_antiguo_truncado","3"
+"2022","Cirugía Cardiovascular","27","option_C","Pacientes con bajo riesgo de mortalidad por cirugía","Pacientes con bajo riesgo de mortalidad por cirugía convencional","0.887","texto: csv_antiguo_truncado","3"
+"2022","Cirugía Cardiovascular","29","option_E","Aumentar los anticuerpos contra los receptores de","Aumentar los anticuerpos contra los receptores de acetilcolina","0.8829","texto: csv_antiguo_truncado","4"
+"2022","Cirugía Cardiovascular","51","option_B","Ruptura músculotendinosa del gastrocnemio","Ruptura músculotendinosa del gastrocnemio izquierdo","0.8913","texto: csv_antiguo_truncado","6"
+"2022","Cirugía Cardiovascular","85","option_E","Extensión medial de la raíz del mesenterio para exposición de VCI, arterias renales, aorta infrarrenal y arterias","Extensión medial de la raíz del mesenterio para exposición de VCI, arterias renales, aorta infrarrenal y arterias ilíacas","0.9658","texto: csv_antiguo_truncado","10"
+"2022","Cirugía Cardiovascular","92","option_E","Enfermedad pulmonar severa que impide ventilación","Enfermedad pulmonar severa que impide ventilación de un solo pulmón","0.8448","texto: csv_antiguo_truncado","11"
+"2022","Cirugía General","29","option_A","Alteraciones","Alteraciones cutáneas con hiperpigmentación, eccema venoso","0.3429","texto: csv_antiguo_truncado","4"
+"2022","Cirugía General","30","option_B","Obstrucción venosa, hipercoagulabilidad y estasis","Obstrucción venosa, hipercoagulabilidad y estasis venosa","0.9333","texto: csv_antiguo_truncado","4"
+"2022","Cirugía General","30","option_C","Estasis venosa, hipercoagulabilidad y lesión","Estasis venosa, hipercoagulabilidad y lesión endotelial","0.8889","texto: csv_antiguo_truncado","4"
+"2022","Cirugía General","32","option_E","Uno o más AIT en los últimos 6 meses y estenosis","Uno o más AIT en los últimos 6 meses y estenosis >70%","0.9505","texto: csv_antiguo_truncado","4"
+"2022","Cirugía General","39","option_A","las ramas arteriales pulmonares nacen de la aorta","las ramas arteriales pulmonares nacen de la aorta ascendente, muy separadas una de otra.","0.7153","texto: csv_antiguo_truncado","5"
+"2022","Cirugía General","39","option_B","las ramas de la arteria pulmonar nacen del tronco","las ramas de la arteria pulmonar nacen del tronco muy cerca una de otra, pero por separado.","0.7","texto: csv_antiguo_truncado","5"
+"2022","Cirugía General","39","option_C","las ramas arteriales pulmonares nacen de la aorta","las ramas arteriales pulmonares nacen de la aorta ascendente y tienen varias válvulas como salida.","0.6667","texto: csv_antiguo_truncado","5"
+"2022","Cirugía General","39","option_D","se observa una arteria pulmonar principal común","se observa una arteria pulmonar principal común demostrable de la que nacen las ramas arteriales pulmonares.","0.6065","texto: csv_antiguo_truncado","5"
+"2022","Cirugía General","39","option_E","las ramas arteriales pulmonares nacen de la aorta","las ramas arteriales pulmonares nacen de la aorta ascendente, muy cerca una de otra.","0.7368","texto: csv_antiguo_truncado","5"
+"2022","Cirugía General","49","option_A","En la unión cervicotorácica es suficiente la Rx","En la unión cervicotorácica es suficiente la Rx convencional","0.8785","texto: csv_antiguo_truncado","6"
+"2022","Cirugía General","49","option_B","Traslado debe ser con collarín, en tabla rígida y","Traslado debe ser con collarín, en tabla rígida y plana","0.9423","texto: csv_antiguo_truncado","6"
+"2022","Cirugía General","49","option_C","Movilización y atención inmediata en el lugar del","Movilización y atención inmediata en el lugar del accidente","0.9074","texto: csv_antiguo_truncado","6"
+"2022","Cirugía General","49","option_D","Indicar Rx lateral y frontal de toda la columna","Indicar Rx lateral y frontal de toda la columna vertebral","0.9038","texto: csv_antiguo_truncado","6"
+"2022","Cirugía General","61","option_A","Complejas que precisan reducción abierta y fijación","Complejas que precisan reducción abierta y fijación interna","0.9273","texto: csv_antiguo_truncado","8"
+"2022","Cirugía General","63","questions","RN con respiración quejumbrosa, retracciones intercostales, disnea y cianosis. Examen: tórax en HTI MV disminuido y se 
+auscultan RH","RN con respiración quejumbrosa, retracciones intercostales, disnea y cianosis. Examen: tórax en HTI MV disminuido y se auscultan RHA. RC desplazados al HTD; abdomen excavado. ¿Cuál es la conducta a seguir?","0.7798","texto: csv_antiguo_truncado","8"
+"2022","Cirugía General","84","option_B","Controlar hemorragia en una lesión hepática grado","Controlar hemorragia en una lesión hepática grado IV","0.9703","texto: csv_antiguo_truncado","10"
+"2022","Especialidad Prueba A","38","imagen","","","","pregunta con imagen","5"
+"2022","Especialidad Prueba A","15","option_D","Fricción suave con paños tibios y colocarlo sobre uno","Fricción suave con paños tibios y colocarlo sobre uno seco","0.955","texto: csv_antiguo_truncado","2"
+"2022","Especialidad Prueba A","44","option_B","No requiere intervención hasta esperar desarrollo","No requiere intervención hasta esperar desarrollo hormonal","0.9159","texto: csv_antiguo_truncado","6"
+"2022","Especialidad Prueba A","55","option_B","Presión de la oclusión de la arteria pulmonar","Presión de la oclusión de la arteria pulmonar aumentada","0.9","texto: csv_antiguo_truncado","8"
+"2022","Especialidad Prueba A","61","option_C","Sí, para disminuir la densidad calórica de la leche en","Sí, para disminuir la densidad calórica de la leche en climas cálidos","0.878","texto: csv_antiguo_truncado","8"
+"2022","Especialidad Prueba A","79","option_E","Complejas que precisan reducción abierta y fijación","Complejas que precisan reducción abierta y fijación interna","0.9273","texto: csv_antiguo_truncado","11"
+"2022","Especialidad Prueba B","55","option_A","Que es un problema transitorio llamado ginecomastia","Que es un problema transitorio llamado ginecomastia puberal","0.9273","texto: csv_antiguo_truncado","7"
+"2022","Especialidad Prueba B","55","option_B","Debe hacerse controles hormonales periódicos para","Debe hacerse controles hormonales periódicos para decidir","0.9245","texto: csv_antiguo_truncado","7"
+"2022","Especialidad Prueba B","55","option_C","Que la ginecomastia en varones puede malignizarse","Que la ginecomastia en varones puede malignizarse y debe realizar biopsia","0.8033","texto: csv_antiguo_truncado","7"
+"2022","Especialidad Prueba B","55","option_D","Que es un desequilibrio hormonal que requiere","Que es un desequilibrio hormonal que requiere terapia hormonal contínua","0.7759","texto: csv_antiguo_truncado","7"
+"2022","Especialidad Prueba B","83","questions","B. infección por parvovirus B19. 
+C. malformación adenomatosa quística fetal. 
+D. arritmia fetal. 
+E. anemia fetal. 
+ 
+83. Paciente de 54 años, refiere disuria, niega otras molestias, presentó su última regla hace dos años. Examen: vagina 
+pálida, útero de 6 cm. Urocultivo negativo. ¿Cuál es el tratamiento a seguir?","Paciente de 54 años, refiere disuria, niega otras molestias, presentó su última regla hace dos años. Examen: vagina pálida, útero de 6 cm. Urocultivo negativo. ¿Cuál es el tratamiento a seguir?","0.7674","texto: mayor","11"
+"2022","Especialidad Prueba B","96","option_A","Colocar sonda orogástrica y administrar dextrosa al","Colocar sonda orogástrica y administrar dextrosa al 5% 5 cc","0.9273","texto: csv_antiguo_truncado","13"
+"2022","Especialidad Prueba B","96","option_B","Dextrosa al 10% manteniendo un VIG de 6-8","Dextrosa al 10% manteniendo un VIG de 6-8 mg/Kg/min","0.8913","texto: csv_antiguo_truncado","13"
+"2022","Especialidad Prueba B","96","option_D","Realizar nuevo dosaje a las dos horas para confirmar","Realizar nuevo dosaje a las dos horas para confirmar el diagnóstico","0.8739","texto: csv_antiguo_truncado","13"
+"2022","Especialidad Prueba B","96","option_E","Dextrosa 10% 5 cc IV en bolo luego mantener un","Dextrosa 10% 5 cc IV en bolo luego mantener un VIG de 6-8 mg/Kg/min","0.8142","texto: csv_antiguo_truncado","13"
+"2022","Ginecología y Obstetricia","15","option_A","Nifedipino, sulfato de magnesio, corticoides, cesárea","Nifedipino, sulfato de magnesio, corticoides, cesárea en 48 horas","0.8983","texto: csv_antiguo_truncado","2"
+"2022","Ginecología y Obstetricia","54","option_A","Antibiótico","Antibiótico y manejo expectante hasta las 37 semanas","0.3492","texto: csv_antiguo_truncado","7"
+"2022","Ginecología y Obstetricia","56","option_E","Defecto congénito de la hormona liberadora de","Defecto congénito de la hormona liberadora de gonadotropina","0.8654","texto: csv_antiguo_truncado","7"
+"2022","Ginecología y Obstetricia","72","option_A","Fluconazol 150 mg cada 72 h por 2 dosis y luego","Fluconazol 150 mg cada 72 h por 2 dosis y luego semanal por 1 mes","0.8393","texto: csv_antiguo_truncado","9"
+"2022","Ginecología y Obstetricia","72","option_B","Fluconazol 150 mg dosis única y luego clotrimazol 1%","Fluconazol 150 mg dosis única y luego clotrimazol 1% crema vaginal por 2 semanas","0.7879","texto: csv_antiguo_truncado","9"
+"2022","Ginecología y Obstetricia","72","option_C","Fluconazol 150 mg cada 72 h por 3 dosis y luego","Fluconazol 150 mg cada 72 h por 3 dosis y luego semanal por 6 meses","0.8246","texto: csv_antiguo_truncado","9"
+"2022","Ginecología y Obstetricia","72","option_D","Fluconazol 200 mg dosis única y luego butoconazol","Fluconazol 200 mg dosis única y luego butoconazol 2% crema vaginal por 1 semana","0.7656","texto: csv_antiguo_truncado","9"
+"2022","Ginecología y Obstetricia","72","option_E","Fluconazol 200 mg dosis única y luego clotrimazol 2%","Fluconazol 200 mg dosis única y luego clotrimazol 2% crema por 1 semana","0.8455","texto: csv_antiguo_truncado","9"
+"2022","Neurocirugía","3","option_A","La HSA espontánea asocia una elevada mortalidad","La HSA espontánea asocia una elevada mortalidad en torno al 40%","0.8545","texto: csv_antiguo_truncado","1"
+"2022","Neurocirugía","3","option_B","La HSA más frecuente es la secundaria a la rotura de","La HSA más frecuente es la secundaria a la rotura de un aneurisma intracraneal (AI)","0.7704","texto: csv_antiguo_truncado","1"
+"2022","Neurocirugía","3","option_C","La HSA se localiza en el compartimento","La HSA se localiza en el compartimento subaracnoideo","0.8444","texto: csv_antiguo_truncado","1"
+"2022","Neurocirugía","3","option_D","La HSA espontánea afecta a una población más","La HSA espontánea afecta a una población más joven que el ictus isquémico","0.7521","texto: csv_antiguo_truncado","1"
+"2022","Neurocirugía","18","option_A","Los aneurismas intracraneales que producen HSA","Los aneurismas intracraneales que producen HSA son sobre todo de morfología sacular","0.7132","texto: csv_antiguo_truncado","2"
+"2022","Neurocirugía","18","option_B","La existencia de un AI es un factor que asegura una","La existencia de un AI es un factor que asegura una HSA en el futuro","0.8571","texto: csv_antiguo_truncado","2"
+"2022","Neurocirugía","18","option_C","Los aneurismas que más frecuentemente se rompen","Los aneurismas que más frecuentemente se rompen están en la arteria comunicante anterior","0.6963","texto: csv_antiguo_truncado","2"
+"2022","Neurocirugía","18","option_D","Las mujeres y los fumadores padecen más de","Las mujeres y los fumadores padecen más de aneurismas cerebrales","0.7925","texto: csv_antiguo_truncado","2"
+"2022","Neurocirugía","18","option_E","Es la HTA un principal factor de riesgo para ruptura","Es la HTA un principal factor de riesgo para ruptura de aneurismas cerebrales","0.8062","texto: csv_antiguo_truncado","2"
+"2022","Neurocirugía","20","questions","B. L-4. 
+C. S-1. 
+D. S-2. 
+E. L-5. 
+ 
+20. La sacudida del dedo es un reflejo que se pierde cuando hay lesión entre...","La sacudida del dedo es un reflejo que se pierde cuando hay lesión entre...","0.8065","texto: mayor","3"
+"2022","Neurocirugía","21","questions","B. C2 y C3. 
+C. C4 y C5. 
+D. D3 y D4. 
+E. C7 y D1. 
+ 
+21. ¿Cuál es la neoplasia más frecuente que se origina en el cuerpo calloso?","¿Cuál es la neoplasia más frecuente que se origina en el cuerpo calloso?","0.7347","texto: mayor","3"
+"2022","Neurocirugía","27","option_B","Contusión hemorrágica frontal izquierda más fístula","Contusión hemorrágica frontal izquierda más fístula de LCR","0.9358","texto: csv_antiguo_truncado","3"
+"2022","Neurocirugía","27","option_C","Estrés postraumático asociado a rinitis más fístula de","Estrés postraumático asociado a rinitis más fístula de LCR","0.9643","texto: csv_antiguo_truncado","3"
+"2022","Neurocirugía","27","option_E","Contusión hemorrágica parietal izquierda más fístula","Contusión hemorrágica parietal izquierda más fístula de LCR","0.9369","texto: csv_antiguo_truncado","3"
+"2022","Neurocirugía","37","option_A","Hematoma subdural de 8 mm de espesor sin desvío","Hematoma subdural de 8 mm de espesor sin desvío de línea media","0.8624","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","37","option_B","Contusión cerebral fronto-parietal de 15 cm3 con","Contusión cerebral fronto-parietal de 15 cm3 con desvío de línea media menos de 5 mm","0.7273","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","37","option_C","Hematoma epidural fronto-parietal de 10 mm de","Hematoma epidural fronto-parietal de 10 mm de espesor, volumen de 10 cm3, con desvío de línea media de 3 mm y GCS 15/15","0.5488","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","37","option_D","Hematoma subdural frontoparietal de 15 mm de","Hematoma subdural frontoparietal de 15 mm de espesor, que produce desvío de línea media de 8 mm y Glasgow 12","0.5789","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","37","option_E","Hematoma epidural frontal de 8 mm de espesor","Hematoma epidural frontal de 8 mm de espesor y GCS 15/15","0.88","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","41","option_A","Mantener la PIC debajo de 10 mm Hg y presión de","Mantener la PIC debajo de 10 mm Hg y presión de perfusión cerebral > 90 mmHg","0.7642","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","41","option_B","Mantener la PIC debajo de 20 mm Hg y presión de","Mantener la PIC debajo de 20 mm Hg y presión de perfusión cerebral > 70 mmHg","0.7642","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","41","option_C","PIC se mantiene < 10 mm Hg se indica la sedación e","PIC se mantiene < 10 mm Hg se indica la sedación e hiperventilación","0.8547","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","41","option_D","Mantener la cabeza elevada en 10° y en posición","Mantener la cabeza elevada en 10° y en posición lateral izquierda","0.8393","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","41","option_E","PIC para disminuirla en primera instancia consiste","PIC para disminuirla en primera instancia consiste en sedación y manitol EV","0.8","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","42","option_A","Identificación de estructuras anatómicas cerebrales","Identificación de estructuras anatómicas cerebrales en proximidad a la lesión o a la vía de abordaje","0.6755","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","42","option_B","Selección de trayectorias craneales seguras para la","Selección de trayectorias craneales seguras para la toma de biopsias","0.8571","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","42","option_C","Orientación intraoperatoria al cirujano, respecto de la","Orientación intraoperatoria al cirujano, respecto de la disposición tridimensional de la lesión","0.7333","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","42","option_D","Los sistemas de neuronavegación ayudan a localizar","Los sistemas de neuronavegación ayudan a localizar el tumor y establecer su relación con resto de estructuras neuroanatómicas","0.5714","texto: csv_antiguo_truncado","5"
+"2022","Neurocirugía","58","option_B","atmosférica, volumen intracraneano y la presión de","atmosférica, volumen intracraneano y la presión de llenado.","0.9174","texto: csv_antiguo_truncado","7"
+"2022","Neurocirugía","65","option_E","T1: señal intermedia T2: señal intermedia a","T1: señal intermedia T2: señal intermedia a hiperintensa","0.8687","texto: csv_antiguo_truncado","8"
+"2022","Neurocirugía","66","option_C","Desplazamiento inicial de la sangre y LCR hacia el","Desplazamiento inicial de la sangre y LCR hacia el sistema venoso epidural y espacio subaracnoideo","0.6757","texto: csv_antiguo_truncado","8"
+"2022","Neurocirugía","72","option_A","Movilización y atención inmediata en el lugar del","Movilización y atención inmediata en el lugar del accidente","0.9074","texto: csv_antiguo_truncado","9"
+"2022","Neurocirugía","72","option_B","Indicar Rx lateral y frontal de toda la columna","Indicar Rx lateral y frontal de toda la columna vertebral","0.9038","texto: csv_antiguo_truncado","9"
+"2022","Neurocirugía","72","option_C","Traslado debe ser con collarin, en tabla rígida y","Traslado debe ser con collarin, en tabla rígida y plana","0.9423","texto: csv_antiguo_truncado","9"
+"2022","Neurocirugía","72","option_E","En la unión cervicotorácica es suficiente la Rx","En la unión cervicotorácica es suficiente la Rx convencional","0.8785","texto: csv_antiguo_truncado","9"
+"2022","Neurocirugía","76","option_D","Pupilas midriáticas con mala respuesta a la","Pupilas midriáticas con mala respuesta a la acomodación","0.8776","texto: csv_antiguo_truncado","9"
+"2022","Neurocirugía","90","option_B","Se recomienda llevar a cabo una incisión en","Se recomienda llevar a cabo una incisión en herradura para su reparación","0.7478","texto: csv_antiguo_truncado","11"
+"2022","Neurocirugía","90","option_D","En caso de producirse en la región temporoparietal y","En caso de producirse en la región temporoparietal y en ausencia de lesión cerebral asociada, no suelen requerir cirugía","0.6047","texto: csv_antiguo_truncado","11"
+"2022","Neurocirugía","90","option_E","Su reparación no puede llevarse a cabo mediante una","Su reparación no puede llevarse a cabo mediante una incisión lineal","0.8644","texto: csv_antiguo_truncado","11"
+"2022","Neurocirugía","91","option_A","Resonancia magnética nuclear de columna lumbo","Resonancia magnética nuclear de columna lumbo sacra","0.9375","texto: csv_antiguo_truncado","11"
+"2022","Oftalmología","11","option_E","Fotocoagulación láser en rejilla con 100 mW de","Fotocoagulación láser en rejilla con 100 mW de potencia","0.9109","texto: csv_antiguo_truncado","2"
+"2022","Oftalmología","51","option_D","Pupilas midriáticas con mala respuesta a la","Pupilas midriáticas con mala respuesta a la acomodación","0.8776","texto: csv_antiguo_truncado","6"
+"2022","Oftalmología","99","option_C","Extracción quirúrgica de la membrana limitante","Extracción quirúrgica de la membrana limitante interna","0.92","texto: csv_antiguo_truncado","12"
+"2022","Pediatría","25","option_C","El volumen de líquido necesario depende de la","El volumen de líquido necesario depende de la profundidad de la lesión","0.7826","texto: csv_antiguo_truncado","4"
+"2022","Pediatría","25","option_E","El volumen sólo depende de la extensión de la","El volumen sólo depende de la extensión de la quemadura","0.9","texto: csv_antiguo_truncado","4"
+"2022","Pediatría","76","option_B","Escalar antibioticoterapia y agregar antifúngico","Escalar antibioticoterapia y agregar antifúngico parenteral para cándida y aspergillus","0.7164","texto: csv_antiguo_truncado","10"
+"2022","Pediatría","76","option_D","Mantenemos la terapéutica pues se sospecha en","Mantenemos la terapéutica pues se sospecha en fiebre de origen tumoral","0.7826","texto: csv_antiguo_truncado","10"
+"2022","Pediatría","76","option_E","Suspendemos antimicrobianos e iniciamos aciclovir","Suspendemos antimicrobianos e iniciamos aciclovir por probable mucositis","0.8099","texto: csv_antiguo_truncado","10"
+"2022","Pediatría","90","questions","RN con respiración quejumbrosa, retracciones intercostales, disnea y cianosis. Examen: tórax en HTI MV disminuido y se 
+auscultan RH","RN con respiración quejumbrosa, retracciones intercostales, disnea y cianosis. Examen: tórax en HTI MV disminuido y se auscultan RHA. RC desplazados al HTD; abdomen excavado. ¿Cuál es la conducta a seguir?","0.7798","texto: csv_antiguo_truncado","12"
+"2022","Psiquiatría","4","option_A","Todas","Todas las personas con intento suicida se hospitalizan","0.1695","texto: csv_antiguo_truncado","1"
+"2022","Psiquiatría","4","option_E","Los médicos presentan mayor riesgo que la","Los médicos presentan mayor riesgo que la población general","0.82","texto: csv_antiguo_truncado","1"
+"2022","Radiología","38","option_E","T1: señal intermedia T2: señal intermedia a","T1: señal intermedia T2: señal intermedia a hiperintensa","0.8687","texto: csv_antiguo_truncado","5"
+"2022","Radiología","63","option_C","Segmento","Segmento largo de engrosamiento parietal circunferencial >5 mm","0.2286","texto: csv_antiguo_truncado","7"
+"2022","Radiología","63","option_E","Áreas de estrechamiento de la luz con la dilatación","Áreas de estrechamiento de la luz con la dilatación del esófago por encima de la lesión","0.7391","texto: csv_antiguo_truncado","7"
+"2022","Radiología","79","option_B","Defecto de repleción intraluminal, en dos cortes","Defecto de repleción intraluminal, en dos cortes contiguos","0.9057","texto: csv_antiguo_truncado","9"
+"2022","Radiología","79","option_C","Incremento de densidad parénquima pulmonar en","Incremento de densidad parénquima pulmonar en forma de cuña","0.8654","texto: csv_antiguo_truncado","9"
+"2022","Radiología","79","option_E","Áreas de hiperclaridades pulmonares en forma de","Áreas de hiperclaridades pulmonares en forma de cuña","0.9495","texto: csv_antiguo_truncado","9"
+"2022","Radiología","93","option_B","Aorta proximal a la salida de la arteria subclavia","Aorta proximal a la salida de la arteria subclavia derecha","0.9259","texto: csv_antiguo_truncado","11"
+"2023","ANATOMIA PATOLOGICA","85","questions","","¿Cuál de las amiloidosis es heredofamiliar?","","enunciado duplicado de P73 (posible error del PDF original)","8"
+"2023","ANESTESIOLOGIA","88","option_D","Intubación traqueal a través de una cánula","Intubación traqueal a través de una cánula supraglótica","0.866","texto: csv_antiguo_truncado","8"
+"2023","CIRUGÍA DE TORÁX Y CARDIOVASCULAR","1","questions","Varón de 44 años, hace 4 horas sufre traumatismo torácico penetrante en HTD por arma blanca (verduguillo). Examen: 
+FC 110 X', FR 24 X', PA: 120/80 mmHg; disneico con desviación traqueal izquierda; tórax: herida puntiforme de 5 mm en 
+4to EICD en LA","Varón de 44 años, hace 4 horas sufre traumatismo torácico penetrante en HTD por arma blanca (verduguillo). Examen: FC 110 X', FR 24 X', PA: 120/80 mmHg; disneico con desviación traqueal izquierda; tórax: herida puntiforme de 5 mm en 4to EICD en LAA. ¿Cuál es la conducta a seguir?","0.9374","texto: csv_antiguo_truncado","1"
+"2023","CIRUGÍA DE TORÁX Y CARDIOVASCULAR","74","questions","Varón de 20 años con dolor torácico, súbito, moderada intensidad. Examen: FC: 100 X’, FR: 24 X’, P.","Varón de 20 años con dolor torácico, súbito, moderada intensidad. Examen: FC: 100 X’, FR: 24 X’, P.A.: 70/50 mmHg; vena yugular ingurgitada, VV y MV abolidos en hemitórax izquierdo. ¿Cuál es el diagnóstico?","0.6492","texto: csv_antiguo_truncado","7"
+"2023","OFTALMOLOGÍA","62","option_A","Telangiectasias","Telangiectasias aneurismáticas con edema macular","0.4762","texto: csv_antiguo_truncado","6"
+"2023","OFTALMOLOGÍA","63","option_A","Los cultivos de las lesiones corneales son","Los cultivos de las lesiones corneales son negativos","0.8936","texto: csv_antiguo_truncado","6"
+"2023","OFTALMOLOGÍA","63","option_D","Resultan de sensibilización al virus del herpes","Resultan de sensibilización al virus del herpes simple","0.9307","texto: csv_antiguo_truncado","6"
+"2023","OFTALMOLOGÍA","93","option_B","La incidencia es el doble en mujeres que en","La incidencia es el doble en mujeres que en varones","0.9149","texto: csv_antiguo_truncado","9"
+"2023","PEDIATRÍA","31","questions","Según el esquema nacional de vacunación MINS","Según el esquema nacional de vacunación MINSA. ¿En qué meses de edad, se aplica la vacuna Sarampión-Rubeola- Paperas?","0.5466","texto: csv_antiguo_truncado","4"
+"2023","PEDIATRÍA","82","questions","82. Niña de 5 años desde hace siete días presenta fiebre, malestar general y anorexia. Madre tiene gatos. Examen: FC: 70 
+X’, T°: 37.5 °C, FR: 18 X´, a nivel axilar derecha tumoración fusiforme de 3x4 cm dolorosa a palpación y huellas de 
+abrasiones antiguas en piel de brazo derecho. ¿Cuál es el agente infeccioso?","Niña de 5 años desde hace siete días presenta fiebre, malestar general y anorexia. Madre tiene gatos. Examen: FC: 70 X’, T°: 37.5 °C, FR: 18 X´, a nivel axilar derecha tumoración fusiforme de 3x4 cm dolorosa a palpación y huellas de abrasiones antiguas en piel de brazo derecho. ¿Cuál es el agente infeccioso?","0.9936","texto: menor","9"
+"2023","PRUEBA A","25","questions","Gestación con índice de líquido amniótico (I.L.","Gestación con índice de líquido amniótico (I.L.A.) de 26 cm y un pozo vertical mayor de 9 cm, estaría asociado con mayor probabilidad a...","0.5081","texto: csv_antiguo_truncado","3"
+"2023","PRUEBA A","89","questions","Según el esquema nacional de vacunación MINS","Según el esquema nacional de vacunación MINSA. ¿En qué meses de edad, se aplica la vacuna Sarampión-Rubeola- Paperas?","0.5466","texto: csv_antiguo_truncado","10"
+"2023","UROLOGÍA","10","option_D","Oct-90","10 / 90","0.3077","texto: mayor","1"
+"2023","UROLOGÍA","55","option_A","15-Oct","10 - 15","0.3077","texto: mayor","5"
+"2023","UROLOGÍA","55","option_B","10-May","5 - 10","0.3333","texto: mayor","5"
+"2024","CIRUGÍA DE TORAX","34","correct_answer","A","B","","respuesta del PDF distinta a la del CSV verificado por humano","3"
+"2024","CIRUGÍA","29","questions","D. gastrectomía con bordes menos de 5 cm. 
+ 
+29. Varón de 40 años, consulta por dolor intenso en epigastrio que no cede desde hace 6 horas. Examen: PA 90/60 mmHg, 
+FC 110 X', FR 25 X'; leptosómico, pálido, sudoroso; respiración superficial; desaparición de la matidez hepática y 
+abdomen en tabla. ¿Cuál es el diagnóstico más probable?","Varón de 40 años, consulta por dolor intenso en epigastrio que no cede desde hace 6 horas. Examen: PA 90/60 mmHg, FC 110 X', FR 25 X'; leptosómico, pálido, sudoroso; respiración superficial; desaparición de la matidez hepática y abdomen en tabla. ¿Cuál es el diagnóstico más probable?","0.9251","texto: mayor","3"
+"2024","CIRUGÍA","87","correct_answer","B","A","","respuesta del PDF distinta a la del CSV verificado por humano","9"
+"2024","NEUROCIRUGÍA","9","questions","D. no se debe utilizar en niños menores de 3 años. 
+ 
+9. El Edema Cerebral Difuso (ECD) se debe a ...... del volumen de sangre intravascular o del contenido de agua en el 
+encéfalo o de ambos.","El Edema Cerebral Difuso (ECD) se debe a ...... del volumen de sangre intravascular o del contenido de agua en el encéfalo o de ambos.","0.8323","texto: mayor","1"
+"2024","NEUROCIRUGÍA","37","questions","B. 3 / 2. 
+C. 2 / 3. 
+D. 2 / 2. 
+ 
+37. En fracturas de la columna vertebral por osteoporosis, ¿Cuáles son las MENOS frecuentes?","En fracturas de la columna vertebral por osteoporosis, ¿Cuáles son las MENOS frecuentes?","0.8381","texto: mayor","4"
+"2024","NEUROCIRUGÍA","44","questions","Paciente que desarrolla un síndrome de secreción inadecuada de hormona antidiurética tras HS","Paciente que desarrolla un síndrome de secreción inadecuada de hormona antidiurética tras HSA. ¿Cuál es el tratamiento adecuado?","0.8364","texto: csv_antiguo_truncado","5"
+"2024","OFTALMOLOGÍA","81","questions","B. El sitio de la inyección es a 2.5 mm por detrás del limbo en adultos fáquicos hipermétropes 
+C. Al direccionar la aguja hacia adelante la técnica es más segura 
+D. El aumento de la presión intraocular puede producir oclusiones vasculares 
+ 
+81. ¿En cuál de las siguientes es útil la prueba de Watzke-Allen?","¿En cuál de las siguientes es útil la prueba de Watzke-Allen?","0.3342","texto: mayor","8"
+"2024","PEDIATRÍA","41","questions","Niño de 10 años, con diagnóstico de asma bronquial alérgica desde hace varios años, con tratamiento controlador. En 
+los últimos 8 meses ha presentado 3 episodios de exacerbación, por lo cual, en las últimas 8 semanas ha recibido GCI a 
+dosis alta + LAB","Niño de 10 años, con diagnóstico de asma bronquial alérgica desde hace varios años, con tratamiento controlador. En los últimos 8 meses ha presentado 3 episodios de exacerbación, por lo cual, en las últimas 8 semanas ha recibido GCI a dosis alta + LABA. ¿Qué medicamento debe utilizarse a continuación?","0.9078","texto: csv_antiguo_truncado","5"
+"2025","GINECOLOGIA Y OBSTETRICIA","29","questions","B. 24-28. 
+C. 28-32. 
+D. 16-20. 
+ 
+29. Matrimonio con 4 hijos y paridad satisfecha. ¿Cuál es el método anticonceptivo de primera elección?","Matrimonio con 4 hijos y paridad satisfecha. ¿Cuál es el método anticonceptivo de primera elección?","0.8534","texto: mayor","3"
+"2025","NEUROCIRUGIA","32","questions","En la escala de discapacidad de la ASI","En la escala de discapacidad de la ASIA. ¿Qué grupo incluye el grado de mayor discapacidad?","0.5891","texto: csv_antiguo_truncado","4"
+"2025","NEUROCIRUGIA","57","option_B","Gracias a la incorporación de la levodopa en la práctica diaria en 1960, proliferó notablemente la aplicación de la","Gracias a la incorporación de la levodopa en la práctica diaria en 1960, proliferó notablemente la aplicación de la talamotomía","0.9504","texto: csv_antiguo_truncado","7"
+"2025","NEUROCIRUGIA","57","option_D","La palidotomía anterodorsal era el más aceptado en 1950, obtenía mejoría principalmente sobre el temblor y la","La palidotomía anterodorsal era el más aceptado en 1950, obtenía mejoría principalmente sobre el temblor y la bradicinesia","0.9437","texto: csv_antiguo_truncado","7"
+"2025","NEUROCIRUGIA","68","option_C","Desbridar tejido desvitalizado, evacuar hematomas, extraer fragmentos óseos accesibles y cierre dural hermético con","Desbridar tejido desvitalizado, evacuar hematomas, extraer fragmentos óseos accesibles y cierre dural hermético con autoinjerto","0.9504","texto: csv_antiguo_truncado","8"
+"2026","CIRUGIA CARDIOVASCULAR","31","questions","B. <50. 
+C. <55. 
+D. <60. 
+ 
+31. Mujer de 55 años con FA y NYHA clase III; presenta severa disnea, palpitaciones, tos productiva. Se ausculta soplo 
+holosistólico en apex irradiado a axila. Ecocardiograma: severo prolapso de válvula mitral y FEVI de 60% ¿Cuál es el 
+mejor manejo terapéutico?","Mujer de 55 años con FA y NYHA clase III; presenta severa disnea, palpitaciones, tos productiva. Se ausculta soplo holosistólico en apex irradiado a axila. Ecocardiograma: severo prolapso de válvula mitral y FEVI de 60% ¿Cuál es el mejor manejo terapéutico?","0.9483","texto: mayor","3"
+"2026","CIRUGIA DE TORAX Y CARDIOVASCULAR","31","questions","B. <50. 
+C. <55. 
+D. <60. 
+ 
+31. Mujer de 55 años con FA y NYHA clase III; presenta severa disnea, palpitaciones, tos productiva. Se ausculta soplo 
+holosistólico en apex irradiado a axila. Ecocardiograma: severo prolapso de válvula mitral y FEVI de 60% ¿Cuál es el 
+mejor manejo terapéutico?","Mujer de 55 años con FA y NYHA clase III; presenta severa disnea, palpitaciones, tos productiva. Se ausculta soplo holosistólico en apex irradiado a axila. Ecocardiograma: severo prolapso de válvula mitral y FEVI de 60% ¿Cuál es el mejor manejo terapéutico?","0.9483","texto: mayor","3"
+"2026","CIRUGIA GENERAL","10","option_C","Mantener un alto grado de conciencia de las interacciones entre el paciente y sus familiares o con su representante","Mantener un alto grado de conciencia de las interacciones entre el paciente y sus familiares o con su representante legal","0.9746","texto: csv_antiguo_truncado","2"
+"2026","ESPECIALIADAD A","19","option_A","Explicar de forma clara el procedimiento, riesgos, beneficios, alternativas y ofrecer un tiempo antes de formalizar el","Explicar de forma clara el procedimiento, riesgos, beneficios, alternativas y ofrecer un tiempo antes de formalizar el consentimiento","0.9402","texto: csv_antiguo_truncado","3"
+"2026","ESPECIALIADAD A","19","option_B","Aceptar la firma inmediata del consentimiento, dejando constancia de que la pareja renuncia a un tiempo adicional de","Aceptar la firma inmediata del consentimiento, dejando constancia de que la pareja renuncia a un tiempo adicional de información y deliberación","0.8958","texto: csv_antiguo_truncado","3"
+"2026","ESPECIALIADAD A","19","option_C","Permitir la firma inmediata del consentimiento, siempre que la pareja exprese verbalmente que “confía plenamente” en","Permitir la firma inmediata del consentimiento, siempre que la pareja exprese verbalmente que “confía plenamente” en el criterio del médico","0.9098","texto: csv_antiguo_truncado","3"
+"2026","ESPECIALIADAD B","9","questions","RN a término de parto cesárea, asintomático, hijo de madre VIH que recibe TAR. Se indica profilaxis neonatal. 
+Serología negativa. Según el programa de vacunación del MINS","RN a término de parto cesárea, asintomático, hijo de madre VIH que recibe TAR. Se indica profilaxis neonatal. Serología negativa. Según el programa de vacunación del MINSA. ¿Qué vacuna(s) le corresponde para su edad?","0.8808","texto: csv_antiguo_truncado","1"
+"2026","GINECOLOGIA Y OBSTETRICIA","21","option_B","Uso de inhibidores de la aromatasa en pacientes con dolor refractario al tratamiento médico y quirúrgico por","Uso de inhibidores de la aromatasa en pacientes con dolor refractario al tratamiento médico y quirúrgico por endometriosis","0.9391","texto: csv_antiguo_truncado","3"
+"2026","GINECOLOGIA Y OBSTETRICIA","21","option_D","La RM pélvica negativa para endometriosis nos confirma que la paciente no presenta lesiones peritoneales","La RM pélvica negativa para endometriosis nos confirma que la paciente no presenta lesiones peritoneales superficiales","0.9369","texto: csv_antiguo_truncado","3"
+"2026","OFTALMOLOGIA","17","questions","La mancha de …… es una área blanquecina de aspecto espumoso por metaplasia escamosa queratinizada en la 
+conjuntiva bulbar, secundaria a hipovitaminosis","La mancha de …… es una área blanquecina de aspecto espumoso por metaplasia escamosa queratinizada en la conjuntiva bulbar, secundaria a hipovitaminosis A.","0.9902","texto: csv_antiguo_truncado","2"
+"2026","OFTALMOLOGIA","34","questions","Varón de 70 años con HT","Varón de 70 años con HTA. Acude por pérdida de visión súbita en OD. Examen: córnea y cristalino transparente en AO. Sensibilidad normal en región temporal y pulso de arteria temporal normal. FO: mancha rojo cereza en OD, OI normal. Velocidad de sedimentación globular normal. ¿Cuál de las siguientes se asocia con más frecuencia a este cuadro?","0.1257","texto: csv_antiguo_truncado","4"

@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2019,
+    "exam": "CIRUGIA",
+    "source_pdf": "CIRUGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Cirugía General",
+    "sha256_pdf": "441d703b24e25cd9012899bd60e11f27d96b3365a22f68e13e59f9207c511d96",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:17",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Cirugía General",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9958,
+        "vec_max_loser": 0.0051,
+        "pix_min_winner": 0.6157,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 21805,
+      "coverage_out_chars": 21805,
+      "human_reference": "_backup_csv_verificados/Year2019/CIRUGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 564,
+        "solo_espacios": 34,
+        "csv_antiguo_truncado": 2
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cómo se denomina el tumor que se origina en las células intersticiales de Cajal?",
+      "options": {
+        "A": "Leiomioma",
+        "B": "Leiomiosarcoma",
+        "C": "Linfosarcoma",
+        "D": "Adenocarcinoma",
+        "E": "GIST"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Qué lesión orienta la maniobra o prueba del cajón posterior en el examen de una rodilla afectada?",
+      "options": {
+        "A": "Ligamento cruzado anterior",
+        "B": "Menisco medial",
+        "C": "Ligamento cruzado posterior",
+        "D": "Menisco lateral",
+        "E": "Ligamento colateral lateral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál es la zona donde las glándulas gástricas están ramificadas y secretan sobre todo moco, bicarbonato y poco ácido?",
+      "options": {
+        "A": "Cuerpo",
+        "B": "Región pre pilórica",
+        "C": "Antro",
+        "D": "Cardias",
+        "E": "Fondo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "¿Cuál es la importancia de la medición de la presión intracompartimental en el síndrome de compartimiento?",
+      "options": {
+        "A": "Define el diagnóstico",
+        "B": "No tiene ninguna importancia diagnóstica",
+        "C": "Define la zona de incisión",
+        "D": "Establece el momento de la cirugía",
+        "E": "Sólo es coadyuvante a la valoración clínica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "¿En qué días se inicia la fase proliferativa del proceso de cicatrización de las heridas?",
+      "options": {
+        "A": "1-3",
+        "B": "4-12",
+        "C": "15-20",
+        "D": "25-30",
+        "E": "Después de 30"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "La enzima generadora del moco nasal, llamada lizosima, es procedente de:",
+      "options": {
+        "A": "Vestíbulo nasal",
+        "B": "Septum nasal",
+        "C": "Tabique nasal",
+        "D": "Células caliciformes",
+        "E": "Senos paranasales"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál de las siguientes patologías se relaciona con el carcinoma esofágico?",
+      "options": {
+        "A": "Divertículo de Zenker",
+        "B": "Espasmo esofágico",
+        "C": "Acalasia",
+        "D": "Esofagitis caústica",
+        "E": "Esclerosis múltiple"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es el tipo histológico mas frecuente del cáncer del labio inferior?",
+      "options": {
+        "A": "Queracantomas",
+        "B": "Carcinoma verrugoso",
+        "C": "Melanoma maligno",
+        "D": "Carcinoma espinocelular",
+        "E": "Carcinoma basocelular"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál es el riesgo que corre un recién nacido con gastrosquisis?",
+      "options": {
+        "A": "Vólvulo gástrico",
+        "B": "Vólvulo mesentérico",
+        "C": "Estenosis yeyunal",
+        "D": "Obstrucción colónica",
+        "E": "Hernia umbilical"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "¿Cuál es una característica del desgarro desplazado de meniscos?",
+      "options": {
+        "A": "Dolor continuo de la rodilla afectada",
+        "B": "No interfiere con el movimiento articular",
+        "C": "Es más frecuente el desgarro del menisco lateral",
+        "D": "Imposibilidad de extensión completa de la rodilla",
+        "E": "No produce síntomas limitantes"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Cuál es el examen recomendado para el diagnóstico de ascitis?",
+      "options": {
+        "A": "Ecografía abdominal",
+        "B": "Lavado peritoneal",
+        "C": "Tomografía abdominal",
+        "D": "Colangio resonancia",
+        "E": "Ecoendoscopía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿A partir de qué valor en mmHg, se debe considerar un abdomen con síndrome compartimental en un paciente adulto en reposo?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "8",
+        "D": "14",
+        "E": "20"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿En la actualidad, cuál es la operación bariátrica y metabólica más aceptada?",
+      "options": {
+        "A": "Banda gástrica ajustable laparoscópica",
+        "B": "Gastrectomía laparoscópica en manga",
+        "C": "Derivación bilio pancreático e intercambio duodenal",
+        "D": "Gastroyeyunoanastomosis abierta",
+        "E": "Derivación gástrica laparoscópica en Y Roux"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "¿Cuál es el grupo etario donde es relativamente frecuente la luxación de rótula?",
+      "options": {
+        "A": "Niños",
+        "B": "Adultos",
+        "C": "Adulto mayor",
+        "D": "Es indiferente",
+        "E": "Adolescente"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Varón de 27 años con trauma abdominal cerrado por accidente de tránsito, evaluado en emergencia. Examen: PA: 90/70mmHg, FC: 95X', FR: 22X', Sat O2: 94%. Operado a las 10 horas de producido el trauma. Se encuentra lesión perforativa en íleon proximal, estallamiento de colon sigmodes con contaminación fecal extensa más lesión vascular del mesosigmoides y lesión en hígado de grado II. ¿Cuál es la mejor alternativa de tratamiento?",
+      "options": {
+        "A": "Sutura primaria de íleon y sigmoides",
+        "B": "Ileostomía mas cierre primario de sigmoides",
+        "C": "Ileostomía mas colostomía sigmoides",
+        "D": "Sutura de íleon más colostomía sigmoides",
+        "E": "Anastomosis ileotransverso más colostomía sigmoides"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿Qué se recomienda utilizar para disminuir los efectos nocivos de los fármacos usados en el perioperatorio en una anestesia general?",
+      "options": {
+        "A": "Solución de lactato de Ringer",
+        "B": "Albúmina al 20%",
+        "C": "Cristaloides",
+        "D": "Plasma fresco",
+        "E": "Administrar coloides"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "¿Cuál es el órgano que más comúnmente tiende a fistulizar en la diverticulitis?",
+      "options": {
+        "A": "Vejiga",
+        "B": "Colocutáneas",
+        "C": "Útero",
+        "D": "Uréteres",
+        "E": "Íleon terminal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Varón de 72 años, hace 4 días sufre caída golpeándose la cabeza. Acude por presentar adormecimiento en miembros superior e inferior izquierdo con incapacidad funcional a la que se asocia letargia. Examen: PA: 100/60 mmHg. FC: 60X' Sat.O2 95%, Glasgow: 11, hematoma frontal con hemiparesia izquierda. Tomografía: imagen en media luna hiperdensa brillante en región frontal de bordes poco definidos. ¿Cuál es el probable diagnóstico?",
+      "options": {
+        "A": "Hematoma epidural",
+        "B": "Hematoma intracraneal",
+        "C": "Proceso expansivo neoplásico",
+        "D": "Hematoma subdural agudo",
+        "E": "Concusión cerebral"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Cuál es una característica del dolor en la fascitis plantar?",
+      "options": {
+        "A": "Intenso en toda la planta del pie",
+        "B": "Es indiferente en la marcha o el reposo",
+        "C": "Es intenso en la planta de los dedos",
+        "D": "Se presenta en el borde interno de la planta del pie",
+        "E": "Intenso al levantarse que disminuye con la marcha continua"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Varón de 40 años, ha presentado cuadros repetitivos de gastritis. Endoscopia: H. pylori (+) y presencia de una masa tumoral de 5cm de diámetro ubicado en antro gástrico. Biopsia: linfoma de baja malignidad. ¿Cuál es la conducta terapéutica mas apropiada?",
+      "options": {
+        "A": "Gastrectomía subtotal",
+        "B": "Tratamiento médico",
+        "C": "Antrectomía",
+        "D": "Gastrectomía total",
+        "E": "Bloqueadores de la bomba de protones"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Paciente adulto, que presenta infección catarral aguda, fiebre alta, cefalea y edema cerebral. ¿Cuál es su diagnóstico?",
+      "options": {
+        "A": "Sinusitis crónica",
+        "B": "Rinorrea alérgica",
+        "C": "Etmoiditis aguda",
+        "D": "Rinitis hansenniana",
+        "E": "Vestibulitis nasal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Dentro del proceso de cicatrización se producen cicatrices hipertróficas. ¿Cuál es la causa mas frecuente?",
+      "options": {
+        "A": "Exceso de colágeno",
+        "B": "Presencia de colágeno IV",
+        "C": "Por exfoliación exagerada",
+        "D": "Se ve en la raza blanca",
+        "E": "Es un fenómeno involutivo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Mujer de 40 años, ingresa por presentar dolor cólico difuso en mesogastrio, náuseas y vómitos fecaloideos y distensión abdominal. Antecedente de haber presentado hace un año colecistitis aguda no operada. Examen: Murphy y Mac Burney negativos, no peritonismo. ¿Cuál es la sospecha clínica más probable?",
+      "options": {
+        "A": "Pancreatitis aguda",
+        "B": "Vólvulo cecal",
+        "C": "Ileobiliar",
+        "D": "Divertículo de Meckel complicado",
+        "E": "Úlcera péptica complicada"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Durante la inducción de la anestesia general en el intraoperatorio, se producen efectos profundos en el organismo. ¿Cuál es el efecto más notorio?",
+      "options": {
+        "A": "Aumento de la presión miocárdica",
+        "B": "Hipertensión arterial",
+        "C": "La cefalea y vómitos son inespecíficos",
+        "D": "Se produce hiperventilación",
+        "E": "Pérdida de la conciencia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Cuál es el tipo histológico más frecuente de tumor maligno en el intestino delgado?",
+      "options": {
+        "A": "Fibrosarcoma",
+        "B": "Adenocarcinoma",
+        "C": "Adenoma velloso",
+        "D": "Sarcoma",
+        "E": "Fibromiosarcoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Varón de 60 años, hace 24 horas presenta dolor abdominal en cuadrante inferior izquierdo acompañado de náuseas y vómitos, alza térmica y estreñimiento de 4 días. Examen: PA: 150/80mmHg, FC: 110X', T°: 39°C, Sat. O2: 97%. Abdomen doloroso a la palpación en el cuadrante inferior izquierdo donde se palpa masa dolorosa. TAC: absceso en el espacio parieto cólico izquierdo de aproximadamente 300cc.¿Cuál es el manejo terapéutico más adecuado?",
+      "options": {
+        "A": "Hemicolectomía izquierda",
+        "B": "Drenaje percutáneo",
+        "C": "Laparotomía y drenaje",
+        "D": "Colostomía Hartmann",
+        "E": "Laparoscopía y drenaje"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Cuál es la fractura que mayormente acompaña a la luxación de cadera?",
+      "options": {
+        "A": "Rama isquiopúbica",
+        "B": "Cabeza femoral",
+        "C": "Intertrocantérica del fémur",
+        "D": "Sacro",
+        "E": "Acetábulo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Cuál es el estudio de imágenes indicado para evaluar la extensión de los tumores malignos de las glándulas salivales?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Ecografía",
+        "C": "Gammagrafía",
+        "D": "Resonancia magnética",
+        "E": "Fluoroscopía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿En qué parte del tubo digestivo se absorbe las sales biliares y forma parte del círculo enterohepático?",
+      "options": {
+        "A": "Intestino delgado",
+        "B": "Ciego",
+        "C": "Colon derecho",
+        "D": "Colon transverso",
+        "E": "Colon izquierdo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Cuál es el examen auxiliar mas empleado para identificar una hernia hiatal?",
+      "options": {
+        "A": "Esofagoscopía",
+        "B": "Ecoendoscopía",
+        "C": "Ecografía",
+        "D": "Tomografía abdominal",
+        "E": "Resonancia magnética"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "La mayoría de los derrames pleurales benignos son del tipo trasudado. ¿Cuál es una de las causas?",
+      "options": {
+        "A": "Sobrecarga de líquidos",
+        "B": "Tuberculosis",
+        "C": "Artritis reumatoide",
+        "D": "Quilotórax",
+        "E": "Absceso subfrénico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es la conducta correcta en la conjuntivitis vírica?",
+      "options": {
+        "A": "Lavarse las manos con frecuencia",
+        "B": "Colocar compresas calientes",
+        "C": "Lágrimas artificiales con conservantes",
+        "D": "Antihistamínicos vía oral",
+        "E": "Utilizar envases multidosis en colirio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Lactante de 18 meses, es traído a emergencia por presentar crisis de llanto incontrolable en forma súbita a intervalos frecuentes, con flexión de las piernas hacia el abdomen y se evidencia deposición con sangre y moco, masa palpable en abdomen. Niega antecedentes patológicos. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Diarrea disentérica",
+        "B": "Invaginación intestinal",
+        "C": "Estenosis duodenal",
+        "D": "Malrotación intestinal",
+        "E": "Apendicitis aguda"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "La fase terminal de una hernia hiatal gigante, se caracteriza por la migración parcial o total de órganos intraabdominales a la cavidad toráxica. ¿Cómo se conoce a este tipo de hernias?",
+      "options": {
+        "A": "Por rodamiento",
+        "B": "Tipo I-II",
+        "C": "Deslizante",
+        "D": "Tipo I",
+        "E": "Paraesofágica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Del total de líquidos y electrolitos que se produce en la secreción salival, gástrica, biliar, pancreática e intestinal. ¿Cuál es el órgano que lo absorbe en más del 80%?",
+      "options": {
+        "A": "Colon ascendente",
+        "B": "Colon transverso",
+        "C": "Colon izquierdo",
+        "D": "Colon sigmoides",
+        "E": "Intestino delgado"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "¿Cuál es la hernia que en la clasificación de Nyhus es de Tipo IV-D?",
+      "options": {
+        "A": "Femoral",
+        "B": "Combinada",
+        "C": "Directa",
+        "D": "Indirecta",
+        "E": "Umbilical"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Cuál es la patología que produce derrame pleural tipo exudativo?",
+      "options": {
+        "A": "Cirrosis",
+        "B": "Hipoalbuminemia",
+        "C": "Mesotelioma",
+        "D": "Embolia pulmonar",
+        "E": "Síndrome nefrótico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál es la patología más común que causa síndrome de obstrucción nasal?",
+      "options": {
+        "A": "Senos nasales agenésicos",
+        "B": "Trompa de Eustaquio libre",
+        "C": "Rinofilia abierta",
+        "D": "Rinitis vasomotora",
+        "E": "Senos nasales hipoplásicos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Paciente de 50 años, sufre traumatismo abdominal severo con perforación del duodeno con compromiso de cabeza de páncreas. ¿Qué procedimiento emplea para el tratamiento de esta lesión combinada?",
+      "options": {
+        "A": "Exclusión pilórica",
+        "B": "Sutura de duodeno con duodenostomía",
+        "C": "Duodenoyeyunostomía en Y de Roux",
+        "D": "Sutura de duodeno más gastrostomía",
+        "E": "Duodenorrafia más gatroenteroanastomosis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Mujer de 22 años, afebril, con dolor migratorio en fosa iliaca derecha, anorexia, náuseas y vómitos. Examen: hipersensibilidad dolorosa en fosa iliaca derecha con signo de rebote. T°: 38°C. Para completar este caso con el sistema de calificación clínica de Alvarado. ¿Cuál es el otro dato a evaluar?",
+      "options": {
+        "A": "Concentración de proteína C reactiva",
+        "B": "Dolor en hipogastrio",
+        "C": "Estreñimiento o diarrea",
+        "D": "Distensión abdominal",
+        "E": "Leucocitosis >= 10x109 células/L y neutrofilia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Varón de 30 años, sufre accidente de tránsito y llega a emergencia con respiración superficial. PA: 90/60mmHg, ruidos cardíacos de baja intensidad y palidez marcada. ¿Cuál es la causa de la insuficiencia respiratoria?",
+      "options": {
+        "A": "Shock obstructivo",
+        "B": "Hemotórax",
+        "C": "Fractura de esternón",
+        "D": "Laceración diafragmática",
+        "E": "Shock neurogénico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Los diferentes tipos de tumores existentes en el recto, todos responden bien al tratamiento coadyuvante. ¿Cuál no siempre responde favorablemente?",
+      "options": {
+        "A": "A células escamosas",
+        "B": "Epidermoide",
+        "C": "Adenocarcinoma",
+        "D": "Melanoma",
+        "E": "Basaloide"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "¿Cuál es uno de los sitios más frecuentes de localización de los tumores formadores de cartílago (condromas)?",
+      "options": {
+        "A": "Parte proximal de fémur",
+        "B": "Rodilla",
+        "C": "Dedos del pie",
+        "D": "Parte proximal de cúbito",
+        "E": "Tobillo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "¿Cuál es la causa más frecuente de dehiscencia de la herida operatoria?",
+      "options": {
+        "A": "Error técnico en el cierre",
+        "B": "Cirugía de urgencia",
+        "C": "Consumo crónico de corticoides",
+        "D": "Infección de la herida",
+        "E": "Malnutrición"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Varón de 50 años, en los últimos 6 meses progresivamente nota crecimiento exagerado de su diámetro abdominal con baja de peso. No refiere accidentes previos. En la punción abdominal diagnóstica informan linfa intestinal con presencia abundante de triglicéridos confirmándose una ascitis quilosa. ¿Cuál es una posible causa?",
+      "options": {
+        "A": "Pancreatitis crónica",
+        "B": "Hipertensión portal",
+        "C": "Hiperplasia linfática congénita",
+        "D": "Neoplasia maligna abdominal",
+        "E": "Leiomioma gástrico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Preescolar de 3 años, respirador bucal, paladar ojival y resfríos a repetición. ¿Cuál es el examen más recomendable?",
+      "options": {
+        "A": "Radiografía de cavum",
+        "B": "Rx de senos paranasales",
+        "C": "Audiometría",
+        "D": "Dosaje de IgE",
+        "E": "Prick Test"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es la técnica más recomendada para la inducción de una anestesia general?",
+      "options": {
+        "A": "Laringoscopia directa",
+        "B": "Intravenosa",
+        "C": "Secuencia rápida",
+        "D": "Inhalación",
+        "E": "Combinada"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Cuál es el objetivo principal de una anestesia regional?",
+      "options": {
+        "A": "Amnesia",
+        "B": "Ansiolisis",
+        "C": "Anestesia",
+        "D": "Parálisis",
+        "E": "Relajación"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Mujer de 34 años sufre accidente de tránsito con trauma abdominal cerrado. Examen: funciones vitales estables al ingreso, abdomen poco doloroso, difuso, sin reacción peritoneal. hemograma normal. A las 6 horas de observación presenta FC: 100X', con baja de hemoglobina y el abdomen se encuentra más doloroso, con reacción peritoneal y distensión. Se encuentra signo de Kehr francamente positivo. ¿Cuál es el órgano comprometido?",
+      "options": {
+        "A": "Hígado",
+        "B": "Páncreas",
+        "C": "Duodeno",
+        "D": "Estómago",
+        "E": "Bazo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál es el procedimiento quirúrgico donde la falta del factor intrínseco pone en riesgo la vida del paciente?",
+      "options": {
+        "A": "Antrectomía",
+        "B": "Vagotomía troncular bilateral",
+        "C": "Gastrectomía subtotal",
+        "D": "Vagotomía selectiva",
+        "E": "Gastrectomía total"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál es la causa más común de lesión ureteral yatrogénica?",
+      "options": {
+        "A": "Colectomía",
+        "B": "Histerectomía",
+        "C": "Ooforectomía",
+        "D": "Uretropexia abdominal",
+        "E": "Derivación aorto iliaca"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "La gran mayoría de melanomas dérmicos se diagnostican a través de:",
+      "options": {
+        "A": "Dermoscopía",
+        "B": "Examen físico",
+        "C": "Biopsia",
+        "D": "Picor local",
+        "E": "Sangrado"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál es el examen más importante para realizar el diagnóstico de cáncer renal?",
+      "options": {
+        "A": "Ecodoppler",
+        "B": "Resonancia magnética",
+        "C": "Pielografía",
+        "D": "Arteriografía",
+        "E": "Urotomografía"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Cuál es el mejor examen auxiliar para la valoración de tumores en la vía biliar distal?",
+      "options": {
+        "A": "Tomografía abdominal",
+        "B": "Ecografía endoscópica",
+        "C": "Colangio transparietohepática",
+        "D": "Resonancia magnética",
+        "E": "CPRE"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Varón de 30 años, acude a un chequeo médico y le encuentran fortuitamente un quiste parásitario tipo hidático de 5cm de diámetro en lóbulo hepático derecho, segmento V. ¿Cuál es el tratamiento a seguir?",
+      "options": {
+        "A": "Extirpación abierta del quiste",
+        "B": "Tratamiento médico",
+        "C": "Punción percutánea",
+        "D": "Quistectomía laparoscópica",
+        "E": "Quisteyeyunostomía en Y de Roux"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "¿Cuáles son las localizaciones más frecuentes del tumor carcinoide en el tubo digestivo?",
+      "options": {
+        "A": "Ciego, apéndice y yeyuno",
+        "B": "Apéndice, intestino delgado y recto",
+        "C": "Apéndice, duodeno e intestino delgado",
+        "D": "Ciego, apéndice y recto",
+        "E": "Apéndice, ciego y colon derecho"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Paciente de 28 años intervenido de obstrucción intestinal por bridas y adherencias. El cirujano por necesidad realiza enterotomía de descarga para continuar el procedimiento quirúrgico. Dentro de la clasificación internacional del tipo de heridas quirúrgicas e índice de infección esperada. ¿Cómo se clasifica esta herida?",
+      "options": {
+        "A": "Sucia clase IV",
+        "B": "Sucia contaminada clase II",
+        "C": "Contaminada clase III",
+        "D": "Limpia clase I",
+        "E": "Limpia contaminada clase II"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Los divertículos de Meckel son llamados también divertículos \"verdaderos\" porque en la estructura de su pared poseen...",
+      "options": {
+        "A": "submucosa y serosa.",
+        "B": "mucosa homotópica y serosa.",
+        "C": "mucosa y serosa.",
+        "D": "mucosa, submucosa, muscular y serosa.",
+        "E": "mucosa heterotópica y serosa."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Varón de 30 años, refiere molestias digestivas leves como llenura precoz, heces oscuras y diarreas crónicas. No hay baja de peso. Examen: tinte ictérico, buen estado general, abdomen blando, depresible no se palpan masas ni ganglios periféricos. Se sospecha de un divertículo yeyunal. ¿Cuál es el estudio mas sensible para el diagnóstico?",
+      "options": {
+        "A": "Enteroclisis",
+        "B": "Endoscopía de visión recta",
+        "C": "Tomografía computarizada",
+        "D": "Resonancia magnética",
+        "E": "Ecografía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿A nivel mundial, cuál es el cáncer mas frecuente en varones?",
+      "options": {
+        "A": "Pulmón",
+        "B": "Próstata",
+        "C": "Estómago",
+        "D": "Colo-rectal",
+        "E": "Hígado"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuál es la fuente de contaminación más frecuente para la infección de una herida operatoria?",
+      "options": {
+        "A": "La flora del paciente",
+        "B": "Falla de la técnica estéril quirúrgica",
+        "C": "Instrumental quirúrgico",
+        "D": "Materiales e insumos",
+        "E": "Entorno circundante"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Al valorar a pacientes con fractura de calcáneo. ¿Qué fractura se debe considerar siempre como una lesión concurrente?",
+      "options": {
+        "A": "Columna vertebral",
+        "B": "Tibia",
+        "C": "Peroné",
+        "D": "Fémur",
+        "E": "Cadera"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Varón de 65 años, acude a emergencia por presentar dolor abdominal tipo cólico, distensión y falta de deposiciones. Examen: distendido, timpánico, RHA disminuidos. Rx: signo de tubo interno doblado o en \"grano de café\". Rx con enema contrastada muestra signo de \"pico de pájaro\". ¿Cuál es el órgano comprometido?",
+      "options": {
+        "A": "Ciego",
+        "B": "Estómago",
+        "C": "Intestino delgado",
+        "D": "Colon sigmoides",
+        "E": "Colon transverso"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Entre los factores de riesgo conocidos que favorecen la ruptura de un aneurisma abdominal. ¿Cuál es el de mayor riesgo?",
+      "options": {
+        "A": "Diámetro mayor de 5.5 cm",
+        "B": "Tabaquismo actual",
+        "C": "Hipertensión arterial",
+        "D": "Sexo femenino",
+        "E": "Cardiopatía grave"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Mujer de 60 años, con insuficiencia valvular aórtica en tratamiento. Ingresa a emergencia por dolores cólicos intensos en mesogastrio desde hace 24 horas, acompañado de náuseas y vómitos alimentarios. Rx abdomen: neumatosis intestinal y gas en la vena porta. Examen: signos peritoneales difusos. ¿Cuál es la sospecha diagnóstica?",
+      "options": {
+        "A": "Obstrucción pilórica",
+        "B": "Vólvulo gástrico",
+        "C": "Perforación gástrica",
+        "D": "Pancreatitis aguda",
+        "E": "Isquemia mesentérica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "En las fracturas de pene, entre las lesiones asociadas se encuentra la ruptura traumática de:",
+      "options": {
+        "A": "Fascia de Scarpa",
+        "B": "Túnica albugínea",
+        "C": "Túnica vaginal",
+        "D": "Fascia de Buck",
+        "E": "Membrana de Coles"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es la prueba diagnóstica más precisa para el divertículo de Meckel?",
+      "options": {
+        "A": "Tomografía abdominal",
+        "B": "Resonancia magnética",
+        "C": "Ecografía abdominal",
+        "D": "Gammagrafía con tecnecio 99",
+        "E": "Tránsito intestinal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "La complicación más frecuente de la pancreatitis aguda es la formación de pseudoquistes pancreáticos. Cuando el pseudoquiste sintomático penetra el mesocolon transverso. ¿Cuál es el órgano más utilizado para el drenaje interno?",
+      "options": {
+        "A": "Estómago",
+        "B": "Duodeno",
+        "C": "Yeyuno",
+        "D": "Colon transverso",
+        "E": "Íleon"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Cuáles son los elementos que conforman mayormente los cálculos biliares?",
+      "options": {
+        "A": "Pigmentos biliares y calcio",
+        "B": "Colesterol puro",
+        "C": "Oxalato de calcio",
+        "D": "Bilirrubinato de calcio",
+        "E": "Colesterol, pigmentos biliares y calcio"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuál es el punto límite de disección en la vaguectomía ultraselectiva para respetar el nervio de Latarjet o \"pata de ganso\"?",
+      "options": {
+        "A": "A 3cm del píloro curvatura menor",
+        "B": "Puede iniciarse desde el píloro",
+        "C": "A 5cm del píloro cara anterior y posterior",
+        "D": "Desde el cardias en la curvatura mayor",
+        "E": "A 7cm del píloro curvatura menor"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "El tratamiento quirúrgico empleando la técnica antirreflujo, se usa principalmente para paliar los síntomas que se presentan en:",
+      "options": {
+        "A": "Acalasia",
+        "B": "Adenoma esofágico",
+        "C": "Esclerodermia",
+        "D": "Esófago de Barret",
+        "E": "Úlcera péptica cardial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿En qué fase de la anestesia general ocurre la mayoría de las complicaciones catastróficas?",
+      "options": {
+        "A": "Peri operatorio",
+        "B": "Recuperación post anestésica",
+        "C": "En la reversión del bloqueo neuro muscular",
+        "D": "Inducción",
+        "E": "En cualquier fase"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Varón de 36 años, presenta lesión por arma blanca en el tórax, acude a emergencia por presentar disnea severa. Examen: PA: 90/50mmHg. FC: 100X', Sat. O2: 90%. Tórax: herida de 3cm en hemitórax derecho con fuga de aire, MV abolido. Se realiza drenaje tubular evidenciando 300cc de sangre/h en las 3 primeras horas. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Transfusión sanguínea",
+        "B": "Cierre de la herida y observación",
+        "C": "Toracotomía",
+        "D": "Observación y recambio de frasco",
+        "E": "Tomografía helicoidal multicorte"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál es la localización gastrointestinal más frecuente del linfoma primario?",
+      "options": {
+        "A": "Estómago",
+        "B": "Íleon",
+        "C": "Yeyuno",
+        "D": "Duodeno",
+        "E": "Colon"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Cuál es la complicación más frecuente de la cirugía mínimamente invasiva?",
+      "options": {
+        "A": "Enfisema subcutáneo",
+        "B": "Lesión mesentérica",
+        "C": "Atelectasia",
+        "D": "Lesión vascular",
+        "E": "Trombosis pulmonar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿Cuál es la región esquelética más afectada en la tuberculosis ósea?",
+      "options": {
+        "A": "Cabeza de fémur",
+        "B": "Platillo tibial",
+        "C": "Columna vertebral",
+        "D": "Peroné",
+        "E": "Cadera"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Neonato de 28 días presenta desde hace 4 días vómitos lácteos a chorro luego de lactar, que se hacen más frecuentes cada día. ¿Cuál es el disturbio metabólico que se espera encontrar?",
+      "options": {
+        "A": "Acidosis metabólica",
+        "B": "Alcalosis respiratoria",
+        "C": "Alcalosis metabólica",
+        "D": "Alcalosis hipoclorémica",
+        "E": "Acidosis hiperclorémica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿Cuál es la complicación con más alta incidencia de la cricotiroidotomía en pacientes con intubación prolongada?",
+      "options": {
+        "A": "Fístula cricofaríngea",
+        "B": "Neumotórax",
+        "C": "Hemorragia",
+        "D": "Estenosis subglótica",
+        "E": "Lesión del nervio recurrente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "En un paciente con antecedente quirúrgico. ¿Cuál es la causa más frecuente de hernia interna adquirida?",
+      "options": {
+        "A": "Derivación cistogástrica",
+        "B": "Derivación colédocoduodenal",
+        "C": "Fundoplicatura de Nissen",
+        "D": "Derivación esplenoportal",
+        "E": "Gastrectomía con derivación en Y Roux"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál es el antibiótico que requiere reducción de la dosis en un paciente quirúrgico con insuficiencia hepática?",
+      "options": {
+        "A": "Aminoglucósidos",
+        "B": "Metronidazol",
+        "C": "Carbapenémicos",
+        "D": "Fluoquinolonas",
+        "E": "Penicilinas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "¿Cuándo se recomienda reducción abierta de una fractura de clavícula?",
+      "options": {
+        "A": "Parte distal desplazada con rotura de ligamentos",
+        "B": "Del tercio interno",
+        "C": "Parte medial con luxación esternoclavicular anterior",
+        "D": "Parte medial con luxación esternoclavicular posterior",
+        "E": "De la parte medial subcutánea"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "¿En qué dirección es más habitual la luxación de hombro?",
+      "options": {
+        "A": "Posterior",
+        "B": "Inferior",
+        "C": "Lateral",
+        "D": "Superior",
+        "E": "Anterior"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Cuál es el agente causal más frecuente de la celulitis no necrosante?",
+      "options": {
+        "A": "Es polimicrobiano",
+        "B": "Staphylococcus aureus",
+        "C": "Streptococcus pyogenes",
+        "D": "Bacilos gamnegativos y anaerobios",
+        "E": "Bacteroides fragilis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "¿Cuál es el principal mecanismo por el que se llena de bilis la vesícula biliar en ayunas?",
+      "options": {
+        "A": "Por estímulo de la colecistoquinina",
+        "B": "Aumento de secreción de los canalículos biliares",
+        "C": "Por simple presión hidráulica",
+        "D": "Actividad tónica del esfínter de Oddi",
+        "E": "Por osmolaridad de la bilis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Cuál es el microorganismo causal mas frecuente de la otitis media aguda?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Pseudomona aeruginosa",
+        "C": "Staphylococcus epidermidis",
+        "D": "Staphylococcus hominis",
+        "E": "Aspergillus fumigatus"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Para determinar el grado de desplazamiento de una fractura nasal. ¿Qué tipo de placa radiológica se solicita?",
+      "options": {
+        "A": "Fronto naso",
+        "B": "Lateral de senos",
+        "C": "Mento naso",
+        "D": "Simple lateral",
+        "E": "Simple oblicua"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es el tipo de cáncer más frecuente de los senos paranasales?",
+      "options": {
+        "A": "Carcinoma epidermoide",
+        "B": "Adenocarcinoma",
+        "C": "Melanoma",
+        "D": "Angiosarcoma",
+        "E": "Carcinoma de células escamosas"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿En qué grupo etario es más habitual la artritis séptica espontánea?",
+      "options": {
+        "A": "Jóvenes",
+        "B": "Adultos",
+        "C": "Adulto mayor",
+        "D": "No tiene preferencia etaria",
+        "E": "Niños"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿A qué nivel de la columna vertebral cervical se produce la fractura \"del ahorcado\" o espóndilolistesis traumática?",
+      "options": {
+        "A": "C2",
+        "B": "C1",
+        "C": "C3",
+        "D": "C4",
+        "E": "C5"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál de los medicamentos utilizados en la inducción de una anestesia general es menos hepatotóxico?",
+      "options": {
+        "A": "Isoflurano",
+        "B": "Halotano",
+        "C": "Enflurano",
+        "D": "Sevoflurano",
+        "E": "Desflurano"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿En qué parte de la pared del yeyuno suelen ubicarse frecuentemente los divertículos?",
+      "options": {
+        "A": "Antimesentérica",
+        "B": "Lateral",
+        "C": "Mesentérica",
+        "D": "Lateral y mesentérica",
+        "E": "En cualquier parte de la pared"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "La proteólisis que se produce en el estómago, ocurre principalmente por la mezcla de:",
+      "options": {
+        "A": "Proteina C y lipofosfatos",
+        "B": "Monofosfato cálcico y moco",
+        "C": "Pépsina y ácido clorhídrico",
+        "D": "Tripsinógeno y ácido clorhídrico",
+        "E": "Fosfoproteina y monosacáridos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Mujer de 50 años, diabética tipo II controlada, no operada previamente. Consulta por dolor cólico a repetición en HD y dispepsia a las grasas. Examen: TAC de abdomen muestra aire en pared vesicular. ¿Cuál es la primera posibilidad diagnóstica?",
+      "options": {
+        "A": "Peritonitis biliar",
+        "B": "Colecistitis enfisematosa",
+        "C": "Pancreatitis biliar",
+        "D": "Perforación vesicular",
+        "E": "Colangitis ascendente"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Cuál es la característica de los pacientes geriátricos sometidos a trasplante de órganos?",
+      "options": {
+        "A": "Mayor rechazo crónico",
+        "B": "Menor capacidad inmunitaria",
+        "C": "Requieren mayor dosis de inmunoterapia",
+        "D": "Tasa mínima de rechazo agudo",
+        "E": "Menor incidencia de infecciones virales"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Varón de 28 años, con masa dura testicular izquierda, asintomático. Antecedente de orquidopexia al año de edad. Ecografía: masa sólida testicular izquierda. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Orquiepididimitis",
+        "B": "Espermatocele",
+        "C": "Hidrocele a tensión",
+        "D": "Varicocele",
+        "E": "Cáncer testicular"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Cuál es la contraindicación relativa para la reparación inmediata de un tendón lesionado?",
+      "options": {
+        "A": "Destrucción del sistema de poleas",
+        "B": "Lesión de más de 6 horas",
+        "C": "Herida por aplastamiento aún con buena cobertura cutánea",
+        "D": "Pérdida de tendón superior a 0.5cm",
+        "E": "Lesión única a lo largo del tendón"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿De qué arteria procede principalmente la irrigación de las fosas nasales?",
+      "options": {
+        "A": "Esfenopalatina",
+        "B": "Maxilar externa",
+        "C": "Infraorbitaria",
+        "D": "Facial",
+        "E": "Carótida externa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál es el tratamiento de la mayoría de las fracturas?",
+      "options": {
+        "A": "Inmovilización",
+        "B": "Fijación externa",
+        "C": "Fijación simple con tornillos",
+        "D": "Fijación simple interna y tracción",
+        "E": "Fijación interna intramedular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Varón de 55 años, ingresa a emergencia en mal estado general, deshidratado, indica con exactitud el momento de inicio del dolor abdominal. Examen: abdomen con dolor generalizado, signos de intensa irritación peritoneal, resistencia muscular involuntaria marcada y pérdida de la matidez hepática. Rx tórax: aire libre en el espacio subdiafragmático derecho. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Perforación intestinal",
+        "B": "Divertículo sigmoides perforado",
+        "C": "Apendicitis aguda perforada",
+        "D": "Úlcera péptica perforada",
+        "E": "Divertículo de Meckel complicado"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "¿Cuál es una característica del tumor desmoides intra abdominal mesentérico en relación a otras localizaciones anatómicas?",
+      "options": {
+        "A": "Es más letal por su agresividad",
+        "B": "No causa mayores problemas",
+        "C": "Puede revertir sin tratamiento",
+        "D": "Son únicos",
+        "E": "No es infiltrativo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

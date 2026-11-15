@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2020,
+    "exam": "GINECOLOGIA Y OBSTETRICIA",
+    "source_pdf": "GINECOLOGIA Y OBSTETRICIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Ginecología y Obstetricia",
+    "sha256_pdf": "1c88313139c9180d35ff2f9a33c0f670fddea74b47a55024862f0f43ecabb29b",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:27",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 13,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Ginecología y Obstetricia",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9937,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.5859,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 29281,
+      "coverage_out_chars": 29281,
+      "human_reference": "_backup_csv_verificados/Year2020/GINECOLOGIA Y OBSTETRICIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 483,
+        "solo_espacios": 81,
+        "csv_antiguo_truncado": 36
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál es el factor de riesgo más importante para el cáncer de endometrio?",
+      "options": {
+        "A": "Menarquia temprana",
+        "B": "Menopausia temprana",
+        "C": "Portadora de BRCA 1",
+        "D": "Obesidad",
+        "E": "Irregularidades menstruales"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Segundigesta de 28 semanas, con grupo y factor O Rh negativo, con test de Coombs indirecto positivo 1/8 diluciones, no recibió vacuna anti D en su anterior gestación. ¿Cuál es el parámetro en la ecografía doppler fetal, que permitirá evaluar en forma no invasiva y con mayor precisión la posibilidad de anemia fetal?",
+      "options": {
+        "A": "Índice de pulsatilidad de la arteria cerebral media",
+        "B": "Velocidad máxima sistólica de la arteria cerebral media",
+        "C": "Velocidad máxima sistólica de la arteria umbilical",
+        "D": "Índice de pulsatilidad de la arteria umbilical",
+        "E": "Índice de resistencia de la arteria umbilical"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Gestante de 20 semanas, G4 P1021, antecedente de conización por displasia de cérvix. Al examen: se constata dilatación cervical sin presencia de dolor tipo contracción y abombamiento de las membranas en la vagina. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Insuficiencia cervical",
+        "B": "Aborto inevitable",
+        "C": "Aborto en curso",
+        "D": "Trabajo de parto pretérmino",
+        "E": "Aborto espontáneo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Una gestante tiene 34 semanas por FUR acude a consulta por presentar contracciones uterinas cada 8 a 9 minutos desde hace 3 horas y de buena intensidad. Tiene como antecedente un cuadro de vaginosis bacteriana, actualmente disuria y tenesmo vesical. Ecografía obstétrica confirma tiempo de embarazo y el bienestar fetal está conservado. Al tacto vaginal cérvix incorporado y dilatación 1 cm. ¿Cuál es el diagnóstico que corresponde a la paciente?",
+      "options": {
+        "A": "Parto prematuro",
+        "B": "Contracciones de Braxton-Hicks",
+        "C": "Irritabilidad uterina",
+        "D": "Embarazo normal",
+        "E": "Amenaza de parto pretérmino"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Gestante de 36 semanas, con VIH desde antes del presente embarazo, recibiendo TARGA hasta el momento de la consulta, desea tener parto vaginal. Examen: PA: 110/60 mmHg, FC: 74 x min. T:36.8oC. Altura uterina: 34cm, presentación cefálica. Tacto vaginal: pelvis ginecoide. ¿Cuál es el valor máximo de carga viral en copias /ml que debe tener dentro de las 4 semanas previas al parto para considerar la vía de parto vaginal?",
+      "options": {
+        "A": "1200",
+        "B": "1500",
+        "C": "1000",
+        "D": "500",
+        "E": "200"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "¿Cuál es el diámetro que se presenta en la presentación cefálica con deflexión de 3° grado?",
+      "options": {
+        "A": "Occípito-frontal",
+        "B": "Submento-bregmático",
+        "C": "Suboccípito-bregmático",
+        "D": "Supraoccípito-mentoniano",
+        "E": "Occípito-nasal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Gestante de 41 semanas por FUR, acude a urgencias por contracciones. Durante el trabajo de parto presenta episodio súbito de dolor torácico y disnea; luego hace paro cardiorrespiratorio. Se constata hipoxia en el AGA y alteración de la frecuencia cardiaca fetal. Finalmente presenta hemorragia masiva por coagulopatía de consumo. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Hemorragia fetomaterna",
+        "B": "Embolia amniótica",
+        "C": "Desprendimiento prematuro de placenta",
+        "D": "Vasa previa",
+        "E": "Shock hipovolémico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Primigesta de 26 años, refiere amenorrea de 26 semanas, desde hace 5 días presenta malestar general, cefalea, edemas y ligero dolor en hipocondrio derecho. Presión arterial: 150/100 mmHg. Laboratorio: Hb: 8 g/dl, bilirrubina: 1.4 mg/dl, DHL: 670 UI/L, TGO: 182 UI/l, plaquetas: 80,000/mm3. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hipertensión transitoria",
+        "B": "Preeclampsia superpuesta a hipertensión crónica",
+        "C": "Preeclampsia severa",
+        "D": "Preeclampsia leve",
+        "E": "Hígado graso agudo del embarazo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "Primigesta de 25 años y 39 semanas acude a emergencia por presentar contracciones uterinas regulares y de buena intensidad, controladas desde hace 24 horas. Examen pélvico: dilatación 3 cm, borramiento 90 %, según Friedman, ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Fase latente prolongada",
+        "B": "Falso trabajo de parto",
+        "C": "Distocia del canal del parto",
+        "D": "Distocia de presentación",
+        "E": "Fase activa prolongada"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Multípara de 11 semanas de gestación acude a control prenatal, refiere náuseas, vómitos frecuentes con disminución del apetito. Antecedente de embarazo molar y en una de las gestaciones hipertensión gestacional. IMC: 29 ¿Cuál es el factor de riesgo más importante para hiperémesis gravídica?",
+      "options": {
+        "A": "Multiparidad",
+        "B": "IMC (índice de masa corporal)",
+        "C": "Hipertensión gestacional",
+        "D": "Edad gestacional",
+        "E": "Embarazo molar"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Mujer de 40 años presenta cuadros respiratorios infecciosos crónicos usando antibióticos de amplio espectro. Acude a consulta por presentar prurito genital y secreción blanquecina grumosa cada 2 meses al año. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Dermatitis vulvar",
+        "B": "Vaginitis inflamatoria",
+        "C": "Vaginitis atrófica",
+        "D": "Cervicitis crónica.",
+        "E": "Candidiasis vaginal recurrente"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Mujer joven, sexualmente activa, con varias parejas y uso de preservativo ocasional acude a consulta por presentar una lesión ulcerativa dolorosa, superficie plana y bordes irregulares en la zona perianal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Herpes genital",
+        "B": "Granuloma inguinal",
+        "C": "Infección por papiloma virus",
+        "D": "Sífilis secundaria",
+        "E": "Chancro blando"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Cuál de los siguientes, es un marcador importante para el diagnóstico de parto pre término?",
+      "options": {
+        "A": "Prostaglandina",
+        "B": "Lecitina",
+        "C": "Glucosamina",
+        "D": "Fibronectina",
+        "E": "Leptina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Mujer de 28 años, con diagnóstico de diabetes gestacional, en parto vaginal de su tercer hijo, luego de la salida de la cabeza, presenta distocia de hombros. El médico realiza una flexión extrema de los muslos maternos logrando el parto vaginal. Este procedimiento se denomina maniobra de:",
+      "options": {
+        "A": "Mc Donald",
+        "B": "Mc Roberts",
+        "C": "Zavanelli",
+        "D": "Mauriceau",
+        "E": "Bracht"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Gestante de 28 semanas, sin hijos, tiene el diagnóstico de corioamnionitis con compromiso fetal. En relación a este caso ¿Cuál de las siguientes alternativas es la correcta?",
+      "options": {
+        "A": "Un hemograma con leucocitosis define el diagnóstico",
+        "B": "Si presenta dinámica uterina se debe utilizar tocolíticos",
+        "C": "El parto debe ser por cesárea",
+        "D": "Debe terminarse la gestación sin tener en cuenta la edad gestacional",
+        "E": "Usar antibióticos por 48 horas antes de terminar el embarazo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Gestante de 36 semanas, con pérdida de líquido amniótico desde hace 24 horas, que persiste al momento de la consulta, movimientos fetales presentes. Antecedentes: G3, PARA 2002. Examen: PA 120/60 mmHg; FC: 78 X´; T:36.8oC. Altura uterina 34cm. Feto en presentación cefálica.TV: dilatación: dehiscente, borramiento: 70%. Estación: -1, pelvis ginecoide. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Cesárea inmediata",
+        "B": "Inducción del parto",
+        "C": "Tocólisis",
+        "D": "Maduración pulmonar",
+        "E": "Observación"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Según la nueva clasificación cronológica para las gestantes, patrocinada por el ACOG y la Sociedad de Medicina Materno-Fetal, si una gestante tiene 41 semanas más 4 días ¿Cómo se denomina a esta gestación?",
+      "options": {
+        "A": "A término precoz",
+        "B": "A término",
+        "C": "Post término",
+        "D": "Post madura",
+        "E": "A término tardío"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Gestante de 36 años sin hijos, 26 semanas de embarazo acude a su control. Antecedente: cesárea hace 2 años con óbito fetal. Toma Aldomet 500 mg/día desde su embarazo anterior. Examen: PA 160/90 mm/Hg; CV y Pulmones: normal. AU 25 cm. LCF 140X´; no edemas. Proteinuria: 500 mg/24 horas. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hipertensión crónica más preeclampsia sobreagregada",
+        "B": "Hipertensión gestacional",
+        "C": "Preeclampsia leve",
+        "D": "Preeclampsia severa",
+        "E": "Hipertensión crónica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Paciente de 33 años después de parto eutócico de su tercer hijo, se realiza manejo activo del alumbramiento, luego del cual, presenta hemorragia vaginal abundante. Examen: PA 80/50 mmHg; FC: 105 X´; piel pálida, no se puede precisar el fondo uterino en el abdomen. Examen vaginal: sangrado activo y presencia de una estructura de superficie rojiza en la vagina. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Mioma abortado",
+        "B": "Rotura uterina",
+        "C": "Prolapso vaginal",
+        "D": "Inversión uterina",
+        "E": "Placenta succenturiata"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Gestante de 35 semanas, diabética con RCIU tardío con un PBF: 4/10, acude a emergencia por disminución de movimientos fetales. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Maduración cervical",
+        "B": "Inducción del parto",
+        "C": "Nuevo PBF en 48 horas",
+        "D": "Terminar la gestación",
+        "E": "Reevaluación en trabajo de parto"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "El Sistema Informático Perinatal (SIP) tiene como objetivo mejorar la salud perinatal y reproductiva de la mujer mediante instrumentos como el Carné Perinatal, Historia Clínica Perinatal, partograma etc. ¿Cuál de las siguientes alternativas es correcta en relación al SIP?",
+      "options": {
+        "A": "Involucra a países centro y sudamérica",
+        "B": "Es un centro y unidad técnico de la OPS",
+        "C": "Cada país lo usa independientemente",
+        "D": "Involucra la atención materna principalmente",
+        "E": "No se encuentra activa actualmente"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cómo se denomina a la concentración de β HCG por encima de la cual la falta de visualización de un embarazo intrauterino indica que el embrión no está vivo o es un embarazo ectópico?",
+      "options": {
+        "A": "Embarazo de ubicación incierta",
+        "B": "Percentil de incertidumbre",
+        "C": "Rango higroscópico",
+        "D": "Índice de certeza",
+        "E": "Zona de discriminación"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Mujer de 55 años histerectomizada acude a consulta por dispareunia y requiere tratamiento. IMC: 30 y antecedente de colecistectomía laparoscopia hace 3 años. ¿De las siguientes opciones qué alternativa terapéutica es la más adecuada?",
+      "options": {
+        "A": "Estradiol oral",
+        "B": "Estrógenos conjugados más progestágenos",
+        "C": "Solo estrógenos conjugados",
+        "D": "Tibolona oral",
+        "E": "Estriol vaginal solo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Se considera una vulvovaginitis complicada, cuando se presentan......episodios o más en un año.",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "3",
+        "D": "5",
+        "E": "6"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Mujer de 75 años, consulta por pérdida de orina antes de llegar al baño, dado que tiene dificultad para llegar al baño lo suficientemente rápido debido a secuela de leve limitación para deambular a consecuencia de cirugía por fractura de cadera hace 1 año; refiere antecedentes de glaucoma. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hiperactividad del detrusor",
+        "B": "Vejiga hiperactiva",
+        "C": "Incontinencia funcional",
+        "D": "Incontinencia de esfuerzo urodinámica",
+        "E": "Incontinencia de urgencia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Mujer de 40 años acude a consulta por presentar síntomas vagos, refiere que hace año y medio no regla, tiene un IMC en 30 e hipertensión arterial controlada. Exámenes auxiliares Hb:12.3 g/dl. Ecografía transvaginal sin cambios significativos. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Menopausia precoz",
+        "B": "Climaterio",
+        "C": "Menopausia",
+        "D": "Premenopausia",
+        "E": "Stress crónico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Mujer 40 semanas de gestación en trabajo de parto con 6 cm de dilatación. Presenta patrón fetal desacelerativo en registro cardiotocográfico por lo que se decide realizar microtoma de sangre fetal para valorar bienestar fetal. Resultado: pH: 7.22. La conducta correcta es:",
+      "options": {
+        "A": "Cesárea urgente por acidosis grave",
+        "B": "Repetir microtoma en 1-2 horas por acidosis moderada",
+        "C": "Valor en límites normales, dejar evolución natural de parto",
+        "D": "Repetir microtoma en 15-20 minutos por valor prepatológico",
+        "E": "Repetir en el momento posible error en la obtención de la toma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "En relación a los embarazos múltiples ¿Cuál de las siguientes alternativas es la correcta?",
+      "options": {
+        "A": "Los antecedentes paternos tienen mayor predominancia",
+        "B": "A menor edad aumenta la frecuencia",
+        "C": "Los gemelos de sexo opuesto son mayormente monocigotos",
+        "D": "Los gemelos dicigóticos pueden ser siameses",
+        "E": "A mayor paridad aumenta la frecuencia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Mujer de 49 años, G4 P4004, manifiesta pérdida involuntaria de orina al toser, levantar objetos pesados y correr, desde hace 3 años. Dentro de los tratamientos quirúrgicos actuales. ¿Cuál es la técnica quirúrgica más común?",
+      "options": {
+        "A": "Colposuspensión de Burch",
+        "B": "Suspensión transvaginal con agujas",
+        "C": "Mallas sintéticas mediouretrales",
+        "D": "Uretropexia retropúbica",
+        "E": "Cabestrillo pubovaginal tradicional"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Mujer de 42 años consulta por presentar urgencia urinaria, usualmente acompañada de incremento de la frecuencia miccional diurna y nicturia, a veces con incontinencia urinaria de urgencia; se ha descartado infección de las vías urinarias u otra enfermedad obvia. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Incontinencia por rebosamiento",
+        "B": "Divertículo uretral",
+        "C": "Detrusor hiperactivo",
+        "D": "Deficiencia intrínseca del esfínter",
+        "E": "Vejiga hiperactiva"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Gestante de 12 semanas, con diagnóstico de cáncer de mama, requiere con urgencia, iniciar tratamiento con radioterapia; presenta una solicitud, dirigida al jefe del Departamento de Ginecología y Obstetricia del hospital, para que se le realice un aborto terapéutico, quien al recibirla, de inmediato debe...",
+      "options": {
+        "A": "realizar el procedimiento.",
+        "B": "rechazar el procedimiento.",
+        "C": "conversar con el abogado de la paciente.",
+        "D": "solicitar un voluntario para realizarlo.",
+        "E": "convocar a una junta médica."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "Mujer de 30 años, usuaria de DIU refiere que haciendo ejercicios ligeros empieza con dolor en fosa iliaca izquierda de presentación súbita. Ultima regla hace una semana. Antecedente: quiste anexial izquierdo de 10 cm por ecografía. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Ruptura de quiste",
+        "B": "Torsión de quiste anexial",
+        "C": "Enfermedad inflamatoria pélvica",
+        "D": "Embarazo ectópico",
+        "E": "DIU ectópico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál de las siguientes alternativas es un factor de riesgo para cáncer de mama?",
+      "options": {
+        "A": "Menarquia tardía",
+        "B": "Antecedente de cáncer de colon",
+        "C": "Lactancia materna",
+        "D": "Uso de píldora de solo progestágenos",
+        "E": "Menopausia precoz"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "La máxima circunferencia de la cabeza fetal, muy grande para adaptarse al interior de la pelvis materna, corresponde al plano del diámetro...",
+      "options": {
+        "A": "suboccipitobregmático.",
+        "B": "occipitomentoniano.",
+        "C": "submentobregmático.",
+        "D": "occipitonasal.",
+        "E": "occipitofrontal."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "En relación al cáncer de cérvix, con técnicas adecuadas se ha logrado identificar al PVH hasta en un …… % de muestras de lesiones en el cuello.",
+      "options": {
+        "A": "70 a 80",
+        "B": "60 a 70",
+        "C": "40 a 50",
+        "D": "50 a 60",
+        "E": "90 a 100"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "¿Cuál de las siguientes opciones es una intervención empleada en el tratamiento quirúrgico del prolapso del compartimento apical?",
+      "options": {
+        "A": "Colporrafia anterior",
+        "B": "Reparación posterior sitio específico",
+        "C": "Reparación paravaginal",
+        "D": "Colporrafia posterior",
+        "E": "Fijación al ligamento sacroespinoso"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Cuál de las siguientes alternativas corresponde a una causa definida de aborto recurrente?",
+      "options": {
+        "A": "Lupus eritematoso sistémico",
+        "B": "Diabetes gestacional",
+        "C": "Longitud cervical acortada",
+        "D": "Miomas subserosos pediculados",
+        "E": "Anomalías cromosómicas de los padres"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Mujer de 34 años, acude a urgencias refiriendo sangrado vaginal considerable asociado a dolor pélvico tipo cólico hace 2 horas y finalmente expulsión por vía vaginal de un tejido semejante a un saco colapsado. Los síntomas descritos han remitido. Al examen: útero de tamaño habitual, orificio cervical cerrado. Ecografía: endometrio de 8 mm de grosor y no se identifica saco gestacional. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Embarazo de ubicación incierta",
+        "B": "Aborto completo",
+        "C": "Embarazo ectópico",
+        "D": "Aborto incompleto",
+        "E": "Aborto diferido"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Mujer de 25 años, soltera, con flujo vaginal persistente, leve prurito vaginal. Examen: flujo vaginal purulento, amarillo verdoso que proviene del cérvix, ectropión periorificiario. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Gonorrea",
+        "B": "Trichomoniasis",
+        "C": "Herpes simple",
+        "D": "Vaginosis bacteriana",
+        "E": "Candidiasis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Mujer nulípara de 65 años, acude por presentar hace 3 semanas secreción espontánea por el pezón en poca cantidad. Examen: secreción serosanguinolenta espontánea por pezón de la mama derecha. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Tumor filoides",
+        "B": "Necrosis grasa",
+        "C": "Enfermedad de Paget",
+        "D": "Carcinoma intraductal",
+        "E": "Fibroadenoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Mujer de 32 años, viene a consulta en condición asintomática, con resultado de ecografía transvaginal que indica saco gestacional conteniendo embrión de 8 mm sin actividad cardiaca evidente, no hematomas. Al examen no ginecorragia y cérvix cerrado. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Aborto diferido",
+        "B": "Gestación incipiente",
+        "C": "Aborto inevitable",
+        "D": "Embarazo angular",
+        "E": "Amenaza de aborto"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "En una RPM se incrementa la posibilidad de…...cuando hay…",
+      "options": {
+        "A": "hipoplasia pulmonar/ corioamnionitis",
+        "B": "parto vaginal / macrosomía fetal",
+        "C": "cesárea / prolapso de cordón",
+        "D": "polihidramnios / post madurez",
+        "E": "parto vaginal / presentación pelviana"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Gestante de 13 semanas, con sangrado vaginal. Ecografía vaginal: útero aumentado de tamaño en relación a edad gestacional signos ecográficos compatibles con mola hidatidiforme, Quistes de ovario bilaterales de aproximadamente 4cms de diámetro. ¿Qué tipo de quistes de ovario se espera encontrar?",
+      "options": {
+        "A": "Dermoides",
+        "B": "Mucinosos",
+        "C": "Endometrioides",
+        "D": "Epiteliales",
+        "E": "Teca luteínicos"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Mujer de 30 años, asintomática, consulta por despistaje de cáncer de cuello uterino. Examen físico: Normal. Prueba molecular para virus del papiloma humano (PM - VPH) con genotipificación de alto riesgo: Negativa. ¿En cuántos años debe realizarse el siguiente control?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "2",
+        "E": "1"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Al examen ginecológico de mujer de 59 años, se encuentra distopia genital y se evidencia que la porción más distal del prolapso está entre menos de 1 cm proximal y menos de 1 cm distal del plano del himen. Según el sistema POP-Q. ¿A qué estadio de prolapso genital corresponde?",
+      "options": {
+        "A": "IV",
+        "B": "0",
+        "C": "III",
+        "D": "II",
+        "E": "I"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Gestante de 26 semanas, portadora de mioma uterino, con dolor abdominal persistente, se descarta dinámica uterina, se sospecha que tenga relación con el mioma. ¿Qué tipo de degeneración miomatosa esperamos encontrar?",
+      "options": {
+        "A": "Necrótica",
+        "B": "Roja",
+        "C": "Hialina",
+        "D": "Mixomatosa",
+        "E": "Sarcomatosa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Multigesta de 36 semanas acude a emergencia para evaluación por pérdida de líquido amniótico desde hace 6 horas y contracciones leves. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Profilaxis antibiótica y estimulación del parto vaginal",
+        "B": "Uso de corticoides para maduración pulmonar",
+        "C": "Uso de tocolíticos",
+        "D": "Control con tactos vaginales cada hora para evaluar la progresión",
+        "E": "Programación para cesárea"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Mujer de 65 años presenta dolor, sangrado vaginal y presencia de una gran tumoración uterina. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Mioma uterino sintomático",
+        "B": "Sarcoma uterino",
+        "C": "Ca de endometrio",
+        "D": "Ca de cérvix",
+        "E": "Ca de ovario"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "En un embarazo gemelar que prosigue con uno de los fetos muertos. ¿Cuál es la complicación más probable?",
+      "options": {
+        "A": "Desprendimiento prematuro de placenta",
+        "B": "Coagulación intravascular diseminada",
+        "C": "Preeclampsia",
+        "D": "RCIU del feto vivo",
+        "E": "Hemorragia fetomaterna"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál de las siguientes alternativas es una complicación del desprendimiento prematuro de placenta?",
+      "options": {
+        "A": "Preeclampsia",
+        "B": "Rotura uterina",
+        "C": "Trombofilia",
+        "D": "Síndrome de Sheehan",
+        "E": "Embolia amniótica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "En relación al cáncer de cérvix los límites de la zona de transformación en el cuello uterino están determinados por:",
+      "options": {
+        "A": "Orificio cervical externo y orificio cervical interno",
+        "B": "Unión escamo columnar y orificio cervical externo",
+        "C": "Unión escamo celular original y unión escamo celular nueva",
+        "D": "Unión escamo celular nueva y el orificio cervical interno",
+        "E": "Orificio cervical externo y unión escamo celular nueva"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "La anemia durante el embarazo se asocia con resultados adversos para la madre y el feto. De las siguientes alternativas ¿Cuál está relacionada directamente con la anemia?",
+      "options": {
+        "A": "Mayor prevalencia de presentar diabetes gestacional",
+        "B": "Mayor número de fetos macrosómicos",
+        "C": "Más malformaciones fetales urológicas",
+        "D": "Desarrollo mental más bajo",
+        "E": "Mayor distocia del canal del parto"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál de las siguientes alternativas corresponde a la variedad histológica más frecuente de carcinoma de mama infiltrante?",
+      "options": {
+        "A": "Lobulillar",
+        "B": "Tubular",
+        "C": "Mucinoso",
+        "D": "Ductal",
+        "E": "Medular"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Mujer de 52 años, con sangrado inesperado tipo \"manchas\" y dispareunia. Antecedentes: FUR: hace dos años. Examen ginecológico: Mucosa vaginal pálida, útero de 6 cm, no se palpan tumoraciones. ¿Cuál es el diagnóstico de patología endometrial más frecuente?",
+      "options": {
+        "A": "Hiperplasia",
+        "B": "Displasia",
+        "C": "Cáncer",
+        "D": "Pólipo",
+        "E": "Atrofia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "El partograma de la OMS trae impreso la línea de alerta y la línea de acción. La línea de alerta empieza a los 4 cm de dilatación con una velocidad de 1 cm / hora y la línea de acción una paralela 4 horas a la derecha de la línea de alerta, ¿Cuál es el objetivo principal de este instrumento?",
+      "options": {
+        "A": "Determinar el tiempo de las fases del parto",
+        "B": "Documentar el progreso del parto",
+        "C": "Evaluar la progresión del parto y tomar decisión",
+        "D": "Tener datos concluyentes en la historia clínica",
+        "E": "Responsabilizar al personal que conduce el parto"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Mujer de 80 años, viene a consulta refiriendo pérdida involuntaria de orina precedida de deseo imperioso de miccionar y que es difícil de postergar; también refiere pérdida de orina al esfuerzo; además se levanta al menos dos veces por noche para miccionar. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Urgencia miccional",
+        "B": "Incontinencia urinaria de urgencia",
+        "C": "Inestabilidad del detrusor",
+        "D": "Incontinencia urinaria de esfuerzo genuina",
+        "E": "Incontinencia urinaria mixta"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Mujer de 30 años usuaria de DIU, refiere que haciendo ejercicios empieza con dolor en fosa iliaca izquierda de presentación súbita. Última regla hace una semana. Antecedente de quiste anexial izquierdo de 10 cm por ecografía. ¿Cuál es el examen más adecuado para llegar al diagnóstico?",
+      "options": {
+        "A": "Eco transvaginal doppler",
+        "B": "Eco pélvica",
+        "C": "Eco transvaginal",
+        "D": "Examen de orina completo",
+        "E": "Dosaje de β HCG"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "En relación a una agresión sexual, el tratamiento inmediato debe estar dirigido a:",
+      "options": {
+        "A": "Determinar las características del agresor",
+        "B": "Evitar agresiones similares",
+        "C": "Prevenir el embarazo y ETS",
+        "D": "Reintegrarse a labores habituales",
+        "E": "Iniciar el proceso judicial del caso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Pareja en estudio por infertilidad primaria, tienen indicación para fertilización in vitro, ¿Sobre qué posible complicación deberá alertarse con mayor énfasis durante la consejería?",
+      "options": {
+        "A": "Infección genital",
+        "B": "Gestación múltiple",
+        "C": "Complicación en la punción ovárica",
+        "D": "Intolerancia a la medicación",
+        "E": "Síndrome de hiperestimulación"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Gestante de 28 años con diagnóstico de epilepsia sintomática sin tratamiento. ¿Cuál es la complicación más frecuente que puede sufrir el feto?",
+      "options": {
+        "A": "Malformación congénita",
+        "B": "Estado depresivo",
+        "C": "Muerte perinatal",
+        "D": "Sufrimiento fetal agudo",
+        "E": "Restricción del crecimiento intrauterino"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "En el sistema para estadificar el prolapso genital denominado POP-Q, se consideran unos puntos a lo largo de la vagina (compartimentos anterior, medio y posterior) y se miden anatómicamente en centímetros proximales o distales al himen. ¿Cuántos puntos son?",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "3",
+        "D": "8",
+        "E": "6"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál de los siguientes es un fármaco indicado para el tratamiento de la incontinencia urinaria de urgencia?",
+      "options": {
+        "A": "Imipramina",
+        "B": "Seudoefedrina",
+        "C": "Bumetanida",
+        "D": "Tibolona",
+        "E": "Tolterodina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Gestante de 15 semanas en control prenatal, consulta por lesión en genitales externos de aparición reciente. Examen: úlcera limpia, no dolorosa de 0.5 cm en la vulva, resto normal. ¿Cuál es el diagnóstico más frecuente?",
+      "options": {
+        "A": "Chancroide",
+        "B": "Linfogranuloma venéreo",
+        "C": "Herpes simple",
+        "D": "Lúes",
+        "E": "Papiloma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "En sala de partos se encuentra una paciente que ha tenido parto vaginal hace 16 minutos con un producto vivo después de un trabajo de parto prolongado, con alumbramiento activo o dirigido. Se le realiza la maniobra de desplazar el útero hacia arriba y también asciende su cordón (Maniobra de Küstner negativo). Estando la paciente estable. ¿Qué se puede concluir en relación a la paciente?",
+      "options": {
+        "A": "Se debe esperar hasta los 15 minutos",
+        "B": "Presenta una retención placentaria",
+        "C": "Se debe evaluar a los 30 minutos",
+        "D": "Se debe traccionar firmemente el cordón y presionar el fondo",
+        "E": "Debe realizar el “ordeñamiento” del cordón"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Cuál de las siguientes patologías tienen mayor riesgo para cáncer de mama?",
+      "options": {
+        "A": "Adenosis esclerosante",
+        "B": "Hiperplasia ductal atípica",
+        "C": "Fibroadenoma complejo",
+        "D": "Cambios fibroquísticos",
+        "E": "Ectasia ductal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "Mujer de 50 años, con baja de peso, leucorrea y sangrado vaginal post coital. Examen ginecológico: útero de 7cm, lesión proliferativa en cuello uterino, que invade el tercio superior de la vagina. Tacto rectal: parametrios libres. ¿Cuál es el estadío clínico del cáncer de cérvix?",
+      "options": {
+        "A": "I",
+        "B": "In situ",
+        "C": "III",
+        "D": "II",
+        "E": "IV"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es la relación entre los miomas uterinos y la fecundidad?",
+      "options": {
+        "A": "Extirpación de los submucosos no incrementa la fecundidad",
+        "B": "Los subserosos disminuyen la fecundidad",
+        "C": "Eliminar los miomas subserosos aumenta la fecundidad",
+        "D": "La miomectomía de los intramurales aumenta la fecundidad",
+        "E": "Los submucosos disminuyen la fecundidad"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Una gestante que tiene un grupo sanguíneo O y Rh positivo. ¿Qué probabilidad tiene de isoinmunización ABO?",
+      "options": {
+        "A": "El feto puede hacer hemólisis con mucha frecuencia",
+        "B": "El manejo de la isoinmunización se hará durante el embarazo",
+        "C": "La isoinmunización ABO es generalmente un caso grave",
+        "D": "Si el feto es A o B puede sufrir de hiperbilirrubinemia",
+        "E": "Los casos aumentan con la multiparidad"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Mujer que requiere de terapia hormonal menopaúsica (THM) se le encuentra en ecografía transvaginal un endometrio de 14 mm. ¿Qué conducta debería seguir?",
+      "options": {
+        "A": "Someter a un legrado uterino fraccionado",
+        "B": "Repetir la ecografía y reevaluar",
+        "C": "Iniciar tratamiento con estrógenos",
+        "D": "Iniciar tratamiento con progestágenos",
+        "E": "Iniciar tratamiento hormonal combinado"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Mujer de 55 años con diagnóstico definitivo de cáncer de mama en estadío I. ¿Cuál es la supervivencia aproximada de la paciente a los 5 años?",
+      "options": {
+        "A": "5 %",
+        "B": "30 %",
+        "C": "85 %",
+        "D": "55 %",
+        "E": "15 %"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Gestante de 40 años con antecedente de preeclampsia leve, acude a control en el último trimestre y sospecha tener RCIU. ¿Qué aspectos se deben considerar para tener mayor certeza en el diagnóstico?",
+      "options": {
+        "A": "Con datos clínicos son suficientes",
+        "B": "Es necesario una ecografía 3D para confirmar",
+        "C": "Una eco doppler confirma el diagnóstico",
+        "D": "Es necesario tener una curva individual del desarrollo del feto",
+        "E": "Con un perfil biofísico fetal se confirma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "El sistema de soporte del útero y la vagina descrito por De Lancey está dividido en 3 niveles. ¿Cuál de las siguientes estructuras forma parte del nivel I?",
+      "options": {
+        "A": "Fascia pubocervical",
+        "B": "Arco tendíneo",
+        "C": "Tabique rectovaginal",
+        "D": "Ligamento útero sacro",
+        "E": "Cuerpo perineal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Mujer de 36 años sin hijos con cuadros de hipomenorrea desea conocer si puede salir gestando. ¿Cuál es el examen que ayudaría a determinar si puede o no salir embarazada?",
+      "options": {
+        "A": "Dosaje de SFH",
+        "B": "Dosaje de LH",
+        "C": "Ecografía transvaginal",
+        "D": "Dosaje de prolactina",
+        "E": "Dosaje de hormona antimülleriana"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Gestante de 20 semanas en control prenatal, asintomática. Examen físico: PA:110/60 mmHg, FC: 84 x´, palidez moderada de piel y mucosas. Examen obstétrico: Normal. Hb: 10.2 g/dl. ¿Cuántos mg de hierro elemental / día debe recibir durante el embarazo?",
+      "options": {
+        "A": "60",
+        "B": "200",
+        "C": "120",
+        "D": "300",
+        "E": "180"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Puérpera de 10 días post parto eutócico, con sangrado vaginal moderado, rojo rutilante y de presentación intempestiva. Examen físico: PA: 110/60 mmHg; FC: 74 x´; T: 36.8oC. Examen ginecológico: Orificios cervicales entre abiertos, útero subinvolucionado, blando y algo doloroso. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Atonía uterina",
+        "B": "Retención de restos",
+        "C": "Coagulopatía",
+        "D": "Laceración del canal del parto",
+        "E": "Rotura uterina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Médico durante su SERUM en Huancayo (3200 msnm), atiende a una gestante cuya hemoglobina a las 30 semanas de gestación es de 14.1 g/dl. ¿Cuál es su diagnóstico?",
+      "options": {
+        "A": "Valor normal de hemoglobina",
+        "B": "Anemia leve",
+        "C": "Anemia moderada",
+        "D": "Anemia severa",
+        "E": "Poliglobulia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Gestante de 30 semanas, acude refiriendo cefalea occipital y visión borrosa de 2 h de evolución. Examen físico: PA:160/110 mmHg. Laboratorio: transaminasas elevadas y trombocitopenia <100,000/mm3. ¿Cuál es el tratamiento inicial?",
+      "options": {
+        "A": "Sulfato de magnesio",
+        "B": "Fenobarbital",
+        "C": "Fenitoína",
+        "D": "Diazepam",
+        "E": "Clonazepam"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Mujer de 18 años nulípara, asintomática, sin antecedentes de importancia, consulta por planificación familiar ¿Con qué método anticonceptivo tendrá menos posibilidad de embarazo en un año?",
+      "options": {
+        "A": "DIU de cobre",
+        "B": "Píldora combinada",
+        "C": "Acetato de medroxiprogesterona",
+        "D": "Píldora de progestágeno",
+        "E": "DIU con levonorgestrel"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Mujer de 21 años puérpera de 24 horas de su primer hijo, parto eutócico sin complicaciones. Exámenes auxiliares: Rh materno negativo. Rh recién nacido: positivo. ¿Qué dosis de inmunoglobulina anti D en microgramos debe recibir?",
+      "options": {
+        "A": "100",
+        "B": "500",
+        "C": "300",
+        "D": "800",
+        "E": "1000"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Por qué razón la localización más frecuente del cáncer de mama es en el cuadrante superior externo?",
+      "options": {
+        "A": "A dicho nivel es mayor la cantidad de oncogenes heredados",
+        "B": "El tejido mamario es más abundante en dicho cuadrante",
+        "C": "Existe menor cantidad de receptores de progesterona",
+        "D": "Las células de dicho cuadrante contienen el gen BRCA 2",
+        "E": "Tiene mayor riesgo de desarrollar cáncer microscópico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Durante el examen físico a una paciente peri menopáusica, se encuentra que más de un tercio de la mama está afectado por eritema y edema. Biopsia de zona afectada incluyendo piel: cáncer metastásico en los linfáticos subdérmicos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Carcinoma papilar",
+        "B": "Carcinoma adenoide",
+        "C": "Tumor filoides",
+        "D": "Carcinoma in situ",
+        "E": "Carcinoma inflamatorio"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Mujer de 20 años soltera, sin hijos acude a consulta por presentar nodulación en la mama izquierda. El médico después del examen le solicita una ecografía de mama cuyo objetivo principal de este examen es:",
+      "options": {
+        "A": "Determinar el tamaño del tumor",
+        "B": "Evaluar la movilidad del nódulo",
+        "C": "Diferenciar una masa sólida de una quística",
+        "D": "Determinar la profundidad del nódulo",
+        "E": "Determinar si hay adherencia a planos profundos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Cuál es el manejo de elección de un embarazo ectópico intersticial?",
+      "options": {
+        "A": "Salpingostomía",
+        "B": "Resección cornual",
+        "C": "Metotrexato",
+        "D": "Histerectomía",
+        "E": "Salpinguectomía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Mujer de 49 años refiere pérdida de orina al esfuerzo desde hace 6 meses. Examen: tumoración que protruye en la pared posterior de la vagina; maniobra de Valsalva: negativa. Según la clasificación de prolapso de órganos pélvicos POP-Q. ¿Cuál es el punto que corresponde a la distopia descrita?",
+      "options": {
+        "A": "Aa",
+        "B": "Bp",
+        "C": "C",
+        "D": "D",
+        "E": "Ba"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "La infertilidad relacionada con el síndrome de ovario poliquístico está determinada por:",
+      "options": {
+        "A": "Hipoandrogenismo",
+        "B": "Disfunción hipotalámica",
+        "C": "Secreción habitual de LH",
+        "D": "Resistencia a la insulina",
+        "E": "Oligo o anovulación"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "El ácido fólico es una vitamina hidrosoluble esencial en la síntesis de ARN y ADN, primordial para el desarrollo del tubo neural. Una mujer con antecedentes de espina bífida en su primer hijo ¿Qué esquema de prevención en relación al ácido fólico deberá seguir?",
+      "options": {
+        "A": "4 mg/día desde 3 meses previos al embarazo hasta las 12 semanas",
+        "B": "4 mg/día desde el inicio del embarazo hasta las 12 semanas",
+        "C": "0.4 mg/día desde 3 meses previos al embarazo hasta las 12 semanas",
+        "D": "0.4 mg/día desde el inicio del embarazo hasta el fin del embarazo",
+        "E": "0.4 mg/día durante todo el embarazo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Mujer de 65 años con historia de prurito vulvar. Examen ginecológico: lesión verrucosa confluente, blanquecina e indolora en labio mayor; se palpan ganglios linfáticos inguinales. Para el adecuado diagnóstico y manejo del caso. ¿Cuál es el siguiente paso a seguir?",
+      "options": {
+        "A": "Papanicolaou",
+        "B": "Ablación con electrocauterio",
+        "C": "Corticoides tópicos",
+        "D": "Biopsia en cuña",
+        "E": "Colposcopía de vagina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Segundigesta de 20 semanas en control prenatal, tiene antecedente de parto pretérmino en su embarazo anterior. Trae ecografía transvaginal con cervicometría, con lo que se le indica un cerclaje para evitar un nuevo parto pretérmino. ¿Cuál es el valor máximo de longitud del cérvix en mm para considerar este procedimiento?",
+      "options": {
+        "A": "35",
+        "B": "20",
+        "C": "15",
+        "D": "10",
+        "E": "25"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Mujer de 30 años acude a su primer control prenatal y le diagnostican que tiene una gestación múltiple con dos sacos gestacionales. ¿Qué pronóstico tiene en relación a su embarazo?",
+      "options": {
+        "A": "Tener un control idéntico a que si tuviera un solo feto",
+        "B": "Posibilidad de presentar mayor morbilidad y mortalidad que un embarazo único",
+        "C": "Mayor probabilidad de presentar diabetes insípida",
+        "D": "Aún existe posibilidad de tener fetos siameses",
+        "E": "Posibilidad de tener fetos idénticos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál de las siguientes alternativas corresponde con mayor exactitud a un factor importante en el mantenimiento del cierre uretral normal?",
+      "options": {
+        "A": "Fascia endopélvica",
+        "B": "Arco tendíneo de la vagina",
+        "C": "Músculo iliococcígeo",
+        "D": "Sínfisis del pubis",
+        "E": "Músculo compresor de la uretra"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cómo se denomina a la fecundación de dos óvulos dentro del mismo ciclo menstrual, pero no en el mismo coito, ni siempre con espermatozoides del mismo varón?",
+      "options": {
+        "A": "Superfecundación",
+        "B": "Gemelos parasitarios",
+        "C": "Secuencia TRAP",
+        "D": "Fetus in fetu",
+        "E": "Superfetación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "¿Cuál de los siguientes tipos de embarazo ectópico es el más infrecuente?",
+      "options": {
+        "A": "Intersticial",
+        "B": "Cervical",
+        "C": "Fimbrial",
+        "D": "Ístmico",
+        "E": "Ovárico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Mujer de 40 años con régimen catamenial irregular se le encuentra una tumoración uterina intramural de 4 cm a nivel corporal. No anemia. Se cataloga como mioma uterino tipo 3. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Tratamiento con agonistas de GnRH",
+        "B": "Miomectomía programada",
+        "C": "Conducta expectante y control periódico",
+        "D": "Acetato de medroxiprogesterona 150 mg trimestral",
+        "E": "DIU con progestágeno"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Gestante de 18 semanas con prurito vaginal intenso y flujo vaginal. Examen ginecológico: secreción verdosa en el canal vaginal y cérvix con punteado rojizo, con apariencia de \"fresa\". ¿Cuál es el tratamiento indicado?",
+      "options": {
+        "A": "Gentamicina IM",
+        "B": "Fluconazol oral",
+        "C": "Metronidazol oral",
+        "D": "Clotrimazol tópico",
+        "E": "Itraconazol oral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Mujer de 24 años se retiró DIU por dolor pélvico hace 4 días, refiere que persiste el dolor a pesar de cambio de método de anticoncepción. Examen: ligera secreción purulenta por OCE y al tacto bimanual dolor a la movilización del cérvix. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Enfermedad inflamatoria pélvica",
+        "B": "Litiasis ureteral",
+        "C": "Apendicitis aguda",
+        "D": "Infección urinaria",
+        "E": "Diverticulitis aguda"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Gestante de 20 años con 10 semanas de embarazo se le diagnostica hiperémesis gravídica. ¿En qué caso requiere hospitalización?",
+      "options": {
+        "A": "Epigastralgia",
+        "B": "Meteorismo",
+        "C": "Pérdida de peso menor al 5%",
+        "D": "Presencia de aliento fétido",
+        "E": "Alteraciones hidroelectrolíticas"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Mujer de 40 años ha tenido 4 partos eutócicos, vive en lugar alejado, acude con retraso menstrual de 17 semanas, sin atención prenatal previa, ni antecedentes patológicos de enfermedades crónicas. Examen: altura uterina de 25 cm. Hipertensión e hiperreflexia. Laboratorio: proteinuria. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Mola hidatidiforme",
+        "B": "Hematometra",
+        "C": "Tumor anexial",
+        "D": "Miomatosis uterina",
+        "E": "Embarazo gemelar"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Mujer de 40 años, refiere menstruaciones regulares. Sin antecedentes de importancia. Examen ginecológico: normal. Papanicolaou: lesión intraepitelial escamosa de alto grado. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Biopsia en sacabocado y curetaje cervical",
+        "B": "Histerectomía inmediata y extirpación de ovarios",
+        "C": "Repetir el frotis de Papanicolaou y control a los tres meses",
+        "D": "Colposcopía con biopsia",
+        "E": "Dilatación y legrado fraccionado"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "De los siguientes exámenes o procedimientos, ¿Cuál aporta mayor ayuda en el manejo de enfermedad pélvica inflamatoria de III grado?",
+      "options": {
+        "A": "Eco transvaginal",
+        "B": "Eco doppler transvaginal",
+        "C": "Cultivo de secreción vaginal",
+        "D": "Histeroscopía",
+        "E": "Laparoscopia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Si usted fuera el encargado de determinar que método anticonceptivo es el más costo efectivo a largo plazo. ¿Cuál escogería?",
+      "options": {
+        "A": "Bloqueo tubárico",
+        "B": "DIU",
+        "C": "Preservativo",
+        "D": "Diafragma",
+        "E": "Vasectomía"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

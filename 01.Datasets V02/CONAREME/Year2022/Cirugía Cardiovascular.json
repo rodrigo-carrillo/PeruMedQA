@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2022,
+    "exam": "Cirugía Cardiovascular",
+    "source_pdf": "Cirugía Cardiovascular.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Cirugía Cardiovascular",
+    "sha256_pdf": "21b1e8b26fba20fdc100b5f932ef6ce518e64c5e5725e3b2de510f06edcf42ce",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:33",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 11,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Cirugía Cardiovascular",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9989,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.6007,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 24560,
+      "coverage_out_chars": 24560,
+      "human_reference": "_backup_csv_verificados/Year2022/Cirugía Cardiovascular.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 42,
+        "identico": 548,
+        "csv_antiguo_truncado": 10
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "En la revascularización coronaria quirúrgica el injerto que se anastomosa con mayor frecuencia a la arteria descendente anterior es...",
+      "options": {
+        "A": "vena safena mayor.",
+        "B": "arteria radial.",
+        "C": "arteria mamaria interna izquierda.",
+        "D": "vena safena menor.",
+        "E": "arteria gastroepiploica."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuál es una indicación de revascularización coronaria?",
+      "options": {
+        "A": "Angina estable en tratamiento",
+        "B": "Estenosis <50% de la coronaria izquierda",
+        "C": "ICC con miocardio inviable",
+        "D": "Oclusión coronaria aguda sin ICP",
+        "E": "Shock cardiogénico"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "La cirugía de Palma consiste en...",
+      "options": {
+        "A": "la derivación arterial fémoro-femoral.",
+        "B": "la derivación venosa fémoro-femoral con injerto cruzado.",
+        "C": "la derivación venosa fémoro poplítea.",
+        "D": "la derivación arterial fémoro poplítea.",
+        "E": "la derivación venosa fémoro tibial."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Varón de 33 años, hace media hora presenta herida punzopenetrante en cuello. Examen: FC 120X', PA 70/50 mmHg; herida cortante en cara lateral izquierda del cuello con sangrado activo pulsátil; pulso carotídeo no evaluable. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Ecodoppler arterial carotídeo",
+        "B": "Angiotem cuello",
+        "C": "Arteriografía carotídea",
+        "D": "Angiorresonancia cuello",
+        "E": "Exploración vascular quirúrgica del cuello"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "En un RN con CIV extensa que cursa con insuficiencia cardiaca refractaria y cortocircuito importante. ¿Cuándo se recomienda cerrar quirúrgicamente?",
+      "options": {
+        "A": "En el período neonatal",
+        "B": "A los 2 meses",
+        "C": "A los 30 días",
+        "D": "En la etapa pre escolar",
+        "E": "Al año"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "La indicación quirúrgica de un aneurisma torácico proximal es cuando el diámetro del mismo es mayor de:",
+      "options": {
+        "A": "2.5 cm",
+        "B": "3.5 cm",
+        "C": "5.5 cm",
+        "D": "4 cm",
+        "E": "1 cm"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "En la clasificación clínica de la enfermedad venosa crónica de la extremidad inferior. ¿Cuál corresponde a la clase 3?",
+      "options": {
+        "A": "Edema sin alteraciones cutáneas",
+        "B": "Venas varicosas",
+        "C": "Alteraciones cutáneas con hiperpigmentación, eccema venoso",
+        "D": "Alteraciones cutáneas más úlceras cicatrizadas",
+        "E": "Alteraciones cutáneas más úlceras activas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Mujer 45 años. Edema y lipodermatoesclerosis pierna izquierda. Antecedente TVP hace 3 años. EDV MMII: insuficiencia severa vena femoral y poplítea. ¿Cuál es el tratamiento?",
+      "options": {
+        "A": "Medias de compresión elástica",
+        "B": "Ablación endovenosa safena con laser",
+        "C": "Ablación endovenosa con radiofrecuencia",
+        "D": "Derivación venosa femo-femoral",
+        "E": "Reconstrucción venosa profunda"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "En un ataque isquémico transitorio (AIT) carotídeo. ¿Cuál es una condición para la indicación aceptable pero no demostrada de endoarterectomía carotídea?",
+      "options": {
+        "A": "AIT en los últimos 6 meses y estenosis del 50-69%",
+        "B": "Uno o más AIT en los últimos 6 meses y estenosis >70%",
+        "C": "AIT con estenosis <50%",
+        "D": "Ictus leve con estenosis >70%",
+        "E": "Ictus leve con estenosis <50%"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "La anuloplastía de DeVega se utiliza en:",
+      "options": {
+        "A": "Estenosis tricúspidea",
+        "B": "Insuficiencia mitral",
+        "C": "Estenosis mitral",
+        "D": "Insuficiencia tricúspidea",
+        "E": "Insuficiencia aórtica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Varón de 25 años, acude por presentar dolor en pierna derecha. No antecedentes de trauma. Examen: frémito y dilataciones venosas en muslo y pierna derecha; alteraciones tróficas en pierna; pulsos periféricos presentes. ¿Cuál es la principal sospecha diagnóstica?",
+      "options": {
+        "A": "Malformación arteriovenosa de alto flujo",
+        "B": "Malformación venosa",
+        "C": "Malformación linfática",
+        "D": "Malformación capilar",
+        "E": "Tumor vascular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Durante la protección miocárdica, la cánula de cardioplejía retrógrada se inserta en:",
+      "options": {
+        "A": "Seno coronario",
+        "B": "Aorta ascendente",
+        "C": "Arteria pulmonar",
+        "D": "Vena pulmonar derecha",
+        "E": "Vena innominada"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Los abscesos de la región anal catalogados como \"absceso en herradura\" están clasificados como:",
+      "options": {
+        "A": "Perianales",
+        "B": "Interesfinterianos",
+        "C": "Transesfinterianos",
+        "D": "Isquiorrectales",
+        "E": "Supraelevadores"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "¿Cuál es el aneurisma más frecuente en las arterias periféricas?",
+      "options": {
+        "A": "Ilíaco",
+        "B": "Femoral",
+        "C": "Pedio",
+        "D": "Tibial",
+        "E": "Poplíteo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Varón de 76 años, se diagnóstica estenosis aórtica, dada la edad el cardiólogo sugiere patología por cambios en el envejecimiento. ¿Cuál es el cambio específico causante de esta lesión?",
+      "options": {
+        "A": "Aumento de tamaño de la cavidad auricular izquierda",
+        "B": "Calcificación en la válvula aórtica",
+        "C": "Depósitos de lipofuscina",
+        "D": "Depósitos cálcicos de la unión sinotubular",
+        "E": "Placas ateroescleróticas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "El bypass arterial coronario sin circulación extracorpórea puede realizarse en:",
+      "options": {
+        "A": "Shock cardiogénico",
+        "B": "Arritmias isquémicas recurrentes",
+        "C": "Neumonectomía izquierda previa",
+        "D": "Lesiones de la arteria coronaria izquierda",
+        "E": "Pectus excavatum severo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Mujer 35 años con dolor y pesadez en piernas. Examen: edema y dilataciones venosas tortuosas en pierna derecha. ¿Cuál es el CEAP?",
+      "options": {
+        "A": "C1",
+        "B": "C3",
+        "C": "C2",
+        "D": "C4",
+        "E": "C5"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuál es la incisión que se realiza con mayor frecuencia en el tratamiento quirúrgico de emergencia de las lesiones penetrantes de tórax?",
+      "options": {
+        "A": "Esternotomía mediana",
+        "B": "Toracotomía anterolateral izquierda",
+        "C": "Toracotomía axilar",
+        "D": "Toracotomía postero lateral",
+        "E": "Toracoesternotomía bilateral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "La cirugía de Palma se indica en...",
+      "options": {
+        "A": "oclusión aguda vena iliaca.",
+        "B": "várices de miembros inferiores.",
+        "C": "insuficiencia venosa primaria.",
+        "D": "linfedema.",
+        "E": "oclusión crónica vena iliaca."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "La simpatectomía o simpaticotomía torácica bilateral se indica en:",
+      "options": {
+        "A": "Enfermedad arterial periférica miembros inferiores",
+        "B": "Síndrome Horner",
+        "C": "Neumotórax espontáneo",
+        "D": "Quilotórax",
+        "E": "Hiperhidrosis palmar y axilar"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Cuál es la contraindicación absoluta en el uso del balón intraaórtico?",
+      "options": {
+        "A": "Insuficiencia aórtica",
+        "B": "Enfermedad vascular periférica",
+        "C": "Shock cardiogénico",
+        "D": "Infarto miocardio agudo",
+        "E": "Aneurisma aorta torácica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cuál es la triada clásica en la producción de la trombosis venosa profunda?",
+      "options": {
+        "A": "Estasis venosa, edema e hipercoagubilidad",
+        "B": "Lesión endotelial, edema e hipercoagubilidad",
+        "C": "Obstrucción venosa, hipercoagubilidad y estasis venosa",
+        "D": "Lesión endotelial, obstrucción venosa y edema",
+        "E": "Estasis venosa, hipercoagubilidad y lesión endotelial"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "En una radiografía lateral de tórax. ¿Qué estructura corresponde al borde cardiaco anterior?",
+      "options": {
+        "A": "Aurícula izquierda",
+        "B": "Ventrículo izquierdo",
+        "C": "Ventrículo derecho",
+        "D": "Aorta descendente",
+        "E": "Aurícula derecha"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Varón 43 años hace una hora sufre herida por PAF en MID. Examen: FC 120X', PA 70/50 mmHg; herida por PAF con orificio de entrada y salida en muslo derecho; pulsos ausentes; frialdad y palidez extrema pierna. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Ecodoppler arterial",
+        "B": "Angiotem",
+        "C": "Angiorresonancia",
+        "D": "Arteriografía",
+        "E": "Exploración vascular quirúrgica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Mujer con sospecha de traumatismo cerrado en tórax. ¿Cuál es el lugar más frecuente de lesión aortica?",
+      "options": {
+        "A": "Aorta descendente",
+        "B": "Istmo aórtico",
+        "C": "Aorta proximal a la salida de la arteria subclavia derecha",
+        "D": "En la base de la aorta ascendente",
+        "E": "Aorta ascendente"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Mujer de 65 años, hace una hora dolor súbito y frialdad distal MID. Antecedente: HDA 6 meses antes. Examen: RC arrítmicos; pierna derecha fría y pálida; pulsos ausentes. Angiotem: ausencia de pasaje de contraste a nivel fémoro poplíteo, pobre llenado colateral distal. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Trombólisis intraluminal femoral",
+        "B": "Derivación fémoro-femoral",
+        "C": "Derivación fémoro poplíteo",
+        "D": "Angioplastia femoral",
+        "E": "Tromboembolectomía femoral con catéter balón"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Cuándo se indica el reemplazo de la válvula aórtica transcatéter?",
+      "options": {
+        "A": "Insuficiencia aórtica severa",
+        "B": "Estenosis aórtica leve",
+        "C": "Pacientes con bajo riesgo de mortalidad por cirugía convencional",
+        "D": "Estenosis aórtica severa",
+        "E": "En pacientes menores de 30 años"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Varón de 46 años con antecedente de infarto agudo de miocardio, después de 4 semanas refiere presentar fiebre y dolor precordial intenso, el cual calma al inclinarse hacia adelante. ¿Cuál es la pericarditis más probable?",
+      "options": {
+        "A": "Purulenta",
+        "B": "Fibrinosa",
+        "C": "Hemorrágica",
+        "D": "Caseosa",
+        "E": "Serosa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "El objetivo de la timectomía en el paciente con diagnóstico de miastenia gravis es:",
+      "options": {
+        "A": "Reemplazar a la plasmaféresis",
+        "B": "Evitar el uso de inmunoglobulinas intravenosas",
+        "C": "Evitar el uso de corticoides",
+        "D": "Lograr la remisión completa de los síntomas",
+        "E": "Aumentar los anticuerpos contra los receptores de acetilcolina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "La operación de Homan se realiza en...",
+      "options": {
+        "A": "la insuficiencia venosa primaria.",
+        "B": "la insuficiencia venosa secundaria.",
+        "C": "el linfedema.",
+        "D": "la enfermedad arterial periférica.",
+        "E": "la trombosis venosa profunda."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "En malformaciones congénitas, donde se requiere visualizar los grandes vasos extracardíacos, sus conexiones venosas sistémicas y pulmonares para luego medir con exactitud la función cardíaca. ¿Cuál es el examen no invasivo que se utiliza cada vez con más frecuencia?",
+      "options": {
+        "A": "Resonancia magnética",
+        "B": "Ecocardiografía",
+        "C": "Tomografía computarizada",
+        "D": "Electrocardiografía",
+        "E": "Emisión de positrones"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es el examen de elección para el diagnóstico de la estenosis mitral?",
+      "options": {
+        "A": "Ecocardiografía",
+        "B": "Rx de tórax",
+        "C": "Cateterismo cardiaco",
+        "D": "TEM de tórax",
+        "E": "RMN de tórax"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Según la clasificación TASC II de las lesiones oclusivas aortoiliacas. ¿A qué tipo corresponde una oclusión bilateral de la arteria iliaca común?",
+      "options": {
+        "A": "A",
+        "B": "D",
+        "C": "E",
+        "D": "B",
+        "E": "C"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "La filariasis puede causar...",
+      "options": {
+        "A": "insuficiencia venosa primaria.",
+        "B": "linfedema.",
+        "C": "insuficiencia venosa secundaria.",
+        "D": "várices miembros inferiores.",
+        "E": "enfermedad arterial periférica."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Varón 65 años, refiere dolor tipo calambre en pantorrilla derecha al caminar una cuadra, se alivia al detenerse en la posición de pie. Examen preferencial: PA braquial 120/80 mmHg, PA tobillo derecho 80/60 mmHg; índice tobillo-brazo derecho < 0.9. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Osteoartritis cadera",
+        "B": "Osteoartritis rodilla",
+        "C": "Hernia disco lumbar",
+        "D": "Insuficiencia venosa crónica",
+        "E": "Enfermedad arterial periférica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Mujer de 30 años, refiere hace un mes malestar, dolor torácico y palpitaciones. Examen: RC rítmicos; soplo sistólico área mitral. Rx tórax: cardiomegalia. Ecocardiograma: masa pediculada de 4x 3 cm en atrio izquierdo. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Sarcoma",
+        "B": "Mixoma",
+        "C": "Lipoma",
+        "D": "Fibroelastoma papilar",
+        "E": "Rabdomioma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "En la clasificación clínica de Fontaine de la enfermedad arterial periférica. ¿A qué estadío corresponde la claudicación moderada o grave?",
+      "options": {
+        "A": "IIa",
+        "B": "I",
+        "C": "III",
+        "D": "IIb",
+        "E": "IV"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Mujer de 27 años hace 6 meses presenta tos con esputo hemoptoico. Antecedente: TBC pulmonar a los 19 años con tratamiento completo. Examen: MV pasa bien en ACP. TEM tórax: lesiones apicales bilaterales compatible con bronquiectasias en ambos campos pulmonares. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Toracotomía exploratoria emergencia",
+        "B": "Espirometría",
+        "C": "Toracotomía exploratoria electiva",
+        "D": "Embolización pulmonar",
+        "E": "Fibrobroncoscopía óptica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿En cuantos días se cierra en forma espontánea la herida al retirar la cánula de traqueostomía?",
+      "options": {
+        "A": "21",
+        "B": "14",
+        "C": "30",
+        "D": "35",
+        "E": "7"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿En qué arteria se presenta con mayor frecuencia el aneurisma visceral?",
+      "options": {
+        "A": "Renal",
+        "B": "Esplénica",
+        "C": "Hepática",
+        "D": "Coronaria",
+        "E": "Circunfleja"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "En el tratamiento de lesiones penetrantes de las regiones de cabeza, cuello y estrecho torácico superior. ¿Cuál corresponde a la zona I descrita por Monson?",
+      "options": {
+        "A": "En situación cefálica al ángulo de la mandíbula",
+        "B": "Por debajo del cartílago cricoides",
+        "C": "En situación distal al ángulo de la mandíbula",
+        "D": "Por encima del cartílago cricoides",
+        "E": "Del cartílago cricoides al ángulo de la mandíbula"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Mujer de 25 años acude por pesadez y dolor en miembros inferiores. Examen: telangiectasias y venas reticulares en muslos y piernas. Edema negativo. EDV miembros inferiores: vena safena mayor y menor competentes bilateral. ¿Cuál sería el tratamiento a seguir?",
+      "options": {
+        "A": "Ablación endovenosa vena safena mayor con laser",
+        "B": "Ablación por radiofrecuencia",
+        "C": "Safenectomía convencional",
+        "D": "Prescribir flebotónicos",
+        "E": "Escleroterapia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "El procedimiento de Starne o paliación ventricular única se realiza en:",
+      "options": {
+        "A": "Insuficiencia mitral",
+        "B": "La anomalía de Ebstein",
+        "C": "Insuficiencia aórtica",
+        "D": "Estenosis mitral",
+        "E": "Estenosis aórtica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "El procedimiento de Nick utilizado para ampliar el anillo aórtico se realiza prolongando la aortotomía hacia...",
+      "options": {
+        "A": "la unión del velo no coronario y el velo coronario izquierdo.",
+        "B": "la unión del velo no coronario y el velo coronario derecho.",
+        "C": "la mitad del velo no coronario.",
+        "D": "la mitad del velo coronario izquierdo.",
+        "E": "la mitad del velo coronario derecho."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Varón de 60 años, refiere dolor y aumento de volumen en región inguinal derecho post angioplastia coronaria. Examen: masa pulsátil femoral derecha de 5 x 4 cm; no frémito; pulsos presentes. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Pseudoaneurisma arteria femoral",
+        "B": "Aneurisma femoral",
+        "C": "Hematoma inguinal",
+        "D": "Fístula arterio-venosa femoral",
+        "E": "Trombosis arteria femoral común"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Varón con RMN cardiaca, tiene tumor de aspecto metastásico en pericardio. ¿Cuál es el tumor primario?",
+      "options": {
+        "A": "Vejiga",
+        "B": "Páncreas",
+        "C": "Próstata",
+        "D": "Pulmón",
+        "E": "Cerebro"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "El parche salmón o naevus simplex es...",
+      "options": {
+        "A": "una malformación arterio venosa.",
+        "B": "una malformación capilar de bajo flujo.",
+        "C": "una malformación venosa.",
+        "D": "una malformación linfática.",
+        "E": "un tumor vascular."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Cuál es el tumor primario más frecuente de la arteria pulmonar?",
+      "options": {
+        "A": "Angiosarcoma",
+        "B": "Neurogénico",
+        "C": "Leiomioma",
+        "D": "Linfoma",
+        "E": "Teratoma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál es la deformidad vascular más frecuente en la cardiopatía reumática crónica?",
+      "options": {
+        "A": "Estenosis mitral aislada",
+        "B": "Estenosis e insuficiencia mitral",
+        "C": "Insuficiencia mitral aislada",
+        "D": "Asociación de estenosis mitral con estenosis aortica",
+        "E": "Arteritis reumática"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "En trauma vascular, las fístulas arteriovenosas son lesiones...",
+      "options": {
+        "A": "subagudas.",
+        "B": "agudas.",
+        "C": "hemorrágicas.",
+        "D": "trombóticas.",
+        "E": "contusas."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Mujer 45 años, hace una hora presenta dolor en pantorrilla izquierda. Antecedente: fractura tobillo izquierdo hace un mes. Examen: frialdad, dolor y edema en pierna; pulsos presentes; puntuación Wells 4. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Ruptura quiste de Baker",
+        "B": "Ruptura músculotendinosa del gastrocnemio izquierdo",
+        "C": "Trombosis venosa profunda",
+        "D": "Celulitis",
+        "E": "Linfedema"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuál es el cuadro que se produce cuando la persistencia del conducto arterioso no se cierra, en especial las de mayor magnitud?",
+      "options": {
+        "A": "Insuficiencia cardiaca derecha",
+        "B": "Vasculopatía pulmonar irreversible",
+        "C": "Miocardiopatía grave",
+        "D": "Insuficiencia valvular",
+        "E": "Estenosis valvular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál es un hallazgo directo de tromboembolismo de la arteria pulmonar por TEM?",
+      "options": {
+        "A": "Aumento de tamaño de la arteria pulmonar",
+        "B": "Incremento de densidad parénquima pulmonar en forma de cuña",
+        "C": "Atelectasia pulmonar",
+        "D": "Defecto de repleción intraluminal, en dos cortes contiguos",
+        "E": "Áreas de hiperclaridades pulmonares en forma de cuña"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Cuál es el quiste mediastínico más frecuente?",
+      "options": {
+        "A": "Broncogénico",
+        "B": "Pericárdico",
+        "C": "Entérico",
+        "D": "Del Timo",
+        "E": "Paratiroideo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "En el trauma cardiaco penetrante el área afectada con mayor frecuencia es:",
+      "options": {
+        "A": "Ventrículo izquierdo",
+        "B": "Aurícula derecha",
+        "C": "Ventrículo derecho",
+        "D": "Aurícula izquierda",
+        "E": "Arteria coronaria izquierda"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Paciente varón 55 años, hospitalizado 4 días por IMA; presenta dolor torácico recurrente, hipotensión, congestión pulmonar y a la auscultación un soplo holosistólico paraesternal izquierdo. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Ruptura músculo papilar",
+        "B": "Shock cardiogénico",
+        "C": "Ruptura pared ventricular libre",
+        "D": "Defecto septal ventricular post infarto",
+        "E": "Aneurisma ventrículo izquierdo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿Cuál es el tumor óseo más frecuente en la pared torácica?",
+      "options": {
+        "A": "Condrosarcoma",
+        "B": "Osteosarcoma",
+        "C": "Sarcoma de Ewing",
+        "D": "Plasmocitoma",
+        "E": "Mieloma múltiple"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Mujer 45 años, presenta edema y lipodermatoesclerosis de pierna izquierda. Antecedente TVP hace 3 años. EDV MMII insuficiencia severa vena femoral y poplítea. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Insuficiencia venosa primaria",
+        "B": "Várices miembros inferiores",
+        "C": "Enfermedad arterial periférica",
+        "D": "Linfedema",
+        "E": "Síndrome postrombótico"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Varón de 29 años, acude por dilatación progresiva de venas en pierna derecha. Antecedente: hace un año herida por PAF en muslo. Examen: lesión cicatricial, frémito y soplo sistólico en cara interna muslo derecho; pulsos presentes; dilataciones venosas leves en cara interna pierna. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Pseudoaneurisma femoral",
+        "B": "Hematoma femoral",
+        "C": "Fístula arterio-venosa femoral",
+        "D": "Malformación arteriovenosa congénita",
+        "E": "Insuficiencia venosa crónica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "En la radiografía de tórax posteroanterior. ¿Qué estructura proyecta el borde cardiaco derecho?",
+      "options": {
+        "A": "Botón aórtico",
+        "B": "Arteria pulmonar principal",
+        "C": "Aurícula",
+        "D": "Ventrículo",
+        "E": "Tronco venoso braquiocefálico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Mujer de 40 años acude porque hace 6 meses presenta pesades en pantorrillas, aumento de volumen de extremidades conforme pasan las horas, calambres. Antecedente: uso de anticonceptivos orales. Examen: obesa, piel de tobillo hiperpigmentada, lesión ulcerosa a nivel supramaleolar interna. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Insuficiencia arterial crónica",
+        "B": "Insuficiencia venosa crónica",
+        "C": "Tromboembolia venosa",
+        "D": "Trombosis venosa profunda",
+        "E": "Fístula arteriovenosa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál es el examen radiológico que permite valorar la reparación quirúrgica en los aneurismas de aorta abdominal?",
+      "options": {
+        "A": "EcoDoppler",
+        "B": "Angiotomografía",
+        "C": "Angioresonancia",
+        "D": "Aortografía",
+        "E": "PET Scan"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Varón de 27 años, sufre accidente de tránsito, con mucho dolor y \"falta de aire\". Examen: PA 80/60 mmHg, FC 100X', FR 30X', SatO2 90%; herida de 4 x 5 cm en cara anterior de HTD de espesor total que comunica con la cavidad pleural. ¿Qué medida inmediata se debe indicar?",
+      "options": {
+        "A": "Apósito oclusivo que se fija herméticamente",
+        "B": "Sutura del defecto",
+        "C": "Apósito oclusivo con cinta en 3 de sus lados",
+        "D": "Toracotomía exploratoria",
+        "E": "Toracoscopía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Mujer con derrame pericárdico bacteriano. ¿Cuáles son las señales en RMN que indica un derrame tipo exudado?",
+      "options": {
+        "A": "Ausencia de señal en T1 hiperintenso en T2",
+        "B": "Hipointenso en T1 hiperintenso en T2",
+        "C": "Hiperintenso en T1 ausencia de señal en T2",
+        "D": "Ausencia de señal en T2 hipointenso en T1",
+        "E": "Hiperintenso en T1 hipointenso en T2"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Varón 55 años intervenido de cirugía cardíaca; durante el bypass cardiopulmonar su temperatura desciende a 20 °C, nivel de hipotermia profunda entre 18 a 28 °C. ¿Cuál es el tiempo aproximado de parada circulatoria \"segura\" en minutos?",
+      "options": {
+        "A": "5-10",
+        "B": "10-15",
+        "C": "60-90",
+        "D": "90-120",
+        "E": "15-60"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "El tumor frecuentemente localizado en el mediastino posterior es:",
+      "options": {
+        "A": "Timoma",
+        "B": "Linfoma",
+        "C": "Neurinoma",
+        "D": "Quiste pericárdico",
+        "E": "Teratoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿En qué lesiones vegetantes del corazón pueden llegar a verse los cuerpos hematoxilínicos de Gross?",
+      "options": {
+        "A": "Valvulitis reumática",
+        "B": "Endocarditis trombótica no bacteriana",
+        "C": "Valvulitis bacteriana subaguda",
+        "D": "Endocarditis de Libman - Sacks",
+        "E": "Endocarditis bacteriana aguda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "El tronco arterioso persistente tipo II se caracteriza porque...",
+      "options": {
+        "A": "se observa una arteria pulmonar principal común demostrable de la que nacen las ramas arteriales pulmonares.",
+        "B": "las ramas arteriales pulmonares nacen de la aorta ascendente, muy separadas una de otra.",
+        "C": "las ramas arteriales pulmonares nacen de la aorta ascendente, muy cerca una de otra.",
+        "D": "las ramas de la arteria pulmonar nacen del tronco muy cerca una de otra, pero por separado.",
+        "E": "las ramas arteriales pulmonares nacen de la aorta ascendente y tienen varias válvulas como salida."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "La cirugía Blalock-Taussig es...",
+      "options": {
+        "A": "una derivación cavopulmonar unidireccional.",
+        "B": "una derivación cavopulmonar bidireccional.",
+        "C": "una derivación arteria subclavia a vena pulmonar.",
+        "D": "una derivación cava inferior a arteria pulmonar.",
+        "E": "una derivación arteria subclavia a arteria pulmonar."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Las arterias coronarias pueden ser revascularizadas con injertos arteriales y venosos si presentan...",
+      "options": {
+        "A": "estenosis >70%, diámetro >=1.5 mm y buen lecho distal.",
+        "B": "estenosis <50% y buen lecho distal.",
+        "C": "estenosis múltiples en su lecho distal.",
+        "D": "diámetro <1 mm.",
+        "E": "estenosis tronco coronaria izquierda <20%."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Mujer de 19 años que refiere desde hace tres años sudoración excesiva en manos y pies. Antecedentes: no enfermedades previas. Examen: sudor excesivo que gotea de manos, axilas y pies. ¿Cuál es el tratamiento con mejores resultados?",
+      "options": {
+        "A": "Iontoforesis de manos y pies",
+        "B": "Aplicación de cremas tópicas a base de aluminio",
+        "C": "Inyecciones de toxina botulínica",
+        "D": "Administración de drogas anticolinérgicas como glicopirrato y oxibutinina",
+        "E": "Simpatectomía o simpaticotomía torácica bilateral"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Cuál de las patologías produce compromiso en las válvulas del corazón derecho?",
+      "options": {
+        "A": "Cardiopatía asociada con LES",
+        "B": "Endocarditis trombótica no bacteriana",
+        "C": "Cardiopatía carcinoide",
+        "D": "Endocarditis bacteriana aguda",
+        "E": "Miocarditis viral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "¿Cuál es la neoplasia auricular primaria más frecuente?",
+      "options": {
+        "A": "Sarcoma",
+        "B": "Linfoma",
+        "C": "Teratoma",
+        "D": "Mixoma",
+        "E": "Lipoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Turista americano de 72 años con diagnóstico de arteritis temporal. ¿Cuál es la lesión característica de esta patología?",
+      "options": {
+        "A": "Vasculitis granulomatosa",
+        "B": "Vasculitis necrotizante",
+        "C": "Arteritis de células gigantes",
+        "D": "Vasculitis leucocitoclástica",
+        "E": "Polivasculitis microscópica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Cuál hallazgo indica la necesidad de una intervención quirúrgica para lesión vascular sin considerar pruebas ni evaluaciones?",
+      "options": {
+        "A": "Antecedente de hemorragia moderada",
+        "B": "Vibración palpable o soplo audible",
+        "C": "Déficit de un nervio periférico",
+        "D": "Pulso reducido pero palpable",
+        "E": "Fractura cerrada"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "En la cirugía cardiaca que utiliza bypass cardiopulmonar, la protección miocárdica se realiza a través de la cardioplejía anterógrada o retrógrada; uno de los objetivos de la cardioplejía es:",
+      "options": {
+        "A": "Revascularizar las arterias coronarias con estenosis significativas",
+        "B": "Reducir notablemente la demanda de oxígeno en el corazón parado",
+        "C": "Evitar el arresto electromecánico del miocardio",
+        "D": "Aumentar el edema miocárdico",
+        "E": "Aumentar la lesión isquémica del miocardio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "La puntuación Wells se utiliza en:",
+      "options": {
+        "A": "Insuficiencia venosa crónica",
+        "B": "Linfedema",
+        "C": "Enfermedad arterial periférica",
+        "D": "Neuropatía diabética",
+        "E": "Trombosis venosa profunda"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "La cirugía Glenn clásica es:",
+      "options": {
+        "A": "Anastomosis cavopulmonar superior bidireccional",
+        "B": "Anastomosis arteria subclavia-arteria pulmonar",
+        "C": "Anastomosis sistémico pulmonar con injerto PTFE",
+        "D": "Anastomosis cavopulmonar superior unidireccional",
+        "E": "Anastomosis cava inferior-arteria pulmonar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Mujer con control tomográfico, luego de una semana, presencia de un rápido incremento en la dilatación de un aneurisma excéntrico de la arteria aórtica, con signos de inflamación adyacente, gas perivascular, ausencia de calcificaciones ateroscleróticas. ¿A qué tipo de aneurisma representa?",
+      "options": {
+        "A": "En resolución",
+        "B": "Micótico",
+        "C": "Verdadero",
+        "D": "Ateroesclerótico",
+        "E": "Inflamatorio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Varón 65 años, refiere dolor y aumento de volumen en región inguinal derecho post cateterismo cardiaco. Examen: masa pulsátil en región femoral derecha de 5 x 4 cm; no frémito; pulsos presentes. ¿Cuál es el estudio no invasivo de elección?",
+      "options": {
+        "A": "AngioTEM",
+        "B": "Angiorresonancia",
+        "C": "Arteriografía",
+        "D": "Flebografía",
+        "E": "Ecodoppler arterial"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Varón 29 años con dolor torácico y dificultad respiratoria. Antecedente: hace dos semanas herida por arma blanca en tórax. Examen: T 38 °C, FR 28X', FC 104X'; Rx tórax: radiopacidad mitad inferior HTD; Toracocentesis: líquido turbio purulento y espeso. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Administración de fibrinolíticos",
+        "B": "Administración de antibióticos",
+        "C": "Ventana torácica derecha o toracostomía abierta",
+        "D": "Drenaje intercostal derecho o toracostomía con tubo",
+        "E": "Toracotomía derecha + decorticación pulmonar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Mujer de 85 años con antecedente de cardiopatía aterosclerótica, desde hace 14 horas presenta dolor abdominal muy intenso, náusea, vómito, distensión abdominal y diarrea sanguinolenta. Examen: Pulmones MV pasa ACP; RC arrítmicos; abdomen dolor difuso a la palpación, dolor de rebote y rigidez. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Obstrucción intestinal aguda",
+        "B": "Pancreatitis aguda",
+        "C": "Perforación por úlcera péptica",
+        "D": "Isquemia mesentérica aguda",
+        "E": "Enfermedad disentérica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Varón de 20 años, sufre el impacto de proyectil de arma de fuego, en muslo izquierdo. Examen: asimetría del muslo izquierdo, herida de ingreso y salida en tercio distal; pulso poplíteo ausente, pierna y pie fríos. ¿Qué se debe indicar?",
+      "options": {
+        "A": "Fasciotomía en ambos lados del muslo",
+        "B": "Exploración con ecografía de partes blandas",
+        "C": "Angiografía en la mesa de exploración",
+        "D": "Colocar férula muslopedio",
+        "E": "Exploración extensa de extremidad afectada"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "La hernia diafragmática congénita más común es...",
+      "options": {
+        "A": "hernia a través del foramen de Morgagni.",
+        "B": "hernia a través del foramen de Bochdalek.",
+        "C": "hernia hiatal paraesofágica.",
+        "D": "eventración diafragmática.",
+        "E": "síndrome diafragma poroso."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "En lesiones vasculares de abdomen. ¿En qué consiste y para qué es útil la maniobra de Cattell-Braasch?",
+      "options": {
+        "A": "Esternotomía media con sección del tendón central del diafragma para exponer las venas hepáticas lesionadas",
+        "B": "Taponamiento del foco aparente del sangrando con presión manual y reducir el sangrado",
+        "C": "Presión de la aorta proximal en el hiato diafragmático para control de la hemorragia",
+        "D": "Abordaje transmesentérico de la aorta abdominal para control de la hemorragia",
+        "E": "Extensión medial de la raíz del mesenterio para exposición de VCI, arterias renales, aorta infrarrenal y arterias ilíacas"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "El estudio en un corazón infartado, muestra bordes deprimidos del infarto, de color rojo grisáceo. La histología revela tejido de granulación bien establecido con nuevos vasos sanguíneos y depósitos de colágeno. ¿A qué día de evolución corresponden estos cambios?",
+      "options": {
+        "A": "10-14",
+        "B": "7-9",
+        "C": "3-6",
+        "D": "1-2",
+        "E": "15-19"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "La clasificación CEAP se utiliza en:",
+      "options": {
+        "A": "Enfermedad arterial crónica",
+        "B": "Neuropatía periférica",
+        "C": "Trombosis venosa profunda",
+        "D": "Linfedema",
+        "E": "Insuficiencia venosa crónica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "La estenosis aórtica severa se diagnostica si el ecocardiograma evidencia un AVA o área de la válvula aórtica...",
+      "options": {
+        "A": "entre 1 a 1.5 cm2 y una velocidad de flujo a través de la válvula entre 3 y 4 m/s.",
+        "B": ">1.5 cm2 y una velocidad de flujo a través de la válvula de 2.5 a 2.9 m/s.",
+        "C": "<1.0 cm2 y una velocidad a través de la válvula >4 cm/s.",
+        "D": "<1.0 cm2 y una velocidad de flujo a través de la válvula >4 m/s.",
+        "E": "<1.0 cm2 y una velocidad a través de la válvula <1 m/s."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "El procedimiento de Ross consiste en reemplazar la válvula...",
+      "options": {
+        "A": "mitral con la válvula pulmonar autóloga.",
+        "B": "tricúspide con la válvula pulmonar autóloga.",
+        "C": "aórtica con la válvula pulmonar autóloga.",
+        "D": "tricúspide con la válvula mitral.",
+        "E": "pulmonar con la válvula aórtica autóloga."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Varón de 29 años, ingresa por herida punzo penetrante por arma blanca en tórax. Examen: FC 90X', FR 24X', PA 70/50 mmHg; vena yugular ingurgitada; MV pasa bien en ACP; RC rítmicos de baja intensidad. Herida 3 cm paraesternal izquierda a la altura 4° EIC. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Neumotórax a tensión",
+        "B": "Neumotórax simple",
+        "C": "Hemotórax leve",
+        "D": "Taponamiento cardíaco",
+        "E": "Lesión esófago"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "La clasificación Fontaine determina la severidad de:",
+      "options": {
+        "A": "Insuficiencia venosa crónica",
+        "B": "Enfermedad arterial periférica",
+        "C": "Linfedema",
+        "D": "Neuropatía diabética",
+        "E": "Trombosis venosa profunda"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Es indicación para realizar la revascularización coronaria híbrida:",
+      "options": {
+        "A": "Enfermedad valvular concomitante",
+        "B": "Estenosis arteria subclavia",
+        "C": "Arteria descendente anterior intramiocárdica",
+        "D": "Enfermedad aórtica arterioesclerótica severa",
+        "E": "Enfermedad pulmonar severa que impide ventilación de un solo pulmón"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "El procedimiento de Nuss se realiza en:",
+      "options": {
+        "A": "Reparación de la hernia paraesofágica",
+        "B": "Tratamiento de la hiperhidrosis palmar",
+        "C": "Corrección quirúrgica del pectus excavatum",
+        "D": "Tratamiento de la acalasia",
+        "E": "Tratamiento hernia diafragmática"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "El procedimiento de Manouguian utilizado para ampliar el anillo aórtico se realiza prolongando la aortotomía hacia la...",
+      "options": {
+        "A": "mitad del velo no coronario.",
+        "B": "unión del velo no coronario y el velo coronario derecho.",
+        "C": "unión del velo no coronario y el velo coronario izquierdo.",
+        "D": "mitad del velo coronario izquierdo.",
+        "E": "mitad del velo coronario derecho."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Varón de 19 años, sufre hace media hora herida por PAF. Examen: FC 110X', FR 28X', PA 70/50 mmHg; pulmones: matidez y MV abolido en dos tercios inferiores HTD. Herida por PAF a nivel 4° EICD por fuera de la LMC sin orificio de salida. Drenaje intercostal derecho: 1800 cc de líquido pleural hemático no burbujeo. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Radiografía tórax",
+        "B": "TEM de tórax",
+        "C": "Ecocardiograma transtorácico",
+        "D": "Toracotomía exploratoria derecha",
+        "E": "Fibrobroncoscopía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "En la enfermedad arterial periférica de miembros inferiores, un paciente que se encuentra en la etapa II de Fontaine presenta:",
+      "options": {
+        "A": "Edema",
+        "B": "Dolor en reposo",
+        "C": "Dolor en pies por las noches",
+        "D": "Claudicación intermitente",
+        "E": "Úlcera dedo pie"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "El síndrome de Marfan se asocia con:",
+      "options": {
+        "A": "Estenosis aórtica",
+        "B": "Estenosis mitral",
+        "C": "Insuficiencia aórtica e insuficiencia mitral",
+        "D": "Enfermedad coronaria",
+        "E": "Insuficiencia venosa crónica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál es la localización más frecuente del mixoma cardíaco?",
+      "options": {
+        "A": "Ventrículo izquierdo",
+        "B": "Ventrículo derecho",
+        "C": "Tabique interventricular",
+        "D": "Pericardio",
+        "E": "Aurícula izquierda"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "El aneurisma de aorta abdominal infrarrenal asintomático debe ser intervenido quirúrgicamente si su diámetro es...",
+      "options": {
+        "A": "menor a 3 cm.",
+        "B": "entre 3 y 3.9 cm.",
+        "C": "entre 4 y 4.9 cm.",
+        "D": "mayor o igual a 5.5 cm.",
+        "E": "entre 2.5 y 3 cm."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Varón 55 años fumador, hipertenso y diabético. Prueba esfuerzo positiva. Cateterismo: lesión TCI 70%. ¿Cuál es el tratamiento a seguir?",
+      "options": {
+        "A": "Intervención coronaria percutánea",
+        "B": "Solo antihipertensivos",
+        "C": "Solo antidiabéticos orales",
+        "D": "Anticoagulación con heparina bajo peso molecular",
+        "E": "Cirugía de revascularización coronaria"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

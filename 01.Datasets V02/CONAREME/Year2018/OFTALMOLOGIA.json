@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2018,
+    "exam": "OFTALMOLOGIA",
+    "source_pdf": "OFTALMOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Oftalmología",
+    "sha256_pdf": "2d5941e9fa772fc323409f3bbaf0c686d128e199bf125521b90ef41889bde438",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:10",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Oftalmología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9927,
+        "vec_max_loser": 0.0073,
+        "pix_min_winner": 0.1351,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 21226,
+      "coverage_out_chars": 21226,
+      "human_reference": "_backup_csv_verificados/Year2018/OFTALMOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 540,
+        "solo_espacios": 33,
+        "csv_antiguo_truncado": 27
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál de los músculos extraoculares es el que tiene el mayor arco de contacto?",
+      "options": {
+        "A": "Recto superior",
+        "B": "Recto inferior",
+        "C": "Oblicuo inferior",
+        "D": "Oblicuo superior",
+        "E": "Recto lateral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿A qué nivel se encuentra la separación de la retina en la retinosquisis juvenil ligada al cromosoma X?",
+      "options": {
+        "A": "Capa de fibras nerviosas",
+        "B": "Segmento externo de fotoreceptores",
+        "C": "Capa plexiforme externa",
+        "D": "Núcleo de las células bipolares",
+        "E": "Membrana limitante externa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál es la distrofia hereditaria macular más común?",
+      "options": {
+        "A": "Degeneración macular asociada a la edad",
+        "B": "Distrofia corneorretiniana cristalina de Bietti",
+        "C": "Síndrome de Alport",
+        "D": "Enfermedad de Stargardt",
+        "E": "Enfermedad de Oguchi"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Varón de 20 años, con endotropía, que presenta depresión excesiva en aducción en ambos ojos. ¿Qué patrón de endotropía le sugieren estos hallazgos?",
+      "options": {
+        "A": "V por hiperfunción de oblicuos inferiores",
+        "B": "V por hiperfunción de rectos superiores",
+        "C": "V por hipofunción de rectos mediales",
+        "D": "A por hiperfunción de rectos inferiores",
+        "E": "A por hiperfunción de oblicuos superiores"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "En la clasificación citológica de los melanomas uveales, de acuerdo a la clasificación modificada de Callender. ¿Cuál de los siguientes tipos tiene el peor pronóstico?",
+      "options": {
+        "A": "Fusiforme",
+        "B": "Adenoide",
+        "C": "Mixto",
+        "D": "Epitelioide",
+        "E": "Folicular"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Mujer de 20 años, que luego de proceso infeccioso palpebral presenta \"caída de párpados superiores\", seguido de alteraciones de la motilidad ocular, que se incrementan en el transcurso del día. Examen: ptosis bilateral, con agudeza visual 20/20 en ambos ojos y elevación del mentón. ¿Cuál de las siguientes es de mayor ayuda diagnóstica?",
+      "options": {
+        "A": "Prueba de la bolsa de hielo",
+        "B": "Campimetría computarizada",
+        "C": "Exámenes de función tiroidea",
+        "D": "Prueba de los tres pasos",
+        "E": "Prueba rojo-verde de Lancaster"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál de los siguientes se considera signo típico de la queratitis por acanthamoeba?",
+      "options": {
+        "A": "Infiltrados perineurales",
+        "B": "Placa endotelial",
+        "C": "Lesiones satélite",
+        "D": "Pseudopterigion",
+        "E": "Guttata"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es el hallazgo que se observa en las pruebas que se realizan para la evaluación de los movimientos oculares?",
+      "options": {
+        "A": "La exotropia intermitente se hace más evidente en la fijación de cerca",
+        "B": "En el cover test el movimiento del ojo no tapado indica una foria",
+        "C": "Para la medida de la exotropia se usa un prisma con base externa",
+        "D": "La presencia del ángulo kappa positivo simula una exotropia",
+        "E": "La endotropia acomodativa se hace más evidente en la fijación de lejos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "Varón de 28 años, con baja visión. Examen: queratitis punctata y pannus en ambos ojos. Examen microscópico del raspado conjuntival: linfocitos, neutrófilos y células epiteliales con cuerpos de inclusión en su citoplasma. ¿Cuál es el agente infeccioso más probable?",
+      "options": {
+        "A": "Citomegalovirus",
+        "B": "Herpes simple",
+        "C": "Chlamydia trachomatis",
+        "D": "Rubéola",
+        "E": "Treponema pallidum"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "¿Cuál es la lesión periférica que se asocia con mayor frecuencia al desprendimiento de retina regmatógeno?",
+      "options": {
+        "A": "Pavimentosa",
+        "B": "En empalizada",
+        "C": "Blanco sin presión",
+        "D": "Baba de caracol",
+        "E": "Penacho retiniano"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Cuál es el estado refractivo que se presenta con más frecuencia al nacimiento?",
+      "options": {
+        "A": "Miopía leve",
+        "B": "Astigmatismo",
+        "C": "Emetropía",
+        "D": "Hipermetropía",
+        "E": "Alta miopía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál de las siguientes es una característica de la retinopatía de la prematuridad?",
+      "options": {
+        "A": "En el estadío 5 se presenta desprendimiento de retina parcial",
+        "B": "Su tratamiento es solo con laserterapia en estadio 5",
+        "C": "Se asocia a ángulo kappa positivo por un arrastre temporal de la mácula",
+        "D": "La zona 1 tiene un diámetro variable",
+        "E": "La enfermedad plus consiste en tracción retinal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Qué tipo de colágeno, forma principalmente la cápsula del cristalino?",
+      "options": {
+        "A": "II",
+        "B": "V",
+        "C": "IV",
+        "D": "VIII",
+        "E": "XI"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Mujer de 33 años, obesa, desde hace 6 meses presenta episodios de cefalea, vómitos y amaurosis fugaz. Examen: agudeza visual 20/20 y discos ópticos elevados en ambos ojos. Resonancia magnética del cerebro es referida como normal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Neuropatía óptica isquémica",
+        "B": "Neuritis óptica",
+        "C": "Papilopatía diabética",
+        "D": "Pseudotumor cerebri",
+        "E": "Neurorretinitis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál es la característica del estrabismo con patrón en A o en V?",
+      "options": {
+        "A": "La hiperfunción del oblicuo inferior se asocia a patrón en A",
+        "B": "La acción aumentada del recto medial en la infraversión produce un patrón en A",
+        "C": "La debilidad de los rectos laterales en la supraversión produce un patrón en V",
+        "D": "Hipofunción del oblicuo superior se compensa con cabeza inclinada al lado de lesión",
+        "E": "La hipofunción de los rectos superiores produce un patrón en V"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿Qué patógeno se asocia más frecuentemente a blefaritis angular?",
+      "options": {
+        "A": "Actinomyces israelii",
+        "B": "Moraxella lacunata",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Streptococcus pyogenes",
+        "E": "Corynebacterium diphtheriae"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "En la degeneración macular relacionada con la edad. ¿Cuál es el tipo de drusas que tiene mayor probabilidad de progresar a neovascularización coroidea?",
+      "options": {
+        "A": "Dura",
+        "B": "Blanda",
+        "C": "Cuticular",
+        "D": "Calcificada",
+        "E": "Atrófica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuál es el procedimiento en la corrección quirúrgica del nistagmus horizontal?",
+      "options": {
+        "A": "Alejar el punto nulo de la posición primaria de la mirada",
+        "B": "Desplazar los ojos hacia arriba",
+        "C": "Desplazar los ojos hacia la dirección de la tortícolis",
+        "D": "Desplazar los ojos a la posición preferida de la mirada",
+        "E": "Alejar los ojos de la posición primaria de la mirada"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Cuál es la composición de las partículas que se acumulan en el gel vítreo de los pacientes con hialosis asteroidea?",
+      "options": {
+        "A": "Colesterol",
+        "B": "Calcio",
+        "C": "Amiloide",
+        "D": "Hierro",
+        "E": "Cobre"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Por qué se caracterizan los hemangiomas capilares de la órbita?",
+      "options": {
+        "A": "Son los tumores orbitarios más frecuentes en adultos",
+        "B": "Suelen tener un flujo de sangre bajo",
+        "C": "Son tumores benignos primarios de la órbita en niños azulado",
+        "D": "La mayoría de estos tumores son profundos",
+        "E": "Los más superficiales tienen textura dura y de color"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Cuál es una característica de la obstrucción congénita del conducto nasolacrimal?",
+      "options": {
+        "A": "Es usual que produzca celulitis preseptal",
+        "B": "Es secundaria a conjuntivitis bacteriana",
+        "C": "La prueba con fluoresceina está contraindicada",
+        "D": "Los síntomas aparecen en los primeros dos meses de vida",
+        "E": "La mayoria de casos requieren corrección quirúrgica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cuál es la patología que se presenta como una masa indolora de crecimiento progresivo, cuando se localizan en la conjuntiva se muestran como una lesión asalmonada característica?",
+      "options": {
+        "A": "Hemangioma",
+        "B": "Melanoma",
+        "C": "Lipoma",
+        "D": "Linfoma",
+        "E": "Adenoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Varón de 22 años, alto, delgado, con extremidades largas y aracnodactilia; acude por pérdida súbita de la visión del ojo derecho. Tiene hermano con lesión similar. Examen: cristalino subluxado en dicho ojo. Ante la sospecha de un defecto genético. ¿Cuál es la molécula que se compromete en este caso?",
+      "options": {
+        "A": "Ceruloplasmina",
+        "B": "Galactosidasa",
+        "C": "Fibrilina",
+        "D": "Hexosaminidasa",
+        "E": "Colágeno"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "El melanocitoma de la papila óptica es un:",
+      "options": {
+        "A": "Coristoma",
+        "B": "Sarcoma",
+        "C": "Carcinoma",
+        "D": "Teratoma",
+        "E": "Hamartoma"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Lactante con catarata congénita, sordera y anomalías cardiacas. Ante la sospecha de una infección intrauterina. ¿Cuál es el agente patológico más probable?",
+      "options": {
+        "A": "Virus de rubéola",
+        "B": "Citomagolovirus",
+        "C": "Herpes simple",
+        "D": "Toxoplasma gondii",
+        "E": "Treponema pallidum"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "¿Cuál de las siguientes localizaciones del melanoma maligno intraocular es de mejor pronóstico?",
+      "options": {
+        "A": "Pars plicata",
+        "B": "Pars plana",
+        "C": "Coroides",
+        "D": "Iris",
+        "E": "Extraescleral"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Varón de 30 años, hace 8 meses se le realizó cirugía de fractura de órbita izquierda, acude por diplopía. Examen: supraversión aumentada e infraversión limitada en ojo izquierdo. Test de ducción forzada en ojo izquierdo: negativo. ¿Cuál es el diagnóstico en el ojo izquierdo?",
+      "options": {
+        "A": "Atrapamiento del recto inferior",
+        "B": "Hiperfunción del oblicuo superior",
+        "C": "Paresia traumática del recto superior",
+        "D": "Atrapamiento del recto superior",
+        "E": "Paresia traumática del recto inferior"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Por qué se caracteriza el glioma del nervio óptico?",
+      "options": {
+        "A": "No compromete el quiasma",
+        "B": "Afecta principalmente en la primera década de vida",
+        "C": "La quimioterapia con vincristina es ineficaz",
+        "D": "Se caracteriza por proptosis axial dolorosa",
+        "E": "Mayoría de casos evolucionan de forma agresiva"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál es la característica de la retinopatía asociada al cáncer?",
+      "options": {
+        "A": "Tiende a ser unilateral",
+        "B": "No parecen relacionarse con autoantígenos contra la retina",
+        "C": "De evolución lenta con compromiso visual mínimo",
+        "D": "Causada por apoptosis de las células retinales",
+        "E": "El Ca de mama de células pequeñas es la causa más común"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "El arco senil, histológicamente presenta depósito ...",
+      "options": {
+        "A": "de cobre en la membrana de Descemet.",
+        "B": "estromal de lípidos.",
+        "C": "de hierro en la membrana de Bowman.",
+        "D": "estromal de calcio.",
+        "E": "estromal de plata."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "El síndrome de Irvine-Gass se produce después de la cirugía de la catarata. ¿En qué consiste?",
+      "options": {
+        "A": "Agujero macular",
+        "B": "Desprendimiento coroideo",
+        "C": "Edema macular cistoide",
+        "D": "Hemovitreo",
+        "E": "Glaucoma a células fantasmas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Qué forma de rabdomiosarcoma es la de peor pronóstico?",
+      "options": {
+        "A": "Embrionario",
+        "B": "Alveolar",
+        "C": "Botrioide",
+        "D": "Pleomorfo",
+        "E": "Plexiforme"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál es la forma de artritis reumatoidea juvenil que se asocia más frecuentemente a la iridociclitis?",
+      "options": {
+        "A": "Poliarticular",
+        "B": "Enfermedad de Still",
+        "C": "Pauciarticular",
+        "D": "Nodular",
+        "E": "Heterocrómica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Varón de 30 años, con baja visión de ojo derecho, presenta edema de nervio óptico y estrella macular. ¿Cuál es el organismo causal más probable?",
+      "options": {
+        "A": "Mycobacterium leprae",
+        "B": "Toxoplasma gondii",
+        "C": "Candida albicans",
+        "D": "Histoplasma capsulatum",
+        "E": "Bartonella henselae"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "¿Qué sistema de clasificación se usa, para evaluar la configuración del ángulo de la cámara anterior?",
+      "options": {
+        "A": "Schwalbe",
+        "B": "Schwann",
+        "C": "Schlemm",
+        "D": "Schnyder",
+        "E": "Spaeth"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Varón de 28 años, con dolor ocular progresivo en ojo derecho que se asocia a edema palpebral de hace 5 días. Examen: agudeza visual 20/70 en dicho ojo, con proptosis, oftalmoplejía y dolor a la palpación; además se evidencia secreción purulenta por vía nasal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Rabdomiosarcoma",
+        "B": "Neuroblastoma",
+        "C": "Celulitis orbitaria",
+        "D": "Enfermedad de Graves",
+        "E": "Sarcoidosis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Neonato, en UCI presenta secreciones conjuntivales abundantes y test de Seidel positivo. Ante la sospecha de un germen agresivo que no requiere lesión epitelial previa para provocar una úlcera corneal. ¿Cuál es el probable agente causal?",
+      "options": {
+        "A": "Chlamydia trachomatis",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Staphilococcus aureus",
+        "D": "Streptococcus pneumoniae",
+        "E": "Neisseria meningitidis"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál de las siguientes asociaciones en relación a las diferentes etiologías de la catarata congénita es correcta?",
+      "options": {
+        "A": "La galactosemia presenta hipoplasia del nervio óptico",
+        "B": "La rubéola congénita se acompaña de retinopatía en en gota de cera sal y pimienta",
+        "C": "El síndrome de Down se caracteriza por microfaquia",
+        "D": "El síndrome de Edwards presenta macrocórnea",
+        "E": "La infección por citomegalovirus presenta periflebitis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿Cuál es la característica de la parálisis diabética del tercer par craneal?",
+      "options": {
+        "A": "Aducción en posición primaria de la mirada",
+        "B": "Limitación de la abeducción",
+        "C": "Usualmente no compromete la pupila",
+        "D": "Midriasis en el ojo contralateral",
+        "E": "No se compromete el párpado"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Mujer de 50 años, con hinchazón tensa, eritematosa y dolorosa del párpado inferior que se extiende a la región nasal. Examen: secreción purulenta por el punto lagrimal inferior. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Celulitis orbitaria",
+        "B": "Dacriocistocele",
+        "C": "Absceso subperiostico",
+        "D": "Mucocele",
+        "E": "Dacriocistitis"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Cuál es la localización menos frecuente del carcinoma de células basales?",
+      "options": {
+        "A": "Párpado inferonasal",
+        "B": "Canto lateral",
+        "C": "Párpado superior",
+        "D": "Canto medial",
+        "E": "Párpado inferior"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "La tasa de producción normal del humor acuoso en el ser humano es aproximadamente … μl/min.",
+      "options": {
+        "A": "7",
+        "B": "2",
+        "C": "9",
+        "D": "10",
+        "E": "15"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "¿A qué nivel se realiza la fototransducción?",
+      "options": {
+        "A": "Núcleo de los fotoreceptores",
+        "B": "Segmentos externos de los fotoreceptores",
+        "C": "Células bipolares hiperpolarizantes",
+        "D": "Membrana limitante interna",
+        "E": "Células ganglionares"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Los colobomas del iris muestran localización típica en forma de lágrima con la cola en dirección:",
+      "options": {
+        "A": "Inferotemporal",
+        "B": "Superonasal",
+        "C": "Inferonasal",
+        "D": "Superotemporal",
+        "E": "Superior a horas 12"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuál es el patógeno que se asocia a epidemias de conjuntivitis hemorrágica aguda?",
+      "options": {
+        "A": "Molluscum contagiosum",
+        "B": "Corynebacterium diphtheriae",
+        "C": "Enterovirus 70",
+        "D": "Vibrio cholerae",
+        "E": "Virus de la influenza"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Varón de 25 años, con compromiso traumático de lóbulo temporal izquierdo. ¿Cuál es la lesión campimétrica que afecta al ojo izquierdo?",
+      "options": {
+        "A": "Cuadrantanopsia nasal superior",
+        "B": "Hemianopsia altitudinal inferior",
+        "C": "Cuadrantanopsia temporal inferior",
+        "D": "Hemianopsia temporal",
+        "E": "Cuadrantanopsia temporal superior"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Varón de 30 años, hace 7 días sufre trauma ocular penetrante con prolapso de úvea por astilla de madera en ojo derecho. A los 3 meses de la reparación quirúrgica presenta visión borrosa y nódulos de Dallen-Fuchs en la oftalmoscopía de ambos ojos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Sarcoidosis",
+        "B": "Trauma no diagnosticado",
+        "C": "Oftalmía simpática",
+        "D": "Necrosis retiniana aguda",
+        "E": "Vogt-Koyanagi-Harada"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Mujer de 65 años, hace 2 días se le realizó cirugía reparadora de ptosis de párpado superior en ojo derecho. Examen: fenómeno de Bell muy débil en dicho ojo. ¿Cuál es la complicación que se espera en esta situación?",
+      "options": {
+        "A": "Queratitis neurotrófica",
+        "B": "Parálisis facial",
+        "C": "Paresia del recto superior",
+        "D": "Queratitis por exposición",
+        "E": "Exoftalmos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Varón de 60 años, hipermétrope, con dolor ocular súbito en ojo derecho. Examen: midriasis fija, congestión ocular, edema corneal y presión ocular elevada. ¿Cuál de los siguientes fármacos está contraindicado?",
+      "options": {
+        "A": "Timolol",
+        "B": "Pilocarpina",
+        "C": "Manitol",
+        "D": "Atropina",
+        "E": "Acetazolamida"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál es la longitud anteroposterior promedio en mm del ojo en el recién nacido?",
+      "options": {
+        "A": "17",
+        "B": "23",
+        "C": "11",
+        "D": "20",
+        "E": "14"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Qué caracteriza a la endotropia acomodativa?",
+      "options": {
+        "A": "Todas son adquiridas",
+        "B": "Inician generalmente en la adolescencia",
+        "C": "No tienen relación con la herencia",
+        "D": "La refractiva se corrige con lentes esféricos negativos",
+        "E": "No cursan con ambliopía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuál es el germen que se encuentra con más frecuencia en la queratopatía cristalina infecciosa?",
+      "options": {
+        "A": "Haemophilus influenza",
+        "B": "Chlamydia trachomatis",
+        "C": "Klebsiella pneumoniae",
+        "D": "Streptococcus viridans",
+        "E": "Neisseria gonorrhoeae"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál es la manifestación más común de las paperas?",
+      "options": {
+        "A": "Queratitis",
+        "B": "Dacrioadenitis",
+        "C": "Blefaritis",
+        "D": "Retinitis",
+        "E": "Vitreitis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Varón de 32 años, con diplopía y disminución de la visión en el ojo derecho secundario a accidente automovilístico. Examen del OD: agudeza visual 20/100, esotropia, proptosis, fondo de ojo: edema de papila con dilatación y tortuosidad venosa, presencia de soplo al auscultar la órbita derecha, ojo izquierdo normal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Oftalmopatía de Graves",
+        "B": "Celulitis preseptal",
+        "C": "Fístula carótido-cavernosa",
+        "D": "Dacrioadenitis",
+        "E": "Isquemia del segmento anterior"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuántas capas tiene la membrana de Bruch?",
+      "options": {
+        "A": "5",
+        "B": "1",
+        "C": "3",
+        "D": "7",
+        "E": "4"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "En la angiografía retiniana con fluoresceína sódica, dicha sustancia, emite una luz fluorescente a una longitud de onda de ... nm.",
+      "options": {
+        "A": "520 - 530",
+        "B": "465 - 490",
+        "C": "790 - 805",
+        "D": "365 - 380",
+        "E": "690 - 685"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "De acuerdo al desarrollo embriológico normal del ojo, los capilares de la retina llegan a la porción nasal de la ora serrata, al mes ..... de edad gestacional.",
+      "options": {
+        "A": "9",
+        "B": "7",
+        "C": "6",
+        "D": "8",
+        "E": "5"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Cuál es el lugar donde se ofrece la mayor resistencia al flujo del humor acuoso?",
+      "options": {
+        "A": "Malla esclerocorneal",
+        "B": "Malla uveal",
+        "C": "Pared externa de canal de Schlemm",
+        "D": "Venas acuosas",
+        "E": "Tejido conectivo yuxtacanalicular"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "En el desarrollo embriológico del ojo. ¿De dónde procede el músculo esfínter del iris?",
+      "options": {
+        "A": "Mesodermo",
+        "B": "Cresta neural",
+        "C": "Neuroectodermo",
+        "D": "Ectodermo superficial",
+        "E": "Mesénquima"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "La sutura de fijación posterior de Faden del recto superior se usa para corregir...",
+      "options": {
+        "A": "síndrome de Duane.",
+        "B": "oftalmoplejia internuclear.",
+        "C": "síndrome de Möbius.",
+        "D": "desviación vertical disociada.",
+        "E": "fibrosis de la vaina del oblicuo superior."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuál es el signo de la papila que tipifica a la hipoplasia del nervio óptico?",
+      "options": {
+        "A": "Megalopapila",
+        "B": "Coloboma",
+        "C": "Foseta óptica",
+        "D": "Doble anillo",
+        "E": "Drusas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Qué arteria o arterias irrigan la porción prelaminar del nervio óptico?",
+      "options": {
+        "A": "Central de la retina",
+        "B": "Ciliares cortas posteriores",
+        "C": "Ciliares largas anteriores",
+        "D": "Meningeas",
+        "E": "Etmoidal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Varón de 56 años, anticoagulado, que luego de levantamiento de una carga pesada presenta disminución de la visión. Fondo de ojo: hemorragias múltiples bajo la membrana limitante interna en la zona de la mácula en ambos ojos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Degeneración macular asociada a la edad",
+        "B": "Coriorretinopatía serosa central",
+        "C": "Retinopatía diabética",
+        "D": "Retinopatía de Valsalva",
+        "E": "Estrías angioides"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Mujer de 69 años, con artritis reumatoide, con dolor moderado, enrojecimiento y disminución de la visión del ojo izquierdo. Examen: queratitis ulcerativa periférica. ¿Qué otra patología se puede agregar a la lesión del ojo y que se relacione con la enfermedad reumatoide?",
+      "options": {
+        "A": "Pseudoexfoliación",
+        "B": "Agujero macular",
+        "C": "Exoftalmos",
+        "D": "Escleritis",
+        "E": "Iris Plateau"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "La conjuntivitis alérgica es una reacción de hipersensibilidad tipo:",
+      "options": {
+        "A": "II",
+        "B": "III",
+        "C": "I",
+        "D": "IV",
+        "E": "V"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál de las siguientes es parte de la triada clásica del síndrome de Reiter?",
+      "options": {
+        "A": "Iritis",
+        "B": "Escleritis",
+        "C": "Glaucoma",
+        "D": "Conjuntivitis",
+        "E": "Queratitis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es la característica de la enfermedad de Coats?",
+      "options": {
+        "A": "Telangiectasia retiniana idiopática con exudación",
+        "B": "Hay un marcado predominio femenino",
+        "C": "Telangiectasia solo en periferie de retina",
+        "D": "No cursa con desprendimiento de retina exudativo",
+        "E": "Frecuente neovascularización del segmento posterior"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Varón de 25 años, en el que se descarta estrabismo manifiesto. En prueba de fijación lejana con las cuatro luces de Worth: refiere ver cuatro luces. Se concluye que el paciente tiene...",
+      "options": {
+        "A": "visión binocular única.",
+        "B": "supresión derecha.",
+        "C": "supresión izquierda.",
+        "D": "diplopía.",
+        "E": "supresión alternante."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Mujer de 79 años, operada en tres oportunidades de \"chalazion\", localizados en el mismo lugar del párpado superior izquierdo. Examen: párpado engrosado con lesión nodular dura de color amarillento que infiltra la dermis. Desea operarse por cuarta vez. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Melanoma maligno",
+        "B": "Carcinoma de células basales",
+        "C": "Carcinoma epidermoide",
+        "D": "Carcinoma de células sebáceas",
+        "E": "Queratoacantoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "De las siguientes enfermedades fúngicas de la órbita. ¿Cuál es la más frecuente?",
+      "options": {
+        "A": "Aspergilosis",
+        "B": "Candidiasis",
+        "C": "Cromomicosis",
+        "D": "Ficomicosis",
+        "E": "Micetomas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "La vasculatura fetal persistente se asocia a:",
+      "options": {
+        "A": "Simblefaron",
+        "B": "Microftalmia",
+        "C": "Vitíligo",
+        "D": "Papiledema",
+        "E": "Hifema"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Neonato que presenta epífora, fotofobia y blefaroespasmo. ¿Cuál es el hallazgo ocular que corresponde con el diagnóstico más probable?",
+      "options": {
+        "A": "Prueba de Jones positiva",
+        "B": "Estrias de Haab",
+        "C": "Microcórnea",
+        "D": "Hipoestesia corneal",
+        "E": "Aniridia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Varón de 30 años, con amaurosis del ojo derecho posterior a sección traumática de nervio óptico. El ojo izquierdo no presenta lesiones. ¿Cómo se presentan las pupilas al examen de las reacciones pupilares?",
+      "options": {
+        "A": "Anisocóricas con midriasis mayor en OD",
+        "B": "Anisocóricas con miosis mayor en OI",
+        "C": "Se encuentran isocóricas",
+        "D": "Pupila de OD no presenta reflejo consensual",
+        "E": "Ambas pupilas no responden al estímulo luminoso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál de las siguientes alteraciones corresponde al síndrome de Horner congénito?",
+      "options": {
+        "A": "Hiperhidrosis",
+        "B": "Nevus de iris",
+        "C": "Retracción palpebral",
+        "D": "Miosis",
+        "E": "Estrabismo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Cuál es la característica de las drusas del nervio óptico?",
+      "options": {
+        "A": "La mayoría no presentan alteraciones campimétricas",
+        "B": "Son unilaterales con mayor frecuencia",
+        "C": "Se pueden asociar a retinosis pigmentaria",
+        "D": "Drusas enterradas son más frecuentes en adultos",
+        "E": "Son de crecimiento rápidamente progresivo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿En qué tipo de glaucoma es más efectiva la trabeculoplastia con láser de argón?",
+      "options": {
+        "A": "Pigmentario",
+        "B": "Congénito",
+        "C": "Agudo",
+        "D": "Neovascular",
+        "E": "Traumático"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Mujer de 47 años, acude a refracción por presbicia. Examen: anisocoria con midriasis, movimientos vermiformes de borde pupilar y pobre respuesta a la luz en el ojo derecho, ojo izquierdo normal, movimientos oculares sin alteración. La alteración pupilar se conoce como pupila de:",
+      "options": {
+        "A": "Marcus Gunn",
+        "B": "Adie",
+        "C": "Argyll Robertson",
+        "D": "Wernicke",
+        "E": "Weber"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿A qué nivel ocurre usualmente la obstrucción congénita del sistema de drenaje lagrimal?",
+      "options": {
+        "A": "Válvula de Rosenmüller",
+        "B": "Canalículo común",
+        "C": "Saco lagrimal",
+        "D": "Ligamento cantal medial",
+        "E": "Válvula de Hasner"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuál es la zona más delgada de la cápsula del cristalino?",
+      "options": {
+        "A": "Ecuatorial superior",
+        "B": "Anterior",
+        "C": "Ecuatorial inferior",
+        "D": "Posterior",
+        "E": "Anterior paracentral"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "En cuanto al síndrome de Duane se piensa que es una anomalía del desarrollo del … par craneal.",
+      "options": {
+        "A": "VI",
+        "B": "III",
+        "C": "IV",
+        "D": "VII",
+        "E": "V"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "¿Cuál es el serotipo de la Chlamydia trachomatis que causa la conjuntivitis de inclusión del adulto?",
+      "options": {
+        "A": "A–C",
+        "B": "D–K",
+        "C": "L1, L2, L3",
+        "D": "3,4 y 7",
+        "E": "8, 19 y 37"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "¿Cuál es la indicación quirúrgica de la intervención de Knapp?",
+      "options": {
+        "A": "Ptosis congénita que no mejora con técnica Fasanella",
+        "B": "Blefaroplastía superior",
+        "C": "Carcinoma basocelular",
+        "D": "Reconstrucción palpebral en defectos graves",
+        "E": "Parálisis del oblicuo superior y recto superior en el mismo ojo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Cuál es la causa hereditaria más frecuente de desprendimiento de retina en niños?",
+      "options": {
+        "A": "Síndrome de Stickler",
+        "B": "Síndrome de Wagner",
+        "C": "Retinopatía de la prematuridad",
+        "D": "Amaurosis congénita de Leber",
+        "E": "Distrofia vitreorretiniana de Goldmann-Favre"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "El antagonista contralateral del músculo recto superior del ojo derecho es el ... del ojo izquierdo:",
+      "options": {
+        "A": "oblicuo superior",
+        "B": "oblicuo inferior",
+        "C": "recto inferior",
+        "D": "recto superior",
+        "E": "recto medial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "En la conmoción retiniana, cuando se evidencia un área de blanqueamiento retiniano a nivel de la mácula, recibe la denominación de edema de:",
+      "options": {
+        "A": "Bonnet",
+        "B": "Cogan",
+        "C": "Paton",
+        "D": "Berlín",
+        "E": "Lander"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Frente a la sospecha de una úlcera corneal micótica, luego del examen microbiológico del raspado corneal se plantea el uso de un fármaco que se encuentre en el grupo de los polienos. ¿Cuál de los siguientes es el que se recomienda?",
+      "options": {
+        "A": "Flucitosina",
+        "B": "Ketoconazol",
+        "C": "Natamicina",
+        "D": "Fluconazol",
+        "E": "Miconazol"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Mujer de 65 años, con dolor y enrojecimiento del párpado inferior izquierdo, con secreción purulenta permanente por ese ojo. Examen: salida de material granular abundantes al presionar sobre el canalículo lagrimal inferior. ¿Cuál es la composición más probable de dichos gránulos?",
+      "options": {
+        "A": "Colesterol",
+        "B": "Fosfato",
+        "C": "Ferritina",
+        "D": "Azufre",
+        "E": "Zinc"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿Cuál es característica de la parálisis del músculo oblicuo inferior?",
+      "options": {
+        "A": "El test de ducción forzada es positivo",
+        "B": "Se describe como elevación insuficiente en abeducción",
+        "C": "Se acompaña de hipofunción del oblícuo superior",
+        "D": "Tiene un patrón en V",
+        "E": "Tiene un patrón en A"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Cuál es la característica del glaucoma congénito?",
+      "options": {
+        "A": "Es más frecuente en varones",
+        "B": "Es unilateral en dos tercios de los pacientes",
+        "C": "Se produce en 1 de cada 1000 nacimientos",
+        "D": "Es más frecuente en la raza asiática",
+        "E": "Debuta a los 3 a 4 años de edad"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es el tipo de reacción de hipersensibilidad que se presenta en la queratitis disciforme?",
+      "options": {
+        "A": "II",
+        "B": "I",
+        "C": "IV",
+        "D": "III",
+        "E": "V"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cuál de los siguientes se considera el agente causal más frecuente de endoftalmitis postoperatoria aguda?",
+      "options": {
+        "A": "Haemophilus influenzae",
+        "B": "Staphilococcus epidermidis",
+        "C": "Propionibacterium acnes",
+        "D": "Klebsiella pneumoniae",
+        "E": "Escherichia coli"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Mujer de 72 años, muestra fibrosis conjuntival subepitelial, simbléfaron, bandas conjuntivales fibróticas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Conjuntivitis de inclusión",
+        "B": "Conjuntivocalasia",
+        "C": "Carcinoma epidermoide invasivo",
+        "D": "Penfigoide ocular cicatricial",
+        "E": "Granulomatosis de Wegener"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Cuál de las siguientes se asocia a la presentación de catarata en \"árbol de navidad\"?",
+      "options": {
+        "A": "Distrofia miotónica",
+        "B": "Diabetes",
+        "C": "Galactosemia",
+        "D": "Glaucoma agudo",
+        "E": "Trauma contuso"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "En los casos agudos del seudotumor orbitario con componente de miositis, los tendones de los músculos extraoculares...",
+      "options": {
+        "A": "se encuentran adelgazados.",
+        "B": "se necrosan.",
+        "C": "pueden estar engrosados.",
+        "D": "se calcifican.",
+        "E": "no se comprometen."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es el poder en dioptrías de un lente esférico positivo cuya distancia focal es 12.5 cm?",
+      "options": {
+        "A": "25",
+        "B": "8",
+        "C": "12.5",
+        "D": "4",
+        "E": "1.25"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Cuál de los siguientes defectos del campo visual es el más precoz en el desarrollo del glaucoma?",
+      "options": {
+        "A": "Escotomas paracentrales",
+        "B": "Cuña temporal",
+        "C": "Escotoma centrocecal",
+        "D": "Hemianopsia temporal",
+        "E": "Escotoma anular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Varón de 48 años, alcohólico crónico, hace tres meses con disminución progresiva de la agudeza visual bilateral. Examen: agudeza visual 20/400, alteración de la visión de colores, palidez de papila y en la campimetría escotoma cecocentral en ambos ojos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Neuropatía óptica de Leber",
+        "B": "Papila de Bergmeister",
+        "C": "Craneofaringioma",
+        "D": "Neuropatía óptica nutricional",
+        "E": "Adenoma de hipófisis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál es el defecto del campo visual más característico de la neuritis óptica?",
+      "options": {
+        "A": "Arcuato",
+        "B": "Paracentral",
+        "C": "Escalón nasal",
+        "D": "Escotoma central",
+        "E": "Altitudinal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuál es la característica de la dacriocistitis aguda?",
+      "options": {
+        "A": "Generalmente es por obstrucción del conducto nasolagrimal",
+        "B": "Las bacterias gramnegativas son las más frecuentes",
+        "C": "Las bacterias grampositivas son más comunes en diabéticos",
+        "D": "La canaliculotomía es el tratamiento de elección",
+        "E": "Son comunes los gérmenes atípicos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "¿Cuál es la causa más frecuente de ceguera?",
+      "options": {
+        "A": "Catarata",
+        "B": "Glaucoma",
+        "C": "Tracoma",
+        "D": "Retinopatía diabética",
+        "E": "Xeroftalmía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

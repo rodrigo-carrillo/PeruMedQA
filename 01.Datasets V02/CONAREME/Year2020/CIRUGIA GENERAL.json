@@ -1,0 +1,1450 @@
+{
+  "metadata": {
+    "year": 2020,
+    "exam": "CIRUGIA GENERAL",
+    "source_pdf": "CIRUGIA GENERAL.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Cirugía General",
+    "sha256_pdf": "c34907aeafcded431662d885332924a49dff9fae0c163df8c519227e2e6f023a",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:27",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 13,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Cirugía General",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.995,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.5978,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 28294,
+      "coverage_out_chars": 28294,
+      "human_reference": "_backup_csv_verificados/Year2020/CIRUGIA GENERAL.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 80,
+        "identico": 520
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Varón de 50 años, procedente de los andes, ingresa a la emergencia por dolores cólicos abdominales intensos, sensación de náuseas sin vómitos y ausencia de flatos. Examen: Abdomen globuloso, timpánico, rebote (++).doloroso a la palpación en hemiabdomen izquierdo. RHA (-). ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Diverticulitis de sigma",
+        "B": "Vólvulo gástrico",
+        "C": "Obstrucción yeyunal",
+        "D": "Vólvulo de sigmoides",
+        "E": "Intususcepción ileal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuál es la indicación absoluta para una laparotomía de urgencia?",
+      "options": {
+        "A": "Herida penetrante",
+        "B": "Shock hemorrágico",
+        "C": "Herida por proyectil de arma de fuego",
+        "D": "Plastrón apendicular",
+        "E": "Eventración encarcerada"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Varón de 25 años, ingresa a emergencia por presentar hace 2 días dolor abdominal difuso inicialmente en región periumbilical, que hoy se localiza en fosa iliaca derecha; se acompaña de malestar general, náuseas, vómitos y sensación de alza térmica. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Laparotomía exploratoria",
+        "B": "Continuar con observación médica",
+        "C": "Repetir exámenes auxiliares",
+        "D": "Iniciar antibióticos rápidamente",
+        "E": "Repetir tomografía computarizada"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Varón de 30 años, tratado hasta en dos oportunidades por enfermedad péptica, ingresa por dolores abdominales difusos. Al examen se encuentra \"abdomen en tabla\" y el estudio de secreción peritoneal informa la presencia de abundantes grampositivos. Rx: aire libre en cavidad peritoneal ¿Cuál es el tipo de perforación más probable?",
+      "options": {
+        "A": "Yeyunal",
+        "B": "Apendicular",
+        "C": "Vesical",
+        "D": "Colon",
+        "E": "Gástrica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "En relación a la vascularización del recto, Se conoce que la arteria:",
+      "options": {
+        "A": "Hemorroidal media nace directamente de la aorta",
+        "B": "La mesentérica superior termina en la hemorroidal superior",
+        "C": "Hemorroidal superior es rama de la mesentérica inferior",
+        "D": "Hemorroidal inferior es rama de mesentérica inferior",
+        "E": "Mesentérica superior nace en la iliaca común"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Varón de 30 años, sufre accidente de tránsito y presenta herida abierta en cara anterior de parrilla costal derecha. Examen: hipotensión arterial, ingurgitación yugular y disminución de ruidos respiratorios en hemitórax derecho. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Herida penetrante en tórax",
+        "B": "Taponamiento cardiaco",
+        "C": "Contusión pulmonar",
+        "D": "Tórax flácido",
+        "E": "Neumotórax simple"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Varón de 30 años, quien sufre accidente automovilístico, ingresa al establecimiento de salud con diagnóstico de politraumatismo múltiple. ¿Cuál es el examen auxiliar indicado para descartar una fractura pélvica?",
+      "options": {
+        "A": "Lavado peritoneal",
+        "B": "Radiografía simple de abdomen",
+        "C": "Resonancia magnética",
+        "D": "Radiografía de colon con contraste",
+        "E": "Cistografía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Varón de 20 años, que sufre caída sobre rodilla derecha, y se provoca herida contusa. A posteriori hay una formación de un exudado fibrinoso sobre la herida. ¿Este hallazgo a que fase de la cicatrización pertenece?",
+      "options": {
+        "A": "Proliferación",
+        "B": "Remodelado",
+        "C": "Inflamatoria",
+        "D": "Maduración",
+        "E": "Regeneración"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál es el síntoma característico en la obstrucción del colon izquierdo ocasionada por neoplasias?",
+      "options": {
+        "A": "Estreñimiento crónico",
+        "B": "Estreñimiento súbito",
+        "C": "Diarreas y rectorragias",
+        "D": "Sensación de hambre",
+        "E": "Fiebre en picos altos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Varón de 60 años, con diagnóstico de adenocarcinoma en el cuerpo gástrico en etapas II y III. ¿Cuál es el tratamiento más aconsejado?",
+      "options": {
+        "A": "Gastrectomía en Y de Roux",
+        "B": "Resección tipo BII",
+        "C": "Quimioterapia y radioterapia",
+        "D": "Gastrectomía total",
+        "E": "Resección BII, quimio y radioterapia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Varón de 20 años, consulta por tener dolor durante y después de la defecación se acompaña de rectorragia. Examen: región perianal sensible a la palpación. En canal y orificio anal se encuentra laceración que va desde el margen anal hasta la línea dentada en cara posterior ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Fístula perianal",
+        "B": "Desgarro anal",
+        "C": "Absceso perianal",
+        "D": "Hemorroides interna",
+        "E": "Fisura anal"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Varón de 40 años, refiere dolor abdominal difuso acompañado de náuseas y vómitos alimentarios con ausencia de deposiciones. Examen: abdomen ligeramente distendido, ausencia de ruidos hidroaéreos. Rx. abdomen de pie: múltiples niveles hidroaéreos en mesogastrio y signo de “pila de monedas”. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Válvula ileocecal incompetente",
+        "B": "Obstrucción intestinal por hernia de Litré",
+        "C": "Bridas y adherencias colónicas",
+        "D": "Tumor obstructivo de colon derecho",
+        "E": "Obstrucción intestinal de asas delgadas"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Varón de 22 años llega a emergencia por presentar dolor abdominal difuso, acompañado de calambres abdominales y escalofríos con sensación de alza térmica desde hace dos días y diarreas líquidas. Examen: abdomen tenso y no se palpan masas, puño percusión negativa. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hematoma de los rectos",
+        "B": "Absceso perinefrítico",
+        "C": "Apendicitis epiploica",
+        "D": "Gastroenteritis aguda",
+        "E": "Apendicitis aguda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "En presencia de un íleo por cálculo biliar, la obstrucción frecuentemente se ubica a nivel del:",
+      "options": {
+        "A": "Yeyuno",
+        "B": "Íleon terminal",
+        "C": "Colon derecho",
+        "D": "Duodeno",
+        "E": "Íleon proximal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Para determinar el grado de necrosis que se produce en el páncreas, luego de un cuadro de pancreatitis aguda grave. ¿Qué examen auxiliar es el indicado?",
+      "options": {
+        "A": "Colangioresonancia",
+        "B": "Ecografía abdominal",
+        "C": "Radiografía simple de abdomen",
+        "D": "Tomografía computarizada",
+        "E": "Ecoendoscopía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Varón de 20 años, sufre accidente en moto. Ingresa con inestabilidad hemodinámica a una laparotomía de urgencia por ruptura hepática severa. En el intraoperatorio se realiza la maniobra de Pringle. ¿En qué consiste esta técnica?",
+      "options": {
+        "A": "Presión continua de colédoco y vena porta",
+        "B": "Ocluir el pedículo hepático",
+        "C": "Oclusión de vena porta y cava inferior",
+        "D": "Cierre temporal del tronco celiaco",
+        "E": "Cierre de vena porta y arteria hepática"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Mujer de 30 años, natural y procedente de Canadá, presenta desde hace un año disfagia progresiva a nivel torácico y se le agrega en la actualidad espasmo torácico y regurgitación de líquidos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Enfermedad de Chagas",
+        "B": "Divertículo de Zenker",
+        "C": "Esófago de Barrett",
+        "D": "Esofagitis por reflujo",
+        "E": "Acalasia del cardias"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Varón de 60 años, refiere dolor abdominal intermitente en fosa iliaca izquierda y estreñimiento crónico. Examen: reacción peritoneal leve en fosa iliaca izquierda; no se palpan masas. Colonoscopia: divertículos parcialmente cubierta por material colónico con pequeños abscesos intramurales. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Diverticulitis aguda no complicada",
+        "B": "Pseudodiverticulitis aguda",
+        "C": "Absceso pericólico",
+        "D": "Diverticulitis recurrente",
+        "E": "Diverticulitis crónica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Los tumores benignos del tracto digestivo se encuentran en el intestino delgado. ¿En qué sector intestinal es más frecuente encontrarlos?",
+      "options": {
+        "A": "Yeyuno superior",
+        "B": "Primera porción del duodeno",
+        "C": "Válvula ileocecal",
+        "D": "Íleon terminal",
+        "E": "Tercera porción del duodeno"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "La presencia de ascitis caracteriza a un paciente cirrótico. ¿Cuál es la causa?",
+      "options": {
+        "A": "Aumento de la prostaglandina E",
+        "B": "Disminución de monosacáridos",
+        "C": "Presencia de un trasudado linfático",
+        "D": "Presencia de hipoalbuminemia",
+        "E": "Aumento de la presión oncótica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Cuál es el sistema orgánico más afectado durante el período postoperatorio del paciente de la tercera edad?",
+      "options": {
+        "A": "Cardiovascular",
+        "B": "Respiratorio",
+        "C": "Cerebrovascular",
+        "D": "Inmunitario",
+        "E": "Renal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Paciente llega a la emergencia por presentar fiebre en picos, ascitis y hepatomegalia. Se trata de descartar la presencia de un absceso hepático. ¿Cuál es el examen auxiliar que tiene mejor indicación en este caso?",
+      "options": {
+        "A": "Resonancia magnética",
+        "B": "Radiografía simple de abdomen",
+        "C": "Tomografía abdominal",
+        "D": "Gammagrafía hepática",
+        "E": "Ecografía abdominal"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Mujer de 40 años de edad, diabética tipo II en control médico. Desde hace 2 años presenta cuadros de colecistitis crónica a repetición. Ecografía: vesícula de paredes gruesas con signos de calcificación difusa. ¿Qué se espera encontrar en el acto operatorio?",
+      "options": {
+        "A": "Empiema vesicular",
+        "B": "Colecistitis crónica",
+        "C": "Hidrops vesicular",
+        "D": "Vesícula xantogranulomatosa",
+        "E": "Vesícula en porcelana"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Varón de 40 años, con hábitos de ingestión de alcohol frecuente. Actualmente presenta hematemesis abundante, con cuadros de melena. Examen: ingurgitación yugular, región hipotenar atróficas y signo de araña vascular sobre el dorso de la nariz. Clínicamente sospechamos de:",
+      "options": {
+        "A": "Hipertensión portal",
+        "B": "Úlcera péptica antral",
+        "C": "Tumor GIST antral",
+        "D": "Úlcera duodenal",
+        "E": "Síndrome de Mallory Weiss"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "De acuerdo a la etiopatogenia de las hernias inguinales. ¿Qué tipo de hernia se relaciona con la criptorquidia?",
+      "options": {
+        "A": "Obturatriz",
+        "B": "Mixta",
+        "C": "Indirecta",
+        "D": "Femoral",
+        "E": "Petit"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Varón de 40 años, después de una comida copiosa presenta dolores cólicos repetidos en región epigástrica y/o periumbilical que se irradia a la espalda. Examen: Abdomen ligeramente distendido y doloroso a la palpación superficial y profunda, signo de Murphy (-). Rx. simple de abdomen se observa un asa con nivel en mesogastrio. ¿Cuál es el probable diagnóstico clínico?",
+      "options": {
+        "A": "Pancreatitis aguda",
+        "B": "Infarto de miocardio",
+        "C": "Obstrucción intestinal",
+        "D": "Úlcera péptica",
+        "E": "Diverticulitis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Mujer de 50 años, con antecedente de arritmia cardíaca, en tratamiento. Ingresa a la emergencia por presentar dolores abdominales cólicos intensos, difusos y se acompaña de vómitos alimentarios explosivos que no ceden con los antiespasmódicos intravenosos. Examen: Abdomen distendido y doloroso a la palpación, con rebote (+++). ¿Cuál es su sospecha diagnóstica?",
+      "options": {
+        "A": "Perforación gástrica",
+        "B": "Obstrucción pilórica",
+        "C": "Vólvulo de ciego",
+        "D": "Isquemia mesentérica",
+        "E": "Cálculo coledociano"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Dentro de las diversas causas que producen quemaduras. ¿Cuál de las siguientes puede presentar paro cardiaco y síndrome compartimental?",
+      "options": {
+        "A": "Química",
+        "B": "Inhalatoria",
+        "C": "Térmica",
+        "D": "Solar",
+        "E": "Eléctrica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Mujer de 65 años presenta dolor a la defecación acompañada de rectorragia, posteriormente se agrega escozor en la zona perianal. Examen: Se palpa tumoración dolorosa a 5cm del margen anal de bordes irregulares con sangrado activo. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Carcinoma basoloide",
+        "B": "Melanoma",
+        "C": "Carcinoma escamoso",
+        "D": "Carcinoma epidermoide",
+        "E": "Adenocarcinoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Mujer de 40 años, multípara colecistectomizada hace un año. Actualmente refiere dolor cólico a repetición en epigastrio e hipocondrio derecho con intolerancia a las grasas e ictericia de escleras ¿Cuál es la primera sospecha diagnóstica?",
+      "options": {
+        "A": "Quiste coledociano",
+        "B": "Ampuloma",
+        "C": "Estenosis coledociana",
+        "D": "Absceso subfrénico",
+        "E": "Coledocolitiasis residual"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Varón de 77 años ingresa a emergencia por un episodio de diverticulitis aguda, sin signos peritoneales. Tomografía: absceso pélvico de 5 cm de diámetro, con absceso retroperitoneal, en contacto con pared abdominal. ¿Cuál es la conducta terapéutica adecuada?",
+      "options": {
+        "A": "Proctocolectomía urgente",
+        "B": "Alta con tratamiento antibiótico ambulatorio",
+        "C": "Colostomía y drenaje quirúrgico",
+        "D": "Dieta completa y antibioticoterapia",
+        "E": "Drenaje percutáneo con antibioticoterapia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "Cantante de 30 años, requiere resección de tumor bucofaríngeo. Requiere de una intubación anestésica prolongada. ¿Cuál es la indicación más apropiada y evitar daños en las cuerdas vocales?",
+      "options": {
+        "A": "Cricotiroidectomía",
+        "B": "Traqueostomía",
+        "C": "Válvula de Passy-Muir",
+        "D": "Intubación bucofaríngea",
+        "E": "Tubo endotraqueal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "En la patología tumoral hepática. ¿Cuál de las alternativas está en relación directa con la ingesta de anticonceptivos orales?",
+      "options": {
+        "A": "Hemangioma",
+        "B": "Adenoma",
+        "C": "Adenocarcinoma",
+        "D": "Carcinoma",
+        "E": "Colangiocarcinoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "¿Cuál de las siguientes entidades patológicas, juega un papel preponderante en la génesis de una hernia abdominal?",
+      "options": {
+        "A": "Diabetes mellitus",
+        "B": "Hipertensión arterial",
+        "C": "Insuficiencia cardíaca",
+        "D": "Cálculos renales",
+        "E": "Tos crónica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Varón de 25 años, refiere que, desde hace 6 horas, presenta dolor abdominal tipo difuso en mesogastrio, que no migra. Examen: abdomen sensible, doloroso a la palpación profunda en epigastrio, rebote (-). Leucocitos 9,000 por mm3 abastonados 2%. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Examen de orina completo",
+        "B": "Tomografía computarizada",
+        "C": "Laparotomía exploratoria",
+        "D": "Iniciar antibióticoterapia",
+        "E": "Evitar dar analgésicos"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Paciente posgastrectomizado con técnica tipo Billroth II, a los 10 días presenta náuseas y vómitos biliosos que calman el dolor abdominal. Clínicamente, se trata del síndrome:",
+      "options": {
+        "A": "Asa eferente",
+        "B": "Remanente gástrico pequeño",
+        "C": "Antro retenido",
+        "D": "Evacuación gástrica rápida",
+        "E": "Asa aferente"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "En una obstrucción intestinal baja, en la cual además se encuentra una válvula ileocecal competente, aumenta el riesgo de:",
+      "options": {
+        "A": "Vómitos",
+        "B": "Rectorragia",
+        "C": "Diarreas",
+        "D": "Ascitis",
+        "E": "Perforación"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Mujer de 30 años, con consumo prolongado de anticonceptivos orales, refiere ligeros dolores abdominales. Examen: se palpa masa de 5 cm de diámetro sobre borde hepático derecho. Inesperadamente presenta un cuadro de shock hipovolémico, ¿Cuál es la causa más probable?",
+      "options": {
+        "A": "Hiperplasia nodular",
+        "B": "Adenoma hepatocelular",
+        "C": "Enfermedad de Carolli",
+        "D": "Tumor de Klastskin",
+        "E": "Colangiocarcinoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Mujer de 55 años, que sufre la resección de un tumor de 5 cm de diámetro en el antro gástrico. Patología informa que se trata de un tumor a partir de los músculos lisos. ¿A qué tumor corresponde el hallazgo?",
+      "options": {
+        "A": "Leiomioma",
+        "B": "Adenosarcoma",
+        "C": "Adenocarcinoma",
+        "D": "Tumor del estroma",
+        "E": "Fibroadenoma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Varón de 65 años que hace 3 días presenta dolor abdominal con sensación de alza térmica y sensación nauseosa. Examen: PA: 90/50 mmHg, FC: 100X', T°: 39°C, Sat. O2: 96%, ictericia de piel y escleras; abdomen doloroso a la palpación en hipocondrio derecho, signo de Murphy (+). Hemograma muestra leucocitos: 16,000/m3 con 10% de abastonados. ¿Cuál es la mejor conducta a seguir?",
+      "options": {
+        "A": "Coledocotomía más drenaje Kher",
+        "B": "Colangioresonancia",
+        "C": "Colecistectomía más exploración de vía biliar",
+        "D": "Colangiopancreatografía retrógrada endoscópica",
+        "E": "Colangiografía transparietohepática"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Cuál es el tipo de hernia en el que sólo una parte de la circunferencia del intestino es atrapada?",
+      "options": {
+        "A": "Richter",
+        "B": "Spiegel",
+        "C": "Litré",
+        "D": "Grynfelt",
+        "E": "Hernia por deslizamiento"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "En el manejo terapéutico de una obstrucción del intestino delgado, resulta fundamental el empleo de:",
+      "options": {
+        "A": "Laparotomía abierta",
+        "B": "Antibioticoterapia",
+        "C": "Sonda nasogástrica",
+        "D": "Enterolisis",
+        "E": "Laparoscopía diagnóstica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "En las infecciones localizadas de la piel, las del tipo no infectadas se les conoce como:",
+      "options": {
+        "A": "Chancro",
+        "B": "Piodermitis",
+        "C": "Celulitis",
+        "D": "Absceso",
+        "E": "Flemón"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Varón de 35 años, presenta dolores cólicos en hipocondrio derecho desde hace 2 años, en forma intermitente. Actualmente presenta dolores intensos e ictericia de escleras, sin baja de peso. ¿Cuál es el examen radiológico más indicado?",
+      "options": {
+        "A": "Colangioresonancia",
+        "B": "Eco endoscopia",
+        "C": "Tomografía computarizada",
+        "D": "Ecografía abdominal",
+        "E": "Colangiografía oral"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Varón de 50 años. Antecedente de colecistitis crónica calculosa. Actualmente refiere dolores abdominales intensos en mesogastrio acompañado de náuseas y vómitos biliosos, desde hace 6 días. ¿Qué examen auxiliar es el más indicado para precisar el diagnóstico?",
+      "options": {
+        "A": "Ácido clorhídrico",
+        "B": "Amilasa",
+        "C": "Albúmina",
+        "D": "Lipasa",
+        "E": "Globulinas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Una de las características más importantes de los tejidos de cubierta del recto es que:",
+      "options": {
+        "A": "Va desde la 5ta. vértebra sacra al ano",
+        "B": "Tercio inferior carece de peritoneo",
+        "C": "Mide cerca de 20 centímetros",
+        "D": "El tercio inferior carece de mucosa",
+        "E": "Todo el recto está cubierto por peritoneo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Varón de 25 años que ha sido operado por resección gástrica subtotal debido a una ulcera péptica crónica. Esto significa que en el futuro este paciente:",
+      "options": {
+        "A": "Producirá menos ácido clorhídrico",
+        "B": "Disminuye la producción del factor intrínseco",
+        "C": "Aumenta la producción alcalina",
+        "D": "Acelera la producción de acetilcolina",
+        "E": "Aumenta la producción de histamina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Ante la confirmación de infección de una herida operatoria. ¿De que dependerá el tratamiento a seguir?",
+      "options": {
+        "A": "Resultado del cultivo",
+        "B": "Profundidad de la infección",
+        "C": "Nivel de leucocitosis",
+        "D": "Limpieza local",
+        "E": "De la evolución natural"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Varón 50 años de edad, presenta masa tumoral de 3cm de diámetro en recto y a 6cm del margen anal. Con estudios RM pélvica lo tipifican como: T0-T1- N0. ¿Cuál es la técnica quirúrgica recomendada?",
+      "options": {
+        "A": "Quimioterapia sistémica",
+        "B": "Resección tumoral completa via anal",
+        "C": "Resección abdómino-perineal con anastomosis T-T",
+        "D": "Radiación local",
+        "E": "Operación a lo Hartmann"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "En personas no operados, los casos de obstrucción intestinal se ven con mayor frecuencia en aquellos con diagnóstico de:",
+      "options": {
+        "A": "Enfermedad de Crohn",
+        "B": "Hernia umbilical",
+        "C": "Vólvulo de colon",
+        "D": "Hernia inguinal",
+        "E": "Íleo biliar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Dentro de los tumores gástricos, benignos. ¿Cuál es el tumor que requiere enucleación quirúrgica?",
+      "options": {
+        "A": "Fibromioma",
+        "B": "Gastrinoma",
+        "C": "Leiomioma",
+        "D": "Adenoma",
+        "E": "GIST gástrico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "Mujer de 20 años, en buen estado de salud, refiere dolor abdominal agudo desde hace dos días localizado en hipogastrio. Examen: abdomen tenso con signos de irritación peritoneal, rebote positivo, puño percusión derecha positiva. Hemograma 10,000 por mm3 leucocitos con 2% de abastonados. ¿Cuál es la conducta más adecuada a seguir?",
+      "options": {
+        "A": "Iniciar tratamiento con antibióticos",
+        "B": "Interconsulta a medicina",
+        "C": "Laparotomía exploradora",
+        "D": "Insistir con exámenes por imágenes",
+        "E": "Laparoscopía diagnóstica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "La presencia de la mucosa protectora del estómago actúa como barrera que impide la formación de:",
+      "options": {
+        "A": "Gastritis crónica",
+        "B": "Hemorragia digestiva",
+        "C": "Estenosis pilórica",
+        "D": "Úlcera péptica",
+        "E": "Erosión esofágica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "La presencia de un linfoma gástrico, de baja malignidad en el antro implica como medida terapéutica de inicio:",
+      "options": {
+        "A": "Quimioterapia y radiación",
+        "B": "Resección tipo Polya",
+        "C": "Resección gástrica subtotal",
+        "D": "Antrectomía tipo Billroth I",
+        "E": "Observación médica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Varón de 25 años, hace 6 días fue operado de peritonitis difusa por apendicitis perforada. Actualmente cursa con fiebre de 39 °C en forma persistente, taquicardia y malestar general. Rx Tórax: atelectasia basal y derrame pleural escaso. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Perforación gástrica",
+        "B": "Neumonía intrahospitalaria",
+        "C": "Absceso subfrénico",
+        "D": "Absceso pélvico residual",
+        "E": "Fiebre tifoidea"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Mujer de 43 años de edad, desde hace un año refiere llenura precoz, dolores cólicos en mesogastrio acompañado de náuseas, vómitos y baja de peso. Intraoperatoriamente se halla un adenocarcinoma yeyunal. ¿Cuál es la técnica quirúrgica a emplear?",
+      "options": {
+        "A": "Yeyuno transversostomia",
+        "B": "Extirpación local en forma de cuña",
+        "C": "Resección local más quimioterapia",
+        "D": "Anastomosis tipo by pass yeyunoileal",
+        "E": "Resección local y de mesenterio amplia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "La composición química de los cálculos vesiculares en su gran mayoría son los llamados cálculos biliares puros o mixtos. ¿Cuál es su componente químico más importante?",
+      "options": {
+        "A": "Cálculos de colesterol",
+        "B": "Oxalato de calcio",
+        "C": "Fosfato de amonio",
+        "D": "Fosfolípidos",
+        "E": "Fosfato de calcio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Mujer de 35 años con ligeras molestias digestivas. Endoscopia: divertículo único ubicado en la segunda porción del duodeno. ¿Cómo se le conoce a este tipo de divertículo?",
+      "options": {
+        "A": "Yeyuno-ileal",
+        "B": "Meckel",
+        "C": "Adquirido",
+        "D": "Congénito",
+        "E": "Diverticulosis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "El signo clínico de dolor al muslo, irradiado a la rodilla, que se encuentra al flexionar una pierna sobre el muslo y girarla sobre su eje, es característico de una hernia del tipo:",
+      "options": {
+        "A": "Spiegel",
+        "B": "Obturatriz",
+        "C": "Crural",
+        "D": "Grynfelt",
+        "E": "Perineal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Mujer de 70 años, llega a emergencia en mal estado general. Antecedente: adenocarcinoma de sigma. Examen: abdomen peritoneal con rebote (++). Ecografía, presencia de líquido libre en cavidad, en escasa cantidad. ¿Cuál es la conducta quirúrgica a seguir?",
+      "options": {
+        "A": "Antibiócoterapia y Radiación pre quirúrgica",
+        "B": "Ileo sigmoidectomía paliativa",
+        "C": "Hemicolectomía izquierda y colostomía transversa",
+        "D": "Resección tumoral endoscópica y anastomosis T-T",
+        "E": "Resección abierta y colostomía a lo Hartmann"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Varón de 30 años sufre accidente de tránsito e ingresa a la emergencia con dificultad respiratoria e hipotensión arterial. Examen: murmullo vesicular ausente, enfisema subcutáneo y distensión de las venas del cuello en hemitórax derecho. Rx. tórax: desviación mediastinal controlateral. De acuerdo a la valoración inicial y reanimación del ATLS, ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Choque neurogénico",
+        "B": "Hemotórax izquierdo",
+        "C": "Taponamiento cardíaco",
+        "D": "Lesión de parrilla costal",
+        "E": "Neumotórax a tensión"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Durante la intervención quirúrgica de una hernia inguinal, el cirujano decide la construcción de un nuevo piso del canal inguinal, suturando el tendón conjunto al ligamento inguinal. ¿A que técnica quirúrgica corresponde?",
+      "options": {
+        "A": "Mc Vay",
+        "B": "Lichtenstein",
+        "C": "Shouldice",
+        "D": "Plug y Mesh",
+        "E": "Bassini"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "El cuadro clínico de diverticulitis aguda generalmente es provocado por un coprolito que cubre la luz. En esta fase, el diagnóstico se debe realizar:",
+      "options": {
+        "A": "Con colonoscopio",
+        "B": "Con enema opaco",
+        "C": "Con rectosigmoidoscopía",
+        "D": "Sólo clínicamente",
+        "E": "Con resonancia magnética"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Mujer de 40 años, consulta por presentar dolores cólicos a repetición en hipocondrio derecho, desde hace un año. Se acompaña de náuseas, fiebre y tinte ictérico de escleras. ¿Cómo se conoce al conjunto de síntomas?",
+      "options": {
+        "A": "Vesícula enfisematosa",
+        "B": "Triada de Charcot",
+        "C": "Colecistitis aguda",
+        "D": "Síndrome de Mirizzi",
+        "E": "Colecistitis crónica calculosa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "La ingesta de aminoácidos y grasas, es de vital importancia para activar el mecanismo fisiológico que tiene como consecuencia:",
+      "options": {
+        "A": "Producción del factor intrínseco",
+        "B": "Vaciamiento de la vesícula biliar",
+        "C": "Contracción del esfínter de Oddi",
+        "D": "Inhibición de la hormona peptídica",
+        "E": "Relajación del esfínter pilórico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es el tipo de fractura más frecuente que se produce en un accidente de tránsito con choque de tipo fronto-lateral?",
+      "options": {
+        "A": "Meseta del platillo tibial",
+        "B": "Tibia y peroneo conminuta",
+        "C": "Cráneo",
+        "D": "Pelvis tipo compresión",
+        "E": "Columna cervical"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "Mujer de 25 años sufre impacto de proyectil de arma de fuego en abdomen; entre los hallazgos intraoperatorios se encuentra lesión complicada de duodeno y los conductos de Wirsung y Santorini. En este caso está recomendado realizar:",
+      "options": {
+        "A": "Duodenoyeyunoanastomosis",
+        "B": "Gastroenteroanastomosis en Y de Roux",
+        "C": "Gastrectomía total",
+        "D": "Gastroenteroanastomosis Billroth I",
+        "E": "Exclusión pilórica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Paciente de 40 años, ingresa a Emergencia con politraumatismo y herida cortante en pared abdominal. Examen: herida de 10 cm de largo, de bordes irregulares con laceración muscular y penetración al peritoneo. ¿Cómo se clasifican estas heridas?",
+      "options": {
+        "A": "Superficial",
+        "B": "Visceral",
+        "C": "Perforante",
+        "D": "Penetrante",
+        "E": "Profunda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Varón de 40 años, consulta por sensación de llenura precoz, baja de peso y sangrado por boca en poca cantidad. Examen: se palpa masa tumoral móvil en cuerpo del estómago algo dolorosa a la palpación, no presencia de ganglios. Histología refiere que se trata de un tumor de los músculos lisos. Pensaríamos que se trata de un cáncer del tipo:",
+      "options": {
+        "A": "GIST a celulas intersticiales",
+        "B": "Leiomiomas",
+        "C": "Adenocarcinoma",
+        "D": "Carcinoide gástrico",
+        "E": "Linfoma de alta malignidad"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Desde el punto de vista topográfico. ¿Cómo se conoce a la hernia que se forma en la región lumbar de la cara posterior del abdomen?",
+      "options": {
+        "A": "Spiegel",
+        "B": "Obturatriz",
+        "C": "Petit",
+        "D": "Crural",
+        "E": "Morgani"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Paciente de 70 años, refiere rectorragia desde hace un mes acompañado de estreñimiento crónico. Examen: en el tacto rectal: a 8 cm del margen anal se palpa tumoración de 5 cm de diámetro dolorosa a la palpación y sangrado activo. La sospecha clínica es que se trate de un tumor maligno ¿Cuál es el examen más adecuado para llegar al diagnóstico?",
+      "options": {
+        "A": "Test de hemorragia oculta en heces",
+        "B": "Rectosigmoidoscopía",
+        "C": "Ultrasonografía endoscópica",
+        "D": "Colonoscopía completa",
+        "E": "Antígeno carcinoma embrionario"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Los cánceres primarios que más metástasis al hígado migran, son los del:",
+      "options": {
+        "A": "Cerebro",
+        "B": "Melanoma",
+        "C": "Riñón",
+        "D": "Pulmón",
+        "E": "Krukemberg"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Los casos de trauma abdominal cerrado de abdomen con lesión de páncreas, generalmente se asocian con lesiones de:",
+      "options": {
+        "A": "El estómago",
+        "B": "El conducto de Wirsung",
+        "C": "La arteria mesentérica",
+        "D": "El bazo",
+        "E": "El duodeno"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "En la formación de una hernia intervienen varios factores. ¿Cuál es predisponente e importante?",
+      "options": {
+        "A": "Hipernefroma",
+        "B": "Diabetes mellitus",
+        "C": "Obesidad",
+        "D": "Hipertensión arterial",
+        "E": "Insuficiencia cardíaca"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Mujer de 19 años quien recibe impacto de proyectil en abdomen es llevada al servicio de emergencia. Examen: PA: 110/60 mmHg, FC:120X', Sat. O2: 98%, abdomen doloroso a la palpación superficial con signos de irritación peritoneal. Ecografía: líquido libre en cavidad en volumen de 500 cc. Laparotomía exploratoria: perforación del ángulo hepático del colon. ¿Cuál es la conducta a seguir en el tratamiento quirúrgico?",
+      "options": {
+        "A": "Colostomía terminal y fístula mucosa",
+        "B": "Reparación primaria más ileostomía",
+        "C": "Colostomía en asa",
+        "D": "Hemicolectomía derecha",
+        "E": "Resección del ángulo hepático y anastomosis término-terminal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Varón de 63 años sufre impacto por arma de fuego en abdomen bajo; en la laparotomía se encuentra herida perforante no transficciante en tercio superior del recto con escasa secreción serosa en el exterior. ¿Cuál es la mejor técnica quirúrgica a recomendar en estos casos?",
+      "options": {
+        "A": "Reparación primaria de la pared rectal",
+        "B": "Reparación primaria más colostomía",
+        "C": "Resección de colon y anastomosis término-terminal",
+        "D": "Reparación primaria mas ileostomía",
+        "E": "Ileotransversostomía y reparación primaria"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Mujer de 50 años presenta desde hace un año, tumoración blanda que protruye por el margen del ano luego de defecar, con evidencia de sangrado y que no es reducible manualmente. Examen proctoscópico: paquetes hemorroidales grandes que protruyen al pujar, dos por el lado derecho y uno por el izquierdo. ¿Cuál es el tratamiento a seguir?",
+      "options": {
+        "A": "Hemorroidectomía",
+        "B": "Escleroterapia",
+        "C": "Trombectomía",
+        "D": "Ligadura con banda elástica",
+        "E": "Fotocoagulación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Mujer de 40 años, con antecedente de haber tenido procesos de dolores abdominales cólicos, a repetición. Colecistectomizada hace 3 meses. Actualmente cursa con malestar general, ictericia de piel y mucosas y picos febriles de 39 °C inmediatamente después de haber pasado por una CEPRE. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Coledocolitiasis residual",
+        "B": "Abscesos hepáticos múltiples",
+        "C": "Coledocolitiasis primaria",
+        "D": "Pieliflebitis ascendente",
+        "E": "Colangitis ascendente iatrogénica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Luego de producirse una agresión quirúrgica el ser humano tiene como respuesta fisiológica la de:",
+      "options": {
+        "A": "Bajar el rendimiento cardíaco",
+        "B": "Aumentar la excreción de K",
+        "C": "Aumentar la diuresis",
+        "D": "Presentar eosinofilia",
+        "E": "Eliminar más nitrógeno"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Paciente con politraumatismo abdominal severo, sufre ruptura de diafragma que se acompaña de compromiso respiratorio. La intervención quirúrgica que requiere se denomina:",
+      "options": {
+        "A": "Prioritaria",
+        "B": "Urgencia absoluta",
+        "C": "Laparotomía exploratoria",
+        "D": "Cirugía diferida",
+        "E": "Urgencia relativa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Varón de 50 años presenta dolor epigástrico tipo \"úlcera\" acompañado de diarreas crónicas con esteatorreas y sensación de acidez extrema. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Síndrome de Mallory Weiss",
+        "B": "Úlcera péptica recidivante",
+        "C": "Úlceras crónicas recidivantes",
+        "D": "Úlcera péptica intratable",
+        "E": "Síndrome de Zollinger Ellison"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Mujer de 60 años, quien presenta tumoración cancerosa de colon a nivel del sigmoides. Ingresa por fiebre y dolor cólico intenso difuso. Examen: abdomen peritoneal con rebote (+++). Se sospecha en una perforación tumoral. ¿Cuál es la técnica quirúrgica recomendada?",
+      "options": {
+        "A": "Ileorectosigmoidectomía",
+        "B": "Resección local y derivación ileal",
+        "C": "Operación de Hartmann",
+        "D": "Resección tumoral y anastomosis T-T",
+        "E": "Colectomía subtotal y colostomía en asa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Qué parte del cuerpo humano es más sensible a desarrollar una cicatriz tipo queloide?",
+      "options": {
+        "A": "Glúteos",
+        "B": "Tórax",
+        "C": "Pie",
+        "D": "Manos",
+        "E": "Abdomen"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Varón de 30 años sufre herida punzo penetrante en región subcostal derecha; en la laparotomía se halla lesión punzo penetrante, con lesión del conducto de Santorini y Wirsung en su desembocadura. ¿En qué porción del duodeno se encuentra la lesión?",
+      "options": {
+        "A": "Quinta",
+        "B": "Segunda",
+        "C": "Tercera",
+        "D": "Primera",
+        "E": "Cuarta"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Varón de 65 años, refiere baja de peso, estreñimiento crónico y deposiciones con rasgos de sangre. No melena. Examen: masa tumoral a 3 cm del margen anal, que toma toda la pared rectal. ¿Cuál es la técnica quirúrgica de elección?",
+      "options": {
+        "A": "Resección endoscópica",
+        "B": "Resección local radical y bolsa ileal",
+        "C": "Hemicolectomia izquierda y colostomía",
+        "D": "Resección local y conservación del ano",
+        "E": "Resección abdomino perineal y colostomía"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Paciente politraumatizado ingresa a emergencia. Examen: piel pálida, fría con hipotensión arterial. Clínicamente se sospecha de shock hipovolémico punto de partida abdominal. ¿Cuál es la conducta a seguir para llegar al diagnóstico?",
+      "options": {
+        "A": "Lavado peritoneal",
+        "B": "Tomografía abdominal",
+        "C": "Gammagrafía abdominal",
+        "D": "Resonancia magnética",
+        "E": "Rx. simple de abdomen"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Mujer de 65 años, historia de estreñimiento crónico con dolor durante y después de la defecación. No rectorragias y se acompaña de incontinencia urinaria. Examen: al pujo, se observa descenso circunferencial de la mucosa rectal, en cerca de 10 cm de largo. ¿Cómo se conoce esta patología?",
+      "options": {
+        "A": "Prolapso hemorroidal",
+        "B": "Procidencia rectal",
+        "C": "Enfermedad de Cowden",
+        "D": "Prolapso rectal",
+        "E": "Condiloma anal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Los hemangiomas son los tumores más comunes que se presentan en la niñez, ¿Cuál es la indicación terapéutica más apropiada?",
+      "options": {
+        "A": "Radiación tópica",
+        "B": "Extirpación local",
+        "C": "Rayos laser",
+        "D": "Electrofulguración",
+        "E": "Observación médica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Cuál es el tratamiento quirúrgico de la úlcera gastroduodenal del tipo refractaria en pacientes jóvenes sin riego adicional?",
+      "options": {
+        "A": "Resección subtotal tipo Billroth II",
+        "B": "Vagotomía supraselectiva",
+        "C": "Vagotomía troncular y piloroplastía",
+        "D": "Antrectomía tipo Billroth I",
+        "E": "Antrectomía tipo Polya"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Mujer de 65 años con diagnóstico de cáncer de colon y metástasis al lóbulo hepático derecho; le realizan una embolización hepática selectiva. ¿Qué se busca con este tratamiento preoperatorio?",
+      "options": {
+        "A": "Lograr una hipertrofia del remanente hepático",
+        "B": "Eliminar la metátasis",
+        "C": "Facilitar la hepatectomía en dos tiempos",
+        "D": "Mejorar la resección laparoscópica",
+        "E": "Facilitar la quimioterapia posoperatoria"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cómo se clasifica el tipo de heridas abdominales que atraviesan el peritoneo y terminan lesionando una víscera?",
+      "options": {
+        "A": "Perforantes",
+        "B": "Contusas",
+        "C": "Víscerales",
+        "D": "Vasculares",
+        "E": "Incisas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Varón de 60 años, en mal estado nutricional, consulta por dolor cólico en fosa iliaca izquierda y temperatura de 38.5°C. Examen: masa de 10 cm de diámetro, móvil, dolorosa a la palpación y rebote (+++). Catalogado como ASA IV. ¿Cuál es la técnica quirúrgica que está indicada?",
+      "options": {
+        "A": "Resección local y anastomosis T-T",
+        "B": "Intervención a lo Hartmann",
+        "C": "Hemicolectomía izquierda",
+        "D": "Resección y colostomía en asa",
+        "E": "Drenaje percutáneo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Las vellosidades intestinales, tienen como función principal la absorción de los nutrientes. Este fenómeno se realiza a través de su:",
+      "options": {
+        "A": "Criptas de Liberkuhn",
+        "B": "Lámina propia del musculo liso",
+        "C": "Epitelio cilíndrico simple",
+        "D": "Capa muscular",
+        "E": "Capa muscular mucosae"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Varón de 30 años, refiere dolor anal a la defecación acompañado de restos sanguinolentos y ensucia el papel higiénico, se acompaña de prurito en la zona. Examen: protrusiones varicosas suprapectíneas, turgentes, ubicadas en el canal anal. ¿Cómo se les conocen a estos paquetes hemorroidales?",
+      "options": {
+        "A": "Anocutáneas",
+        "B": "Hemorroides externas",
+        "C": "Hemorroides internas",
+        "D": "Grado IV",
+        "E": "Grado I"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es el diagnóstico más probable en una mujer de 40 años, sometida hace 24 horas a hemicolectomía derecha, en quien durante el examen físico se comprueba que los ruidos hidroaéreos están ausentes?",
+      "options": {
+        "A": "Íleo paralítico funcional",
+        "B": "Pseudoobstrucción ileal",
+        "C": "Obstrucción ileal mecánica",
+        "D": "Íleo espástico",
+        "E": "Obstrucción intestinal temprana"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Paciente joven, de contextura delgada, que espontáneamente sin mediar síntomas previos, refiere sensación de falta de aire. Rx Tórax: bula enfisematosa espontánea de tórax. ¿Cuál es el tratamiento de emergencia que deba realizarse?",
+      "options": {
+        "A": "Tratamiento médico no invasivo",
+        "B": "Toracotomía y resección de bula",
+        "C": "Pleurodesis",
+        "D": "Toracotomía laparoscópica",
+        "E": "Sonda torácica con sello de agua"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Ante la presencia de un quiste parasitario tipo hidático en el hígado. ¿Cuál es la técnica quirúrgica más recomendada y usada?",
+      "options": {
+        "A": "Quistoperiquistectomía abierta",
+        "B": "Hepatectomía reglada",
+        "C": "Marsupialización",
+        "D": "Quistectomías parciales",
+        "E": "Quisteyeyunostomía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Varón de 30 años sufre accidente de tránsito con aplastamiento de pierna izquierda. Examen: pierna izquierda con aumento moderado de volumen, dolor marcado a la palpación, y a los movimientos pasivos y activos. Se agregan parestesias en los dedos primero y segundo del pie de la pierna lesionada. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Sindrome vertebromedular",
+        "B": "Lesión directa del nervio peroneo",
+        "C": "Contusión severa de pierna izquierda",
+        "D": "Inicio de un síndrome compartimental",
+        "E": "Lesión vertebral a nivel de S1- S2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Varón de 20 años, presenta dolor en fosa iliaca derecha no irradiado, desde hace 6 días se acompaña de náuseas y vómitos. Examen: abdomen blando con signo de Rovsing positivo no peritonismo. tampoco se palpan masas. Leucocitos 10,000 por mm3 con 4 abastonados. El diagnóstico definitivo haría con:",
+      "options": {
+        "A": "Biopsia abdominal dirigida",
+        "B": "Ecografía abdominal descarta una apendicitis",
+        "C": "Tomografía define un divertículo",
+        "D": "Se sospecha de un plastrón apendicular",
+        "E": "Laparotomía si fuera un Divertículo de Meckel"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Mujer de 30 años, presenta cólico intenso en hipocondrio derecho desde hace 6 meses, se acompaña de escleras ictéricas, heces blancas y orinas colúricas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Coledocolitiasis",
+        "B": "Colangitis ascendente",
+        "C": "Colecistitis crónica",
+        "D": "Pólipo ampular",
+        "E": "Síndrome colestásico"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

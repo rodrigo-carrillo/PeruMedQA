@@ -1,0 +1,1351 @@
+{
+  "metadata": {
+    "year": 2024,
+    "exam": "NEUROCIRUGÍA",
+    "source_pdf": "NEUROCIRUGÍA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Neurocirugía",
+    "sha256_pdf": "6ca078b5b5092ad7e1cdecf86fa66b92939ef71df83de6f664b9243f0d2655d9",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:30:57",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Neurocirugía",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9952,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.5922,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 21918,
+      "coverage_out_chars": 21918,
+      "human_reference": "_backup_csv_verificados/Year2024/NEUROCIRUGÍA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 44,
+        "identico": 453,
+        "mayor": 2,
+        "csv_antiguo_truncado": 1
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Mujer de 66 años usuaria de corticoides y AINES, iba de pasajera en última fila de autobús, al pasar velozmente un rompemuelle tuvo un sobresalto sobre su asiento, quedando con lumbalgia. También refiere que ya presentaba dorsalgia 3 meses antes del evento traumático. TC: reducción de volumen vertebral, T6 colapsada y L1 acuñada, ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Fractura traumática",
+        "B": "Fractura por osteoporosis",
+        "C": "Metástasis",
+        "D": "Fractura en tallo verde"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuál es el punto más prominente del hueso occipital?",
+      "options": {
+        "A": "Asterion",
+        "B": "Opistocranion",
+        "C": "Inion",
+        "D": "Pterion"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "La TC craneal tiene una sensibilidad de detección de HSA cercana al ...... en las primeras horas.",
+      "options": {
+        "A": "100%",
+        "B": "50%",
+        "C": "40%",
+        "D": "30%"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Niño de 15 años, con cefalea post TEC. TC de cráneo: disminución de la densidad cerebral, ventrículos laterales comprimidos, borramiento de los surcos superficiales y espacios subaracnoideos basales; pérdida de la interfase entre la sustancia blanca y la sustancia gris. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Edema cerebral difuso",
+        "B": "Lesión axonal difusa",
+        "C": "Infarto lacunar",
+        "D": "Aneurisma arterial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Varón de 69 años, ingresa por cefalea persistente y convulsionar por primera vez. TC sin contraste: evidencia imagen parenquimal cerebral isodensa, con edema perilesional formando aspecto de “halo” con escaso efecto de masa, sospechando de secundarismo, indicamos TC con contraste en tórax, abdomen y pelvis sin hallazgo de foco neoplásico. ¿Cuál es la neoplasia primaria más probable?",
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Adenocarcinoma",
+        "C": "Linfoma",
+        "D": "Melanoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "¿Cuál es el valor objetivo de la glicemia en mg/dL en el manejo neuroquirúrgico intraoperatorio?",
+      "options": {
+        "A": "80 a 99",
+        "B": "190 a 220",
+        "C": "144 a 180",
+        "D": "60 a 130"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál es el edema cerebral que consiste en el pasaje de líquido intravascular al espacio extracelular y suele asociarse a tumores intraparenquimales?",
+      "options": {
+        "A": "Vasogénico",
+        "B": "Neurogénico",
+        "C": "Intersticial",
+        "D": "Citotóxico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Niño de 2 años con TEC, tiene Glasgow 9 en descenso. TC: Hematoma epidural y fractura craneal bilateral. Se decide intervención quirúrgica inmediata. En sala de operaciones el soporte de Mayfield ...",
+      "options": {
+        "A": "debe colocarse con pines de soporte pediátrico.",
+        "B": "debe colocarse en Pterion y suturas craneales.",
+        "C": "se coloca a una presión de 60 lb/pulgada2.",
+        "D": "no se debe utilizar en niños menores de 3 años."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "El Edema Cerebral Difuso (ECD) se debe a ...... del volumen de sangre intravascular o del contenido de agua en el encéfalo o de ambos.",
+      "options": {
+        "A": "déficit",
+        "B": "pérdida",
+        "C": "disminución",
+        "D": "aumento"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Niño de 5 años con epilepsia y déficit neurológico. RM: atrofia progresiva de un hemisferio cerebral; T2: zonas hiperintensas mal definidas situadas en sustancia blanca, núcleos basales y corteza; no hay realce al contraste. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Cisticercosis",
+        "B": "Absceso cerebral micótico",
+        "C": "Encefalitis de Rasmussen",
+        "D": "Toxoplamosis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "La técnica realizada en las intervenciones quirúrgicas para abordaje de lesiones intraparenquimales en el encéfalo que consiste en colocar puntos de sutura sobre la duramadre anclándola al hueso suprayacente en los bordes de la craneotomía se denomina “tenting dural”. ¿Cuál es el objetivo de la técnica?",
+      "options": {
+        "A": "Retraer la duramadre para facilitar la duroplastía heteróloga",
+        "B": "Dirigir el corte de manera perpendicular al hueso",
+        "C": "Utilizar un tipo de sutura absorbible",
+        "D": "Reducir el riesgo de colección de sangre en espacio epidural"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál es el cáncer primario más frecuente del encéfalo?",
+      "options": {
+        "A": "Meduloblastoma",
+        "B": "Glioblastoma multiforme",
+        "C": "Meningioma maligno",
+        "D": "Linfoma metastásico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Mujer de 44 años, de raza negra, ingresó a emergencia con PA 160/100 mmHg, FC 55 por minuto. TC (sin contraste): imagen hiperdensa en ganglios basales izquierdos, rodeada de un halo hipodenso bien definido. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Absceso Cerebral en Ganglios Basales",
+        "B": "Tumor Cerebral Izquierdo",
+        "C": "Hematoma Intraparenquimal",
+        "D": "Infarto de ramas de ACM izquierda"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "¿Cuál es la definición de hidrocefalia?",
+      "options": {
+        "A": "Disminución del parénquima cerebral",
+        "B": "Aumento del perímetro cefálico al nacer",
+        "C": "Aumento de LCR y dilatación de los ventrículos cerebrales",
+        "D": "Dilatación de cisternas basales"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál anestésico aumenta el flujo sanguíneo cerebral y el índice metabólico cerebral?",
+      "options": {
+        "A": "Tiopental",
+        "B": "Propofol",
+        "C": "Ketamina",
+        "D": "Etomidato"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "La contusión hemorrágica produce una ...... con reabsorción y necrosis, de tal manera que la médula va recuperando un calibre normal.",
+      "options": {
+        "A": "mielodisplasia",
+        "B": "mielomalacia",
+        "C": "protrusión discal",
+        "D": "extrusión discal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "En el manejo de la lesión de la médula espinal, se debe evitar administrar ......, ya que empeora el edema medular.",
+      "options": {
+        "A": "manitol",
+        "B": "dextrosa al 5%",
+        "C": "solución hipertónica",
+        "D": "corticoides"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "El flujo sanguíneo cerebral normal de la sustancia gris y blanca es en promedio de 50 ml/100 g/min. Con la mayoría de las técnicas anestésicas, el EEG empieza a alterarse cuando el FSC disminuye a:",
+      "options": {
+        "A": "20 ml/100 g/min",
+        "B": "40 ml/10 g/min",
+        "C": "25 ml/100 g/min",
+        "D": "30 ml/100 g/min"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Una de las causas de hipertensión endocraneana (HTEC) es el edema cerebral. ¿Cuál es el edema que consiste en el pasaje del LCR hacia el espacio extracelular?",
+      "options": {
+        "A": "Vasogénico",
+        "B": "Intersticial",
+        "C": "Citotóxico",
+        "D": "Vasogénico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Varón de 50 años, en sus neuroimágenes se encuentra hemorragia subaracnoidea y una malformación vascular de localización distal al polígono de Willis; además, tiene una endocarditis bacteriana subaguda. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Aneurisma infeccioso",
+        "B": "Enfermedad de moyamoya",
+        "C": "Telangiectasia capilar",
+        "D": "Fístula arteriovenosa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "En las intervenciones quirúrgicas cerebrales. ¿Cuál es la ubicación del giro precentral?",
+      "options": {
+        "A": "Exactamente debajo a la sutura coronal",
+        "B": "A 4.5cm posterior al bregma (línea media)",
+        "C": "A 2.5cm anterior al estefanion",
+        "D": "Entre el nasion y el inion"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Varón de 44 años, ingresa por convulsión parcial. Glasgow 14. RM: masa neoplásica frontal convexa de apariencia benigna que parece depender de la hoz cerebral (tumor meníngeo). En la craneotomía resectiva, la duramadre ...",
+      "options": {
+        "A": "debe abrirse muy cerca al hueso (a no más de 1mm).",
+        "B": "se incide primero con un lápiz monopolar.",
+        "C": "se incide sobre la masa neoplásica al verse notoria.",
+        "D": "se abre en forma de “C” manteniendo pedículo hacia el seno."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Las fracturas de la columna vertebral a nivel dorsal alto comprometen menos su estabilidad debido a ...",
+      "options": {
+        "A": "el diámetro medular.",
+        "B": "el diámetro del canal óseo.",
+        "C": "la caja torácica.",
+        "D": "la morfología vertebral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "¿Cuál es la malformación arteriográficamente oculta?",
+      "options": {
+        "A": "Malformación arteriovenosa",
+        "B": "Aneurisma de la circulación anterior",
+        "C": "Fístula arteriovenosa gigante",
+        "D": "Angioma cavernoso"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Cuál es el fármaco indicado para reducir o limitar el edema asociado a tumores cerebrales?",
+      "options": {
+        "A": "Manitol",
+        "B": "Solución salina hipertónica",
+        "C": "Esteroides",
+        "D": "Anticonvulsivos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "En relación a los procedimientos neuroquirúrgicos cerebrales. ¿Qué tumores son los más frecuentes?",
+      "options": {
+        "A": "De tronco encefálico",
+        "B": "De cerebelo",
+        "C": "De fosa posterior",
+        "D": "Supratentoriales"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Qué fármaco anestésico tiene efecto vasoconstrictor cerebral?",
+      "options": {
+        "A": "Sevoflurano",
+        "B": "Desflurano",
+        "C": "Ketamina",
+        "D": "Propofol"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "En los adenomas de hipófisis. ¿Cuál se diagnostica precozmente?",
+      "options": {
+        "A": "Microadenoma no funcionante",
+        "B": "Macroadenoma no funcionante",
+        "C": "Adenoma funcionante",
+        "D": "Adenoma con compromiso de vía óptica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuáles son las características de la malformación arteriovenosa?",
+      "options": {
+        "A": "La sangre arterial desemboca directamente a las venas de drenaje, sin lecho capilar",
+        "B": "La sangre arterial desemboca directamente a las venas de drenaje, con lecho capilar",
+        "C": "La sangre venosa llega directamente al lecho capilar",
+        "D": "La sangre arterial llega directamente al lecho capilar"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Cuál es la dosis de dexametasona en TEC, para un adulto de 70 Kg de peso?",
+      "options": {
+        "A": "8 mg EV cada 8 h",
+        "B": "8 mg EV y seguir con 4 mg cada 4 h",
+        "C": "4 mg cada 6 h",
+        "D": "No tiene indicación"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "En la hemorragia intraparenquimal (HIP) cerebral asociada a tratamiento anticoagulante. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Revertir urgentemente la anticoagulación, independientemente del tamaño de HIP",
+        "B": "Revertir anticoagulación hasta que se absorba la HIP por un mínimo de 6 días",
+        "C": "Colocar monitor de presión intracraneal",
+        "D": "Transfundir plaquetas y factor VI de la coagulación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es el tratamiento de los episodios de embolia gaseosa aguda en el intraoperatorio cerebral?",
+      "options": {
+        "A": "Manitol",
+        "B": "Administración de fluidos",
+        "C": "Masaje carotídeo",
+        "D": "Aspirarlo a través de un catéter de arteria pulmonar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "En hipertensión endocraneal (HTEC), la hernia del uncus temporal, comprime al ...... nervio craneal.",
+      "options": {
+        "A": "VI",
+        "B": "IV",
+        "C": "III",
+        "D": "II"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Varón de 50 años, con síndrome de Hipertensión Endocraneana. TC (sin contraste): imagen hipodensa en región parietal izquierda bien definida, presenta una extensión cortical que determina una configuración “en dedos de guante”. ¿Cuál es el tipo de edema más probable?",
+      "options": {
+        "A": "Citotóxico relacionado a un Hematoma Intraparenquimal",
+        "B": "Vasogénico relacionado a un Tumor de Cerebro",
+        "C": "Citotóxico relacionado a un Infarto extenso de ACM izquierda",
+        "D": "Intersticial relacionado a una Hidrocefalia Parietal Izquierda"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Cuando adoptamos la estrategia de producir Hiperventilación para reducir la PIC, se reduce PaCO2, lo que produce...",
+      "options": {
+        "A": "vasodilatación.",
+        "B": "acidosis respiratoria.",
+        "C": "vasoconstricción.",
+        "D": "hipercapnea."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Mujer de 33 años con cefalea moderada, rigidez nucal marcada, parálisis de III par craneal. TC: Hemorragia Subaracnoidea cuyo mayor grosor es de 3 mm, sin invasión ventricular. Se cataloga como Fisher ...... y Hunt and Hess...",
+      "options": {
+        "A": "3 / 3.",
+        "B": "3 / 2.",
+        "C": "2 / 3.",
+        "D": "2 / 2."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "En fracturas de la columna vertebral por osteoporosis, ¿Cuáles son las MENOS frecuentes?",
+      "options": {
+        "A": "Dorsal",
+        "B": "Cervical",
+        "C": "Lumbar baja",
+        "D": "Dorsolumbar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál es el estudio radiológico más adecuado para valorar la existencia de fibrosis postquirúrgica en columna vertebral?",
+      "options": {
+        "A": "Resonancia magnética sin contraste",
+        "B": "Tomografía con contraste",
+        "C": "Resonancia magnética con contraste",
+        "D": "Mielografía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿Cuál es la manifestación clásica del prolactinoma en mujeres?",
+      "options": {
+        "A": "Bochornos y diaforesis",
+        "B": "Polimenorrea",
+        "C": "Cefalea, convulsiones y sialorrea",
+        "D": "Amenorrea, galactorrea e infertilidad"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Mujer joven con cefalea recurrente y mareos. RM: amígdalas cerebelosas que descienden hasta fuera del agujero magno, hacia el interior del canal vertebral. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Malformación de Arnold-Chiari (tipo II)",
+        "B": "Malformación de Chiari de tipo I",
+        "C": "Malformación de Dandy-Walker",
+        "D": "Síndrome de Joubert"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "RM: lesión focal quística en cerebelo; T1: señal hipointensa a intermedia; T2: hiperintensa. Realce intenso con contraste. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Xantoastrocitoma pleomorfo",
+        "B": "Astrocitoma anaplásico",
+        "C": "Astrocitoma bien diferenciado",
+        "D": "Astrocitoma pilocítico juvenil"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Cuál es la sintomatología predominante de la estenosis raquídea lumbar?",
+      "options": {
+        "A": "Claudicación neurológica intermitente",
+        "B": "Monoparesia hipoestésica bilateral",
+        "C": "Hiperreflexia en miembros inferiores",
+        "D": "Lumbalgia con ciática unilateral"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Los pacientes con diagnóstico de HSA espontánea y compromiso neurológico severo, deben ser ingresados prontamente a UCI. Únicamente debe cambiar esto en el fluxograma del proceso de atención, en caso de...",
+      "options": {
+        "A": "hematoma intraparenquimal con HTEC e indicación quirúrgica definida por neurocirujano.",
+        "B": "requerir manejo médico (no quirúrgico), hasta el momento.",
+        "C": "no haber sido operado por neurocirugía todavía.",
+        "D": "no tener la confirmación etiológica aneurismal."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Paciente que desarrolla un síndrome de secreción inadecuada de hormona antidiurética tras HSA. ¿Cuál es el tratamiento adecuado?",
+      "options": {
+        "A": "Coloides",
+        "B": "Furosemida",
+        "C": "Restricción de líquidos",
+        "D": "Dexametasona"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuál es el método de monitorización neurológica que determina predominantemente la saturación venosa local de oxígeno?",
+      "options": {
+        "A": "Electroencefalograma",
+        "B": "Ecografía doppler transcraneal",
+        "C": "Saturación venosa de oxígeno en el bulbo yugular",
+        "D": "Oximetría cerebral"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuál es la puntuación de Glasgow en la que se debe indicar intubación en el paciente con TEC?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "8"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es la condición protectora de daño por isquemia cerebral intraoperatoria?",
+      "options": {
+        "A": "Anestesicos inhalados",
+        "B": "Hipertermia",
+        "C": "Hipotermia leve mantenida",
+        "D": "Relajantes musculares"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Qué fármaco anestésico no produce un patrón electroencefalográfico de patrón regular?",
+      "options": {
+        "A": "Ketamina",
+        "B": "Propofol",
+        "C": "Benzodiacepinas",
+        "D": "Barbitúricos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Varón de 43 años, ingresa a emergencia presentando convulsiones, la familia refiere que ya viene convulsionando en varias ocasiones durante los meses anteriores. TC compatible con tumor intraxial en lóbulo frontal con calcificaciones en su interior. ¿Cuál es el probable diagnóstico?",
+      "options": {
+        "A": "Meningioma",
+        "B": "Ganglioglioma",
+        "C": "Meduloblastoma",
+        "D": "Oligodendroglioma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Mujer de 22 años con cefalea persistente, fue estudiada con neuroimágenes y se encontró una lesión cerebral de 7 cm de diámetro mayor, que abarca desde el III ventrículo hasta casi todo el lóbulo occipital. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Malformación Arterio Venosa (Spetzler-Martin 6)",
+        "B": "Malformación Arterio Venosa (Spetzler-Martin 3)",
+        "C": "Oligodendroglioma III° o IV°",
+        "D": "Malformación Arterio Venosa (Spetzler-Martin 5)"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Varón de 63 años con trastorno del movimiento caracterizado principalmente por temblores, aunque también presenta rigidez y acinesia. Fue medicado con L-dopa hace 3 años, pero ha venido dejando de controlar sus síntomas, incluso luego de varios ajustes de dosis farmacológica. El paciente prioriza disminuir sus temblores. ¿Cuál es el tratamiento quirúrgico más adecuado?",
+      "options": {
+        "A": "Estimulación por radiofrecuencia en el pálido y tálamo",
+        "B": "Estimulación cerebral profunda del núcleo intermedio ventral de tálamo",
+        "C": "Ablación estereotáxica del locus niger y subtalámico",
+        "D": "Ablación de gánglios basales"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuál es la manifestación clínica más frecuente en casos de hemorragia subaracnoidea por ruptura de aneurisma cerebral?",
+      "options": {
+        "A": "Convulsiones, vómitos y pérdida de vigilia",
+        "B": "Paraplejia y parestesia",
+        "C": "Aparición repentina de cefalea intensa",
+        "D": "Delirium y alucinaciones"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "Prematuro de 30 semanas, antecedente de hipoxia e hipotensión. Ecografía transfontanelar: hemorragia intraventricular y dilatación del ventrículo lateral en más de 10 mm a nivel del surco caudotalámico. ¿Cuál es el grado de hemorragia según la clasificación de Papile?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "IV",
+        "D": "III"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Cuál influye en la disminución del flujo sanguíneo cerebral y en el índice metabólico cerebral?",
+      "options": {
+        "A": "Beta agonista",
+        "B": "Alfa 2 agonista",
+        "C": "Noradrenalina",
+        "D": "Adrenalina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "En hipertensión endocraneana (HTEC) es determinante conocer que los volúmenes de sangre, de líquido céfalo-raquídeo y de parénquima encefálico son relativamente constantes en su totalidad dentro del cráneo, así lo establece la doctrina de:",
+      "options": {
+        "A": "Monro-Kellie",
+        "B": "Kluver-Bucy",
+        "C": "Frank-Starling",
+        "D": "Monroe"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Si en quirófano, durante una craneotomía, se evidencia que persiste y aumenta la hipertensión endocraneal, protruyendo el parénquima cerebral; puede recurrirse a indicar al anestesiólogo:",
+      "options": {
+        "A": "Inducirle una maniobra de Valsalva",
+        "B": "Administrarle corticosteroide",
+        "C": "Transfusión sanguínea",
+        "D": "Aumentar la frecuencia respiratoria para hiperventilar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "En el diagnóstico de HSA, los falsos negativos en la prueba de tomografía, ocurren en un (......), debido a: sangre en cisterna prepontina, edema cerebral global, sangre aislada en el espacio intraventricular y sangre en fase subaguda.",
+      "options": {
+        "A": "10-15%",
+        "B": "20-30%",
+        "C": "<5%",
+        "D": ">30%"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿En qué arteria nace la arteria cerebelosa posteroinferior?",
+      "options": {
+        "A": "Vertebral",
+        "B": "Basilar",
+        "C": "Cerebelosa",
+        "D": "Carótida interna"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Varón fumador de 56 años; KPS 100. Hace 3 semanas presenta cefalea, náusea y vómitos ocasionales e inestabilidad de la marcha. Examen: dismetría de miembros izquierdos. TC: LOE intraxial hemicerebelosa izquierda única, de 4 cm de diámetro, gran edema vasogénico con colapso del IV ventrículo e hidrocefalia tricameral. Estudio de extensión: masa pulmonar en lóbulo superior derecho. ¿Cuál es la conducta inicial más adecuada?",
+      "options": {
+        "A": "Craneotomía suboccipital, resección de lesión cerebelosa y drenaje ventricular",
+        "B": "Radioterapia holocraneal",
+        "C": "Esperar resultados de biopsia de lesión pulmonar para seleccionar un esquema de quimioterapia",
+        "D": "Biopsia de la lesión cerebelosa estereotáxica y quimioterapia en función de resultados"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál es el signo que se presenta en la parálisis del tercer par craneal por aneurisma de la comunicante posterior y no se presenta en la parálisis por diabetes?",
+      "options": {
+        "A": "Ptosis",
+        "B": "Hipotropia",
+        "C": "Midriasis",
+        "D": "Exotropia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuándo está indicado el abordaje supraorbitario?",
+      "options": {
+        "A": "Clipaje aneurismal del top de la arteria basilar",
+        "B": "Meningioma de la fosa craneal media",
+        "C": "Hematoma cortico-subcortical fronto-basal asentado en fosa craneal anterior",
+        "D": "Microadenoma hipofisiario"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál es la causa más frecuente de absceso cerebral?",
+      "options": {
+        "A": "Septicemia",
+        "B": "Infección de senos paranasales",
+        "C": "Post-trauma",
+        "D": "Post-cirugía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Niño menor de 2 años con TEC. ¿Cuáles son los hallazgos tomográficos más frecuentes en maltrato infantil?",
+      "options": {
+        "A": "Hematoma Epidural",
+        "B": "Hemorragia subaracnoidea en cisternas basales",
+        "C": "Hemorragia subdural y subaracnoidea interhemisfericas",
+        "D": "Hematoma intraventricular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "En pacientes con SIDA, la incidencia de linfoma primario del SNC ha aumentado hasta...",
+      "options": {
+        "A": "2-6%",
+        "B": "8-10%",
+        "C": "10-12%",
+        "D": "20-30%"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "La hidrocefalia obstructiva requiere derivación ventricular urgente, cuando hay peligro de...",
+      "options": {
+        "A": "atrofia cerebral.",
+        "B": "hiponatremia.",
+        "C": "pérdida de conciencia.",
+        "D": "enclavamiento."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es la dosis de Manitol (por Kg de peso) en el trauma craneoencefálico?",
+      "options": {
+        "A": "0.25 a 1 mg cada 4 a 6 h",
+        "B": "5 g cada 6 h",
+        "C": "0.25 a 1 g cada 4 a 6 h",
+        "D": "150 mg cada 8 h"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es la triada clínica de la hidrocefalia normotensiva?",
+      "options": {
+        "A": "Demencia, incontinencia urinaria y ataxia de tronco",
+        "B": "Deterioro cognitivo, cefalea y apraxia de la marcha",
+        "C": "Demencia, diplopía y apraxia de la marcha",
+        "D": "Deterioro cognitivo, incontinencia urinaria y apraxia de la marcha"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "En relación con la neuropatía por compresión. La neuropatía cubital generalmente es en ...",
+      "options": {
+        "A": "el túnel del carpo.",
+        "B": "el canal del manguito rotador.",
+        "C": "el canal epitrócleo-olecraneano del codo.",
+        "D": "el canal bicipital."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Qué aneurisma puede comprimir el III par craneal?",
+      "options": {
+        "A": "Comunicante anterior",
+        "B": "Comunicante posterior",
+        "C": "Basilar",
+        "D": "Vertebral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuál es la prueba de elección inicial en el diagnóstico de una posible HSA?",
+      "options": {
+        "A": "Punción lumbar",
+        "B": "Angiotomografía craneal",
+        "C": "Panangiografía digital de encéfalo 3D",
+        "D": "Tomografía craneal sin contraste"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "En el manejo de la hemorragia intraparenquimatosa (HIP) por hipertensión arterial (HTA). Se considera seguro disminuir la PA sistólica hasta...",
+      "options": {
+        "A": "100 mmHg en las primeras 24 h.",
+        "B": "140 mmHg en las primeras 24 h.",
+        "C": "140 mmHg después de las 24 h.",
+        "D": "100 mmHg después de las 24 h."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Qué tipo de hematoma, en la TC de cráneo, presenta imagen oval, hiperdensa, de aspecto biconvexo asociado a fractura en el lugar de la hemorragia, cruza las inserciones de la duramadre y no cruza las suturas del cráneo?",
+      "options": {
+        "A": "Intraventricular",
+        "B": "Epidural",
+        "C": "Subdural",
+        "D": "Subaracnoideo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "¿Cuál es el nervio craneal sensitivo que conduce información desde el oído interno, relacionada con el sonido y el equilibrio?",
+      "options": {
+        "A": "VII",
+        "B": "VIII",
+        "C": "VI",
+        "D": "IV"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "En el cerebro, una lesión intra-axial se origina en la región...",
+      "options": {
+        "A": "ventricular.",
+        "B": "subdural.",
+        "C": "epidural.",
+        "D": "parenquimal."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Qué proporción de muertes que se producen al año por traumatismos, están causadas por lesiones craneoencefálicas?",
+      "options": {
+        "A": "50%",
+        "B": "90%",
+        "C": "20%",
+        "D": "10%"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿Cuál es un indicador clínico de aumento de la presión intracraneana?",
+      "options": {
+        "A": "Temblor distal",
+        "B": "Fotofobia",
+        "C": "Papiledema",
+        "D": "Vértigo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Varón de 22 años entró a emergencia por TEC. Glasgow 15, tenía pupilas isocóricas, luego de 30 minutos se vuelve a examinar y se halla anisocoria derecha, esto pudiera ser consecuencia de:",
+      "options": {
+        "A": "Desviación del III par craneal por hernia uncal izquierda",
+        "B": "Compresión del VI par craneal del lado derecho",
+        "C": "Compresión del III par craneal por herniación uncal derecha",
+        "D": "Dilatación ventricular izquierda"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Mujer de 77 años, con cefalea, agitación, confusión, pérdida de consciencia. Antecedente de HTA controlada Examen: signos de meningismo, fondo de ojo con edema de papila y hemorragia subhialoidea, ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hemorragia subaracnoidea",
+        "B": "Hemorragia intraparenquimal",
+        "C": "Meningoencefalitis infecciosa",
+        "D": "Hemorragia subdural espontánea"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "En espondilolistesis, un desplazamiento del 100% se clasifica como grado:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "1"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál es el campo de la Neurocirugía que se encarga fundamentalmente del tratamiento del dolor, trastornos del movimiento, epilepsia y algunos trastornos psiquiátricos, cuando son resistentes a los tratamientos convencionales?",
+      "options": {
+        "A": "Neurointervencionismo radiológico",
+        "B": "Radiocirugía cerebral",
+        "C": "Neuronavegación",
+        "D": "Neurocirugía funcional estereotáxica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "¿Cuál es el tratamiento que permite controlar el volumen del compartimiento de LCR?",
+      "options": {
+        "A": "Manitol",
+        "B": "Furosemida",
+        "C": "TIVA",
+        "D": "Drenaje"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "¿Cuál es la clínica más habitual de los meningiomas de surco olfatorio?",
+      "options": {
+        "A": "Psiquiátrica y del comportamiento",
+        "B": "Neuropatía de pares bajos",
+        "C": "Hemiparesia",
+        "D": "Hidrocefalia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Varón de 70 años con antecedente de hipertensión arterial. TC sin contraste: imagen oval hiperdensa intraparenquimal con fino halo hipodenso localizada en el putamen y el córtex insular. ¿Qué tipo de hemorragia es la más probable?",
+      "options": {
+        "A": "Intracerebral",
+        "B": "Ventricular",
+        "C": "Subdural",
+        "D": "Epidural"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "¿Cuál es una característica del meningioma intracraneal?",
+      "options": {
+        "A": "No presenta calcificaciones en su interior",
+        "B": "Siempre tiene una zona de contacto con la duramadre",
+        "C": "Suele ser infratentorial",
+        "D": "Nace en la piamadre"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Cuáles son los hallazgos clínicos de la mielopatía cervical?",
+      "options": {
+        "A": "Hipotonía e hiporreflexia",
+        "B": "Espasticidad y Brudzinski",
+        "C": "Clonus, Hoffman y Brudzinski",
+        "D": "Espasticidad, hiperreflexia y Babinski"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Varón 30 años vive en el campo y trabaja con ganado vacuno, cocina a leña. Acude por cefalea y vómitos. TC (sin contraste): aumento de volumen de las cavidades ventriculares asociado a la presencia de imágenes hipodensas de localización periventricular. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hidrocéfalo por tumor cerebral",
+        "B": "Hidrocefalia hipertensiva por neurocisticercosis",
+        "C": "Edema citotóxico por neurocisticercosis.",
+        "D": "Infarto cerebral por neurocisticercosis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es la indicación quirúrgica de tercerventriculostomía endoscópica?",
+      "options": {
+        "A": "Hidrocefalia por hematoma en fosa posterior",
+        "B": "Hidrocefalia secundaria a meningitis",
+        "C": "Hidrocefalia posterior a HSA",
+        "D": "Seudotumor cerebral"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Paciente de 40 años con cefalea. RM de encéfalo: T1 con contraste: vena transcortical con refuerzo que drena un grupo de pequeñas venas medulares (cabeza de medusa); T2: vena de drenaje con vacío de señal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Malformación arteriovenosa",
+        "B": "Hemangioma cavernoso",
+        "C": "Enfermedad de moyamoya",
+        "D": "Angioma venoso"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Cuál es la causa más frecuente de hemorragia intraparenquimal espontánea?",
+      "options": {
+        "A": "Anomalía vascular",
+        "B": "Aneurisma cerebral",
+        "C": "Hipertensión arterial",
+        "D": "Malformación arteriovenosa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál de las hernias encefálicas pueden ser unilaterales o bilaterales?",
+      "options": {
+        "A": "Subfacial o del cíngulo",
+        "B": "Transtentorial ascedente",
+        "C": "Transtentorial descendente",
+        "D": "Transforamidal o amigdalas cerebelosas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cuál es el adenoma de hipófisis más frecuente?",
+      "options": {
+        "A": "Adenoma secretor de TSH",
+        "B": "Prolactinoma",
+        "C": "Adenoma secretor de hormona de crecimiento",
+        "D": "Adenoma no secretor"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "¿Qué patología afecta por compresión a los nervios craneales y raquídeos, adoptando un patrón diseminado en múltiples niveles no contiguos?",
+      "options": {
+        "A": "Hernias de núcleo pulposo",
+        "B": "Espondilolistesis de III grado",
+        "C": "Carcinomatosis meníngea",
+        "D": "Neurotmesis con denervación"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Al considerar sospecha de neuropatía por compresión dentro de los compartimientos del cráneo. ¿Cuál es el par craneal que emerge de la cara posterior de tronco encefálico?",
+      "options": {
+        "A": "III",
+        "B": "VI",
+        "C": "IV",
+        "D": "X"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Varón de 88 años, ingresó a unidad de Shock-Trauma por deterioro de consciencia severo, con TC que revela HIP en fosa posterior, de 50 mL de volumen y que ha invadido el sistema ventricular. Glasgow 4. ¿Cuál es el pronóstico de mortalidad a los 30 días?",
+      "options": {
+        "A": "100%",
+        "B": "90%",
+        "C": "80%",
+        "D": "70%"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Niño de 3 años con cefalea, vómitos y disminución progresiva del Glasgow, tiene en sus neuroimágenes tumor en fosa posterior e hidrocefalia con refuerzo hipodenso periventricular subependimario. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Administrar manitol",
+        "B": "Punción lumbar evacuatoria",
+        "C": "Derivación ventricular urgente",
+        "D": "Administrar corticoides"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Cuál es la prueba más sensible para diagnóstico de lesiones del tronco encefálico y axónicas?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Resonancia",
+        "C": "Angiografía",
+        "D": "PET/CT"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Mujer adulta, con dolor tipo quemazón en hemicara izquierda, que abarca territorios V1+V2+V3, muy urente y refractario a tratamiento médico; con dos años de evolución y exacerbación reciente de la intensidad de su dolor. Se programa su cirugía electiva para descompresión neurovascular. ¿Cuál es el abordaje recomendado?",
+      "options": {
+        "A": "Retrosigmoideo",
+        "B": "Minipterional lateral",
+        "C": "Suboccipital en la línea media",
+        "D": "Retrolaberintino presigmoideo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Varón de 84 años con antecedentes de fibrilación auricular, anticoagulado con antagonistas de vitamina K, acude por afasia de inicio brusco y hemiplejía derecha, se evidencia deterioro del nivel de consciencia. INR en 2.1 a su llegada a urgencias. ¿Cuál es el hallazgo tomográfico más probable?",
+      "options": {
+        "A": "Hemorragia en ventrículo lateral izquierdo sin compromiso parenquimal",
+        "B": "Hemorragia intraparenquimal en ganglios basales hacia frontotemporal izquierdo",
+        "C": "Hemorragia subaracnoidea en cisternas perimesencefálicas",
+        "D": "Infarto cardioembólico frontal izquierdo extenso"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "En el tratamiento de la HSA, el riesgo de resangrado disminuye con ......, especialmente en las primeras horas.",
+      "options": {
+        "A": "uso de nimodipino",
+        "B": "cierre precoz del aneurisma",
+        "C": "evacuación de la hemorragia",
+        "D": "control de la hiperglucemia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "¿Cuál es el tumor intramedular más frecuente?",
+      "options": {
+        "A": "Glioma",
+        "B": "Hemangioblastoma",
+        "C": "Meduloblastoma",
+        "D": "Neurofibroma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

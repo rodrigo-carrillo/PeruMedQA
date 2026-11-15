@@ -1,0 +1,1349 @@
+{
+  "metadata": {
+    "year": 2026,
+    "exam": "ANATOMIA PATOLOGICA",
+    "source_pdf": "ANATOMIA PATOLOGICA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Anatomía Patológica",
+    "sha256_pdf": "41c2a1a970cf7ae84580a504b6eab16a958c26da244278e77045d6ca05f2694a",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:31:10",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 11,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Anatomía Patológica",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9989,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.5943,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 29119,
+      "coverage_out_chars": 29119,
+      "human_reference": "_backup_csv_verificados/Year2026/ANATOMIA PATOLOGICA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 431,
+        "solo_espacios": 69
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál es el tumor hepático más común de la primera infancia?",
+      "options": {
+        "A": "Hepatoblastoma",
+        "B": "Hemangioma cavernoso",
+        "C": "Carcinoma hepatocelular",
+        "D": "Adenoma hepatocelular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Varón de 60 años, presenta mácula en cara, de color marrón, de consistencia rugosa de un cm de diámetro. Se biopsia la lesión y el estudio histológico muestra atipia citológica en las capas más profundas de la epidermis, con hiperplasia de las células basales, presencia de puentes intercelulares. La dermis superficial presenta elastosis, además se asocia hiperqueratosis con paraqueratosis. ¿El diagnóstico más probable es?",
+      "options": {
+        "A": "Carcinoma epidermoide in situ",
+        "B": "Queratosis actínica",
+        "C": "Melanoma in situ",
+        "D": "Carcinoma basocelular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Niño de un año, presenta una lesión nodular elevada y eritematosa en piel de muñeca. Estudio histológico: numerosas células ovoides con núcleos uniformes de localización central en la dermis. La tinción con Giemsa revela gránulos «metacromáticos» púrpura dentro del citoplasma. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Mastocitoma solitario",
+        "B": "Melanoma",
+        "C": "Nevus intradérmico",
+        "D": "Hemangioma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Varón de 72 años, con molestias urinarias. Laboratorio: PSA 145 ng/ml. Tacto rectal: próstata pétrea. AP: adenocarcinoma acinar, con extensión extra prostática unilateral, infiltración a cuello de la vejiga y a vesículas seminales. ¿A qué estadío patológico corresponde?",
+      "options": {
+        "A": "pT3a",
+        "B": "pT3",
+        "C": "pT4",
+        "D": "pT3b"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Mujer de 30 años, presenta masa palpable y con densidad radiográfica en mama derecha. Biopsia: proliferación estromal con hendiduras prominentes en forma de rendija tapizados por células fusiformes de núcleos anodinos. IHQ: CD34 (+), actina (+), vimentina (+), CD31 (-). ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hiperplasia estromal seudoangiomatosa",
+        "B": "Angiosarcoma",
+        "C": "Miofibroblastoma",
+        "D": "Tumor fibroso"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Varón con demencia senil de progresión rápida. AP: transformación espongiforme de la corteza cerebral y estructuras profundas de la sustancia gris con formación irregular de vacuolas microscópicas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Panencefalitis esclerosante subaguda",
+        "B": "Toxoplasmosis cerebral",
+        "C": "Enfermedad de Alzheimer",
+        "D": "Enfermedad de Creutzfeldt-Jakob"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Varón de 21 años, refiere cansancio, dolor de garganta, adenopatía generalizada, alza térmica, esplenomegalia. Laboratorio: leucocitosis con linfocitos atípicos, el número y aspecto de los eritrocitos dentro de lo normal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Anemia perniciosa",
+        "B": "Enfermedad de Hodgkin",
+        "C": "Mononucleosis infecciosa",
+        "D": "SIDA"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Varón de 46 años, acude por presentar masa sólida intraescrotal, asintomática. Macroscopía pequeña masa firme, homogénea bien circunscrita de color blanquecino. AP: masa no encapsulada bien circunscrita con túbulos y espacios quísticos irregulares semejantes a glándulas con algunas células con aspecto en anillo de sello, estroma fibroso. IHQ: CK (+), calretinina (+), CEA (-), CD34(-). ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Tumor del estroma del cordón sexual",
+        "B": "Hemangioma epitelioide",
+        "C": "Tumor adenomatoide",
+        "D": "Carcinoma metastásico de células en anillo de sello"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál es la neoplasia que se caracteriza por el aumento de catecolaminas?",
+      "options": {
+        "A": "Retinoblastoma",
+        "B": "Nefroblastoma",
+        "C": "Neuroblastoma",
+        "D": "Meduloblastoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Mujer de 40 años, consulta por presentar nódulo en paladar, indoloro. Biopsia de lesión resecada: pequeños espacios quísticos de tamaño variable, revestidos por células mucosas, grandes ovoides de citoplasma abundante y espumoso, con núcleos rechazados a la periferia, además abundantes células claras, escasas intermedias y epidermoides. Hay extravasación de mucina con una reacción inflamatoria importante. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Adenocarcinoma de células claras",
+        "B": "Reacción a extravasación de mucina",
+        "C": "Carcinoma mucoepidermoide",
+        "D": "Cistoadenoma mucinoso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Cuál es el carcinógeno específico en el humo del tabaco implicado en el desarrollo de cáncer de esófago?",
+      "options": {
+        "A": "4-(metilnitrosamino)-1-(3-piridil)-1-butanona (NNK)",
+        "B": "4-aminobifenilo",
+        "C": "N’-nitrosonornicotina (NNN)",
+        "D": "2-naftilamina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál de los siguientes receptores especializados presenta una gran cápsula ovoide formada por láminas concéntricas separadas por espacios llenos de líquido tisular?",
+      "options": {
+        "A": "Terminaciones de Ruffini",
+        "B": "Corpúsculo de Meisner",
+        "C": "Corpúsculo de Pacini",
+        "D": "Bulbos terminales de Krause"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Varón de 15 años, consulta por tumoración indolora en partes blandas de brazo derecho, que aumenta de tamaño repentinamente. Hallazgos histológicos de lesión resecada: abundantes células redondas poco diferenciadas, de tamaño intermedio, con núcleos hipercromáticos, citoplasma escaso, formando láminas y nidos, separados por tabiques fibrovasculares; numerosos espacios formados por pérdida central de cohesión de células tumorales. IHQ: Desmina (+), MYOD1 (+), CD56 (-). ¿Qué tipo de rabdomiosarcoma presenta?",
+      "options": {
+        "A": "Embrionario",
+        "B": "Polimorfo",
+        "C": "Seudovascular esclerosante",
+        "D": "Alveolar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "El adelgazamiento de la córnea con roturas en la capa de Bowman, es la alteración histopatológica típica de...",
+      "options": {
+        "A": "queratocono.",
+        "B": "queratopatía en banda calcificada.",
+        "C": "queratopatía en banda actínica.",
+        "D": "distrofia de Fuchs."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "En la biopsia renal de un paciente con síndrome nefrítico se observa en el microscopio óptico: proliferación endocapilar difusa e infiltrado leucocitario; en la inmunofluorescencia se observa lgG y C3 granular en la membrana basal glomerular y mesangio; y en el microscopio electrónico se ven jorobas subepiteliales. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Glomerulonefritis rápidamente progresiva",
+        "B": "Glomerulopatía membranosa",
+        "C": "Enfermedad con cambios mínimos",
+        "D": "Glomerulonefritis postinfecciosa"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "El síndrome de Caplan se caracteriza por neumoconiosis y afectación pulmonar secundaria a…",
+      "options": {
+        "A": "esclerosis sistémica.",
+        "B": "lupus eritematoso sistémico.",
+        "C": "artritis reumatoide.",
+        "D": "neumonía en organización criptógena."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "La queratitis …… puede asociarse a una reacción granulomatosa que afecta a la membrana de Descemet.",
+      "options": {
+        "A": "por acanthamoeba",
+        "B": "por tuberculosis",
+        "C": "crónica por herpes simple",
+        "D": "química"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Dentro de los cambios anatomopatológicos de los trastornos asociados a la obstrucción del flujo aéreo. ¿Cuál cursa con hiperplasia del músculo liso, exceso de moco e inflamación?",
+      "options": {
+        "A": "Bronquitis crónica",
+        "B": "Bronquiectasias",
+        "C": "Asma",
+        "D": "Enfisema"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Los trombos tienen con frecuencia laminaciones apreciables a simple vista y con el microscopio llamadas líneas de Zahn, que son depósitos claros de plaquetas y fibrina alternando con capas más oscuras con numerosos eritrocitos. El significado de estas laminaciones, es que el trombo se ha...",
+      "options": {
+        "A": "formado postmorten.",
+        "B": "formado en sangre que fluía.",
+        "C": "organizado.",
+        "D": "recanalizado."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Varón de 23 años con masa tumoral que afecta la zona ileocecal y al peritoneo. AP: infiltrado difuso de células linfoides con elevado índice mitótico y numerosas células apoptósicas, cuyos restos nucleares son fagocitados por los macrófagos, los fagocitos tienen abundante citoplasma claro que producen un aspecto de \"cielo estrellado\". ¿Cuál es el tipo de linfoma?",
+      "options": {
+        "A": "De Burkitt",
+        "B": "B difuso de células grandes",
+        "C": "Folicular",
+        "D": "De las células del manto"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Varón de 75 años, acude por presentar una lesión nodular en pómulo derecho, con tinte azulado. Se realiza biopsia, la cual revela una proliferación celular difusa en dermis, compuesta por células basaloides atípicas que forman sábanas, cordones y trabéculas, además presentan moldeamiento nuclear, hipercromasia, cromatina granular, aclaramiento nuclear, numerosas mitosis y figuras apoptóticas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Carcinoma basocelular",
+        "B": "Carcinoma de células de Merkel",
+        "C": "Melanoma",
+        "D": "Mastocitosis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Varón de 40 años, ingresa a emergencia por presentar convulsiones. TAC cerebral: tumoración en el hemisferio cerebral derecho. La lesión es resecada y el estudio patológico muestra un tumor formado por sábanas de células regulares con núcleos esféricos que contienen cromatina granular fina rodeados de un halo claro de citoplasma vacuolado, además contiene un entramado tenue de capilares anastomosados, que recuerda a la «malla de alambre» y áreas de calcificación. Las mitosis son escasas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Ependimoma",
+        "B": "Meduloblastoma",
+        "C": "Oligodendroglioma",
+        "D": "Glioblastoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Dentro de los cambios nucleares observados en la necrosis celular. ¿Cuál corresponde a un núcleo reducido en tamaño, basófilo y fragmentado?",
+      "options": {
+        "A": "Cariolisis",
+        "B": "Picnosis",
+        "C": "Apoptosis",
+        "D": "Cariorrexis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Varón de 59 años, post tiroidectomía presenta nerviosismo excesivo, calambres musculares en brazos, piernas y pies. Laboratorio: hipocalcemia. Recibe tratamiento de calcio endovenoso y vitamina D, logrando su recuperación. ¿Qué patología es la responsable?",
+      "options": {
+        "A": "Hipotiroidismo",
+        "B": "Hiperparatiroidismo",
+        "C": "Hipoparatiroidismo",
+        "D": "Hipertiroidismo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Varón de 2 años, es traído a consulta por su madre por presentar aumento del volumen testicular izquierdo. Se evidencia un tumor testicular y se procede a cirugía. El estudio histopatológico muestra una red en forma de encaje (reticular) de células cúbicas, aplanadas o fusiformes de tamaño mediano, con leve a moderada atipia, estructuras papilares y cordones sólidos de células. Además, se puede observar estructuras que consisten en un núcleo mesodérmico con un capilar central y una capa visceral y parietal de células que se asemejan a glomérulos primitivos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Coriocarcinoma",
+        "B": "Carcinoma embrionario",
+        "C": "Teratoma inmaduro",
+        "D": "Tumor del seno endodérmico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "¿Cuál es la marca distintiva clásica de la endocarditis infecciosa?",
+      "options": {
+        "A": "Vegetaciones en las válvulas cardíacas",
+        "B": "Fibrosis de las válvulas cardíacas",
+        "C": "Calcificación de las válvulas cardíacas",
+        "D": "Prolapso de las válvulas cardíacas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Cuál de las hormonas interviene en la regulación de la temperatura corporal induciendo la producción de calor?",
+      "options": {
+        "A": "Prolactina",
+        "B": "Calcitonina",
+        "C": "Triyodotironina",
+        "D": "Adrenalina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "En el modelo acinar del parénquima hepático. ¿Qué zona de hepatocitos tienen mayor oxigenación?",
+      "options": {
+        "A": "Zona 2",
+        "B": "Zona 1",
+        "C": "Zona 3",
+        "D": "Zona pericentral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál es el trastorno causante del síndrome de Ehlers-Danlos tipo IV?",
+      "options": {
+        "A": "Mutaciones de la adenosina desaminasa",
+        "B": "Deficiencia hereditaria de la esfingomielinasa",
+        "C": "Deleciones del colágeno tipo IV",
+        "D": "Defecto del mRNA que codifica el colágeno tipo III"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Varón de 23 años, acude por anemia, esplenomegalia e ictericia. Frotis de sangre periférica: hematíes esféricos, pequeños, hipercrómicos y que carecen de zona pálida. Aumento de la fragilidad osmótica de los hematíes e hiperbilirrubinemia. Mielograma: hiperplasia eritroide. Colelitiasis pigmentada. AP: informa paciente portador de esferocitosis hereditaria. ¿Cuál es la proteína defectuosa causante de esta patología?",
+      "options": {
+        "A": "Espectrina",
+        "B": "Proteína G",
+        "C": "Hemoglobina",
+        "D": "Anquirina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Cuál es el factor de crecimiento celular que estimula la proliferación fibroblástica y la síntesis de proteína de la MEC?",
+      "options": {
+        "A": "PDGF",
+        "B": "VEGF",
+        "C": "EGF",
+        "D": "TGF-ALFA"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "En la biopsia pulmonar de una paciente de 30 años, que viene por disnea, tos, dolor torácico y fiebre; se observa granulomas no necrosantes bien formados compuestos por agregados de macrófagos epitelioides densamente agrupados, con células gigantes, las cuales contienen cuerpos de Schaumann y cuerpos asteroides. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Tuberculosis pulmonar",
+        "B": "Sarcoidosis",
+        "C": "Neumonitis por hipersensibilidad",
+        "D": "Eosinofilia pulmonar"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál es la ventaja de la citología cérvico vaginal sobre la biopsia de cérvix?",
+      "options": {
+        "A": "Permite llegar al diagnóstico de las lesiones neoplásicas incipientes",
+        "B": "Permite una mejor apreciación de la arquitectura tisular",
+        "C": "Permite ver el grado de lesión en los extendidos",
+        "D": "Su aplicación es fácil y de bajo costo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Varón de 60 años, acude a consulta por odinofagia. Endoscopía: úlceras esofágicas en sacabocado y superpuestas. Se biopsia y el estudio histopatológico revela células escamosas multinucleadas que contienen inclusiones nucleares. ¿Cuál es la causa más probable de esta esofagitis?",
+      "options": {
+        "A": "Herpes simple",
+        "B": "Citomegalovirus",
+        "C": "Cándida",
+        "D": "Reflujo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "En relación a los patrones morfológicos de la inflamación aguda. ¿Cuál de los siguientes se caracteriza por exudación de líquido con bajo contenido de células en los espacios creados por la lesión celular o en las cavidades corporales revestidas por el peritoneo, la pleura o el pericardio?",
+      "options": {
+        "A": "Inflamación serosa",
+        "B": "Inflamación fibrinosa",
+        "C": "Inflamación purulenta",
+        "D": "Úlcera"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Como producto de cistectomía parcial, se recibe masa vesical polipoide, recubierta por mucosa intacta. AP: presencia de histiocitos redondos con abundante citoplasma granular eosinófilo, inclusiones intracitoplasmáticas basófilas concéntricas redondeadas. Histoquímica: PAS (+), Von Kossa (+); IHQ: CD68 (+), CD163 (+) reactividad citoplasmática difusa. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Inflamación xantogranulomatosa",
+        "B": "Malacoplaquia",
+        "C": "Inflamación granulomatosa asociada a TB",
+        "D": "Carcinoma urotelial"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Cuál es la hemoglobinopatía hereditaria causada por una mutación puntual en la ß-globina que promueve la polimerización de la hemoglobina desoxigenada, provocando distorsión de los eritrocitos, anemia hemolítica, obstrucción microvascular y lesión tisular isquémica?",
+      "options": {
+        "A": "Esferocitosis hereditaria",
+        "B": "Talasemia",
+        "C": "Drepanocitosis",
+        "D": "Deficiencia de glucosa -6- fosfato deshidrogenasa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Mujer de 40 años, con masa palpable, firme y dolorosa, en la región subareolar derecha. Biopsia: proliferación de estructuras ductales en la dermis del pezón, que rodean conductos galactóforos y músculo liso areolar; los ductos están tapizados por más de una capa de células y las mitosis son escasas. Están presentes elementos epidermoides y glandulares. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Carcinoma tubular",
+        "B": "Adenoma siringomatoso del pezón",
+        "C": "Carcinoma adenoepidermoide de escasa malignidad",
+        "D": "Adenoma del pezón"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "El carcinoma endometrioide (tipo 1) está precedido a menudo por una hiperplasia atípica y suele tener mutaciones que regula al alza la señalización:",
+      "options": {
+        "A": "TP53",
+        "B": "PTEN",
+        "C": "Pl3K/AKT",
+        "D": "ARID1A"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "El deterioro y muerte de las neuronas dopaminérgicas están asociado a:",
+      "options": {
+        "A": "Corea de Huntington",
+        "B": "Demencia con cuerpos de Lewy",
+        "C": "Enfermedad de Parkinson",
+        "D": "Ataxia espinocerebelosa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Mujer de 50 años, que en un estudio de imagen realizado por otros motivos se detecta el incremento de volumen de la glándula paratiroidea izquierda inferior, por lo que se decide la cirugía. El estudio histopatológico muestra tumor compuesto de células grandes de citoplasma granular, eosinófilo y abundante con núcleos hipercromáticos. Se puede observar focos de células atípicas grandes y otras multinucleadas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Adenoma de células principales",
+        "B": "Carcinoma paratiroideo",
+        "C": "Hiperplasia paratiroidea",
+        "D": "Adenoma de células oxifílicas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Varón de 67 años con diagnóstico de cáncer de pulmón. AP: tumor de 6.4 cm, que afecta la pleura parietal de la pared torácica, del diafragma, nervio frénico, pleura mediastínica, pericardio parietal, afectación hiliar nodular. ¿A qué estadío del TNM corresponde?",
+      "options": {
+        "A": "II A",
+        "B": "III A",
+        "C": "II B",
+        "D": "I B"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Mujer de 22 años, Rx: huesos gruesos en extremidades y cara. El médico sospecha acromegalia. ¿Cuál es la causa de esta patología?",
+      "options": {
+        "A": "Hipervitaminosis A",
+        "B": "Hipervitaminosis D",
+        "C": "Exceso de somatotropina",
+        "D": "Hipovitaminosis A"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "¿Cuál de los siguientes tejidos ectópicos es el más frecuente en el tracto digestivo?",
+      "options": {
+        "A": "Tejido pancreático en el esófago",
+        "B": "Tejido pancreático en el estómago",
+        "C": "Mucosa gástrica en el colon",
+        "D": "Mucosa gástrica en el esófago"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuál de los siguientes síndromes tumorales familiares desarrollan hemangioblastomas en el SNC; quistes en el páncreas, el hígado y los riñones; adenocarcinomas renales y feocromocitomas?",
+      "options": {
+        "A": "Complejo de esclerosis tuberosa",
+        "B": "Neurofibromatosis de tipo 1",
+        "C": "Enfermedad de Von Hippel-Lindau",
+        "D": "Neurofibromatosis de tipo 2"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuál es la distrofia muscular causada por mutaciones en genes que codifican proteínas de la lámina nuclear?",
+      "options": {
+        "A": "Miotónica",
+        "B": "De Emery-Dreifuss",
+        "C": "De Duchenne",
+        "D": "De Becker"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es una de las complicaciones infecciosas más frecuentes, causadas por inmunodepresión en pacientes trasplantados?",
+      "options": {
+        "A": "Infección por criptococos",
+        "B": "Infección por histoplasmosis",
+        "C": "Reactivación de micobacterium tuberculoso",
+        "D": "Reactivación del virus del polioma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Varón de 18 años con masa tumoral en mandíbula. AP: proliferación linfoide atípica. Estudio genético revela traslocación del gen MYC en el cromosoma 8. IHQ: CD19 (+), CD20 (+), CD10 (+). ¿Cuál es el tipo de linfoma?",
+      "options": {
+        "A": "Burkitt",
+        "B": "Folicular",
+        "C": "Linfocitos T periférico",
+        "D": "De las células del manto"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál de los siguientes factores de crecimiento están relacionados con la quimiotaxis de leucocitos y fibroblastos; estimulación de la síntesis de proteínas de la matriz extracelular e inhibición de la inflamación aguda?",
+      "options": {
+        "A": "Transformante ß",
+        "B": "Epidérmico",
+        "C": "Transformante α",
+        "D": "De los hepatocitos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál de los siguientes tipos de rechazo a trasplantes se caracteriza por secreción de citocinas por linfocitos T, que estimulan la proliferación y la actividad de fibroblastos y células de músculo liso vascular?",
+      "options": {
+        "A": "Humoral agudo",
+        "B": "Celular agudo",
+        "C": "Crónico",
+        "D": "Hiperagudo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál de las siguientes miocardiopatías tiene como mecanismo de insuficiencia cardiaca, la alteración de la distensibilidad (disfunción diastólica) y tiene entre sus causas amiloidosis, fibrosis inducida por radiación e idiopática?",
+      "options": {
+        "A": "Dilatada",
+        "B": "Restrictiva",
+        "C": "Hipertrófica",
+        "D": "Arritmogénica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "En la patogenia de la enterocolitis necrotizante. ¿Qué mediador inflamatorio se ha relacionado con un aumento de la permeabilidad mucosa mediante la inducción de la apoptosis de enterocitos y la alteración de las uniones estrechas intercelulares?",
+      "options": {
+        "A": "Factor de necrosis tumoral",
+        "B": "Interleucina 1ß",
+        "C": "Factor de crecimiento transformante ß",
+        "D": "Factor activador de plaquetas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál de los siguientes tipos de inflamación se caracteriza por cúmulos de macrófagos activados, a menudo con linfocitos T, y a veces asociada a necrosis?",
+      "options": {
+        "A": "Serosa",
+        "B": "Fibrinosa",
+        "C": "Purulenta",
+        "D": "Granulomatosa"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Varón de 18 años, asintomático, incidentalmente se observa en Rx de tórax masa en pleura de 4.5 cm, bien delimitada pero no encapsulada. AP: tejido esclerótico hialinizado hipocelular con infiltrado inflamatorio constituido por linfocitos, células plasmáticas y agregados linfoides, aisladas calcificaciones distróficas. IHQ: CD34(+), Desmina (+), CD117 (-), 1antiquimotripsina (+). ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Tumor fibroso calcificante",
+        "B": "Fibromatosis",
+        "C": "Tumor del estroma gastrointestinal",
+        "D": "Fibroma de la vaina tendinosa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Mujer de 40 años en estudio por diarrea crónica, distensión abdominal y fatiga crónica. Se realiza biopsia duodenal donde el estudio patológico muestra un mayor número de linfocitos intraepiteliales, hiperplasia de las criptas y atrofia vellositaria; además se observa, en la parte superior de la lámina propia, abundantes células plasmáticas, mastocitos y eosinófilos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Disfunción entérica ambiental",
+        "B": "Deficiencia de lactasa (disacaridasa)",
+        "C": "Enfermedad celíaca",
+        "D": "Enteropatía autoinmunitaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Mujer de 45 años, acude por presentar fatiga, prurito, hipercolesterolemia, esplenomegalia e ictericia. AP: revela lesión ductal florida caracterizada por inflamación granulomatosa destructiva centrada en los conductos biliares interlobulillares. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hepatitis autoinmune",
+        "B": "Colangitis biliar primaria",
+        "C": "Colangitis esclerosante primaria",
+        "D": "Lesión hepática inducida por fármacos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Mujer de 30 años, presenta en muslo izquierdo pápula firme de color marrón claro de 1 cm de diámetro. Estudio histopatológico: células fusiformes, de características blandas, que se disponen habitualmente en una masa bien definida no encapsulada en dermis con extensión hacia la grasa subcutánea. Se asocia un alargamiento descendente de las crestas interpapilares por encima de la lesión. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Dermatofibrosarcoma protuberans",
+        "B": "Cilindroma",
+        "C": "Fibrohistiocitoma benigno",
+        "D": "Fascitis proliferativa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "En relación al músculo esquelético. ¿Cuál de las sustancias siguientes se une al Ca2?",
+      "options": {
+        "A": "Mioglobina",
+        "B": "Actina",
+        "C": "Tropomodulina",
+        "D": "Troponina C"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál es el gen que codifica un factor que regula negativamente la vía WNT en el epitelio cólico al promover la formación de un complejo que degrada la B-catenina?",
+      "options": {
+        "A": "CDKN2A",
+        "B": "PTEN",
+        "C": "VHL",
+        "D": "APC"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál es la hormona que inhibe la histogénesis del cartílago?",
+      "options": {
+        "A": "Cortisona",
+        "B": "Tiroxina",
+        "C": "Testosterona",
+        "D": "Somatotropina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "En la autopsia de un paciente varón, fallecido por otras causas, se halló un pequeño tumor de 1 cm dentro de la corteza renal, amarillo pálido, bien delimitado. En el estudio microscópico, se observa estructuras complejas ramificadas papilomatosas, y en menor cuantía túbulos, glándulas, cordones y sábanas. Las células tienen forma cúbica o poligonal y núcleos centrales pequeños y regulares, con citoplasma escaso y sin atipias. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Oncocitoma",
+        "B": "Carcinoma cromófobo renal",
+        "C": "Adenoma papilar renal",
+        "D": "Carcinoma de células claras"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Varón de 50 años, presenta debilidad en las extremidades de varios meses de evolución. Los estudios electrofisiológicos ponen de manifiesto un aumento de la respuesta muscular con la estimulación repetida. Rx de tórax: un nódulo; que al ser biopsiado es diagnosticado como carcinoma neuroendocrino. ¿Cuál es la causa más probable de la debilidad muscular?",
+      "options": {
+        "A": "Síndrome miasténico de Eaton-Lambert",
+        "B": "Miastenia gravis",
+        "C": "Polimiositis",
+        "D": "Miositis por cuerpos de inclusión"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Varón de 46 años, después de realizar ejercicios en un día caluroso, presenta temperatura corporal central más de 40°C, vasodilatación generalizada, disminución del volumen sanguíneo circulante efectivo, no sudoroso, taquicárdico y contracciones sostenidas del músculo esquelético. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hipertermia maligna",
+        "B": "Golpe de calor",
+        "C": "Insolación",
+        "D": "Calambres por calor"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Durante el proceso de la morfogenia (desarrollo de órganos y tejidos), éste puede verse afectado por numerosos errores. ¿Cuál de los siguientes términos define una destrucción secundaria de un órgano o región corporal que previamente tenía un desarrollo normal?",
+      "options": {
+        "A": "Malformaciones",
+        "B": "Deformaciones",
+        "C": "Disrupciones",
+        "D": "Secuencia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Cuál es la glucoproteína de adhesión que une el colágeno tipo IV con la laminina en la lámina densa?",
+      "options": {
+        "A": "Elastina",
+        "B": "Fibronectina",
+        "C": "Tenascina",
+        "D": "Fibrilina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "Varón de 60 años, acude a consulta por una tumoración dependiente de glándula parótida izquierda. Antecedente de tabaquismo. Histología: quistes con proyecciones papilares revestidos por una doble capa de células epiteliales, eosinofílicas, granulosas, cilíndricas superficiales y cúbicas basales con núcleos vesiculares; separado del componente epitelial y en las partes sólidas del tumor hay abundantes folículos linfoides con centros germinales. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Tumor de Warthin",
+        "B": "Linfoadenoma",
+        "C": "Carcinoma linfoepitelial",
+        "D": "Oncocitoma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es la neoplasia maligna intraocular primaria más común en adultos?",
+      "options": {
+        "A": "Retinoblastoma",
+        "B": "Linfoma",
+        "C": "Melanoma uveal",
+        "D": "Hemangioma capilar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Varón joven en estudio por episodios de anemias intermitentes de causa hemolítica. Actualmente se encuentra en un episodio y el frotis de sangre periférica muestra eritrocitos con precipitados de globina desnaturalizada (cuerpos de Heinz) que se muestran con la tinción supravital. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Drepanocitosis",
+        "B": "Esferocitosis hereditaria",
+        "C": "Deficiencia de glucosa-6-fosfato deshidrogenasa",
+        "D": "Anemia hemolítica autoinmune"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Cuál de los siguientes elementos contribuye a la generación intermediaria reactiva de O2 en los neutrófilos?",
+      "options": {
+        "A": "SOD",
+        "B": "Catalasa",
+        "C": "NADPH",
+        "D": "Glutatión peroxidasa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuáles de los siguientes mediadores de la inflamación tienen como acción fundamental vasodilatación y aumento de la permeabilidad vascular?",
+      "options": {
+        "A": "Metabolitos del ácido araquidónico",
+        "B": "Citocinas",
+        "C": "Aminas vasoactivas",
+        "D": "Proteínas del complemento"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Varón de 18 años. Examen: talla alta, aracnodactilia, dolicocefalia, pectus excavatum, cifoescoliosis, lesiones valvulares junto con elongación de cuerdas tendinosas que le provoca insuficiencia mitral. Diagnóstico de síndrome de Marfan. ¿Cuál es el trastorno genético que lo ocasiona?",
+      "options": {
+        "A": "Formación incorrecta del colágeno tipo XVIII",
+        "B": "Defectos en la producción de colágeno tipo III, IV y V",
+        "C": "Mutación del gen que codifica la fibrilina",
+        "D": "Defecto de traducción de mRNA que codifica el colágeno tipo III"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Cuál es el gen cuya función es la detención del ciclo celular y apoptosis en respuesta al daño del ADN?",
+      "options": {
+        "A": "WT1",
+        "B": "Myc",
+        "C": "TP53",
+        "D": "RB"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Niño de 14 años, con antecedentes de diarrea a menudo prolongada no sanguinolenta, con deshidratación, dolor abdominal, náusea y vómitos. Endoscopía: atrofia de la mucosa y pequeñas erosiones. AP: aplanamiento de las vellosidades, infiltrado inflamatorio mixto, observándose en el vértice de las células epiteliales a lo largo del borde en cepillo pequeñas formaciones parasitarias de formas esféricas azules en la coloración con H-E, con un diámetro de 2-5 µm. ¿Cuál es el agente causante de esta patología?",
+      "options": {
+        "A": "Ciclospora",
+        "B": "Isospora",
+        "C": "Criptosporidios",
+        "D": "Giardia lamblia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Mientras el filtrado glomerular circula por el tubo urinífero, los iones y el agua se intercambian con el intersticio renal, lo que vuelve el filtrado isotónico, hipertónico o hipotónico respecto al plasma sanguíneo. En el estado de antidiuresis. ¿Qué parte del túbulo urinario contendría un filtrado isotónico?",
+      "options": {
+        "A": "Porción gruesa del asa de Henle",
+        "B": "Rama descendente del asa de Henle",
+        "C": "Tubo colector papilar",
+        "D": "Espacio de Bowman"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Cuál es el cambio anatómico característico del prolapso de la válvula mitral?",
+      "options": {
+        "A": "Engrosamiento fibroso de las valvas",
+        "B": "Presencia de trombos en las superficies auriculares de las valvas",
+        "C": "Abombamiento (adopción de forma de campana) de las valvas mitrales",
+        "D": "Calcificaciones focales en la base de la valva mitral posterior"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "El trasplante de …… se asocia más a menudo con la enfermedad injerto contra huésped",
+      "options": {
+        "A": "hígado",
+        "B": "riñón",
+        "C": "células madre hematopoyéticas",
+        "D": "pulmón"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Mujer de 40 años, acude a consulta ginecológica por hemorragia uterina disfuncional. Eco: engrosamiento endometrial, por lo que se le realiza una biopsia. Estudio histológico: grandes fragmentos de endometrio con abundantes glándulas, algunas dilatadas, con leve pseudoestratificación, el estroma es poco celular con zonas de hialinización, además se observa áreas de vasos sanguíneos de paredes gruesas y fragmentos pequeños de músculo liso no atípico. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hiperplasia endometrial sin atipia",
+        "B": "Adenomiosis",
+        "C": "Pólipo endometrial",
+        "D": "Leiomioma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿Cuál de las siguientes enfermedades quísticas renales se caracteriza por la presencia de un número variable de quistes medulares, normalmente concentrados en la unión corticomedular y se asocia casi siempre a disfunción renal?",
+      "options": {
+        "A": "Riñón en esponja medular",
+        "B": "Displasia renal multiquística",
+        "C": "Enfermedad quística adquirida",
+        "D": "Nefronoptisis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuáles son células que sintetizan proteínas fijadoras de andrógenos, cuando son estimuladas por FSH?",
+      "options": {
+        "A": "Espermatocitos primarios",
+        "B": "Células de Sertoli",
+        "C": "Espermatocitos secundarios",
+        "D": "Células de Leydig"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál de las siguientes leucodistrofias es causada por una deficiencia de galactocerebrósido beta-galactosidasa?",
+      "options": {
+        "A": "La enfermedad de Krabbe",
+        "B": "La leucodistrofia metacromática",
+        "C": "La adrenoleucodistrofia",
+        "D": "La enfermedad de Pelizaeus-Merzbacher"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "El aumento del número de células en un órgano o tejido en respuesta a un estímulo, se denomina...",
+      "options": {
+        "A": "hipertrofia.",
+        "B": "atrofia.",
+        "C": "metaplasia.",
+        "D": "hiperplasia."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Mujer de 25 años, gestante de baja estatura, apenas sale de casa y no come productos lácteos, presenta fuerte dolores de espalda, de piernas que se exacerba a la digito presión. Rx: cantidades excesivas de osteoide poco mineralizado en ambos fémures. Se le indicó vitamina D, calcio y fosforo; régimen que continuó con éxito después del parto. ¿Cuál es la enfermedad que padecía?",
+      "options": {
+        "A": "Osteopenia",
+        "B": "Osteogénesis imperfecta",
+        "C": "Osteopetrosis",
+        "D": "Osteomalacia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Varón de 42 años, acude por dolor abdominal, diarrea, enfermedad ulcerosa péptica. Laboratorio: gastrina plasmática >1000 pg/ml, pH intragástrico en reposo <2. Endoscopía: rugosidades prominentes del fondo gástrico, úlceras a predominio de la primera porción del duodeno. AP: mucosa gástrica muy engrosada, hipertrofia e hiperplasia de células parietales, células antrales de tipo enterocromafin. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Síndrome de Zollinger-Ellison",
+        "B": "Enfermedad de Ménetrier",
+        "C": "Gastritis linfocítica",
+        "D": "Linitis plástica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "En la autopsia de un cadáver mujer de 40 años se observa un aumento de la glándula tiroides. El estudio patológico muestra que los folículos tiroideos están revestidos por células foliculares hiperplásicas cilíndricas altas que forman proyecciones micropapilares o cordones sólidos. El coloide es pálido y muestra festoneamiento periférico. El estroma contiene infiltrado de linfocitos que ocasionalmente forman agregados. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Tiroiditis de Hashimoto",
+        "B": "Carcinoma papilar de tiroides",
+        "C": "Adenoma folicular",
+        "D": "Enfermedad de Graves"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Cuál de las siguientes neoplasias endocrinas pancreáticas se asocian con diabetes mellitus, colelitiasis, esteatorrea e hipoclorhidria?",
+      "options": {
+        "A": "Tumor de células alfa (glucagonomas)",
+        "B": "VIPoma",
+        "C": "Tumor de células delta (somatostatinoma)",
+        "D": "Tumor carcinoide"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Varón de 2 años, con malformaciones cardiacas, paladar hendido, hipoplasia del timo, inmunodeficiencia de linfocitos T, hipoplasia de paratiroides que produce hipocalcemia. El estudio molecular por FISH, revela deleción del cromosoma 22q11.2. Este cuadro corresponde al síndrome de...",
+      "options": {
+        "A": "Patau.",
+        "B": "DiGeorge.",
+        "C": "Prader-Willi.",
+        "D": "Turner."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál de los siguientes tipos de células es responsable del choque anafiláctico?",
+      "options": {
+        "A": "Eosinófilos",
+        "B": "Macrófagos",
+        "C": "Pericitos",
+        "D": "Cebadas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Varón de 60 años, acude por aumento de volumen de la glándula tiroides y adenopatías. Se constata la presencia de tumor tiroideo y se decide su resección, así como la de un ganglio cervical. El estudio histopatológico del ganglio revela una enfermedad de Castleman de tipo vascular hialino. El estudio del tumor tiroideo muestra una lesión no encapsulada compuesta por un patrón sincitial de células fusiformes y epitelioides de citoplasma eosinófilo abundante alrededor de un núcleo vesicular. Hay numerosas mitosis. El tejido tiroideo remanente contiene numerosos linfocitos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Tumor de células dendríticas foliculares",
+        "B": "Carcinoma indiferenciado",
+        "C": "Leiomiosarcoma",
+        "D": "Tumor maligno de la vaina del nervio periférico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Mujer de 52 años, al examen macroscópico masa renal solitaria bien delimitada y no encapsulada, al corte color marrón con áreas pardas y cicatriz central estrellada de 4.5 cm. Microscopía: nidos sólidos separados por fina red de retículo, citoplasma granular acidófilo, además aislados grupos con hipercromasia y pleomorfismo de aspecto degenerativo. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "CCR cromófobo",
+        "B": "CCR sin clasificar",
+        "C": "Oncocitoma renal",
+        "D": "CCR de células claras variante eosinófila"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "El humor acuoso es elaborado por:",
+      "options": {
+        "A": "Epitelio corneal",
+        "B": "Conjuntiva",
+        "C": "Epitelio ciliar",
+        "D": "Conducto de Schlemn"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Dentro de las hepatopatías hereditarias. ¿Cuál de las siguientes se suele deber a mutaciones con pérdida de función en el gen HFE?",
+      "options": {
+        "A": "Enfermedad de Wilson",
+        "B": "Hemocromatosis hereditaria",
+        "C": "Deficiencia de α 1-antitripsina",
+        "D": "Colangitis esclerosante primaria"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Con respecto a la evolución de un trombo. ¿En qué fase los trombos acumulan más plaquetas y fibrina?",
+      "options": {
+        "A": "Embolia",
+        "B": "Disolución",
+        "C": "Propagación",
+        "D": "Organización"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Cuál de las siguientes enfermedades hereditarias de la piel, se caracteriza por la formación de ampollas en zonas de presión?",
+      "options": {
+        "A": "Eritema multiforme",
+        "B": "Epidermólisis ampollosa",
+        "C": "Psoriasis",
+        "D": "Dermatitis herpetiforme"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "La metaplasia epitelial de …… es la más frecuente.",
+      "options": {
+        "A": "escamoso a cilíndrico",
+        "B": "cilíndrico a cilíndrico ciliado",
+        "C": "cilíndrico a escamoso",
+        "D": "escamoso a cilíndrico con microvellosidades"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "El estudio histológico de un tejido fibroadiposo revela áreas necróticas, en el tejido adiposo se observa contornos borrosos de las células, depósitos de calcio basófilos y una reacción inflamatoria. ¿A qué tipo de necrosis corresponde?",
+      "options": {
+        "A": "Fibrinoide",
+        "B": "Grasa enzimática",
+        "C": "Caseosa",
+        "D": "Coagulativa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Varón de 33 años, acude por lesiones cutáneas, adenopatías generalizadas, hepato-esplenomegalia. Laboratorio: linfocitosis en sangre periférica, hipercalcemia. HTLV-1 (+). ¿Qué tipo de patología afecta al paciente?",
+      "options": {
+        "A": "Tricoleucemia",
+        "B": "Leucemia linfocítica de gránulos grandes",
+        "C": "Linfoma de células del manto",
+        "D": "Leucemia/linfoma T del adulto"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Qué alteraciones genéticas están asociadas al carcinoma papilar hereditario?",
+      "options": {
+        "A": "Mutación que afectan al gen BHD",
+        "B": "Mutación del protooncogén MET",
+        "C": "Mutaciones del gen FH",
+        "D": "Mutación del gen VHL"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Varón de 26 años, al examen clínico presenta obesidad, talla baja, retraso mental, manos y pies pequeños e hipogonadismo. Estudios moleculares concluyen que es portador del síndrome de Prader-Willi. ¿Qué defecto cromosómico determinó este diagnóstico?",
+      "options": {
+        "A": "Deleción del cromosoma 15 de origen paterno",
+        "B": "Deleción del cromosoma 15 de origen materno",
+        "C": "Defecto del gen FMR1",
+        "D": "Deleción del cromosoma 22q.11.2"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuál de los siguientes tipos de anemia es causada por citocinas que aumentan la concentración de hepcidina, por tanto, reducen la absorción de hierro y confinan el hierro en los macrófagos, y también suprimen la producción de eritropoyetina?",
+      "options": {
+        "A": "Megaloblástica",
+        "B": "Ferropénica",
+        "C": "De la inflamación crónica",
+        "D": "Aplásica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Mujer de 25 años, en estudio de infertilidad, se somete a biopsia de endometrio, en la cual se observa la presencia de vacuolas por debajo de los núcleos en el epitelio glandular y estroma ligeramente celular. ¿Cuál es la fase del ciclo endometrial más probable en la que se encuentra la paciente?",
+      "options": {
+        "A": "Secretora precoz",
+        "B": "Proliferativa",
+        "C": "Menstrual",
+        "D": "Secretora tardía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

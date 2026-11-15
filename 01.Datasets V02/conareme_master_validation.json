@@ -1,0 +1,3143 @@
+{
+  "report": {
+    "timestamp": "2026-11-11T10:31:22.025306",
+    "errors": [],
+    "warnings": [
+      {
+        "check": "duplicate_questions_within_exam",
+        "message": "2020 PEDIATRIA: enunciado repetido en P[40, 87] (distintas alternativas)"
+      },
+      {
+        "check": "duplicate_questions_within_exam",
+        "message": "2023 ANATOMIA PATOLOGICA: enunciado repetido en P[73, 85] (distintas alternativas)"
+      },
+      {
+        "check": "duplicate_exams_across_files",
+        "message": "exámenes con contenido idéntico (se conservan todos): [(2025, 'CIRUGIA CARDIOVASCULAR'), (2025, 'CIRUGIA DE TORAX Y CARDIOVASCULAR')]"
+      },
+      {
+        "check": "duplicate_exams_across_files",
+        "message": "exámenes con contenido idéntico (se conservan todos): [(2026, 'CIRUGIA CARDIOVASCULAR'), (2026, 'CIRUGIA DE TORAX Y CARDIOVASCULAR')]"
+      },
+      {
+        "check": "duplicate_questions_across_exams",
+        "message": "572 enunciados compartidos",
+        "groups": [
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_082",
+            "2022_PSIQUIATRIA_008"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_052",
+            "2026_PEDIATRIA_068"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_069",
+            "2026_PEDIATRIA_036"
+          ],
+          [
+            "2023_PEDIATRIA_005",
+            "2023_PRUEBA_A_086"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_097",
+            "2025_PEDIATRIA_095"
+          ],
+          [
+            "2018_PEDIATRIA_034",
+            "2018_PRUEBA_A_047"
+          ],
+          [
+            "2023_PEDIATRIA_042",
+            "2023_PRUEBA_A_098"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_097",
+            "2022_ESPECIALIDAD_PRUEBA_A_086"
+          ],
+          [
+            "2023_PEDIATRIA_040",
+            "2023_PRUEBA_A_082"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_007",
+            "2024_PEDIATRIA_045"
+          ],
+          [
+            "2018_PEDIATRIA_018",
+            "2018_PRUEBA_B_029"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_091",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_091"
+          ],
+          [
+            "2018_PEDIATRIA_057",
+            "2018_PRUEBA_B_016"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_020",
+            "2022_PSIQUIATRIA_024"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_096",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_096"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_079",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_079"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_080",
+            "2024_GINECOLOGIA_026"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_040",
+            "2022_ESPECIALIDAD_PRUEBA_A_052"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_049",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_049"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_033",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_033"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_087",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_087"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_019",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_019"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_042",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_042"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_006",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_006"
+          ],
+          [
+            "2024_ANESTESIOLOGIA_098",
+            "2024_NEUROCIRUGIA_018"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_088",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_088"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_066",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_066"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_038",
+            "2023_RADIOLOGIA_008"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_072",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_072"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_047",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_047"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_063",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_063"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_032",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_032"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_098",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_098"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_008",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_008"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_090",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_090"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_094",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_094"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_097",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_097"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_005",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_005"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_037",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_037"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_038",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_038"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_068",
+            "2022_CIRUGIA_GENERAL_039"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_009",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_009"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_067",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_067"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_046",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_046"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_069",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_069"
+          ],
+          [
+            "2019_PEDIATRIA_021",
+            "2019_PRUEBA_A_095"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_064",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_064"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_065",
+            "2022_NEUROCIRUGIA_050"
+          ],
+          [
+            "2024_NEUROCIRUGIA_074",
+            "2024_RADIOLOGIA_044"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_036",
+            "2023_RADIOLOGIA_001"
+          ],
+          [
+            "2022_NEUROCIRUGIA_059",
+            "2022_RADIOLOGIA_024"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_045",
+            "2024_RADIOLOGIA_092"
+          ],
+          [
+            "2023_NEUROCIRUGIA_089",
+            "2023_RADIOLOGIA_075"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_005",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_021"
+          ],
+          [
+            "2022_PEDIATRIA_079",
+            "2022_RADIOLOGIA_044"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_059",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_059"
+          ],
+          [
+            "2018_PEDIATRIA_004",
+            "2018_PRUEBA_B_052"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_043",
+            "2025_GINECOLOGIA_Y_OBSTETRICIA_015"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_001",
+            "2022_NEUROCIRUGIA_017"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_084",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_084"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_017",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_017"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_051",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_051"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_037",
+            "2022_CIRUGIA_GENERAL_007"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_007",
+            "2022_CIRUGIA_GENERAL_029"
+          ],
+          [
+            "2018_PEDIATRIA_051",
+            "2018_PRUEBA_B_081"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_093",
+            "2022_PEDIATRIA_048"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_060",
+            "2022_RADIOLOGIA_052"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_076",
+            "2024_RADIOLOGIA_055"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_033",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_033"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_031",
+            "2022_CIRUGIA_GENERAL_057"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_062",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_062"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_059",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_059"
+          ],
+          [
+            "2023_NEUROCIRUGIA_021",
+            "2023_PEDIATRIA_019",
+            "2023_PRUEBA_A_029"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_075",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_075"
+          ],
+          [
+            "2023_PEDIATRIA_094",
+            "2023_PRUEBA_A_100"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_097",
+            "2022_NEUROCIRUGIA_040"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_025",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_025"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_076",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_076"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_070",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_070"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_077",
+            "2023_NEUROCIRUGIA_100"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_097",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_097"
+          ],
+          [
+            "2023_NEUROCIRUGIA_066",
+            "2023_RADIOLOGIA_049"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_084",
+            "2023_RADIOLOGIA_096"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_005",
+            "2023_RADIOLOGIA_048"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_058",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_058"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_039",
+            "2023_NEUROCIRUGIA_092"
+          ],
+          [
+            "2023_PEDIATRIA_035",
+            "2023_PRUEBA_A_016"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_029",
+            "2024_RADIOLOGIA_047"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_005",
+            "2022_CIRUGIA_GENERAL_082"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_094",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_094"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_015",
+            "2024_RADIOLOGIA_077"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_023",
+            "2022_RADIOLOGIA_015"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_041",
+            "2023_RADIOLOGIA_027"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_076",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_076"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_064",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_064"
+          ],
+          [
+            "2019_PEDIATRIA_078",
+            "2019_PRUEBA_B_079"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_099",
+            "2024_PEDIATRIA_072"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_045",
+            "2022_ESPECIALIDAD_PRUEBA_A_012"
+          ],
+          [
+            "2018_PEDIATRIA_023",
+            "2018_PRUEBA_A_077"
+          ],
+          [
+            "2023_PEDIATRIA_091",
+            "2023_PRUEBA_A_058"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_076",
+            "2025_PEDIATRIA_058"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_070",
+            "2025_PEDIATRIA_068"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_001",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_001"
+          ],
+          [
+            "2023_NEUROCIRUGIA_095",
+            "2023_RADIOLOGIA_071"
+          ],
+          [
+            "2024_CIRUGIA_084",
+            "2024_ESPECIALIADAD_A_016"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_089",
+            "2024_GINECOLOGIA_056"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_064",
+            "2024_GINECOLOGIA_046"
+          ],
+          [
+            "2023_NEUROCIRUGIA_067",
+            "2023_RADIOLOGIA_076"
+          ],
+          [
+            "2018_PEDIATRIA_065",
+            "2018_PRUEBA_A_097"
+          ],
+          [
+            "2018_PEDIATRIA_030",
+            "2018_PRUEBA_A_008"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_034",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_034"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_007",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_007"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_025",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_025"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_018",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_018"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_055",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_055"
+          ],
+          [
+            "2023_NEUROCIRUGIA_039",
+            "2023_RADIOLOGIA_058"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_019",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_019"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_056",
+            "2022_NEUROCIRUGIA_089"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_040",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_040"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_071",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_071"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_059",
+            "2023_NEUROCIRUGIA_073"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_065",
+            "2024_GINECOLOGIA_023"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_062",
+            "2024_PEDIATRIA_074"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_091",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_091"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_019",
+            "2022_NEUROCIRUGIA_054"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_050",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_050"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_055",
+            "2022_NEUROCIRUGIA_025"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_063",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_063"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_083",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_083"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_093",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_093"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_085",
+            "2022_NEUROCIRUGIA_020"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_071",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_071"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_003",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_003"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_007",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_007"
+          ],
+          [
+            "2018_PEDIATRIA_089",
+            "2018_PRUEBA_B_057"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_079",
+            "2024_PEDIATRIA_027"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_001",
+            "2022_PEDIATRIA_074"
+          ],
+          [
+            "2018_PEDIATRIA_074",
+            "2018_PRUEBA_A_049"
+          ],
+          [
+            "2023_PEDIATRIA_043",
+            "2023_PRUEBA_A_054"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_043",
+            "2026_PEDIATRIA_047"
+          ],
+          [
+            "2018_PEDIATRIA_096",
+            "2018_PRUEBA_A_021"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_049",
+            "2026_PEDIATRIA_003"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_048",
+            "2026_PEDIATRIA_069"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_092",
+            "2022_PEDIATRIA_088"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_090",
+            "2024_PEDIATRIA_033"
+          ],
+          [
+            "2023_PEDIATRIA_033",
+            "2023_PRUEBA_A_085"
+          ],
+          [
+            "2018_PEDIATRIA_088",
+            "2018_PRUEBA_A_030"
+          ],
+          [
+            "2018_PEDIATRIA_097",
+            "2018_PRUEBA_B_093"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_093",
+            "2022_PEDIATRIA_029"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_080",
+            "2026_PEDIATRIA_084"
+          ],
+          [
+            "2018_PEDIATRIA_048",
+            "2018_PRUEBA_A_041"
+          ],
+          [
+            "2023_PEDIATRIA_049",
+            "2023_PRUEBA_A_004"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_071",
+            "2022_PEDIATRIA_070"
+          ],
+          [
+            "2018_PEDIATRIA_058",
+            "2018_PRUEBA_B_064"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_095",
+            "2022_PEDIATRIA_035"
+          ],
+          [
+            "2026_PEDIATRIA_082",
+            "2026_UROLOGIA_097"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_011",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_011"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_013",
+            "2022_CIRUGIA_GENERAL_085"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_086",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_086"
+          ],
+          [
+            "2023_PEDIATRIA_014",
+            "2023_PRUEBA_A_026"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_091",
+            "2022_PEDIATRIA_039"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_019",
+            "2022_PEDIATRIA_096"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_080",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_080"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_096",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_096"
+          ],
+          [
+            "2022_NEUROCIRUGIA_086",
+            "2022_RADIOLOGIA_091"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_079",
+            "2022_RADIOLOGIA_035"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_064",
+            "2022_RADIOLOGIA_070"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_025",
+            "2022_RADIOLOGIA_093"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_037",
+            "2026_PEDIATRIA_053"
+          ],
+          [
+            "2022_PEDIATRIA_020",
+            "2022_UROLOGIA_054"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_030",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_030"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_073",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_073"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_100",
+            "2025_GINECOLOGIA_Y_OBSTETRICIA_089"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_017",
+            "2025_ESPECIALIADAD_A_080"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_081",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_081"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_015",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_015"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_099",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_099"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_096",
+            "2022_ESPECIALIDAD_PRUEBA_A_072"
+          ],
+          [
+            "2022_NEUROCIRUGIA_031",
+            "2022_RADIOLOGIA_021"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_031",
+            "2023_NEUROCIRUGIA_063"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_045",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_045"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_058",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_058"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_021",
+            "2022_NEUROCIRUGIA_009"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_082",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_082"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_086",
+            "2022_ESPECIALIDAD_PRUEBA_A_002"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_002",
+            "2025_GINECOLOGIA_Y_OBSTETRICIA_099"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_067",
+            "2024_GINECOLOGIA_006"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_006",
+            "2024_GINECOLOGIA_076"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_061",
+            "2024_GINECOLOGIA_027"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_032",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_032"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_058",
+            "2025_GINECOLOGIA_Y_OBSTETRICIA_090"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_030",
+            "2023_PRUEBA_A_093"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_089",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_089"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_038",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_038"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_037",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_037"
+          ],
+          [
+            "2024_CIRUGIA_020",
+            "2024_ESPECIALIADAD_A_054"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_006",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_046"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_041",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_041"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_061",
+            "2022_CIRUGIA_GENERAL_071"
+          ],
+          [
+            "2023_NEUROCIRUGIA_080",
+            "2023_OFTALMOLOGIA_026"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_043",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_043"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_055",
+            "2023_NEUROCIRUGIA_071"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_092",
+            "2024_RADIOLOGIA_037"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_027",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_027"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_043",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_043"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_023",
+            "2023_PRUEBA_A_065"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_061",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_069"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_031",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_031"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_098",
+            "2022_ESPECIALIDAD_PRUEBA_A_083"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_004",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_004"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_033",
+            "2022_NEUROCIRUGIA_033"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_060",
+            "2022_ESPECIALIDAD_PRUEBA_A_092"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_075",
+            "2025_GINECOLOGIA_Y_OBSTETRICIA_045"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_012",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_012"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_085",
+            "2025_ESPECIALIADAD_A_006"
+          ],
+          [
+            "2024_CIRUGIA_085",
+            "2024_ESPECIALIADAD_A_081"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_010",
+            "2023_PRUEBA_A_063"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_004",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_004"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_097",
+            "2024_RADIOLOGIA_096"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_086",
+            "2024_GINECOLOGIA_090"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_052",
+            "2025_ESPECIALIADAD_A_045"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_088",
+            "2023_PRUEBA_A_070"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_082",
+            "2022_CIRUGIA_GENERAL_068"
+          ],
+          [
+            "2022_NEUROCIRUGIA_026",
+            "2022_RADIOLOGIA_056"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_006",
+            "2023_NEUROCIRUGIA_028",
+            "2023_PRUEBA_A_057"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_027",
+            "2026_PEDIATRIA_083"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_017",
+            "2022_ESPECIALIDAD_PRUEBA_A_067"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_008",
+            "2022_PEDIATRIA_032"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_006",
+            "2026_PEDIATRIA_054"
+          ],
+          [
+            "2023_PEDIATRIA_036",
+            "2023_PRUEBA_A_022"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_055",
+            "2025_PEDIATRIA_085"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_070",
+            "2024_PEDIATRIA_036"
+          ],
+          [
+            "2022_PEDIATRIA_052",
+            "2022_UROLOGIA_064"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_034",
+            "2024_PEDIATRIA_049"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_085",
+            "2024_PEDIATRIA_016"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_089",
+            "2026_PEDIATRIA_092"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_003",
+            "2022_PEDIATRIA_034"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_073",
+            "2026_PEDIATRIA_056"
+          ],
+          [
+            "2022_PEDIATRIA_100",
+            "2022_UROLOGIA_072"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_041",
+            "2024_PEDIATRIA_077"
+          ],
+          [
+            "2018_PEDIATRIA_061",
+            "2018_PRUEBA_B_074"
+          ],
+          [
+            "2019_PEDIATRIA_003",
+            "2019_PRUEBA_B_080"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_005",
+            "2026_PEDIATRIA_060"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_031",
+            "2024_PEDIATRIA_038"
+          ],
+          [
+            "2022_PEDIATRIA_093",
+            "2022_PSIQUIATRIA_047"
+          ],
+          [
+            "2023_PEDIATRIA_055",
+            "2023_PRUEBA_A_050"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_082",
+            "2023_PRUEBA_A_002"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_097",
+            "2024_PEDIATRIA_014"
+          ],
+          [
+            "2023_PEDIATRIA_048",
+            "2023_PRUEBA_A_006"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_053",
+            "2025_PEDIATRIA_032"
+          ],
+          [
+            "2022_NEUROCIRUGIA_029",
+            "2022_PEDIATRIA_036",
+            "2022_RADIOLOGIA_097"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_049",
+            "2023_PRUEBA_A_071"
+          ],
+          [
+            "2023_PEDIATRIA_100",
+            "2023_PRUEBA_A_010"
+          ],
+          [
+            "2023_PEDIATRIA_068",
+            "2023_PRUEBA_A_034"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_074",
+            "2022_PEDIATRIA_044"
+          ],
+          [
+            "2025_PEDIATRIA_038",
+            "2025_RADIOLOGIA_002"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_021",
+            "2024_PEDIATRIA_098"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_003",
+            "2023_RADIOLOGIA_029"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_063",
+            "2022_PEDIATRIA_016"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_056",
+            "2026_PEDIATRIA_059"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_023",
+            "2022_PEDIATRIA_017"
+          ],
+          [
+            "2023_PEDIATRIA_044",
+            "2023_PRUEBA_A_042"
+          ],
+          [
+            "2018_PEDIATRIA_020",
+            "2018_PRUEBA_B_020"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_091",
+            "2025_PEDIATRIA_072"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_010",
+            "2024_PEDIATRIA_082"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_071",
+            "2025_PEDIATRIA_010"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_072",
+            "2024_PEDIATRIA_062"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_043",
+            "2022_ESPECIALIDAD_PRUEBA_A_096"
+          ],
+          [
+            "2022_PEDIATRIA_026",
+            "2022_PSIQUIATRIA_006"
+          ],
+          [
+            "2022_PEDIATRIA_051",
+            "2022_PSIQUIATRIA_062"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_085",
+            "2024_RADIOLOGIA_004"
+          ],
+          [
+            "2022_PEDIATRIA_069",
+            "2022_RADIOLOGIA_067"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_060",
+            "2024_RADIOLOGIA_058"
+          ],
+          [
+            "2022_NEUROCIRUGIA_079",
+            "2022_RADIOLOGIA_065"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_087",
+            "2022_NEUROCIRUGIA_028"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_061",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_061"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_095",
+            "2026_PEDIATRIA_022"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_013",
+            "2022_PEDIATRIA_086"
+          ],
+          [
+            "2018_PEDIATRIA_072",
+            "2018_PRUEBA_B_001"
+          ],
+          [
+            "2018_PEDIATRIA_080",
+            "2018_PRUEBA_B_086"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_018",
+            "2026_PEDIATRIA_009"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_085",
+            "2026_PEDIATRIA_091"
+          ],
+          [
+            "2024_NEUROCIRUGIA_053",
+            "2024_RADIOLOGIA_074"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_033",
+            "2026_PEDIATRIA_089"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_017",
+            "2025_GINECOLOGIA_Y_OBSTETRICIA_010"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_004",
+            "2024_GINECOLOGIA_078"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_022",
+            "2025_GINECOLOGIA_Y_OBSTETRICIA_047"
+          ],
+          [
+            "2018_PEDIATRIA_059",
+            "2018_PRUEBA_B_018"
+          ],
+          [
+            "2018_PEDIATRIA_037",
+            "2018_PRUEBA_B_046"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_002",
+            "2023_RADIOLOGIA_053"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_084",
+            "2025_PEDIATRIA_093"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_015",
+            "2022_PEDIATRIA_075"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_090",
+            "2025_PEDIATRIA_073"
+          ],
+          [
+            "2018_PEDIATRIA_052",
+            "2018_PRUEBA_B_007"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_079",
+            "2026_PEDIATRIA_025"
+          ],
+          [
+            "2018_PEDIATRIA_017",
+            "2018_PRUEBA_A_068"
+          ],
+          [
+            "2024_CIRUGIA_090",
+            "2024_ESPECIALIADAD_A_060"
+          ],
+          [
+            "2025_PEDIATRIA_084",
+            "2025_UROLOGIA_044"
+          ],
+          [
+            "2018_PEDIATRIA_001",
+            "2018_PRUEBA_B_070"
+          ],
+          [
+            "2018_PEDIATRIA_098",
+            "2018_PRUEBA_A_059"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_039",
+            "2025_ESPECIALIADAD_A_078"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_063",
+            "2022_PEDIATRIA_090"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_054",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_054"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_053",
+            "2025_ESPECIALIADAD_A_062"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_005",
+            "2022_ESPECIALIDAD_PRUEBA_A_098"
+          ],
+          [
+            "2026_ESPECIALIADAD_A_092",
+            "2026_PEDIATRIA_035"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_078",
+            "2024_GINECOLOGIA_035"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_035",
+            "2024_GINECOLOGIA_053"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_036",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_032"
+          ],
+          [
+            "2023_PEDIATRIA_031",
+            "2023_PRUEBA_A_089"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_036",
+            "2022_PEDIATRIA_072"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_056",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_056"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_023",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_023"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_073",
+            "2024_PEDIATRIA_090"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_014",
+            "2025_PEDIATRIA_002"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_068",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_068"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_035",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_035"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_045",
+            "2024_GINECOLOGIA_065"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_069",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_069"
+          ],
+          [
+            "2018_PEDIATRIA_026",
+            "2018_PRUEBA_B_030"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_074",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_074"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_020",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_020"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_060",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_060"
+          ],
+          [
+            "2022_NEUROCIRUGIA_100",
+            "2022_RADIOLOGIA_099"
+          ],
+          [
+            "2022_NEUROCIRUGIA_065",
+            "2022_RADIOLOGIA_038"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_046",
+            "2022_RADIOLOGIA_041"
+          ],
+          [
+            "2022_NEUROCIRUGIA_045",
+            "2022_RADIOLOGIA_050"
+          ],
+          [
+            "2026_PEDIATRIA_033",
+            "2026_UROLOGIA_044"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_034",
+            "2023_PRUEBA_A_055"
+          ],
+          [
+            "2023_PEDIATRIA_093",
+            "2023_PRUEBA_A_024"
+          ],
+          [
+            "2022_NEUROCIRUGIA_073",
+            "2022_PEDIATRIA_089",
+            "2022_RADIOLOGIA_094"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_027",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_027"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_040",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_040"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_046",
+            "2023_PRUEBA_A_037"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_092",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_092"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_029",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_029"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_077",
+            "2022_NEUROCIRUGIA_056"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_057",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_057"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_030",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_030"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_025",
+            "2022_PEDIATRIA_008"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_087",
+            "2025_RADIOLOGIA_078"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_031",
+            "2023_NEUROCIRUGIA_055"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_081",
+            "2025_ESPECIALIADAD_A_069"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_083",
+            "2022_CIRUGIA_GENERAL_089"
+          ],
+          [
+            "2023_NEUROCIRUGIA_091",
+            "2023_OFTALMOLOGIA_039"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_026",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_026"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_039",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_039"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_024",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_024"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_050",
+            "2022_PSIQUIATRIA_042"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_088",
+            "2022_ESPECIALIDAD_PRUEBA_A_099"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_014",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_014"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_065",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_065"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_052",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_052"
+          ],
+          [
+            "2023_NEUROCIRUGIA_049",
+            "2023_PRUEBA_A_001"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_098",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_098"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_034",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_034"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_047",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_047"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_063",
+            "2022_CIRUGIA_GENERAL_031"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_024",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_024"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_082",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_082"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_022",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_022"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_022",
+            "2022_PEDIATRIA_038"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_073",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_073"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_080",
+            "2022_NEUROCIRUGIA_013"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_028",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_028"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_062",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_062"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_028",
+            "2022_NEUROCIRUGIA_024"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_068",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_068"
+          ],
+          [
+            "2023_NEUROCIRUGIA_088",
+            "2023_PRUEBA_A_078"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_026",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_026"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_049",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_049"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_079",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_079"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_065",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_065"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_081",
+            "2022_NEUROCIRUGIA_030"
+          ],
+          [
+            "2026_PEDIATRIA_096",
+            "2026_UROLOGIA_011"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_005",
+            "2025_RADIOLOGIA_054"
+          ],
+          [
+            "2024_CIRUGIA_035",
+            "2024_ESPECIALIADAD_A_015"
+          ],
+          [
+            "2023_NEUROCIRUGIA_054",
+            "2023_OFTALMOLOGIA_005"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_088",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_088"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_095",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_095"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_051",
+            "2022_ESPECIALIDAD_PRUEBA_A_017"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_018",
+            "2025_ESPECIALIADAD_A_004"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_005",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_005"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_044",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_044"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_100",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_100"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_092",
+            "2023_NEUROCIRUGIA_090"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_048",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_048"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_044",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_044"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_068",
+            "2025_ESPECIALIADAD_A_010"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_083",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_054"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_095",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_095"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_014",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_014"
+          ],
+          [
+            "2026_PEDIATRIA_030",
+            "2026_UROLOGIA_060"
+          ],
+          [
+            "2026_PEDIATRIA_010",
+            "2026_UROLOGIA_036"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_056",
+            "2022_PEDIATRIA_005"
+          ],
+          [
+            "2024_CIRUGIA_043",
+            "2024_ESPECIALIADAD_A_009"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_054",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_054"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_053",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_053"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_036",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_036"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_053",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_053"
+          ],
+          [
+            "2024_CIRUGIA_062",
+            "2024_ESPECIALIADAD_A_059"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_072",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_072"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_100",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_100"
+          ],
+          [
+            "2026_PEDIATRIA_016",
+            "2026_UROLOGIA_007"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_015",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_015"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_010",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_010"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_008",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_008"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_067",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_067"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_089",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_089"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_072",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_050"
+          ],
+          [
+            "2022_NEUROCIRUGIA_006",
+            "2022_OFTALMOLOGIA_042"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_077",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_077"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_081",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_081"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_014",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_083"
+          ],
+          [
+            "2023_NEUROCIRUGIA_016",
+            "2023_OFTALMOLOGIA_070"
+          ],
+          [
+            "2024_CIRUGIA_071",
+            "2024_ESPECIALIADAD_A_040"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_085",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_085"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_017",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_017"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_093",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_093"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_046",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_046"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_056",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_056"
+          ],
+          [
+            "2026_PEDIATRIA_088",
+            "2026_UROLOGIA_041"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_060",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_060"
+          ],
+          [
+            "2025_CIRUGIA_GENERAL_062",
+            "2025_ESPECIALIADAD_A_056"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_098",
+            "2023_PRUEBA_A_011"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_013",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_013"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_055",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_055"
+          ],
+          [
+            "2026_PEDIATRIA_032",
+            "2026_UROLOGIA_043"
+          ],
+          [
+            "2018_PEDIATRIA_022",
+            "2018_PRUEBA_A_091"
+          ],
+          [
+            "2022_PEDIATRIA_015",
+            "2022_PSIQUIATRIA_087"
+          ],
+          [
+            "2018_PEDIATRIA_035",
+            "2018_PRUEBA_A_057"
+          ],
+          [
+            "2018_PEDIATRIA_087",
+            "2018_PRUEBA_A_004"
+          ],
+          [
+            "2019_PEDIATRIA_050",
+            "2019_PRUEBA_B_022"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_078",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_078"
+          ],
+          [
+            "2024_ANESTESIOLOGIA_029",
+            "2024_NEUROCIRUGIA_015"
+          ],
+          [
+            "2023_NEUROCIRUGIA_023",
+            "2023_OFTALMOLOGIA_019"
+          ],
+          [
+            "2023_NEUROCIRUGIA_047",
+            "2023_OFTALMOLOGIA_086"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_023",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_023"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_042",
+            "2023_NEUROCIRUGIA_096"
+          ],
+          [
+            "2018_OFTALMOLOGIA_096",
+            "2025_OFTALMOLOGIA_046"
+          ],
+          [
+            "2022_NEUROCIRUGIA_062",
+            "2022_OFTALMOLOGIA_088"
+          ],
+          [
+            "2023_NEUROCIRUGIA_012",
+            "2023_OFTALMOLOGIA_057"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_021",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_021"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_045",
+            "2022_NEUROCIRUGIA_023"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_099",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_099"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_079",
+            "2023_NEUROCIRUGIA_056"
+          ],
+          [
+            "2018_PEDIATRIA_016",
+            "2018_PRUEBA_A_048"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_014",
+            "2022_RADIOLOGIA_040"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_041",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_089"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_085",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_085"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_052",
+            "2022_CIRUGIA_GENERAL_003"
+          ],
+          [
+            "2024_NEUROCIRUGIA_007",
+            "2024_RADIOLOGIA_093"
+          ],
+          [
+            "2022_NEUROCIRUGIA_057",
+            "2022_RADIOLOGIA_083"
+          ],
+          [
+            "2023_NEUROCIRUGIA_004",
+            "2023_RADIOLOGIA_010"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_079",
+            "2022_ESPECIALIDAD_PRUEBA_A_016"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_090",
+            "2022_NEUROCIRUGIA_081"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_052",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_052"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_057",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_057"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_097",
+            "2023_PRUEBA_A_095"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_081",
+            "2025_PEDIATRIA_008"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_033",
+            "2023_RADIOLOGIA_011"
+          ],
+          [
+            "2024_ANESTESIOLOGIA_030",
+            "2024_NEUROCIRUGIA_045"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_099",
+            "2023_RADIOLOGIA_028"
+          ],
+          [
+            "2022_NEUROCIRUGIA_053",
+            "2022_OFTALMOLOGIA_008"
+          ],
+          [
+            "2022_PEDIATRIA_045",
+            "2022_RADIOLOGIA_058"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_010",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_010"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_016",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_016"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_035",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_035"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_075",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_075"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_012",
+            "2023_NEUROCIRUGIA_010"
+          ],
+          [
+            "2024_NEUROCIRUGIA_060",
+            "2024_OFTALMOLOGIA_030"
+          ],
+          [
+            "2024_CIRUGIA_DE_TORAX_070",
+            "2024_RADIOLOGIA_016"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_016",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_016"
+          ],
+          [
+            "2022_NEUROCIRUGIA_044",
+            "2022_OFTALMOLOGIA_055"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_050",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_050"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_090",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_090"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_045",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_045"
+          ],
+          [
+            "2023_NEUROCIRUGIA_036",
+            "2023_RADIOLOGIA_039"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_045",
+            "2023_NEUROCIRUGIA_064"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_097",
+            "2023_NEUROCIRUGIA_007"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_087",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_087"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_048",
+            "2022_RADIOLOGIA_047"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_001",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_001"
+          ],
+          [
+            "2023_NEUROCIRUGIA_099",
+            "2023_OFTALMOLOGIA_020"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_026",
+            "2022_NEUROCIRUGIA_075"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_054",
+            "2023_NEUROCIRUGIA_065"
+          ],
+          [
+            "2018_OFTALMOLOGIA_083",
+            "2024_OFTALMOLOGIA_073"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_022",
+            "2024_PEDIATRIA_092"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_051",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_051"
+          ],
+          [
+            "2019_UROLOGIA_073",
+            "2022_UROLOGIA_007"
+          ],
+          [
+            "2018_PRUEBA_B_078",
+            "2019_PRUEBA_B_083"
+          ],
+          [
+            "2023_NEUROCIRUGIA_053",
+            "2023_OFTALMOLOGIA_071"
+          ],
+          [
+            "2024_ESPECIALIADAD_A_075",
+            "2024_PEDIATRIA_006"
+          ],
+          [
+            "2019_PEDIATRIA_091",
+            "2019_PRUEBA_A_091"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_002",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_002"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_021",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_021"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_031",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_031"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_049",
+            "2022_NEUROCIRUGIA_072"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_091",
+            "2023_PRUEBA_A_008"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_078",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_078"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_060",
+            "2023_NEUROCIRUGIA_058"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_083",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_083"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_074",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_074"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_041",
+            "2022_NEUROCIRUGIA_041"
+          ],
+          [
+            "2024_CIRUGIA_004",
+            "2024_ESPECIALIADAD_A_011"
+          ],
+          [
+            "2023_NEUROCIRUGIA_083",
+            "2023_RADIOLOGIA_073"
+          ],
+          [
+            "2022_NEUROCIRUGIA_034",
+            "2024_ANATOMIA_PATOLOGICA_098"
+          ],
+          [
+            "2023_NEUROCIRUGIA_081",
+            "2023_RADIOLOGIA_035"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_080",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_080"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_073",
+            "2022_RADIOLOGIA_002"
+          ],
+          [
+            "2024_CIRUGIA_013",
+            "2024_ESPECIALIADAD_A_014"
+          ],
+          [
+            "2022_NEUROCIRUGIA_021",
+            "2022_RADIOLOGIA_071"
+          ],
+          [
+            "2025_PEDIATRIA_014",
+            "2025_RADIOLOGIA_095"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_077",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_077"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_076",
+            "2023_NEUROCIRUGIA_045"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_002",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_002"
+          ],
+          [
+            "2022_NEUROCIRUGIA_096",
+            "2022_RADIOLOGIA_090"
+          ],
+          [
+            "2023_NEUROCIRUGIA_059",
+            "2023_RADIOLOGIA_052"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_039",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_039"
+          ],
+          [
+            "2023_CIRUGIA_GENERAL_022",
+            "2023_NEUROCIRUGIA_017"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_003",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_003"
+          ],
+          [
+            "2018_PEDIATRIA_086",
+            "2018_PRUEBA_B_056"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_022",
+            "2022_CIRUGIA_GENERAL_030"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_018",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_018"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_061",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_061"
+          ],
+          [
+            "2022_ANESTESIOLOGIA_004",
+            "2022_NEUROCIRUGIA_060"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_053",
+            "2022_RADIOLOGIA_079"
+          ],
+          [
+            "2018_UROLOGIA_067",
+            "2019_UROLOGIA_021"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_092",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_092"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_084",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_084"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_042",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_042"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_020",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_020"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_085",
+            "2023_NEUROCIRUGIA_084"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_011",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_011"
+          ],
+          [
+            "2023_NEUROCIRUGIA_057",
+            "2023_RADIOLOGIA_013"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_029",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_029"
+          ],
+          [
+            "2023_ANESTESIOLOGIA_072",
+            "2023_NEUROCIRUGIA_093"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_026",
+            "2022_ESPECIALIDAD_PRUEBA_A_031"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_043",
+            "2022_PEDIATRIA_011"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_009",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_009"
+          ],
+          [
+            "2022_CIRUGIA_CARDIOVASCULAR_039",
+            "2022_CIRUGIA_GENERAL_059"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_022",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_022"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_006",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_006"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_013",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_013"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_048",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_048"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_096",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_044"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_061",
+            "2022_ESPECIALIDAD_PRUEBA_A_079"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_051",
+            "2023_NEUROCIRUGIA_002"
+          ],
+          [
+            "2018_PEDIATRIA_095",
+            "2018_PRUEBA_B_012"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_036",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_036"
+          ],
+          [
+            "2022_NEUROCIRUGIA_076",
+            "2022_OFTALMOLOGIA_051"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_080",
+            "2023_NEUROCIRUGIA_048"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_038",
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_056"
+          ],
+          [
+            "2022_PEDIATRIA_060",
+            "2022_UROLOGIA_003"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_070",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_070"
+          ],
+          [
+            "2018_PEDIATRIA_033",
+            "2018_PRUEBA_A_098"
+          ],
+          [
+            "2024_CIRUGIA_021",
+            "2024_ESPECIALIADAD_A_071"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_086",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_086"
+          ],
+          [
+            "2026_CIRUGIA_CARDIOVASCULAR_041",
+            "2026_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_041"
+          ],
+          [
+            "2023_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_037",
+            "2023_RADIOLOGIA_042"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_076",
+            "2022_NEUROCIRUGIA_092"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_010",
+            "2022_PEDIATRIA_037"
+          ],
+          [
+            "2024_ANESTESIOLOGIA_054",
+            "2024_NEUROCIRUGIA_048"
+          ],
+          [
+            "2022_CIRUGIA_GENERAL_020",
+            "2022_NEUROCIRUGIA_085"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_015",
+            "2023_NEUROCIRUGIA_026"
+          ],
+          [
+            "2023_ANATOMIA_PATOLOGICA_084",
+            "2023_NEUROCIRUGIA_098"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_012",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_012"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_066",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_066"
+          ],
+          [
+            "2025_ESPECIALIADAD_A_046",
+            "2025_PEDIATRIA_047"
+          ],
+          [
+            "2024_NEUROCIRUGIA_072",
+            "2024_RADIOLOGIA_084"
+          ],
+          [
+            "2022_ESPECIALIDAD_PRUEBA_A_057",
+            "2022_PEDIATRIA_049"
+          ],
+          [
+            "2025_CIRUGIA_CARDIOVASCULAR_028",
+            "2025_CIRUGIA_DE_TORAX_Y_CARDIOVASCULAR_028"
+          ]
+        ]
+      }
+    ],
+    "checks_run": [
+      "expected_columns",
+      "row_counts_reconciliation",
+      "question_id_unique",
+      "correct_answer_values",
+      "empty_critical_cells",
+      "duplicate_questions_within_exam",
+      "duplicate_exams_across_files",
+      "duplicate_questions_across_exams",
+      "variants_consistency"
+    ],
+    "summary": {
+      "total_rows": 9980,
+      "total_exams": 100,
+      "rows_4_options": 5500,
+      "rows_5_options": 4480,
+      "n_errors": 0,
+      "n_warnings": 5
+    }
+  },
+  "files_tracking": [
+    {
+      "year": 2018,
+      "exam": "ANESTESIOLOGIA",
+      "json": "Year2018/ANESTESIOLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "CIRUGIA",
+      "json": "Year2018/CIRUGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "GINECOLOGIA Y OBSTETRICIA",
+      "json": "Year2018/GINECOLOGIA Y OBSTETRICIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "OFTALMOLOGIA",
+      "json": "Year2018/OFTALMOLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "PATOLOGIA",
+      "json": "Year2018/PATOLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "PEDIATRIA",
+      "json": "Year2018/PEDIATRIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "PRUEBA A",
+      "json": "Year2018/PRUEBA A.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "PRUEBA B",
+      "json": "Year2018/PRUEBA B.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "PSIQUIATRIA",
+      "json": "Year2018/PSIQUIATRIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "RADIOLOGIA",
+      "json": "Year2018/RADIOLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2018,
+      "exam": "UROLOGIA",
+      "json": "Year2018/UROLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "ANATOMIA PATOLOGICA",
+      "json": "Year2019/ANATOMIA PATOLOGICA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "ANESTESIOLOGIA",
+      "json": "Year2019/ANESTESIOLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "CIRUGIA",
+      "json": "Year2019/CIRUGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "CIRUGÍA CARDIOVASCULAR",
+      "json": "Year2019/CIRUGÍA CARDIOVASCULAR.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "GINECOLOGÍA",
+      "json": "Year2019/GINECOLOGÍA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "OFTALMOLOGIA",
+      "json": "Year2019/OFTALMOLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "PEDIATRIA",
+      "json": "Year2019/PEDIATRIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "PRUEBA A",
+      "json": "Year2019/PRUEBA A.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "PRUEBA B",
+      "json": "Year2019/PRUEBA B.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "PSIQUIATRIA",
+      "json": "Year2019/PSIQUIATRIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "RADIOLOGÍA",
+      "json": "Year2019/RADIOLOGÍA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2019,
+      "exam": "UROLOGÍA",
+      "json": "Year2019/UROLOGÍA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "ANATOMIA PATOLOGICA",
+      "json": "Year2020/ANATOMIA PATOLOGICA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "ANESTESIOLOGIA",
+      "json": "Year2020/ANESTESIOLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "CIRUGIA GENERAL",
+      "json": "Year2020/CIRUGIA GENERAL.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "GINECOLOGIA Y OBSTETRICIA",
+      "json": "Year2020/GINECOLOGIA Y OBSTETRICIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "OFTALMOLOGIA",
+      "json": "Year2020/OFTALMOLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "PEDIATRIA",
+      "json": "Year2020/PEDIATRIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "PRUEBA A",
+      "json": "Year2020/PRUEBA A.json",
+      "rows": 90,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "PRUEBA B",
+      "json": "Year2020/PRUEBA B.json",
+      "rows": 90,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "PSIQUIATRIA",
+      "json": "Year2020/PSIQUIATRIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2020,
+      "exam": "UROLOGIA",
+      "json": "Year2020/UROLOGIA.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Anestesiología",
+      "json": "Year2022/Anestesiología.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Cirugía Cardiovascular",
+      "json": "Year2022/Cirugía Cardiovascular.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Cirugía General",
+      "json": "Year2022/Cirugía General.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Especialidad Prueba A",
+      "json": "Year2022/Especialidad Prueba A.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Especialidad Prueba B",
+      "json": "Year2022/Especialidad Prueba B.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Ginecología y Obstetricia",
+      "json": "Year2022/Ginecología y Obstetricia.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Neurocirugía",
+      "json": "Year2022/Neurocirugía.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Oftalmología",
+      "json": "Year2022/Oftalmología.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Pediatría",
+      "json": "Year2022/Pediatría.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Psiquiatría",
+      "json": "Year2022/Psiquiatría.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Radiología",
+      "json": "Year2022/Radiología.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2022,
+      "exam": "Urología",
+      "json": "Year2022/Urología.json",
+      "rows": 100,
+      "n_options": 5,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "ANATOMIA PATOLOGICA",
+      "json": "Year2023/ANATOMIA PATOLOGICA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "ANESTESIOLOGIA",
+      "json": "Year2023/ANESTESIOLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "CIRUGIA GENERAL",
+      "json": "Year2023/CIRUGIA GENERAL.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "CIRUGÍA DE TORÁX Y CARDIOVASCULAR",
+      "json": "Year2023/CIRUGÍA DE TORÁX Y CARDIOVASCULAR.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "GINECOLOGIA",
+      "json": "Year2023/GINECOLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "NEUROCIRUGIA",
+      "json": "Year2023/NEUROCIRUGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "OFTALMOLOGÍA",
+      "json": "Year2023/OFTALMOLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "PEDIATRÍA",
+      "json": "Year2023/PEDIATRÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "PRUEBA A",
+      "json": "Year2023/PRUEBA A.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "PRUEBA B",
+      "json": "Year2023/PRUEBA B.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "PSIQUIATRÍA",
+      "json": "Year2023/PSIQUIATRÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "RADIOLOGÍA",
+      "json": "Year2023/RADIOLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2023,
+      "exam": "UROLOGÍA",
+      "json": "Year2023/UROLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "ANATOMÍA PATOLÓGICA",
+      "json": "Year2024/ANATOMÍA PATOLÓGICA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "ANESTESIOLOGÍA",
+      "json": "Year2024/ANESTESIOLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "CIRUGÍA DE TORAX",
+      "json": "Year2024/CIRUGÍA DE TORAX.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "CIRUGÍA",
+      "json": "Year2024/CIRUGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "ESPECIALIADAD A",
+      "json": "Year2024/ESPECIALIADAD A.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "ESPECIALIADAD B",
+      "json": "Year2024/ESPECIALIADAD B.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "GINECOLOGÍA",
+      "json": "Year2024/GINECOLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "NEUROCIRUGÍA",
+      "json": "Year2024/NEUROCIRUGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "OFTALMOLOGÍA",
+      "json": "Year2024/OFTALMOLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "PEDIATRÍA",
+      "json": "Year2024/PEDIATRÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "PSIQUIATRÍA",
+      "json": "Year2024/PSIQUIATRÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "RADIOLOGÍA",
+      "json": "Year2024/RADIOLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2024,
+      "exam": "UROLOGÍA",
+      "json": "Year2024/UROLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "ANATOMIA PATOLOGICA",
+      "json": "Year2025/ANATOMIA PATOLOGICA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "ANESTESIOLOGIA",
+      "json": "Year2025/ANESTESIOLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "CIRUGIA CARDIOVASCULAR",
+      "json": "Year2025/CIRUGIA CARDIOVASCULAR.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "CIRUGIA DE TORAX Y CARDIOVASCULAR",
+      "json": "Year2025/CIRUGIA DE TORAX Y CARDIOVASCULAR.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "CIRUGIA GENERAL",
+      "json": "Year2025/CIRUGIA GENERAL.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "ESPECIALIADAD A",
+      "json": "Year2025/ESPECIALIADAD A.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "ESPECIALIADAD B",
+      "json": "Year2025/ESPECIALIADAD B.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "GINECOLOGIA Y OBSTETRICIA",
+      "json": "Year2025/GINECOLOGIA Y OBSTETRICIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "NEUROCIRUGIA",
+      "json": "Year2025/NEUROCIRUGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "OFTALMOLOGIA",
+      "json": "Year2025/OFTALMOLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "PEDIATRIA",
+      "json": "Year2025/PEDIATRIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "PSIQUIATRIA",
+      "json": "Year2025/PSIQUIATRIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "RADIOLOGIA",
+      "json": "Year2025/RADIOLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2025,
+      "exam": "UROLOGIA",
+      "json": "Year2025/UROLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "ANATOMIA PATOLOGICA",
+      "json": "Year2026/ANATOMIA PATOLOGICA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "ANESTESIOLOGIA",
+      "json": "Year2026/ANESTESIOLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "CIRUGIA CARDIOVASCULAR",
+      "json": "Year2026/CIRUGIA CARDIOVASCULAR.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "CIRUGIA DE TORAX Y CARDIOVASCULAR",
+      "json": "Year2026/CIRUGIA DE TORAX Y CARDIOVASCULAR.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "CIRUGIA GENERAL",
+      "json": "Year2026/CIRUGIA GENERAL.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "ESPECIALIADAD A",
+      "json": "Year2026/ESPECIALIADAD A.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "ESPECIALIADAD B",
+      "json": "Year2026/ESPECIALIADAD B.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "GINECOLOGIA Y OBSTETRICIA",
+      "json": "Year2026/GINECOLOGIA Y OBSTETRICIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "NEUROCIRUGIA",
+      "json": "Year2026/NEUROCIRUGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "OFTALMOLOGIA",
+      "json": "Year2026/OFTALMOLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "ORTOPEDIA Y TRAUMATOLOGÍA",
+      "json": "Year2026/ORTOPEDIA Y TRAUMATOLOGÍA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "PEDIATRIA",
+      "json": "Year2026/PEDIATRIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "PSIQUIATRIA",
+      "json": "Year2026/PSIQUIATRIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "RADIOLOGIA",
+      "json": "Year2026/RADIOLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    },
+    {
+      "year": 2026,
+      "exam": "UROLOGIA",
+      "json": "Year2026/UROLOGIA.json",
+      "rows": 100,
+      "n_options": 4,
+      "csv_matches_json": true
+    }
+  ]
+}

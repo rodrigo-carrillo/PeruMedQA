@@ -1,0 +1,1350 @@
+{
+  "metadata": {
+    "year": 2023,
+    "exam": "ANESTESIOLOGIA",
+    "source_pdf": "ANESTESIOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Anestesiología",
+    "sha256_pdf": "9a56503ac16e33a5fb877c661d9d87bdb4bfa7caaa244fa19fad813864d56acb",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:30:43",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 9,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Anestesiología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9942,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.5938,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 21990,
+      "coverage_out_chars": 21990,
+      "human_reference": "_backup_csv_verificados/Year2023/ANESTESIOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 55,
+        "identico": 444,
+        "csv_antiguo_truncado": 1
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Varón obeso de 50 años, sometido a restitución de tránsito intestinal bajo anestesia general inhalatoria, con arritmia cardiaca controlada con procainamida. En URPA: paciente dormido, con poco esfuerzo ventilatorio, SatO2: 90%, FC: 85 X', PA: 110/50 mmHg, FR: 5 X'. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Bloqueo neuromuscular residual",
+        "B": "Paro respiratorio",
+        "C": "Edema en vías respiratorias",
+        "D": "Larigoespasmo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuál es el tratamiento para la fibrilación ventricular como trastorno post operatorio debido a la isquemia?",
+      "options": {
+        "A": "Administración de volumen",
+        "B": "Sedación",
+        "C": "Cardioversión",
+        "D": "Uso de agonista ß2"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "En la clasificación de Hunt-Hess; el grado I corresponde a...",
+      "options": {
+        "A": "obnubilación o déficit focal leve.",
+        "B": "estupor y hemiparesia.",
+        "C": "cefalea moderada, rigidez de nuca.",
+        "D": "cefalea mínima, ligera rigidez de nuca."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "¿Cuál es el factor que contribuye a la prolongación del bloqueo neuromuscular no despolarizante?",
+      "options": {
+        "A": "Alcalosis respiratoria",
+        "B": "Antagonistas de los canales de calcio",
+        "C": "Hipertermia",
+        "D": "Antiinflamatorios no esteroideos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "En el monitoreo de presión arterial invasiva en cirugía cardiaca, se evidencia: pulso bisferiens, presión de pulso ancho. ¿Cuál es la patología asociada?",
+      "options": {
+        "A": "Estenosis aórtica",
+        "B": "Insuficiencia aórtica",
+        "C": "Miocardiopatía hipertrófica",
+        "D": "Insuficiencia sistólica del ventrículo izquierdo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Mujer de 38 años, presenta disnea durante el ejercicio de forma gradual. Examen: PA: 120/70 mmHg; monitoreo hemodinámico: presión de aurícula izquierda aumentada, onda v variable. Ecocardiograma: VI muy aumentado, AI aumentada. ¿Cuál es la patología?",
+      "options": {
+        "A": "Insuficiencia aórtica aguda compensada",
+        "B": "Estenosis aórtica crónica compensada",
+        "C": "Estenosis mitral aguda descompensada",
+        "D": "Insuficiencia mitral crónica descompensada"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Varón de 35 años sometido a lobectomía superior izquierda, presenta en el preoperatorio: hipoventilación (+), alteraciones de la difusión (++), alteración de ventilación perfusión (+++), cortocircuito (-). ¿Cuál es la patología asociada?",
+      "options": {
+        "A": "Bronquitis crónica",
+        "B": "Neumonía",
+        "C": "Asma",
+        "D": "Enfisema"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Niño de 14 años, con insuficiencia renal crónica, sometido a cirugía de mano. ¿Cuál es la técnica anestésica más recomendada?",
+      "options": {
+        "A": "Bupivacaína",
+        "B": "Evitar usar remifentanilo",
+        "C": "Anestesia inhalatoria",
+        "D": "Bloqueo periférico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Qué indicación se recomienda en la evaluación preoperatoria de un paciente con diabetes mellitus tipo I, sometido a una cirugía?",
+      "options": {
+        "A": "Interrupción total de la insulina de acción larga",
+        "B": "Administrar dosis mínima de la dosis matutina de insulina lenta",
+        "C": "Colocar las dosis normales de insulina",
+        "D": "Cambiar a antidiabéticos orales"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "¿Cuál es el anestésico local con potencia elevada, conducción: 8, hidrofobicidad: 3.420?",
+      "options": {
+        "A": "Bupivacaína",
+        "B": "Ropivacaína",
+        "C": "Lidocaína",
+        "D": "Tetracaína"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Varón de 80 años, es sometido a RTU con anestesia regional, sin complicaciones; se evidencia sangrado quirúrgico 500 ml, se utilizó solución de glicina 6 a 8 litros; a las 4 horas post cirugía se evidencia: paciente agitado con trastorno del sensorio. Laboratorio: Na+ 110 mmol/l, K 4 mmol/l. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Insuficiencia suprarrenal aguda",
+        "B": "ACV isquémico",
+        "C": "Mielinolisis extrapontina",
+        "D": "Síndrome de la resección transuretral de la próstata"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál es el problema más importante en una discectomía cervical anterior?",
+      "options": {
+        "A": "Hemorragia considerable",
+        "B": "Edema postoperatorio",
+        "C": "Intubación con paciente consciente",
+        "D": "Alteración de la presión de perfusión"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Niño de 7 años, con antecedente de hipoplasia mandibular sometido a cirugía de abdomen. ¿Cuál es la técnica anestésica adecuada?",
+      "options": {
+        "A": "Bloqueo periférico",
+        "B": "General con IOT",
+        "C": "Regional",
+        "D": "General con máscara laríngea"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Varón de 65 años, con fracción de eyección de ventrículo izquierdo: 35%; sometido a cirugía oftalmológica, durante la intervención quirúrgica, presenta: presión intraocular alta. Se administra: manitol 300 ml. ¿Cuál es la complicación que podría presentar el paciente?",
+      "options": {
+        "A": "Hipertensión arterial",
+        "B": "Broncoespasmo crónico",
+        "C": "Paro respiratorio",
+        "D": "Insuficiencia cardiaca"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál es el fármaco que disminuye la tasa de filtración glomerular?",
+      "options": {
+        "A": "Midazolam",
+        "B": "Tiopental",
+        "C": "Fentanilo",
+        "D": "Droperidol"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿Qué consideración debemos tener en el manejo anestésico de la estenosis aórtica?",
+      "options": {
+        "A": "No considerar la monitorización del GC",
+        "B": "Leve profundidad anestésica",
+        "C": "Monitorización invasiva de la PA",
+        "D": "Puede haber fluctuaciones de la hemodinamia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "En la analgesia para el trabajo de parto, en la fase I, las fibras que se activan son:",
+      "options": {
+        "A": "A",
+        "B": "C",
+        "C": "α",
+        "D": "ß"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Mujer de 30 años, pos operada de laparotomía exploratoria por embarazo ectópico roto, sangrado intraoperaorio de 2100 ml, se transfundió 03 paquetes globulares, 02 plasmas frescos congelados y 02 unidades de plaquetas. Se extuba, hemodinámicamente estable. A las 2 horas de estar en URPA, se evidencia: SatO2: 90%, fiO2: 21%, distrés respiratorio, AGA: PaO2/fiO2: 250; Rx tórax: infiltrados bilaterales sin cardiomegalia. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Infarto agudo de miocardio",
+        "B": "Falla cardiaca del ventrículo derecho",
+        "C": "Tromboembolismo pulmonar",
+        "D": "Lesión pulmonar aguda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Mujer de 30 años post operada de ruptura uterina con pérdida sanguínea total de 2500 ml. ¿Qué complicación prerrenal postoperatoria podría presentar?",
+      "options": {
+        "A": "Oliguria de causa prerrenal",
+        "B": "Necrosis tubular aguda",
+        "C": "Lesión quirúrgica de uréteres",
+        "D": "Hemólisis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Cuál es el nivel de BIS para profundidad anestésica adecuada?",
+      "options": {
+        "A": "75-80",
+        "B": "30-35",
+        "C": "85-90",
+        "D": "40-60"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Cuál es la complicación asociada a la extubación?",
+      "options": {
+        "A": "Laringoespasmo",
+        "B": "Edema pulmonar de presión positiva",
+        "C": "Hiperventilación",
+        "D": "Bradicardia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Mujer de 35 años, politraumatizada fue atendida en emergencia, se hizo las suturas, utilizando anestésico local; reingresa a emergencia a las dos horas de salir de alta, con sensación de falta de aire, palpitaciones, ansiosa, diaforesis. Examen: PA: 80/50 mmHg, FC:110 X', SatO2: 97%; con sensación de sabor metálico en boca. ¿Cuál es la complicación más frecuente?",
+      "options": {
+        "A": "Falta de sedación en el manejo de paciente",
+        "B": "Cardiotóxicidad de los anestésicos locales",
+        "C": "Hemorragia grado I",
+        "D": "Reacción al paracetamol"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Mujer de 40 años, sometida a colecistectomía laparoscópica, bajo anestesia general. Se realiza recuento del tren de cuatro, con resultado: 2. ¿Qué tipo de bloqueo neuromuscular presenta?",
+      "options": {
+        "A": "Ligero",
+        "B": "Moderado",
+        "C": "Superficial",
+        "D": "Profundo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "¿Cuál es un signo clínico tardío de la hipertermia maligna?",
+      "options": {
+        "A": "Moteado de la piel",
+        "B": "Taquipnea",
+        "C": "Acidosis mixta",
+        "D": "Mioglobinemia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Cuál es un factor pronóstico de laringoscopía difícil?",
+      "options": {
+        "A": "Incisivos superiores cortos",
+        "B": "Cuello corto y grueso",
+        "C": "Movilidad cervical adecuada",
+        "D": "Mallampati I"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Gestante de 39 semanas, grupo sanguíneo A(+ ), sometida a cesárea por posible ruptura uterina. ¿Qué tipo de sangre puede recibir?",
+      "options": {
+        "A": "A(-)",
+        "B": "O(+)",
+        "C": "AB",
+        "D": "B(+)"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Qué efecto produce la dopamina en dosis 1-4 µg/Kg/min a nivel de vasos periféricos?",
+      "options": {
+        "A": "Vasoconstricción",
+        "B": "Vasodilatación",
+        "C": "Cronotropismo (-)",
+        "D": "Inotropismo (+)"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Varón de 65 años, sometido a cirugía por fractura de fémur, tiempo operatorio: 4 horas. En el intraoperatorio al realizar la liberación del torniquete presenta: hipoxemia, alcalosis respiratoria, erupción petequial y trombocitopenia. ¿Cuál es la complicación más frecuente?",
+      "options": {
+        "A": "Embolia grasa",
+        "B": "Síndrome de la implantación del cemento óseo",
+        "C": "Tromboembolismo pulmonar",
+        "D": "Edema agudo del pulmón"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Varón de 78 años, con asma crónica y enfermedad renal crónica, va a ser sometido a cirugía traumatológica con anestesia general. ¿Qué fármaco bloqueador neuromuscular se debe recomendar?",
+      "options": {
+        "A": "Doxacurio",
+        "B": "Rapacuronio",
+        "C": "Cisatracurio",
+        "D": "Tubocurarina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Presenta mielina (+), velocidad de conducción (3-15 m/s), localización: simpática preganglionar, presenta susceptibilidad al bloqueo por anestésicos locales. ¿Qué tipo de fibra es?",
+      "options": {
+        "A": "delta",
+        "B": "C",
+        "C": "B",
+        "D": "A"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Mujer de 30 años es llevada a sala de operaciones, Glasgow 10, con déficit motor presente. Antecedente: hemorragia subaracnoidea. Según la escala de HSA de la Word Federation of Neurosurgeons (WFNS). ¿A qué grado corresponde?",
+      "options": {
+        "A": "IV",
+        "B": "V",
+        "C": "II",
+        "D": "III"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es el flujo máximo de líquidos a caída libre, en catéter intravenoso de 16G?",
+      "options": {
+        "A": "304.2 ml/min",
+        "B": "98.1 ml/min",
+        "C": "154.7 ml/min",
+        "D": "206.3 ml/min"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Varón de 25 años, con diagnóstico de hemorragia subaracnoidea, con Glasgow 7, intubado. TEM cerebral: hemorragia supratentorial. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Administrar manitol 12.5 g inmediato",
+        "B": "Administración de antiepilépticos",
+        "C": "Administración de corticoides 30 min. previos a la cirugía",
+        "D": "Fluidoterapia con cristaloides de 4 a 5 litros"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "En la evaluación preanestésica, para cirugías de corta estancia. ¿Cuál es la medida que se debe tener en cuenta?",
+      "options": {
+        "A": "La valoración del estado ASA",
+        "B": "La evaluación de vía aérea carece de valor",
+        "C": "Las pruebas analíticas de hace un año",
+        "D": "Los antecedentes patológicos no son importantes"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Varón de 30 años, post operado de un día, de fractura de pelvis, de manera súbita presenta insuficiencia respiratoria, trastorno del sensorio. Examen: FC: 120 X´, T°: 39.5 °C axilar, PA: 90/50 mmHg; petequias; tórax: murmullo vesicular disminuido, crépitos en AHT. AGA: pH: 7.52, PAO2: 50 mmHg. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Shock hipovolémico",
+        "B": "ACV isquémico",
+        "C": "Edema agudo de pulmón",
+        "D": "Embolia grasa"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Según American Heart Association, la clasificación de las fases de la insuficiencia crónica, el alto riesgo de insuficiencia cardiaca corresponde a la fase:",
+      "options": {
+        "A": "A",
+        "B": "D",
+        "C": "C",
+        "D": "B"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Según los equivalentes metabólicos (MET) de la capacidad funcional, un paciente que camina una o dos manzanas en llano es:",
+      "options": {
+        "A": "5",
+        "B": "3",
+        "C": "7",
+        "D": "1"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Varón de 35 años, con diabetes mellitus tipo 2, IMC: 40. Examen: cuello corto; Mallampati: IV, apertura bucal menor de 3 cm. Polisomnografia: 5 -15 episodios por hora. ¿Cuál es su diagnóstico más probable?",
+      "options": {
+        "A": "Disnea paroxística nocturna",
+        "B": "Síndrome de apnea obstructiva del sueño",
+        "C": "Enfermedad pulmonar obstructiva crónica",
+        "D": "Síndrome de cardiometabólico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "En un 40% de estudio de doppler precordial, en cirugías de fosa posterior y paciente en posición sentado. ¿Qué patología se detecta?",
+      "options": {
+        "A": "Hipotermia",
+        "B": "Neumoencéfalo",
+        "C": "Embolia grasa",
+        "D": "Embolia gaseosa venosa"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Varón de 30 años, IMC: 50, sometido para cirugía bariátrica de 3 horas. ¿Cuál es la complicación renal que se evidencia con más frecuencia?",
+      "options": {
+        "A": "Insuficiencia renal crónica",
+        "B": "Insuficiencia suprarrenal",
+        "C": "Crisis adrenocorticotrópicas",
+        "D": "Necrosis tubular aguda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Cuál es el cambio fisiopatológico asociado a estenosis mitral?",
+      "options": {
+        "A": "Aumento de la resistencia vascular periférica",
+        "B": "Aumento de la frecuencia cardiaca",
+        "C": "Resistencia vascular sistémica aumentada",
+        "D": "Aumento de la precarga del VI"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Varón de 55 años, sometido a cirugía cardiaca. Examen: precarga VI: aumentada; frecuencia cardiaca: 55 X' (sinusal); contractibilidad: se mantiene constante; resistencia vascular sistémica: aumentada; resistencia vascular pulmonar: se mantiene constante. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Estenosis mitral",
+        "B": "Insuficiencia mitral",
+        "C": "Insuficiencia aórtica",
+        "D": "Estenosis aórtica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Gestante de 37 semanas, antecedente de coagulopatía, ingresa a emergencia con: PA140/90 mmHg, plaquetas: 80000/µl; con tratamiento de aspirina. ¿Cuál es el manejo a seguir?",
+      "options": {
+        "A": "Usar warfarina",
+        "B": "No usar heparinas",
+        "C": "No suspender la aspirina",
+        "D": "Suspender la aspirina 5 días antes"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Mujer de 35 años, peluquera, con síndrome de hombro doloroso crónico; va a ser sometida a un bloqueo de nervio periférico, para controlar el dolor. ¿Cuál es el bloqueo ideal?",
+      "options": {
+        "A": "Supraescapular",
+        "B": "Axilar",
+        "C": "Mediano",
+        "D": "Pectoclavicular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "El riesgo potencial de infertilidad, cáncer, abortos espontáneos y enfermedad hepática, está asociado al uso de...",
+      "options": {
+        "A": "radiaciones ionizantes.",
+        "B": "radiaciones no ionizantes.",
+        "C": "residuos microscópicos.",
+        "D": "agentes inhalatorios."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuáles son los cambios fisiopatológicos asociados con la insuficiencia aórtica?",
+      "options": {
+        "A": "Precarga del ventrículo izquierdo disminuida",
+        "B": "Resistencia vascular sistémica disminuida",
+        "C": "Frecuencia cardiaca disminuida",
+        "D": "Resistencia vascular pulmonar aumentada"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es la complicación más frecuente asociada a la extubación?",
+      "options": {
+        "A": "Hemorragia",
+        "B": "Edema pulmonar",
+        "C": "Estenosis",
+        "D": "Broncoespasmo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Qué consideración anestésica se debe tener en cuenta en pacientes con osteogenia imperfecta?",
+      "options": {
+        "A": "Priorizar técnica neuroaxial",
+        "B": "Hipertermia maligna",
+        "C": "Riesgo de fractura de mandíbula",
+        "D": "Manejo de la vía aérea sin cuidado"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "En estrés quirúrgico. ¿Cuál es el tratamiento recomendado en el perioperatoria para una cirugía menor?",
+      "options": {
+        "A": "Prednisona 50 mg VO",
+        "B": "Hidrocortisona 50 mg IV",
+        "C": "Triancinolona 50 mg IV",
+        "D": "Hidrocortisona 100 mg IV"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuáles son los factores que NO aumentan la cefalea tras una punción intradural?",
+      "options": {
+        "A": "Edad de la paciente",
+        "B": "Bisel de la aguja y posición de inserción",
+        "C": "Uso de catéter intradural continua",
+        "D": "Tamaño de la aguja"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál es la complicación anestésica más importante en altura?",
+      "options": {
+        "A": "Hipoxia perioperatoria",
+        "B": "Cefalea",
+        "C": "Náusea",
+        "D": "Deshidratación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuáles son los vasodilatadores para el tratamiento de la hipertensión perioperatoria?",
+      "options": {
+        "A": "Agonistas ß2 adrenérgicos",
+        "B": "Agonistas alfa1 adrenérgicos",
+        "C": "Agonistas de canales de calcio",
+        "D": "Antagonistas alfa2 adrenérgicos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Qué consideración preanestésica, se debe tener en cuenta en un lactante con hidrocefalia, sometido a una derivación ventrículo peritoneal?",
+      "options": {
+        "A": "Presión intracerebral aumentada",
+        "B": "Embolia gaseosa",
+        "C": "Depresión respiratoria postoperatoria",
+        "D": "Edema cerebral asociado"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Varón de 20 años, deportista profesional, será sometido a una cirugía de rodilla. ¿Qué bloqueo se recomendaría?",
+      "options": {
+        "A": "Musculocutáneo",
+        "B": "Tobillo",
+        "C": "Ciático",
+        "D": "Pudendo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Mujer de 45 años que presenta glioblastoma de bajo grado + edema cerebral. Se programa para cirugía electiva en 48 horas. ¿Qué se debe administrar, previa al acto quirúrgico?",
+      "options": {
+        "A": "Combinación de diurético osmótico",
+        "B": "Solución hipertónica 7.5% 24 horas previos",
+        "C": "Manitol 24 horas previos",
+        "D": "Esteroides 48 horas previos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "¿Cuántas horas de ayuno de líquidos claros preoperatorio requiere una gestante?",
+      "options": {
+        "A": "2",
+        "B": "8",
+        "C": "1",
+        "D": "24"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿Cuál es la medida inmediata a seguir en una reacción alérgica por transfusión sanguínea?",
+      "options": {
+        "A": "Interrumpir la transfusión",
+        "B": "Corticoterapia",
+        "C": "Administrar diuréticos",
+        "D": "Aumentar la volemia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Lactante de 11 meses ASA II, sometido a cirugía de corrección de hernia inguinal. ¿Cuál es la técnica anestésica adecuada?",
+      "options": {
+        "A": "General con mascara laríngea",
+        "B": "Raquídea",
+        "C": "Caudal",
+        "D": "General con IOT"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Mujer de 60 años, sometida a artroplastia total de cadera; con hipertensión arterial, diabetes mellitus, trombosis venosa profunda e insuficiencia cardiaca. FEVI: 35%. ¿Cuál es el tipo de anestesia que se aplicaría?",
+      "options": {
+        "A": "Anestesia regional a dosis bajas + bloqueo periférico",
+        "B": "Anestesia regional a dosis normal + monitoreo invasivo",
+        "C": "Anestesia general + monitoreo invasivo",
+        "D": "Anestesia endovenosa total"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Mujer de 75 años, con glaucoma de ángulo cerrado, sometida a colecistectomía laparoscópica; en el ventilador mecánico presenta patrones: volumen Tidal: 400, FR: 15 X', PCO2: 55 mmHg. Examen: congestión coroidal. ¿Cuál es su medida a seguir?",
+      "options": {
+        "A": "Colocar furosemida 80 mg IV",
+        "B": "Cirugía oftalmológica de emergencia",
+        "C": "Evitar hipercapnia",
+        "D": "Extubar al paciente lo más pronto posible"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Mujer de 50 años, sometida a cirugía de recambio valvular aórtico con circulación extracorpórea (CEC); al salir de CEC, paciente presenta: bradicardia, bloqueo cardiaco completo y asistolia. ¿Cuál es la medida a seguir?",
+      "options": {
+        "A": "Utilizar cables de estimulación epicárdica temporales",
+        "B": "Reingresar a CEC",
+        "C": "Iniciar betabloqueante de acción larga",
+        "D": "Iniciar diltiazem y digoxina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Varón de 55 años con antecedente de consumo de cigarrillos, diagnosticado de carcinoma epidermoide. ¿Cuál es la consideración anestésica a tomar, para la intubación?",
+      "options": {
+        "A": "Lesiones periféricas",
+        "B": "Obstrucción y cavitación",
+        "C": "Síndrome de Lambert - Eaton",
+        "D": "Osteoartropatía hipertrófica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es el factor de riesgo del síndrome de bajo gasto cardiaco, después de una derivación cardiopulmonar?",
+      "options": {
+        "A": "Tiempo de pinzamiento aórtico",
+        "B": "Buena conservación del miocardio",
+        "C": "Reparación quirúrgica cardiaca adecuada",
+        "D": "Valvulopatía que no requiera reemplazo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Varón de 65 años, hipertenso, con tratamiento irregular; será sometido a cirugía urológica con anestesia regional. Examen: PA: 170/110 mmHg no controlada y sin variación. ¿Cuál es la indicación a seguir?",
+      "options": {
+        "A": "Continuar cirugía",
+        "B": "Interconsulta a su médico",
+        "C": "Captopril sublingual",
+        "D": "Suspender la cirugía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Cuál es el anestésico volátil halogenado con menor grado de metabolismo tisular?",
+      "options": {
+        "A": "Isoflurano",
+        "B": "Sevoflurano",
+        "C": "Halotano",
+        "D": "Desflurano"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es el fármaco que disminuye la resistencia vascular pulmonar?",
+      "options": {
+        "A": "Halotano",
+        "B": "Inhibidores de la recaptación de serotonina",
+        "C": "Corticoides",
+        "D": "Isoproterenol"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es la causa de insuficiencia cardiaca que es producida por lesiones miocárdicas?",
+      "options": {
+        "A": "Hipertrofia concéntrica",
+        "B": "Hipertrofia asimétrica",
+        "C": "Deslizamiento del sarcómero",
+        "D": "Isquemia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "En la clasificación de los estadios de la insuficiencia cardíaca crónica del American College of Cardiology/American Heart Association. ¿Qué patología tiene un riesgo elevado de insuficiencia cardiaca?",
+      "options": {
+        "A": "EPOC",
+        "B": "LES",
+        "C": "Hipertensión arterial",
+        "D": "Valvulopatía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "La posición de Jannetta es utilizada para...",
+      "options": {
+        "A": "descomprensión microvascular del V par craneal.",
+        "B": "craneotomía bifrontal.",
+        "C": "cirugía de aneurisma de la arteria basilar.",
+        "D": "cirugía de lóbulo occipital."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Paciente sometido a cirugía traumatológica donde el anestesiólogo toma la decisión de realizar un bloqueo del nervio crural en la región del muslo. ¿Qué puntos de referencia debe tener en cuenta en la realización del bloqueo?",
+      "options": {
+        "A": "Arteria safena interna",
+        "B": "Nervio safeno",
+        "C": "Arteria femoral",
+        "D": "Nervio femorocutáneo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Paciente post cesareada hace 24 h, con anestesia epidural, presenta cefalea continua que empeora al estar de pie o sentada y mejora en la posición decúbito. ¿Qué medida se recomienda?",
+      "options": {
+        "A": "Suero fisiológico epidural - reposo en cama con los pies elevados",
+        "B": "Paracetamol vía oral - alta de la paciente",
+        "C": "Suero fisiológico 500 cc EV - deambulación inmediata",
+        "D": "Cafeína - deambulación inmediata"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Cuándo se considera hipertensión intracraneal?",
+      "options": {
+        "A": ">=15 mmHg",
+        "B": ">20 mmHg",
+        "C": "=18 mmHg",
+        "D": ">=12 mmHg"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Mujer de 30 años, antecedente de un absceso de tercera molar inferior hace dos semanas, con tratamiento irregular, actualmente presenta aumento de volumen submandibular derecha con desplazamiento de la lengua, acude a emergencia, presentando estridor y dificultad respiratoria. ¿Qué indica para el control de vía aérea?",
+      "options": {
+        "A": "Intubación submentoniana",
+        "B": "Traqueostomía",
+        "C": "Sedación y drenaje de absceso",
+        "D": "Intubación oral con laringoscopio normal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál es una miocardiopatía primaria adquirida?",
+      "options": {
+        "A": "Miopatías mitocondriales",
+        "B": "Enfermedad de los canales iónicos",
+        "C": "Estrés (tako-tsubo)",
+        "D": "Restrictivas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Varón de 75 años, sin antecedentes, será sometido a lobectomía; evaluación cardíaca preoperatoria: excelente tolerancia al esfuerzo. ¿A qué procedimiento es candidato?",
+      "options": {
+        "A": "Ecografía de estrés con dobutamina",
+        "B": "Revascularización",
+        "C": "Angiografía coronaria",
+        "D": "Cirugía de resección pulmonar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿Cuál es la posición ideal para cirugía de tumor de médula espinal?",
+      "options": {
+        "A": "Litotomía",
+        "B": "Decúbito ventral",
+        "C": "Decúbito prono",
+        "D": "Trendelemburg"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "En relación al pinzamiento del aneurisma cerebral intracraneal. ¿Cuál es la monitorización neurológica actual más importante?",
+      "options": {
+        "A": "Exploración neurológica en el paciente despierto",
+        "B": "Potenciales evocados somatosensoriales",
+        "C": "Prueba de despertar",
+        "D": "Saturación venosa de oxígeno en el bulbo yugular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿Cuál es un factor pronóstico de ventilación con mascarilla difícil?",
+      "options": {
+        "A": "Sexo femenino",
+        "B": "Clasificación de Mallampati III o IV",
+        "C": "Edad menor a 55 años",
+        "D": "IMC <30 Kg/m2"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "En la evaluación preanestésica de una cirugía cardiaca, la presencia de un soplo localizado en segundo espacio paraesternal derecho, de temporalidad mesosistólico está relacionado a...",
+      "options": {
+        "A": "estenosis mitral.",
+        "B": "estenosis aórtica.",
+        "C": "miocardiopatía hipertrófica.",
+        "D": "insuficiencia mitral."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Varón de 30 años, sometido a una cirugía estética láser. Antecedente de coagulopatía. Laboratorio: plaquetas 100000/µl. En el plan anestesiológico, se sugiere anestesia regional tipo ...... ya que podría presentarse ...... como complicación.",
+      "options": {
+        "A": "raquídea sin catéter / hematoma epidural",
+        "B": "raquídea con catéter / absceso espinal",
+        "C": "epidural con catéter / atascamiento del catéter",
+        "D": "epidural sin catéter / meningitis bacteriana"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Gestante adolescente de 38 semanas, con peso 78 Kg, talla 1.54 m; programada para cesárea por distocia funicular, con anestesia regional tipo epidural a nivel L3-L4; a los breves minutos presenta hipotensión sostenida, con bloqueo sensorial y apnea. ¿Cuál es la complicación probable que ha presentado?",
+      "options": {
+        "A": "Cefalea post punción dural",
+        "B": "Bloqueo motor alto",
+        "C": "Tóxicidad sistémica",
+        "D": "Shock hipovolémico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Mujer de 70 años, con hipertensión arterial, diabetes mellitus tipo II; será sometida artroplastía de cadera izquierda. ¿Qué nivel de dermatoma se requiere para la anestesia?",
+      "options": {
+        "A": "L2",
+        "B": "T4",
+        "C": "T6",
+        "D": "T10"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Cuál es el circuito anestésico coaxial y que deriva de una modificación del sistema Mapleson D?",
+      "options": {
+        "A": "Magill",
+        "B": "Mapleson B",
+        "C": "Bain",
+        "D": "Jackson - Rees"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Durante el acto quirúrgico de una extirpación transesfenoidal de un tumor en hipófisis, se evidencia: FC: 85 X', PA: 115/70 mmHg, SatO2: 98%, diuresis 4000 ml en 1 hora. Laboratorio: hiperosmolaridad sérica e hipoosmolaridad en orina. ¿Cuál es la indicación a seguir?",
+      "options": {
+        "A": "Dextrosa",
+        "B": "Mantener hidratado",
+        "C": "Solución hipertónica 3%",
+        "D": "Insulina en infusión"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Cuáles es el efecto protector de la hipotermia durante la isquemia cerebral?",
+      "options": {
+        "A": "Disminución de la liberación de neurotransmisores excitotóxicos",
+        "B": "Aumento de acidosis intracelular",
+        "C": "Aumento de respuesta inflamatoria",
+        "D": "Aumento de la permeabilidad de la barrera hematoencefálica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "En la evaluación preoperatoria de una paciente mujer de 55 años (ASA II), diagnóstico: angina de pecho controlada, con tratamiento de isorbide vía oral. Programada para una cirugía de corta estancia. ¿Cuál es la indicación principal?",
+      "options": {
+        "A": "No programar la cirugía",
+        "B": "Suspender tratamiento días antes",
+        "C": "Continuar con su tratamiento hasta la cirugía",
+        "D": "Cambiar de tratamiento"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es el efecto nocivo durante la isquemia cerebral que produce un desequilibrio entre el aporte y la demanda de oxígeno?",
+      "options": {
+        "A": "Hipotermia",
+        "B": "Injuria cerebral aguda",
+        "C": "Hipertermia",
+        "D": "Acidosis intracelular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Varón de 50 años, con IMC: 45, DTM: menor de 6 cm, apertura bucal: menor de 5 cm, poca movilidad de cuello; antecedente de cáncer de laringe. Ingresa a sala de operaciones con estridor laríngeo, FC: 130 X', PA: 80/50 mmHg, SatO2: 80%. Tomografía: estenosis de cuerdas vocales de 95%. ¿Cuál es la medida a seguir del anestesiólogo?",
+      "options": {
+        "A": "Traqueostomía",
+        "B": "Ventilación con Jet transtraqueal",
+        "C": "Intubación retrógrada",
+        "D": "Intubación traqueal a través de una cánula supraglótica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Mujer de 40 años, con esclerosis lateral amiotrófica, será sometida a quistectomía laparoscópica. ¿Cuáles son las consideraciones perioperatorias a tener en cuenta?",
+      "options": {
+        "A": "Mayor riesgo de aspiración y complicaciones pulmonares",
+        "B": "Depresión respiratoria y poca sensibilidad a los sedantes",
+        "C": "Poco efecto residual del bloqueador neuromuscular",
+        "D": "Priorizar uso de bloqueantes neuromusculares despolarizantes"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es la característica de la capnografía en el ventilador mecánico, en paciente con broncoespasmo?",
+      "options": {
+        "A": "Elevación de la pendiente en fase III",
+        "B": "Picos durante la fase III",
+        "C": "Muesca durante la fase III",
+        "D": "Doble meseta en fase III"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cuál es el factor que influye en el flujo sanguíneo cerebral y está relacionado al índice metabólico cerebral?",
+      "options": {
+        "A": "Temperatura",
+        "B": "Vasopresores",
+        "C": "PaO2",
+        "D": "Viscosidad sanguínea"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Varón de 45 años, antecedente de malformación arteriovenosa cerebral; acude a emergencia con obnubilación, confusión y déficit focal leve. Según la clasificación de Hunt-Hess del estado neurológico. ¿Cuál es la categoría del paciente?",
+      "options": {
+        "A": "IV",
+        "B": "V",
+        "C": "II",
+        "D": "III"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Cuál es la causa de las taquiarritmias auriculares en los trastornos post operatorios?",
+      "options": {
+        "A": "Traumatismo quirúrgico",
+        "B": "Agitación",
+        "C": "Dolor",
+        "D": "Hipopotasemia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Varón de 75 años, con hipertensión arterial no controlada; es sometido a laparotomía exploratoria por obstrucción intestinal. Se le coloca anestesia general balanceada. En el postoperatorio inmediato, se evidencia de forma aguda alteración de la conciencia y paciente hiperactivo. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Disfunción cognitiva postoperatoria",
+        "B": "Infarto cerebral agudo",
+        "C": "Demencia",
+        "D": "Delirium postoperatorio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es el fármaco trombolítico específico de la fibrina?",
+      "options": {
+        "A": "Davigatrán",
+        "B": "Estreptocinasa",
+        "C": "Alteplasa",
+        "D": "Rivaroxabán"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Varón de 65 años, antecedente de carcinoma de células transicionales de vejiga, con hematuria indolora. Es sometida a un tratamiento quirúrgico de fulguración. ¿Cuál es el mejor tratamiento analgésico?",
+      "options": {
+        "A": "Bloqueo femoral",
+        "B": "AINES, paracetamol y opioides",
+        "C": "Catéter epidural con dosis de bupivacaína 0.5 %",
+        "D": "Analgesia libre de opioides"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Cuál es la medida anestésica a seguir para laparotomía exploratoria por enterocolitis necrotizante?",
+      "options": {
+        "A": "Anestesia raquídea",
+        "B": "Infusiones EV lentas",
+        "C": "Uso de sevofluorane",
+        "D": "Infusión de morfina rápida"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Varón de 48 años sometido a cirugía de meningioma parasagital, posición semisentado, después de 5 horas de cirugía; doppler precordial: ausencia de monitorización. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Vasopresores e inotrópicos",
+        "B": "Aspirar aire intravascular de arteria pulmonar",
+        "C": "Compresiones torácicas",
+        "D": "Bajar fiO2 a 50%"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuáles son los riesgos moderados del estado de hipercoagulabilidad y trombosis perioperatoria?",
+      "options": {
+        "A": "Trombocitopenia inducida por heparina",
+        "B": "Tumores malignos e inmovilización",
+        "C": "Déficit de proteína C, S y antitrombina",
+        "D": "Síndrome de anticuerpos antifosfolipídicos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "En anestesia general y/o hipnosis profunda. ¿Cuáles son los márgenes en el índice de Narcotrend E1?",
+      "options": {
+        "A": "13-19",
+        "B": "20-26",
+        "C": "37-46",
+        "D": "47-56"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

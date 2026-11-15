@@ -1,0 +1,1350 @@
+{
+  "metadata": {
+    "year": 2026,
+    "exam": "CIRUGIA GENERAL",
+    "source_pdf": "CIRUGIA GENERAL.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Cirugía General",
+    "sha256_pdf": "c2113b6bae01089fcecda49a473c801a343a2166f31eb7122f64aa1cff2d8f08",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:31:13",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 12,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Cirugía General",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9941,
+        "vec_max_loser": 0.0044,
+        "pix_min_winner": 0.593,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 30582,
+      "coverage_out_chars": 30582,
+      "human_reference": "_backup_csv_verificados/Year2026/CIRUGIA GENERAL.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 71,
+        "identico": 428,
+        "csv_antiguo_truncado": 1
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Mujer de 50 años internada en UCI por pancreatitis aguda grave necrotizante. ¿Cuál es el antimicrobiano indicado para prevenir la infección de la necrosis?",
+      "options": {
+        "A": "Imipenem",
+        "B": "Quinolonas",
+        "C": "Aminoglicósido",
+        "D": "Fluconazol"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "En cirugía robótica, el programa Tilepro ofrece capacidad de varias vistas con las que durante una operación el cirujano ve simultáneamente imágenes complementarias. ¿Cuál es una imagen de este programa que se observa en la consola en tiempo real?",
+      "options": {
+        "A": "Ganglios y drenaje linfático guiada por fluorescencia",
+        "B": "Ecografía intraoperatoria",
+        "C": "Perfusión vascular hepática guiada por fluorescencia",
+        "D": "Anatomía quirúrgica hepática"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "De acuerdo a la disposición de los vasos hacia el borde del mesenterio. ¿Cómo se diferencia el yeyuno del íleon?",
+      "options": {
+        "A": "Posee una o dos arcadas que emiten vasos rectos y largos",
+        "B": "Posee cuatro o cinco arcadas con vasos rectos más cortos",
+        "C": "Tiene más de cuatro arcadas y emiten vasos largos",
+        "D": "Tiene una sola arcada y emite vasos muy cortos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Paciente de 50 años natural de Puno, estreñido crónico; fue sometido a colostomía sigmoidea temporal post vólvulo sigmoides, después de 3 años acude a su control para restitución del tránsito intestinal. Examen: tumoración reductible de 7 cm de diámetro paraostomal. ¿Cuál es su diagnóstico clínico?",
+      "options": {
+        "A": "Prolapso ostomal",
+        "B": "Hernia paraostomal post infección local temprana",
+        "C": "Eventración abdominal",
+        "D": "Hernia paraostomal tardía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "En la atención inicial de un politraumatizado. ¿Qué fractura debemos suponer hasta demostrar lo contrario?",
+      "options": {
+        "A": "Columna cervical",
+        "B": "Columna lumbar",
+        "C": "Cráneo",
+        "D": "Costal múltiple"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "¿Cuál es una arteria que se puede ligar como control de daño en lesión vascular traumáticas?",
+      "options": {
+        "A": "Poplítea",
+        "B": "Braquial",
+        "C": "Mesentérica superior",
+        "D": "Mesentérica inferior"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Mujer de 45 años hospitalizada en UCI con diagnóstico de pancreatitis aguda grave, se encuentra en 5ta semana de enfermedad. Examen: MEG, en ventilación mecánica, mantiene funciones vitales con noradrenalina, persiste febril; abdomen: distendido, con matidez en la región inferior. Laboratorio: leucocitosis e hipocalcemia. Valoración APACHE II y Ranson elevados. Puntuación de índice de gravedad por tomografía computarizada (CTSI): necrosis de 6 puntos, además de acumulación de líquido en cavidad y celda pancreática. Se decide tratamiento quirúrgico. ¿Cuál es el procedimiento a realizar?",
+      "options": {
+        "A": "Pancreatectomía céfalocaudal",
+        "B": "Derivación cistogástrica",
+        "C": "Desbridamiento con necrosectomía",
+        "D": "Derivación cistoyeyunal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Mujer de 50 años, en primer día postoperatorio de laparoscopía por colecistitis crónica litiásica. Examen: PA 120/80 mmHg, FR 16X', FC 92X'; abdomen: blando pero ligeramente doloroso en cuadrante superior y flanco derecho sin reacción peritoneal; drenaje tubular líquido bilioso con volumen de 1200 ml en 18 horas. Laboratorio: leucocitos: 10200/µl. Eco abdominal: líquido libre de aproximadamente 150 ml. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Inmediata reintervención y drenaje de la lesión",
+        "B": "Solicitar TC sin contraste y control de la infección",
+        "C": "Control de la infección y solicitar colangiorresonancia",
+        "D": "Inmediata reintervención y derivación bilio digestiva"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál es una ventaja tecnológica que ofrece al cirujano la plataforma de cirugía robótica frente a la laparoscópica?",
+      "options": {
+        "A": "Capacidad de controlar dos brazos",
+        "B": "Movimientos sin control de los instrumentos",
+        "C": "Visión más amplia de la intervención",
+        "D": "Cuenta con instrumentos solo para corte, ligadura y sutura"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "El consentimiento informado es un documento médico legal, donde el paciente decide que el mismo tomara sus decisiones para su tratamiento por el cirujano. ¿Qué alternativa se puede tomar ante la negativa a algún procedimiento?",
+      "options": {
+        "A": "Asegurarse que un amigo desea participar en el proceso del consentimiento informado",
+        "B": "Ha cedido los derechos para el proceso de toma de decisiones en forma obligatoria por orden de sus familiares",
+        "C": "Mantener un alto grado de conciencia de las interacciones entre el paciente y sus familiares o con su representante legal",
+        "D": "Revisión en privado con el paciente y no darle información detallada para su obtención"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "El avance en el manejo de las complicaciones obstructivas por cáncer digestivo avanzado, ha sido el uso de colocación de endoprótesis, logrando una mejor calidad de vida y tratamiento paliativo. ¿Cuál es el tipo de endoprótesis de mejor resultado?",
+      "options": {
+        "A": "De plástico expandible",
+        "B": "Que tienen ganchos y lengüetas",
+        "C": "Metálica auto expandible",
+        "D": "Metálicas cubiertas de quimioterápico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "En la radiografía torácica. ¿Cuál es un hallazgo que sugiere desgarro de la aorta torácica descendente?",
+      "options": {
+        "A": "Apertura del espacio aórtico pulmonar",
+        "B": "Aumento de bronquio principal izquierdo",
+        "C": "Contorno aórtico anormal",
+        "D": "Ausencia de imagen apical izquierda"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Varón de 55 años, evaluado en emergencia por hematemesis franca, mareos y debilidad general. Antecedente: episodio similar hace un año, sin evaluación ni tratamiento. Examen: PA 120/70 mmHg, FC 90X', FR 18X', T° 37°C; lúcido, orientado, palidez leve de piel y mucosas; abdomen: blando, depresible, dolor moderado en epigastrio, RHA aumentados. TR: dedo de guante con restos de melena. Endoscopía alta: lesión ulcerosa tipo Forrest I-a. ¿Cuál es la interpretación de este hallazgo y el riesgo de recidiva?",
+      "options": {
+        "A": "Hemorragia activa y no pulsátil / alto",
+        "B": "Coágulo adherido / intermedio",
+        "C": "Úlcera con mancha negra / bajo",
+        "D": "Hemorragia activa y pulsátil / alto"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Una hernia indirecta por deslizamiento o inguinoescrotal. ¿A qué tipo de hernia corresponde en el sistema de clasificación de Nyhus?",
+      "options": {
+        "A": "III B",
+        "B": "III A",
+        "C": "III C",
+        "D": "IV"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Una lesión en la vía biliar principal a menos de 2 cm de la confluencia. ¿A qué tipo de lesión Bismuth corresponde?",
+      "options": {
+        "A": "E3",
+        "B": "E1",
+        "C": "E4",
+        "D": "E2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿Cuál es una indicación de cirugía en la hemorragia digestiva?",
+      "options": {
+        "A": "Estigma endoscópico Forrest II b",
+        "B": "Primer episodio de sangrado",
+        "C": "Hemorragia lenta continua con necesidad de transfusión >3 unidades/día",
+        "D": "Recurrencia con un intento de hemostasia endoscópica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "En la evaluación de un paciente para probable trasplante de hígado, según la clasificación de Child-Pugh. Examen: paciente lucido y orientado, leve ictericia, ligera distensión abdominal. Eco abdominal: hígado algo nodular y ascitis leve. Laboratorio: bilirrubina 2 mg/dl, Hb12 g/dl, INR 1.8, albúmina 3 g/dl, proteínas totales 7 g/dl; examen de orina: 2 leucocitos/campo. ¿Cuál es la clase y cuanto es su puntaje?",
+      "options": {
+        "A": "A / 6",
+        "B": "C / 10",
+        "C": "B / 8",
+        "D": "B / 7"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuál es uno de los criterios de pronóstico de Ranson, al ingreso de un paciente con pancreatitis aguda no biliar?",
+      "options": {
+        "A": "Disminución del hematocrito >10 puntos",
+        "B": "Aumento de BUN >5 mg/100 ml",
+        "C": "TGP sérica >250 UI/L",
+        "D": "Déficit de bases >4 mEq/L"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "De acuerdo a la clasificación de Montreal la presencia en colon de la enfermedad de Crohn. ¿A qué localización corresponde?",
+      "options": {
+        "A": "L1",
+        "B": "L2",
+        "C": "L3",
+        "D": "L4"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Cuál es el indicador de mayor puntuación en el riesgo de laboratorio de la fascitis necrosante?",
+      "options": {
+        "A": "Proteína C reactiva ≥150 mg/L",
+        "B": "Leucocitos >25000/l",
+        "C": "Hemoglobina <11 g/dl",
+        "D": "Creatinina sérica >1.6 mg/dl"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Mujer de 42 años, llega a emergencia por dolor abdominal moderado a intenso, náusea y vómitos progresivos de dos días de evolución. No refiere cirugías previas ni haber bajado de peso. Examen: PA 110 mmHg, FC 98X', FR 16X', T° 38.5°C, deshidratada moderada; abdomen: distendido, timpánico, doloroso a la palpación profunda, RHA disminuidos, no se palpa masas ni hernias. TR: ampolla rectal vacua. Rx abdomen simple en decúbito: dilatación de asas del intestino delgado, sin signos de distensión del colon; en posición de pie: múltiples niveles hidroaéreos, con patrón escalonado. ¿Cuál es el diagnóstico y conducta a seguir?",
+      "options": {
+        "A": "Íleo adinámico / SNG y observación",
+        "B": "Obstrucción intestinal / hidratación y laparotomía",
+        "C": "Obstrucción intestinal / hidratación y TC abdomen",
+        "D": "Íleo adinámico / hidratación y TC abdomen"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cuál es el segmento hepático que rodea la vena cava en la parte posterior del hígado?",
+      "options": {
+        "A": "II",
+        "B": "III",
+        "C": "I",
+        "D": "IV"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "¿Cómo se clasifica una herida operatoria, donde en el procedimiento quirúrgico hubo derramamiento del contenido del tubo digestivo?",
+      "options": {
+        "A": "Limpia - contaminada",
+        "B": "Sucia - infectada",
+        "C": "Infectada",
+        "D": "Contaminada"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Paciente de 25 años, sufrió caída brusca de moto, con traumatismo de miembro inferior derecho. Examen: miembro inferior derecho con dificultad de movilización por dolor moderado y muslo algo incrementado de volumen. Eco: hematoma en la raíz del muslo afectado de 6x7cm. Rx de miembro inferior: ausencia de fractura ósea. ¿Cuál es la acción para el diagnóstico temprano del síndrome compartimental?",
+      "options": {
+        "A": "Observar evolución del hematoma",
+        "B": "Drenaje del hematoma",
+        "C": "Medición de las presiones compartimentales",
+        "D": "Ecografía seriada"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Varón de 35 años, evaluado en emergencia por presentar dolor abdominal y fiebre de una semana de evolución. Examen: PA 124/86 mmHg, FC 90X', FR 18X', T° 38.7°C; abdomen: tumoración palpable dolorosa blanda en FID de aproximadamente 8x8 cm de diámetro. Eco: plastrón con flemón periapendicular de 60 ml de volumen. Se realiza drenaje percutáneo de líquido purulento de plastrón apendicular con evolución favorable y alta. ¿Cuál es la conducta recomendable para realizar apendicectomía de intervalo?",
+      "options": {
+        "A": "Realizar en tres meses",
+        "B": "Realizar en 15 días",
+        "C": "Solicitar previamente ecografía abdominal",
+        "D": "Solicitar previamente TAC y colonoscopía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Paciente de 45 años, bebedor crónico desde hace 5 años; desde hace 3 meses presenta dolor a nivel de mesogastrio, el dolor es constante y terebrante que se exacerba con la alimentación, por lo que a veces toma una posición fetal. Se le practicó una ecoendoscopía por sospecha de pancreatitis crónica. ¿Qué hallazgo nos indica alteración del parénquima pancreático?",
+      "options": {
+        "A": "Tabiques interlobulillares prominentes",
+        "B": "Conducto pancreático tortuoso",
+        "C": "Ectasia de rama lateral",
+        "D": "Tamaño del conducto >3 mm"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Cuál es una de las causas más importantes de mortalidad en un paciente con hemorragia incontrolable por herida penetrante en abdomen?",
+      "options": {
+        "A": "No tratar la hipotensión",
+        "B": "Administración temprana de eritrocitos",
+        "C": "Retraso en la intervención quirúrgica",
+        "D": "No mantener la presión en valores normales"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Paciente de 65 años, presenta tumoración rectal de 3x3 cm a 6 cm del margen anal. AP: adenocarcinoma medianamente diferenciado. Ecoendoscopía: tumor que llega a la muscular y ausencia de ganglios en el mesorecto. TC de abdomen y tórax: aparentemente normal. ¿Cuál es el margen distal del tumor ideal para realizar resección con conservación del esfínter anal?",
+      "options": {
+        "A": "3 cm",
+        "B": "2 cm",
+        "C": "5 cm",
+        "D": "1 cm"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Varón de 25 años, con diagnóstico AP de carcinoma difuso del antro gástrico, que llega a la submucosa y mide 12x10 mm. Antecedente: padre murió por cáncer gástrico. TC de abdomen aparentemente normal. ¿Cuál es el tratamiento indicado?",
+      "options": {
+        "A": "Gastrectomía subtotal D2",
+        "B": "Antrectomía con margen de 5 cm",
+        "C": "Submucosectomía",
+        "D": "Gastrectomía total D2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Frente a un paciente que presenta hemorragia digestiva masiva, se han utilizado parámetros clínicos, siendo la ...… un indicador de muerte.",
+      "options": {
+        "A": "hipotensión arterial",
+        "B": "ansiedad",
+        "C": "taquipnea",
+        "D": "piel fría"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Cuál es una característica diferenciadora, entre el absceso hepático amebiano frente al piógeno?",
+      "options": {
+        "A": "Viaje a zonas endémicas",
+        "B": "Elevación de la fosfatasa alcalina",
+        "C": "Consumo de alcohol",
+        "D": "Localización en hígado derecho"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿En qué condición está indicada una tiroidectomía total de un cáncer de tiroides cuya AP es folicular (CTD)?",
+      "options": {
+        "A": "CTD multifocal del lóbulo piramidal",
+        "B": "CTD inducido por radiación",
+        "C": "Sospecha de extensión extra tiroidea microscópica",
+        "D": "Tumor de 3.5 cm de diámetro"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Según los factores que reducen o aumentan la calidad de la evidencia de las investigaciones, utilizando los sistemas de evaluación de USPMTF y GRADE. ¿Qué factor aumenta la calidad de la evidencia?",
+      "options": {
+        "A": "Imprecisión de los resultados en los estudios individuales",
+        "B": "Evidencia indirecta",
+        "C": "Hallazgos no generalizables a la práctica habitual",
+        "D": "Consistencia de los hallazgos en múltiples estudios"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Mujer 35 años, diabética insulinodependiente, en cuarto día postoperatorio por peritonitis por enfermedad diverticular complicada; drenaje por SNG 1500 ml. Examen: FV estables; abdomen: distendido, timpánico, RHA muy disminuidos, dren tubular con secreción entérica 800 ml, colostomía con 300 ml en bolsa. Recibe terapia antibiótica con aminoglucósidos; ha recibido dos series de reto de potasio por hipopotasemia sin mejora. ¿Qué otro electrolito posiblemente está disminuido?",
+      "options": {
+        "A": "Magnesio",
+        "B": "Sodio",
+        "C": "Cloro",
+        "D": "Calcio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Mujer de 65 años, presenta desde hace un año dolor en abdomen inferior a predominio izquierdo, diarreas esporádicas con estreñimiento, en una ocasión presento deposiciones negruzcas en moderada cantidad, desde hace 3 días dolor intenso, fiebre y malestar general. TC con contraste de pelvis: sugestivo de diverticulitis sigmoidea con engrosamiento de la pared intestinal, hebras de grasa en un absceso pericólico. ¿Cuál es el grado según el sistema de clasificación de Hinchey modificado?",
+      "options": {
+        "A": "1b",
+        "B": "3",
+        "C": "2",
+        "D": "1a"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Varón de 24 años, sufrió un traumatismo por arma punzo cortante; hemodinámicamente estable. Examen: orificio de entrada en el hipocondrio izquierdo, ruidos cardiacos muy débiles. ¿Cuáles son los exámenes que se solicitarán para un buen diagnóstico?",
+      "options": {
+        "A": "TAC toracoabdominal",
+        "B": "Rx tórax, FAST pericárdica, laparoscopía abdominal",
+        "C": "Eco toracoabdominal, TAC abdominal con contraste",
+        "D": "RM con contraste de tórax y abdomen"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Paciente de 25 años, diagnosticado de TB hace un año, recibió 6 meses de tratamiento adecuado, presenta dolor abdominal tipo cólico con distensión, malestar general, febrícula. Examen: pálido, adelgazado, distensión abdominal y signo de la oleada positivo. Rx de tórax compatible con imagen residual de TB. Eco abdominal: ascitis y nódulos múltiples en cavidad de menos de 5 mm. ¿Qué examen confirma el diagnóstico de peritonitis tuberculosa?",
+      "options": {
+        "A": "Cultivo de nódulos caseosos",
+        "B": "Biopsia peritoneal percutánea",
+        "C": "Laparoscopía con biopsia dirigida",
+        "D": "Búsqueda de bacilos ácido resistentes en el block cell o centrifugado"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál es el elemento que ayuda a la cicatrización de heridas e inflamación mediante la activación de leucocitos?",
+      "options": {
+        "A": "Macrófago",
+        "B": "Linfocito T",
+        "C": "Queratinocito",
+        "D": "Linfocito B"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Varón de 35 años, con obesidad mórbida; fue sometido a operación de reducción gástrica (manga gástrica), presenta al tercer día postoperatorio dificultad respiratoria por hipoventilación. Ingresa a unidad de cuidados intensivos, donde presenta: hipoxia, hipoventilación, hipotensión y oliguria. Examen: polipneico, con oxigeno nasal y gran distensión abdominal. ¿Cuál es su probable diagnóstico clínico?",
+      "options": {
+        "A": "Dehiscencia de anastomosis",
+        "B": "Sepsis",
+        "C": "Síndrome compartimental",
+        "D": "Neumonía intrahospitalaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Para evitar complicaciones post operatorios y legales; en un paciente que finalizó la cirugía abdominal. La evaluación de cirugía segura, debe realizarse por el …..., quienes revisan en voz alta los aspectos clave para la recuperación y asistencia al paciente.",
+      "options": {
+        "A": "profesional de enfermería y anestesiólogo",
+        "B": "cirujano y profesional de enfermería",
+        "C": "cirujano, profesional de enfermería y anestesiólogo",
+        "D": "cirujano y anestesiólogo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "En traumatismos de tórax con pérdida de pared torácica de espesor total y neumotórax abierto. ¿Cuál es el procedimiento recomendado en el tratamiento definitivo?",
+      "options": {
+        "A": "Reparar el defecto de la pared torácica y toracostomía cercana a la herida",
+        "B": "Colocar injerto en el defecto y toracostomía cercana a la herida",
+        "C": "No requiere reparación, mantener cubierta con apósito y toracostomía cercana",
+        "D": "Reparar el defecto de la pared torácica y toracostomía distante a la herida"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Cuál es un efecto de la estimulación parasimpática del tubo digestivo?",
+      "options": {
+        "A": "Inhibe la peristalsis y la secreción de jugos digestivos",
+        "B": "Contrae el recto e inhibe el esfínter interno del ano",
+        "C": "Constriñe los vasos sanguíneos de todo el tubo digestivo",
+        "D": "Relaja el recto y el esfínter interno del ano"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Cuando se repara una hernia por un acceso abierto o laparoscópico, el uso de malla como refuerzo, reduce significativamente la...",
+      "options": {
+        "A": "hemorragia.",
+        "B": "meralgia.",
+        "C": "recurrencia.",
+        "D": "infección."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "De acuerdo a las recomendaciones la American Burn Association y el American College of Surgeons Committee on Trauma. ¿Qué tipo de quemadura debe referirse a un centro especializado de quemados?",
+      "options": {
+        "A": "Leves por insolación en niños",
+        "B": "De 2do grado más de 15%",
+        "C": "Por insolación en paciente psiquiátrico",
+        "D": "Eléctricas, incluidas las producidas por rayos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuánto es recomendable el tamaño (en ml) del reservorio como consideración técnica durante la derivación gástrica en Y de Roux laparoscópica en cirugía bariátrica?",
+      "options": {
+        "A": "25 - 30",
+        "B": "5 - 10",
+        "C": "15 - 20",
+        "D": "35 - 40"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Uno de los métodos para evaluar las habilidades psicomotoras y competencia técnica en la cirugía laparoscópica es:",
+      "options": {
+        "A": "Experiencias quirúrgicas guiadas por el cirujano tutor",
+        "B": "Caja de entrenamiento",
+        "C": "Uso de animales de experimentación",
+        "D": "Capacitación en plataformas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Varón de 90 años, que fue sometido a gastrectomía subtotal; presenta disnea severa en el PO1. Se le diagnosticó atelectasia. ¿Cuál es la causa principal de la insuficiencia respiratoria?",
+      "options": {
+        "A": "Ausencia de dolor abdominal",
+        "B": "Falta de cuidados de enfermería",
+        "C": "Efecto postanestesia general",
+        "D": "Inadecuada respuesta a la hipoxia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Desde que el Instituto de Medicine (ahora la National Academy of Medicine) publicó su informe identificando causas de muertes de pacientes relacionadas con errores médicos, propuso soluciones para crear sistemas sanitarios más seguros, se han producido la creación de seguros médicos y la exigencia de mayor responsabilidad médica. ¿Cuál es el efecto de esta medida en el personal médico?",
+      "options": {
+        "A": "Aumento del síndrome de Burnout",
+        "B": "El cirujano pierde la responsabilidad total",
+        "C": "Adopción de conductas estereotipadas",
+        "D": "El cirujano puede impartir temor"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "En quemaduras graves de tórax y abdomen. ¿Cuál es un signo de sospecha de síndrome compartimental intraabdominal?",
+      "options": {
+        "A": "Disminución de la diuresis",
+        "B": "Disminución de la presión del respirador",
+        "C": "Hipertensión",
+        "D": "Hiperventilación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Paciente de 20 años con herida cortante en la cara de 2 cm por agresión por arma blanca. ¿Cuáles son las células de las fases de la cicatrización que predominan en el 7mo día?",
+      "options": {
+        "A": "Macrófagos",
+        "B": "Neutrófilos",
+        "C": "Linfocitos",
+        "D": "Fibroblastos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál es el procedimiento que luego de la exploración física en un paciente politraumatizado, puede identificar con rapidez lesiones que necesitan laparotomía de urgencia?",
+      "options": {
+        "A": "TC",
+        "B": "Ecografía",
+        "C": "RM",
+        "D": "Lavado peritoneal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "Paciente de 50 años, acude por dolor cólico en hipocondrio derecho, fiebre y escalofríos. Examen: ictérica, abdomen con dolor en hipocondrio derecho, resto aparentemente normal, la ecografía muestra un cálculo en el bacinete de la vesícula de 3 cm que comprime las vías biliares, vías biliares intrahepáticas dilatadas de 12 mm de diámetro. En el intraoperatorio se extrajo el cálculo y se objetiva fístula al colédoco de 2 cm. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Colocación de dren Kher en vía biliar",
+        "B": "Drenaje percutáneo de la vía biliar",
+        "C": "Colocación de endoprótesis",
+        "D": "Colédoco yeyunostomía en Y de Roux"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál es la arteria que provee la mayor irrigación a la curvatura mayor del estómago?",
+      "options": {
+        "A": "Tronco celiaco",
+        "B": "Gastroduodenal",
+        "C": "Vasos rectos y coronaria estomáquica",
+        "D": "Gastroepiploica derecha e izquierda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Varón de 24 años, acude a emergencia por presentar súbitamente dolor abdominal 6/10, que inicia a las 3 am por lo que se automedica con paracetamol. Se sospecha de apendicitis aguda. Examen: dolor a presión en el epigastrio o en la parte anterior del tórax con presión firme y persistente aplicada al punto de McBurney. ¿A qué signo corresponde este cuadro?",
+      "options": {
+        "A": "Aaron",
+        "B": "Blumberg",
+        "C": "Murphy",
+        "D": "Rovsing"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Paciente de 30 años, refiere que se automedica con inhibidos de bomba de protones, por presentar gastritis desde hace un año, hace 6 horas nota dolor intenso 8/10 en epigastrio, sudoración profusa y dificultad en la deambulación. Examen: lúcido, diaforético y Blumberg +++. Rx abdomen simple: neumoperitoneo. Hallazgo intraoperatorio: perforación gástrica en antro de 2 cm y peritonitis abdominal difusa con un litro de líquido algo turbio. ¿Cuál es la mejor conducta terapéutica?",
+      "options": {
+        "A": "Antrectomía y Billroth II con suturas mecánicas",
+        "B": "Resección de úlcera y cierre de perforación",
+        "C": "Cierre de perforación más parche de Graham",
+        "D": "Cierre de perforación con parche de Graham y vagotomía troncular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Varón de 35 años, acude por dolor en FID compatible con apendicitis aguda. Sin antecedente de sintomatología abdominal. Durante la apendicectomía abierta se encuentra un divertículo de Meckel no complicado >2 cm. ¿Cuál es la conducta recomendable?",
+      "options": {
+        "A": "No extirpar en definitiva",
+        "B": "Realizar la extirpación",
+        "C": "Extirpación opcional en 30 días",
+        "D": "Solamente se invagina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿Cuál es un elemento esencial que hay que prevenir, además de la hipotermia y coagulopatía en el tratamiento de un paciente en schock hemorrágico?",
+      "options": {
+        "A": "Hipokalemia",
+        "B": "Hipernatremia",
+        "C": "Acidemia",
+        "D": "Anemia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Varón de 45 años, se automedica con ibuprofeno de 400 mg por 2 días, mañana - tarde y noche por dolor articular tras un golpe al jugar futbol. Hace una hora presenta dolor intenso en epigastrio 9/10; eco abdominal: vesícula biliar y abdomen aparentemente normal. Al continuar el dolor se le toma Rx de abdomen simple en bipedestación evidenciando neumoperitoneo. ¿Cuál es el siguiente examen para ver la localización de la perforación y causa especifica?",
+      "options": {
+        "A": "RNM de abdomen con contraste",
+        "B": "Rx de abdomen simple en decúbito",
+        "C": "Laparoscopía",
+        "D": "TAC de abdomen con contraste"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Varón de 60 años, con hernia inguinal directa bilateral, la derecha mide 4x5 cm y la izquierda 6x4 cm; debe ser sometido a cura quirúrgica de ambas hernias. ¿Cuál es la técnica quirúrgica de reparación de mejor opción?",
+      "options": {
+        "A": "Lichtenstein",
+        "B": "TEP",
+        "C": "TAP",
+        "D": "Stoppa-Rives"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál es el nivel de hemoglobina (en g/dl) recomendable que hay que mantener en un paciente estable postoperado de hemorragia masiva?",
+      "options": {
+        "A": "7 a 9",
+        "B": "10 a 11",
+        "C": "6",
+        "D": ">12"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Paciente varón quien sufrió accidente automovilístico con atricción del miembro inferior izquierdo. Examen: lesión extensa de tejidos blandos, déficit neurológico, fracturas extensas y lesiones vasculares de dicho miembro. Por lo que se plantea la amputación inmediata. ¿Cuál es la conducta adecuada?",
+      "options": {
+        "A": "Evaluación conjunta con el equipo de ortopedia, plástica y neurocirugía",
+        "B": "Realizar un sistema de puntuación para ver si procede la amputación",
+        "C": "Segunda inspección 24 h después de la cirugía de control de daños",
+        "D": "Realizar la reparación vascular para tomar decisión inmediata"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Varón de 28 años, evaluado en emergencia por haber sufrido accidente de tránsito. Examen: PA 80/50 mmHg, FC 122X', FR 22X', T° 36°C; palidez marcada, confuso, moviliza extremidades; abdomen: distendido, muy doloroso, matidez generalizada, equimosis marcada en hipocondrio derecho. Paracentesis: hemoperitoneo. Se considera que se encuentra en shock hemorrágico clase III. ¿Cuánto se estima la pérdida de volumen sanguíneo?",
+      "options": {
+        "A": "1500 - 2000 ml",
+        "B": ">2000 ml",
+        "C": "1000 - 1200 ml",
+        "D": "<1000 ml"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es un diagnóstico diferencial que debe considerarse en una mujer que se encuentra en segundo trimestre de embarazo y presenta dolor de pocas horas de inicio en cuadrante inferior derecho, con sospecha de apendicitis aguda?",
+      "options": {
+        "A": "Litiasis urinaria",
+        "B": "Dolor del ligamento redondo",
+        "C": "Linfadenitis mesentérica",
+        "D": "Gastroenterocolitis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "¿Cuál es un componente principal que determina junto con las sales biliares la estabilidad de solubilidad del colesterol?",
+      "options": {
+        "A": "Hemoglobina",
+        "B": "Calcio",
+        "C": "Lecitina",
+        "D": "Ácido úrico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿En qué tipo de lesiones por trauma, es recomendable realizar esplenectomía parcial o reparación esplénica (esplenorrafia)?",
+      "options": {
+        "A": "Hilio esplénico",
+        "B": "Grado II",
+        "C": "Grado III",
+        "D": "Polo superior o inferior"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es una causa inflamatoria de obstrucción intestinal?",
+      "options": {
+        "A": "Enfermedad de Crohn",
+        "B": "Bezoares",
+        "C": "Íleo biliar",
+        "D": "Invaginación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es un criterio de Atlanta para definir pancreatitis aguda grave?",
+      "options": {
+        "A": "Hemorragia digestiva >300 ml/24 h",
+        "B": "Fibrinógeno <0.5 g/L",
+        "C": "Concentración sérica de calcio ≤7.5 mg/L",
+        "D": "Aumento de tamaño focal o difuso del páncreas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Se trata de evaluar la efectividad de una droga para ver el beneficio en el tratamiento del cáncer de mama avanzado, por lo que se escogió una población de 100 mujeres. Fueron asignadas aleatoriamente quienes recibieron la droga o el placebo. Se realizó seguimiento mensualmente por 2 años a ambos grupos, se evaluó el crecimiento del tumor y la sobrevida. ¿Qué tipo de diseño de investigación es?",
+      "options": {
+        "A": "Cuasiexperimental con grupo control",
+        "B": "Ensayo comunitario con control aleatorizado",
+        "C": "Ensayo clínico aleatorizado con grupo control",
+        "D": "Cohorte prospectivo con grupo control"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Varón de 20 años de descendencia africana que presenta una cicatriz hipertrófica de 3 cm de longitud post aplicación de vacuna anti TB en el hombro derecho. Fue sometido a resección; para evitar la recidiva. ¿Cuál es la medida de prevención?",
+      "options": {
+        "A": "Radioterapia inmediata",
+        "B": "Aplicación de corticoides tópicos",
+        "C": "Eliminación de la tensión",
+        "D": "Observación sistémica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Varón de 30 años, ingresa a emergencia con dolor abdominal, náusea y vómitos desde hace tres días. Examen: PA 120/80 mmHg, FC 78X', FR 18X', T° 38°C; abdomen: se palpa en CSD tumoración 7x7 cm, doloroso, Murphy (+++). Se programa para intervención quirúrgica con diagnóstico de colecistitis aguda. Se administra profilaxis preoperatoria con cefalosporina EV. En la intervención quirúrgica se encuentra vesícula biliar purulenta, necrosada por lo que se agrega al tratamiento metronidazol 500 mg por 5 días hasta el alta. ¿Cuál es la terapia antibiótica empleada?",
+      "options": {
+        "A": "Profiláctica",
+        "B": "Racional",
+        "C": "Empírica",
+        "D": "Primaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "¿Cuál es una de las complicaciones más frecuentes de la cirugía de hernias inguinales por técnica laparoscópica en comparación a la cirugía de reparación abierta?",
+      "options": {
+        "A": "Neuralgia",
+        "B": "Infección del sitio quirúrgico",
+        "C": "Intraoperatorias",
+        "D": "Dolor crónico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿En qué pacientes portadores de cáncer de mama se debe practicar la biopsia del ganglio centinela?",
+      "options": {
+        "A": "T3 con axila negativa a la mamografía y al examen clínico axilar",
+        "B": "Inflamatorio",
+        "C": "Temprano",
+        "D": "T2 en gestante del 2do trimestre"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Paciente de 60 años, fue sometido a una resección anterior baja por cáncer de recto. AP: cáncer indiferenciado que llega a la muscular. La exploración del meso recto es incompleta y los ganglios hallados es 0/12. Márgenes de resección libres de neoplasia. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Tratamiento quimioterápico complementario",
+        "B": "Quimioterapia adyuvante y adición de oxaliplatino",
+        "C": "Observación",
+        "D": "Control con dosaje de CEA"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Mujer 35 años, sufre accidente de tránsito hace 60 minutos, refiere dolor abdominal en la zona de impacto en el accidente. Examen: lúcida, orientada; PA 120/80 mmHg, FC 80X', FR 16X', T° 37°C; abdomen: blando, doloroso en hemiabdomen superior, sin reacción peritoneal, RHA disminuidos, percusión normal. Laboratorio: Hb 9 g/dl. Se realiza valoración rápida con Eco abdominal: colección líquida de aproximadamente 200 ml en la fosa esplenorrenal. ¿Cuál es la conducta en el momento?",
+      "options": {
+        "A": "Laparotomía exploradora",
+        "B": "Laparoscopía exploradora",
+        "C": "Trasfusión de sangre",
+        "D": "Observación"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Paciente de 30 años; que en TC de abdomen con contraste por hematuria por litiasis ureteral izquierda, se halló una imagen suprarrenal izquierda sólida de 2 cm de diámetro. Se le practicó pruebas de función de glándula suprarrenal con resultados normales. ¿Cuál es la conducta ante este hallazgo?",
+      "options": {
+        "A": "Suprarrenalectomía izquierda",
+        "B": "Biopsia con aguja fina del tumor para decisión quirúrgica",
+        "C": "Observación con TC a los 6 meses",
+        "D": "RM con contraste para decisión quirúrgica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Varón de 60 años, parapléjico desde hace 6 meses por accidente de tránsito. Examen: FV estable; región lumbo-sacra: úlcera de decúbito con costra y exudado fibrinoso, en el centro tejido de granulación y el borde avanza con nuevo tejido sano retraído. ¿En qué fase de cicatrización se encuentra la herida?",
+      "options": {
+        "A": "Inflamatoria",
+        "B": "Proliferación",
+        "C": "En las tres fases",
+        "D": "Maduración"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "¿Cuál es el fallo técnico más frecuente cuando se realiza una funduplicatura de Nissen?",
+      "options": {
+        "A": "Dehiscencia en las suturas del fundus gástrico que envuelve el esófago",
+        "B": "Falta de fijación en los pilares",
+        "C": "Fracaso para crear la anatomía apropiada de la funduplicatura",
+        "D": "Perforación gástrica en la disección"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "En pacientes con pancreatitis aguda de origen biliar. ¿En qué situación está indicada la colangiopancreatografía retrógrada endoscópica (CPRE) con esfinterotomía temprana?",
+      "options": {
+        "A": "Pancreatitis en fase intersticial",
+        "B": "Pseudoquiste supramesocólico",
+        "C": "Fístula pancreatopleural persistente",
+        "D": "Enfermedades asociadas graves que impidan cirugía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuáles son alternativas de antibiótico profilaxis en un paciente alérgico a β-lactámicos que será operado para reparar una hernia inguinal?",
+      "options": {
+        "A": "Aztreonam, fluoroquinolona",
+        "B": "Clindamicina, vancomicina",
+        "C": "Metronidazol, aminoglucósido",
+        "D": "Aminoglucósido, fluoroquinolona"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "En la reparación de una hernia paraesofágica. ¿Cuál es un paso importante dentro de la reparación?",
+      "options": {
+        "A": "Realizar cirugía antirreflujo",
+        "B": "Movilización del esófago distal para conseguir un mínimo de 2 cm de esófago",
+        "C": "Colocación de prótesis si el agujero es extenso",
+        "D": "Realizar el abordaje por toracotomía derecha"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Diabético de 55 años, evaluado en emergencia por haber presentado súbitamente hematemesis franca sin mayores síntomas asociados. Examen: BEG, BEN, lúcido, orientado. FV estables; abdomen: blando, depresible, no doloroso, sin tumoraciones palpables. Endoscopía: lesión de Dieulafoy: vaso arterial visible sangrante a 3 cm de unión gastroesofágica en la curvatura menor; se procede a electrofulguración sin éxito. No hay posibilidad de embolización arterial. Se decide cirugía. ¿Cuál es el procedimiento quirúrgico recomendable?",
+      "options": {
+        "A": "Gastrectomía proximal",
+        "B": "Gastrectomía distal",
+        "C": "Gastrectomía total",
+        "D": "Resección en cuña"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Ante el fracaso de otros métodos de tratamiento de la hemorragia por rotura de várices esofágicas por hipertensión portal. ¿Cuál es el que ha reemplazado a las derivaciones quirúrgicas?",
+      "options": {
+        "A": "Farmacoterapia con octreótide o vasopresina",
+        "B": "Ligadura endoscópica de las várices",
+        "C": "Taponamiento con balón de Sengstaken-Blakemore",
+        "D": "Derivación portosistémica intrahepática transyugular (DPIT)"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "En la reanimación con líquidos intravenosos para pacientes con quemaduras de más de 20% del área de superficie corporal total (niños con más de 15% del área de superficie corporal total). ¿Cuánto debe ser los valores aconsejables de presión arterial media (mmHg) y diuresis (ml/h) a alcanzar?",
+      "options": {
+        "A": "60 - 30",
+        "B": "70 - 40",
+        "C": "80 - 30",
+        "D": "70 - 50"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "En la preparación de la piel en el preoperatorio. ¿Cuál es el antiséptico que debe estar incluido en la limpieza para tener un efecto óptimo?",
+      "options": {
+        "A": "Clorhexidina",
+        "B": "Yodo",
+        "C": "Povidona",
+        "D": "Alcohol"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Estibador de 40 años, presenta dolor abdominal súbito desde hace una hora, luego de un esfuerzo, sin nausea ni vómitos. Antecedente: diagnosticado de hernia inguinal dercha hace un año. Examen: FV estables; abdomen: blando depresible, ligeramente distendido, presencia de tumoración dolorosa en región inguinal derecha, superficie regular sin cambios de coloración. Se realiza maniobras de reducción de la hernia sin buen resultado. Se decide intervención quirúrgica. ¿Qué tipo de hernia presenta?",
+      "options": {
+        "A": "Incarcerada con obstrucción",
+        "B": "Estrangulada con obstrucción",
+        "C": "Incarcerada sin obstrucción",
+        "D": "Estrangulada sin obstrucción"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Paciente con quiste hidatídico gigante ubicado en el lóbulo pulmonar superior derecho que mide 10x15 cm. ¿Cuál es el indicador de reserva pulmonar previsible post operatorio más usado?",
+      "options": {
+        "A": "FEV1/CVF (capacidad vital forzada)",
+        "B": "FEV1 (volumen expiratorio forzado en un segundo)",
+        "C": "Volumen residual",
+        "D": "Esfuerzo inspiratorio máximo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es un resultado de la gastrectomía vertical laparoscópica?",
+      "options": {
+        "A": "La manga gástrica queda inmodificable",
+        "B": "Aumento metabólico de las concentraciones de grelina",
+        "C": "No requiere configurar la técnica en segunda etapa",
+        "D": "Anulación del síndrome de vaciamiento gástrico rápido"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "En hemorragia masiva grave. ¿Cuál es la triada mortal?",
+      "options": {
+        "A": "Acidosis, hipotermia y coagulopatía",
+        "B": "Alcalosis, hiponatremia e hipopotasemia",
+        "C": "Coagulopatía, fibrinolisis e hipotermia",
+        "D": "Trombosis, fibrinolisis y anemia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Cuando el diagnóstico de apendicitis aguda no está clínicamente claro en una mujer embaraza, con ecografía negativa. ¿Cuál es el procedimiento a solicitar para evitar apendicectomía negativa?",
+      "options": {
+        "A": "Repetir ecografía",
+        "B": "TC con contraste",
+        "C": "RM sin contraste",
+        "D": "TC sin contraste"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es el órgano donde se produce la mayor absorción y secresión de agua y en relación a qué electrolitos?",
+      "options": {
+        "A": "Colon / Na y Cl",
+        "B": "Duodeno / Na y K",
+        "C": "Intestino delgado / Na y Cl",
+        "D": "Colon / Na y K"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Varón de 46 años, fue sometido a colecistectomía laparoscópica, al tercer día presenta dolor en el hipocondrio derecho de intensidad 5/10. Examen: ictericia, T° 38°C; dolor a palpación en hipocondrio derecho. ¿Cuál es el cuadro clínico que está presentando?",
+      "options": {
+        "A": "Pancreatitis",
+        "B": "Triada de Charcot",
+        "C": "Sepsis",
+        "D": "Absceso subfrénico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "En la preparación de limpieza preoperatoria de la piel. ¿Cuál es la técnica recomendada?",
+      "options": {
+        "A": "Rasurado de vello de la zona operatoria",
+        "B": "Uso de un mismo instrumento para aplicación de soluciones",
+        "C": "Área amplia que incluya todas las zonas posibles de incisión",
+        "D": "Aplicación de campos sin necesidad de secado de solución"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Varón de 22 años, ingresa a emergencia en shock por trauma abdominal abierto por arma de fuego. En laparotomía se encuentra: lesión abierta en abdomen por proyectil de AF con entrada y salida; hemoperitoneo aproximadamente 1000 ml; lesión perforativa en cabeza de páncreas con compromiso ductal sin compromiso de colédoco. ¿Cuál es el procedimiento recomendado para reparar y evita la insuficiencia pancreática?",
+      "options": {
+        "A": "Duodeno pancreatectomía con pancreatoyeyunostomía en Y de Roux",
+        "B": "Resección pancreática central con pancreatoyeyunostomía en Y de Roux",
+        "C": "Pancreatoyeyunostomía cefálica en Y de Roux con pancreatectomia córporo-caudal",
+        "D": "Triple drenaje: colédoco, duodeno y lecho pancreático lesionado"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Cuáles son las consideraciones que se deben tomar, para el tratamiento quirúrgico con criterio oncológico adecuado de los tumores malignos?",
+      "options": {
+        "A": "Resecciones quirúrgicas extensas que incluyan ganglios regionales",
+        "B": "Estadiaje y tratamiento quirúrgico radical",
+        "C": "Identificación temprana y cirugía conservadora",
+        "D": "Conocer el perfil de expresión de sus metástasis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "La valoración del riesgo perioperatorio influye en todos los aspectos de la planificación quirúrgica, desde la decisión de operar, la elección de la intervención hasta el tratamiento perioperatorio y los diálogos sobre los objetivos asistenciales. ¿Cuál es la mortalidad esperable en operaciones de alto riesgo realizadas por trastornos potencialmente mortales en enfermos críticos?",
+      "options": {
+        "A": "10%",
+        "B": ">20%",
+        "C": "5%",
+        "D": "<18%"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Para el tratamiento biológico dirigido del cáncer colorrectal, uno de los biomarcadores de mayor uso y utilidad es:",
+      "options": {
+        "A": "C-kit",
+        "B": "MSI",
+        "C": "CEA",
+        "D": "KRAS"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Cuál es el efecto que produce una obstrucción intestinal de asa cerrada?",
+      "options": {
+        "A": "Fístula entero cutánea",
+        "B": "Isquemia y necrosis",
+        "C": "Fístula entero entérica",
+        "D": "Abscesos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "En pacientes con trauma toráxico. ¿Cuál es un signo de sospecha de neumotórax a tensión?",
+      "options": {
+        "A": "Hipotensión",
+        "B": "Tráquea desviada al lado comprometido",
+        "C": "Ausencia de enfisema subcutáneo",
+        "D": "Venas del cuello no distendidas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Una buena evaluación preoperatoria para un trasplante de páncreas en un paciente diabético incluye prioritariamente:",
+      "options": {
+        "A": "Evaluación del sistema cardiovascular",
+        "B": "Descartar cualquier contraindicación para trasplante",
+        "C": "Valoración minuciosa del sistema vascular periférico",
+        "D": "Evaluación de la función pulmonar dentro de limites normales"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Mujer de 60 años, desde hace 3 días presenta distensión abdominal, estreñimiento y dolor abdominal tipo cólico. Antecedente: operada de cáncer de ovario hace 10 años. Examen: moderada distensión abdominal, con ruidos metálicos. TC de abdomen: neumobilia, obstrucción intestinal ileal. TR: ampolla libre. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Íleo biliar",
+        "B": "Bridas y adherencias",
+        "C": "Obstrucción por recidiva de cáncer de ovario",
+        "D": "Hernias internas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

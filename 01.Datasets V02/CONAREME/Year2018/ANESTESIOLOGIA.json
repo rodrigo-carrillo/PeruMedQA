@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2018,
+    "exam": "ANESTESIOLOGIA",
+    "source_pdf": "ANESTESIOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Anestesiología",
+    "sha256_pdf": "45a92981ffcb52344b35a7003245774637cbcf22d92cea20a992fc5d65fc7e34",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:08",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Anestesiología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9935,
+        "vec_max_loser": 0.0073,
+        "pix_min_winner": 0.1419,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 18153,
+      "coverage_out_chars": 18153,
+      "human_reference": "_backup_csv_verificados/Year2018/ANESTESIOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 34,
+        "identico": 562,
+        "csv_antiguo_truncado": 4
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Paciente adulto mayor sometido a anestesia general inhalatoria con pancuronio como relajante, sufre hipotermia en el posoperatorio inmediato. Hace episodios de hipoventilación, hipoxia y flacidez muscular. ¿Cuál es la causa más probable?",
+      "options": {
+        "A": "Intoxicación por halogenado",
+        "B": "Depresión por barbitúricos",
+        "C": "Prolongación del efecto del relajante",
+        "D": "Intoxicación por opiáceo",
+        "E": "Hipotermia maligna"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuál es la complicación respiratoria más frecuente y grave en la recuperación post anestésica?",
+      "options": {
+        "A": "Hipoxia",
+        "B": "Atelectasias",
+        "C": "Broncoespasmo",
+        "D": "Edema pulmonar",
+        "E": "Neumotórax"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Paciente con diagnóstico de insuficiencia cardiaca congestiva descompensada. ¿A qué nivel de ASA corresponde?",
+      "options": {
+        "A": "II",
+        "B": "I",
+        "C": "0",
+        "D": "III",
+        "E": "IV"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Paciente joven sometido a legrado uterino con anestesia endovenosa, en el transoperatorio presenta sialorrea, gritos, balbucea palabras. Este efecto se debe al uso de:",
+      "options": {
+        "A": "Propofol",
+        "B": "Midazolam",
+        "C": "Fentanilo",
+        "D": "Dexametasona.",
+        "E": "Ketamina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "¿Cuál es la causa más frecuente de arritmias periopertorias?",
+      "options": {
+        "A": "Disminución de la PIC",
+        "B": "Uso del óxido nitroso",
+        "C": "Sobrehidratación",
+        "D": "Aumento de estimulación simpática",
+        "E": "Uso del Xenon"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "¿Cuál es la mejor alternativa para manejo del dolor oncológico en pacientes estables que no toleran la vía oral?",
+      "options": {
+        "A": "Fentanil transdérmico",
+        "B": "Morfina IM",
+        "C": "Opioide IV en bolos",
+        "D": "Opioide por infusión continua",
+        "E": "Bloqueo neuroaxial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál es el factor mayor que aumenta la diseminación del anestésico local?",
+      "options": {
+        "A": "Baricidad de la solución",
+        "B": "Disminución de la presión abdominal",
+        "C": "Aumento del flujo de la vena cava inferior",
+        "D": "Estado físico el paciente",
+        "E": "Calibre de la aguja"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Gestante de 30 años, con 36 semanas, llega a emergencia con ruptura de membranas, sangrado, hipotensa y con signos de hipovolemia. ingresa a sala para cesárea. ¿Cuál es el agente inductor de elección hasta la extracción del feto?",
+      "options": {
+        "A": "Propofol",
+        "B": "Penthotal",
+        "C": "Isoflurano",
+        "D": "Ketamina",
+        "E": "Etomidato"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "Paciente con retención urinaria tras colocación de anestesia epidural. ¿Con qué está relacionado dicho evento?",
+      "options": {
+        "A": "Hipervolemia",
+        "B": "Uso de opioide",
+        "C": "Bloqueo sacro S2-S4",
+        "D": "Uso de corticoide",
+        "E": "Uso de aines"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "¿Cuál es un efecto colateral más frecuente de los opioides?",
+      "options": {
+        "A": "Taquicardia",
+        "B": "Prurito rostral",
+        "C": "Escotomas",
+        "D": "Rinitis",
+        "E": "Hipoacusia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Qué fármaco es un alfa y beta adrenérgico de elección en RCP, que aumenta el flujo sanguíneo miocárdico y cerebral?",
+      "options": {
+        "A": "Dobutamina",
+        "B": "Atropina",
+        "C": "Diltiazem",
+        "D": "Adrenalina",
+        "E": "Lidocaina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "En la recuperación. ¿A qué se debe la aparición de la bradicardia sinusal?",
+      "options": {
+        "A": "Dolor",
+        "B": "Fiebre",
+        "C": "Bloqueo neuroaxial alto",
+        "D": "Hiperoxia",
+        "E": "Embolismo pulmonar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Paciente pediátrico sometido a múltiples cirugías por quemaduras de IV grado. ¿Qué anestésico inhalatorio es el ideal para prevenir toxicidad?",
+      "options": {
+        "A": "Halotano",
+        "B": "Desflurano",
+        "C": "Sevorane",
+        "D": "Isoflurano",
+        "E": "Óxido nitroso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "¿Cuál es el opioide que en la analgesia intraraquídea tiene mayor tiempo de duración?",
+      "options": {
+        "A": "Fentanil",
+        "B": "Hidromorfona",
+        "C": "Sulfentanil",
+        "D": "Morfina intratecal",
+        "E": "Oxicodona"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál es el factor que altera la concentración alveolar mínima (CAM)?",
+      "options": {
+        "A": "Sexo",
+        "B": "Talla",
+        "C": "Hipotiroidismo",
+        "D": "Hipertiroidismo",
+        "E": "Temperatura"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿De qué fármaco es revertor el flumacenilo?",
+      "options": {
+        "A": "Ketamina",
+        "B": "Midazolam",
+        "C": "Atracurio",
+        "D": "Propofol",
+        "E": "Remifentanilo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Paciente adulto mayor, operado de próstata con procedimiento RTU, recibe irrigación vesical trans y post operatoria, con agua destilada. en el post operatorio presenta hipotensión, letargo, confusión, náuseas y convulsiones. ¿Cuál es el diagnóstico más frecuente?",
+      "options": {
+        "A": "Hiperpotasemia",
+        "B": "Hiponatremia Dilucional",
+        "C": "Hipernatremia",
+        "D": "Pseudohiponatremia",
+        "E": "Sobrehidratación"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "La ventilación boca a boca en un paciente con paro cardio respiratorio se justifica porque el aire espirado del socorrista tiene un porcentaje de oxígeno al:",
+      "options": {
+        "A": "10-12",
+        "B": "30-35",
+        "C": "16 -18",
+        "D": "40-50",
+        "E": "21.2"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Paciente adulto politraumatizado con pérdida importante de tejido por herida abierta, recibe en el transoperatorio transfusión masiva y en el posoperatorio presenta hemorragia como complicación. ¿Cuál es la causa más frecuente?",
+      "options": {
+        "A": "Hipotermia",
+        "B": "Trombocitopenia por dilución",
+        "C": "Desequilibrio ácido básico",
+        "D": "Hiperpotasemia",
+        "E": "Infección"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Adulto con pérdida súbita de conciencia, se palpa pulso filiforme. ¿Cuál es la primera acción a realizar?",
+      "options": {
+        "A": "Asegurar el escenario",
+        "B": "Solicitar ayuda",
+        "C": "Verificar estado de conciencia",
+        "D": "Transportar a la víctima a centro de salud",
+        "E": "Iniciar la ventilación"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Del grupo de los relajantes neuro musculares. ¿Cuál es despolarizante?",
+      "options": {
+        "A": "Gallamina",
+        "B": "Mivacurio",
+        "C": "Pancuronio",
+        "D": "Succinilcolina",
+        "E": "Rocuronio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "En la evaluación preoperatoria es bueno reconocer que los pacientes sometidos a cirugía abdominal de urgencia con grandes pérdidas gástricas. ¿Cuál es la alteración metabólica más frecuente?",
+      "options": {
+        "A": "Acidosis metabólica",
+        "B": "Acidosis mixta",
+        "C": "Alcalosis respiratoria",
+        "D": "Alcalosis metabólica hipopotasémica",
+        "E": "Hipocalcemia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "¿Cuál es una indicación en la inducción con mascarilla facial?",
+      "options": {
+        "A": "Sin ayuno preanestésico",
+        "B": "Hiperventilación",
+        "C": "Aspiración pulmonar",
+        "D": "Obesidad mórbida",
+        "E": "Cirugía gástrica laparoscópica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Paciente joven que requiere cirugía de emergencia y presenta hipovolemia moderada con hipotensión marcada. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Vasoconstrictores",
+        "B": "Vendaje de miembros inferiores",
+        "C": "Trendelemburg",
+        "D": "Atropina",
+        "E": "Dos vías más infusión de volúmen y hemoderivados"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "El primer choque eléctrico bifásico en pacientes adultos con paro cardio respiratorio que presentan fibrilación ventricular, es de una intensidad de:",
+      "options": {
+        "A": "200 J",
+        "B": "160 J",
+        "C": "300 J",
+        "D": "400 J",
+        "E": "100 J"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "¿Con qué se debe tratar la bradicardia con hipotensión severa, producida por bloqueo epidural ?",
+      "options": {
+        "A": "Atropina",
+        "B": "Adrenalina",
+        "C": "Infusión de cristaloides",
+        "D": "Atropina más efedrina",
+        "E": "Trendelemburg"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Con que patología se asocia más frecuentemente la toxicidad por halotano?",
+      "options": {
+        "A": "Porfiria",
+        "B": "Broncoespasmo",
+        "C": "Insuficiencia renal",
+        "D": "Pericarditis",
+        "E": "Hepatopatía aguda"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Cómo se encuentran las pupilas en la fase demasiado profunda de la anestesia general?",
+      "options": {
+        "A": "Midriáticas y reactivas",
+        "B": "Midriáticas y no reactivas",
+        "C": "Mióticas",
+        "D": "Centradas y mióticas",
+        "E": "Dilatadas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿A qué se relaciona el síndrome de cauda equina?",
+      "options": {
+        "A": "Lidocaina al 2%",
+        "B": "Bupivacaina al 0,5%",
+        "C": "Epidural lumbar",
+        "D": "Lidocaina al 5% hiperbárica",
+        "E": "Espinal lumbar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Cuál es el vasoconstrictor periférico no adrenérgico, que se utiliza en adultos como dosis única y no se recomienda en niños, cuya vida media es de 10 a 20 minutos?",
+      "options": {
+        "A": "Adrenalina",
+        "B": "Vasopresina",
+        "C": "Verapamil",
+        "D": "Diltiazem",
+        "E": "Amiodarona"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Con qué está más relacionado el dolor neuropático?",
+      "options": {
+        "A": "Artritis",
+        "B": "Cervicalgia",
+        "C": "Diabetes mellitus",
+        "D": "Infecciones",
+        "E": "Anomalias congénitas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "En la clasificación preoperatoria de un paciente con un proceso sistémico incapacitante, que es una amenaza constante para la vida. Según la American Society Anesthesiologists(ASA). ¿A qué grado corresponde?",
+      "options": {
+        "A": "6",
+        "B": "4",
+        "C": "3",
+        "D": "2",
+        "E": "5"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál es una de las contraindicaciones para cirugía electiva no cardiaca en pacientes con enfermedad cardiovascular?",
+      "options": {
+        "A": "Hipertrofia ventricular",
+        "B": "Arritmia auricular",
+        "C": "Estenosis aórtica grave",
+        "D": "Bloqueo de rama derecha",
+        "E": "Uso de antihipertensivos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "¿Cuál es la secuencia actual en el manejo del paro cardio respiratorio?",
+      "options": {
+        "A": "ABC",
+        "B": "BAC",
+        "C": "CBA",
+        "D": "ABCD",
+        "E": "CAB"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "¿Cuál es una desventaja del uso del Xenon, en la anestesia inhalatoria?",
+      "options": {
+        "A": "Mínimos efectos cardiovasculares",
+        "B": "No produce hipertermia maligna",
+        "C": "Inducción y recuperación rápida",
+        "D": "No genera contaminación ambiental",
+        "E": "Baja potencia, alto costo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "¿A qué se relaciona principalmente la retención de orina post bloqueo epidural?",
+      "options": {
+        "A": "Hipervolemia",
+        "B": "Hipertensión arterial",
+        "C": "Bloqueo sacro S2-S4",
+        "D": "Uso de opiáceos",
+        "E": "Uso de corticoides"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "La tasa de absorción sistémica de un anestésico local, es proporcional a la ...",
+      "options": {
+        "A": "Infección de la zona.",
+        "B": "Hipotensión arterial.",
+        "C": "Asociación de un vasoconstrictor.",
+        "D": "Adicción al narcótico.",
+        "E": "Vascularidad de la región de inyección."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál es el revertor de los relajantes musculares no despolarizantes?",
+      "options": {
+        "A": "Naloxona",
+        "B": "Neostigmina",
+        "C": "Escopolamina",
+        "D": "Atropina",
+        "E": "Ondasetron"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿Cuál es el opiáceo que puede ser administrado por vía intramuscular o intravenosa?",
+      "options": {
+        "A": "Fentanilo",
+        "B": "Alfentanil",
+        "C": "Meperidina",
+        "D": "Sulfentanil",
+        "E": "Remifentanil"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "En el manejo del dolor de primer nivel. ¿Cuál es el fármaco que tiene menor efecto analgésico y está relacionado a daño hepático y necrosis hepática?",
+      "options": {
+        "A": "Metamizol",
+        "B": "Naproxeno",
+        "C": "Ácido acetilsalicílico",
+        "D": "Oxicodona",
+        "E": "Paracetamol"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Con qué se relaciona la mayor duración de la acción del bloqueo neuroaxial?",
+      "options": {
+        "A": "Hipoglicemiantes",
+        "B": "Opioides",
+        "C": "Edad",
+        "D": "Obesidad",
+        "E": "Vasoconstrictores sistémicos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Cuál es la profundidad mínima en cm, de la compresión del diámetro anteroposterior del tórax, en la reanimación de un lactante?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "2",
+        "E": "2.5"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "En los términos usados en el control del dolor: la sensación desagradable con estímulo o sin el, se denomina ...",
+      "options": {
+        "A": "Hiperalgesia.",
+        "B": "Disestesia.",
+        "C": "Hiperpatía.",
+        "D": "Alodinia.",
+        "E": "Hiperestesia."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Paciente pediátrico de 8 años de edad, presenta a la evaluación: apertura de los ojos a la voz, confuso, obedece ordenes. ¿a qué Glasgow corresponde?",
+      "options": {
+        "A": "11",
+        "B": "10",
+        "C": "13",
+        "D": "9",
+        "E": "7"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuál es la causa más frecuente de paro circulatorio primario intraoperatorio?",
+      "options": {
+        "A": "Infarto Agudo",
+        "B": "Cardiopatía Coronaria",
+        "C": "Reflejos Vagales",
+        "D": "Obstrucción De Vía Aérea",
+        "E": "Aspiración Bronquial"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "El sistema anestésico semicerrado con una válvula reservorio y una válvula APL al final del aparato para gas fresco. Se denomina circuito de ...",
+      "options": {
+        "A": "Mapleson D.",
+        "B": "Bain.",
+        "C": "Mapleson F.",
+        "D": "Sistema circular.",
+        "E": "Sistema kuhn."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Paciente mujer operada de histerectomía, en el posoperatorio inmediato presenta súbitamente hipotensión, bradicardia refractaria a hipertensivos. Antecedentes de usar óvulos vaginales con corticoides por periodos prolongados. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Enfermedad de Adisson",
+        "B": "Hipotiroidismo",
+        "C": "Insuficiencia suprarrenal aguda por corticoides",
+        "D": "Hipovolemia aguda",
+        "E": "Efecto residual anestésico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "En un paciente diabético tratado con antidiabéticos orales y que va ser sometido a una cirugía. ¿Cuál es la conducta preanestésica respecto a su tratamiento?",
+      "options": {
+        "A": "Suspender 12 horas antes",
+        "B": "Suspender 48 horas antes",
+        "C": "No debe ser suspendido",
+        "D": "Supender 24 horas antes",
+        "E": "Suspender 6 horas antes"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál es el CAM del sevoflurano?",
+      "options": {
+        "A": "1",
+        "B": "0.75",
+        "C": "6",
+        "D": "2",
+        "E": "1.2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Paciente que al cuarto día de haber sido sometido a un bloqueo del plexo mediano por cirugía de miembro superior; presenta disfunción motriz e hiperestesia en dedos de la mano. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Lesión neural post anestésico",
+        "B": "Infección post bloqueo",
+        "C": "Artritis reumatoidea",
+        "D": "Síndrome del túnel del carpo",
+        "E": "Dedo en gatillo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Paciente que presenta excitación y confusión en el post operatorio, continuando con midazolam en infusión continua. ¿Qué revertor debe usar?",
+      "options": {
+        "A": "Flumazenil",
+        "B": "Naloxona",
+        "C": "Dantroleno",
+        "D": "Ondasetron",
+        "E": "Diazepam"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "Paciente adulto programado para cirugía oncológica radical de colon por hemorragia con hemoglobina preoperatoria de 13.5 g/dl y grupo sanguíneo b negativo, los demás parámetros hematológicos están dentro de límites normales. ¿Cuál es el manejo transfusional más adecuado para el transoperatorio?",
+      "options": {
+        "A": "Transfusión de sangre total",
+        "B": "Expansores plasmáticos",
+        "C": "Fibrinógeno",
+        "D": "Autotransfusión mecánica",
+        "E": "Cristaloides"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿En qué pacientes está contraindicado el uso del thiopental?",
+      "options": {
+        "A": "Diabéticos",
+        "B": "Asmáticos",
+        "C": "Hipertiroideos",
+        "D": "Con edema cerebral",
+        "E": "Con daño cerebral agudo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Cuándo no está indicado continuar la ventilación en el paciente intubado en recuperación?",
+      "options": {
+        "A": "Hipotermia",
+        "B": "Inestabilidad hemodinámica",
+        "C": "Respiración espontánea",
+        "D": "Opiáceos residuales",
+        "E": "Relajantes residuales"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuál es la dosis máxima en mg/kg de la bupivacaina?",
+      "options": {
+        "A": "3",
+        "B": "7",
+        "C": "4",
+        "D": "8",
+        "E": "1"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Dolor localizado a nivel de la superficie palmar por una lesión tumoral en los tres primeros dedos (Sd. de túnel del carpo). ¿Cuál es el nervio afectado?",
+      "options": {
+        "A": "Mediano",
+        "B": "Cubital",
+        "C": "Radial",
+        "D": "Interdigital",
+        "E": "Cutáneo superficial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Paciente que durante la intubación presenta rigidez a nivel mandibular, no permitiendo proseguir con la intubación. ¿Cuál es la acción terapéutica de urgencia?",
+      "options": {
+        "A": "Vecuronio",
+        "B": "Ketamina",
+        "C": "Propofol",
+        "D": "Succinilcolina",
+        "E": "Fentanilo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Cuál es la lesión más frecuente de la vía aérea superior en la intubación?",
+      "options": {
+        "A": "Lesión de la articulación temporomandibular",
+        "B": "Parálisis de las cuerdas vocales",
+        "C": "Luxación aritenoide",
+        "D": "Granuloma aritenoide",
+        "E": "Traumatismo dental"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál es un factor menor, que determina la extensión en el bloqueo subaracnoideo a una inyección intravenosa del anestésico local?",
+      "options": {
+        "A": "Baricidad de la solución",
+        "B": "Posición del paciente",
+        "C": "Calibre de la aguja",
+        "D": "Dosis de la droga",
+        "E": "Volumen de la droga"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál es una complicación rara de la anestesia epidural?",
+      "options": {
+        "A": "Punción dural",
+        "B": "Cefalea post punción dural",
+        "C": "Inyección intravascular",
+        "D": "Absceso epidural",
+        "E": "Sobredosis del anestésico local"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuál es una de las complicaciones traumáticas más frecuente de la intubación endotraqueal con visión directa?",
+      "options": {
+        "A": "Lesión de laringe",
+        "B": "Luxación del cartílogo aritenoide",
+        "C": "Perforación traqueal",
+        "D": "Remoción dental",
+        "E": "Broncoespasmo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál es el síntoma más común como complicación de la intubación endotraqueal al lesionar el nervio laríngeo?",
+      "options": {
+        "A": "Estridor",
+        "B": "Disfonía",
+        "C": "Insuficiencia respiratoria",
+        "D": "Fatiga de voz",
+        "E": "Afonía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Paciente gestante migrañosa, con diagnóstico de preeclampsia leve, con tratamiento específico por ginecoobstetra; ingresa a SOP para cesárea. ¿Cuál es el manejo anestésico más adecuado?",
+      "options": {
+        "A": "Anestesia intradural",
+        "B": "Anestesia general",
+        "C": "Sedación más analgesia",
+        "D": "Anestesia epidural",
+        "E": "Anestesia local más sedación"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "¿Cuál es la complicación más frecuente en pacientes masculinos con bloqueo por anestésico local a nivel S2 a S4?",
+      "options": {
+        "A": "Poliúrea",
+        "B": "Cistitis",
+        "C": "Tenesmo rectal",
+        "D": "Retención urinaria",
+        "E": "Estreñimiento"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿En cuál de los siguientes anestésicos inhalatorios no hay mayores cambios cardiovasculares?",
+      "options": {
+        "A": "Sevoflurano",
+        "B": "Halotano",
+        "C": "Óxido nitroso",
+        "D": "Isoflurano",
+        "E": "Desflurano"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "El monitoreo básico en anestesia principalmente incluye ...",
+      "options": {
+        "A": "Oximetría, línea arterial, EKG y capnografía.",
+        "B": "Pulso, EKG, presión arterial, Bis y temperatura.",
+        "C": "Pulso, EKG, presión arterial, PVC y capnografía",
+        "D": "Oximetría, pulso, EKG, presión arterial y temperatura.",
+        "E": "Pulso, EKG, presión arterial, Bis y capnografía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es una de las complicaciones más graves de la cirugía oftalmológica?",
+      "options": {
+        "A": "Neuropatía óptica isquémica",
+        "B": "Lasceración corneal",
+        "C": "Panoftalmitis",
+        "D": "Parálisis palpebral crónica",
+        "E": "Diplopia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "¿Cuál es el relajante muscular no despolarizante, cuya eliminación es 100% renal?",
+      "options": {
+        "A": "Gallamina",
+        "B": "Rocuronio",
+        "C": "Vecuronio",
+        "D": "Atracurio",
+        "E": "Cisatracurio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "En la anestesia general. ¿Cuál es el agente volátil de elección en pacientes con hepatopatía?",
+      "options": {
+        "A": "Halotano",
+        "B": "Desflurano",
+        "C": "Sevoflurano",
+        "D": "Isoflurano",
+        "E": "Éter"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuál es el relajante muscular que produce menor liberación de histamina?",
+      "options": {
+        "A": "D tubocurarina",
+        "B": "Atracurio",
+        "C": "Mivacurio",
+        "D": "Rocuronio",
+        "E": "Succinilcolina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Mujer e 18 años, durante el trabajo de parto, recibe analgesia epidural con de10ml de lidocaína al 2%, inmediatamente después de la inyección refiere adormecimiento de labios y boca, se torna aprensiva. ¿cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Inyección Subdural",
+        "B": "Inyección Intravascular Accidental",
+        "C": "Reacción Alérgica",
+        "D": "Intoxicación Por Preservante Anestésico",
+        "E": "Episodio Conversivo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿En qué consisten las pautas de ventilación inicial en volumen corriente en ml/kg, en un adulto sano?",
+      "options": {
+        "A": "15-20",
+        "B": "1O-12",
+        "C": "25-30",
+        "D": ">50",
+        "E": ">100"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Paciente mujer con antecedente de rinitis alérgica, asma crónica y alergia alimentaria a la albúmina. Será intervenida por cirugía abdominal con anestesia general. ¿Cuál es el relajante e hipnótico a utilizar?",
+      "options": {
+        "A": "Dtubocurarina - Propofol",
+        "B": "Mivacurio - Propofol",
+        "C": "Rocuronio - Ketamina",
+        "D": "Mivacurio- Ketamina",
+        "E": "Succinilcolina- Propofol"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál es la complicación más frecuente de lesión de los nervios periféricos en anestesia neuroaxial?",
+      "options": {
+        "A": "Lesión de nervio peroneo",
+        "B": "Lesión de plexo braquial",
+        "C": "Lesión del nervio ciático",
+        "D": "Neuropatía cubital",
+        "E": "Lesión del nervio femoral"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Por qué es disminuida la presión venosa central?",
+      "options": {
+        "A": "Hipervolemia",
+        "B": "Embolia Pulmonar",
+        "C": "Hipovolemia Absoluta",
+        "D": "Ventilación con PEEP",
+        "E": "aumento de la presión intrabdominal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "El mayor aumento de flujo sanguíneo cerebral y de la presión intracraneana, está relacionado con el uso de ...",
+      "options": {
+        "A": "Ketamina.",
+        "B": "Propofol.",
+        "C": "Benzodiacepinas.",
+        "D": "Remifentanilo.",
+        "E": "Thiopental."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "¿Cuál es la anomalía congénita que puede complicar la asistencia de la vía aérea?",
+      "options": {
+        "A": "Síndrome de Tunner",
+        "B": "Síndrome de Pierre Robin",
+        "C": "Síndrome de Klenefelter",
+        "D": "Hipertiroidismo",
+        "E": "Síndrome de Conn"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Pueden verse los pilares del velo del paladar y paladar blando, pero la úvula se encuentra enmascarada por la base de la lengua; según clasificación de Mallampati. ¿a qué clase corresponde?",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "IV",
+        "D": "0",
+        "E": "II"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Qué relajante que tiene menor tiempo de recuperación?",
+      "options": {
+        "A": "Pancuronio",
+        "B": "Gallamina",
+        "C": "D Tubocurarina",
+        "D": "Rocuronio",
+        "E": "Pipecuronio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál es un depresor cardiovascular por excelencia?",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamina",
+        "C": "Xenon",
+        "D": "Atropina",
+        "E": "Óxido Nitroso"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "¿Cuáles son los pacientes aptos para cirugía ambulatoria?",
+      "options": {
+        "A": "Pacientes con obesidad mórbida",
+        "B": "Pacientes ASA I-II",
+        "C": "Cirugías con pérdida sanguínea importante",
+        "D": "Pacientes ASA III",
+        "E": "Pacientes con necesidad de manejo de dolor complejo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Paciente adulto con sobrepeso, sin antecedentes de importancia. En la evaluación de la vía aérea se encuentra: solo es visible el paladar blando. ¿A qué clase de Mallampati corresponde este caso?",
+      "options": {
+        "A": "II",
+        "B": "I",
+        "C": "IV",
+        "D": "V",
+        "E": "III"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Paciente sometido a cesárea con anestesia epidural con fentanil, en el post operatorio refiere prurito en zona de nariz y rostro, se le evidencia enrojecimiento en zona nasal y frontal. ¿A qué fármaco está relacionado dicho evento?",
+      "options": {
+        "A": "Opioide",
+        "B": "Anestésico local",
+        "C": "preservante del anestésico local",
+        "D": "Dexametasona",
+        "E": "Bicarbonato"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Paciente adulto con obesidad mórbida, programado para cirugía bariática con anestesia general; presenta dificultad en la intubación convencional hasta en dos oportunidades, para lo cual se realizaron maniobras directas sin éxito. ¿Cuál es el procedimiento correcto a seguir?",
+      "options": {
+        "A": "Intubación con paciente despierto y método endoscópico",
+        "B": "Máscara laríngea",
+        "C": "Tercer intento con paciente dormido",
+        "D": "Intubación retrógrada",
+        "E": "Anestesia general con máscara facial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Cuál es el anestésico más completo por tener efecto analgésico, amnésico y de inconciencia?",
+      "options": {
+        "A": "Propofol",
+        "B": "Remifentanilo",
+        "C": "Thiopental",
+        "D": "Ketamina",
+        "E": "Isoflurano"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Paciente ingresa a emergencia con signos de sudoración, palidez, hipotensión, piel fria, disfonía, manifiesta sabor metálico. Antecedente inmediato: haber sido operada hace 3 horas de ritidectomía ambulatoria. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Angina De Pecho",
+        "B": "Insuficiencia Cardiaca",
+        "C": "Intoxicación por anestésico local",
+        "D": "Diabetes descompensada",
+        "E": "Episodio conversivo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es la relación compresión/ventilación en el soporte vital básico del adulto?",
+      "options": {
+        "A": "15:2",
+        "B": "5:1",
+        "C": "10:1",
+        "D": "30:2",
+        "E": "20:2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿Cuál es el relajante neuromuscular con mayor actividad vagolítica?",
+      "options": {
+        "A": "Rocuronio",
+        "B": "Vecuronio",
+        "C": "Succinilcolina",
+        "D": "Atracurio",
+        "E": "Galamina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Qué relajante se elimina por hidrólisis de la colinesterasa plasmática?",
+      "options": {
+        "A": "Mivacurio",
+        "B": "Atracurio",
+        "C": "Cisatracurio",
+        "D": "D-Tubocurarina",
+        "E": "Pancuronio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es el efecto adverso más frecuente en el tratamiento del dolor por períodos prolongados con AINES?",
+      "options": {
+        "A": "Rinitis",
+        "B": "Taquicardia",
+        "C": "Diplopia",
+        "D": "Insuficiencia renal",
+        "E": "Sialorrea"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "En la fluidoterapia en niños con anestesia general. ¿Cuál es el volúmen de mantenimiento en ml/kg/día, para los primeros 10 kg de peso?",
+      "options": {
+        "A": "180",
+        "B": "100",
+        "C": "150",
+        "D": "200",
+        "E": "250"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "¿Con qué tiene relación el bloqueo de las fibras nerviosas A β tipo II, en la anestesia epidural?",
+      "options": {
+        "A": "Motricidad",
+        "B": "Temperatura fría",
+        "C": "Sensación dolorosa",
+        "D": "Presión táctil",
+        "E": "Temperatura caliente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Con qué agente está relacionada la hipertermia maligna?",
+      "options": {
+        "A": "Halogenado más succinilcolina",
+        "B": "Halogenado más barbiturico",
+        "C": "Halogenado más opiáceo",
+        "D": "Ketamina",
+        "E": "Ketamina más ansiolítico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Paciente joven sometida a una cirugía por apendicitis aguda, realizada con técnica anestésica neuroaxial raquídea. ¿cuál es la complicación anestésica más frecuente en el post operatorio mediato?",
+      "options": {
+        "A": "Hipotensión",
+        "B": "Hipoxemia",
+        "C": "Cefalea",
+        "D": "Parestesias",
+        "E": "Dolor lumbar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es el anestésico inhalatorio con menos toxicidad para un paciente pediátrico?",
+      "options": {
+        "A": "Isoflurano",
+        "B": "Sevoflurano",
+        "C": "Halotano",
+        "D": "Xenon",
+        "E": "Deesflurano"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Cuál es la mejor manera de tratar el dolor post operatorio inmediato?",
+      "options": {
+        "A": "Analgesia Preventiva",
+        "B": "Sedación",
+        "C": "Hipnosis farmacológica",
+        "D": "Analgesia a demanda",
+        "E": "Reposo absoluto"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Cuál es una indicación para el uso de crioprecipitado en la terapia con componentes sanguíneos?",
+      "options": {
+        "A": "Plaquetopenia",
+        "B": "Anemia aguda",
+        "C": "Desarrollo de anticuerpos antiplaquetarios",
+        "D": "Enfermedad de Von Willebrand",
+        "E": "Hiperfibrinogenemia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál de los anestésicos locales tiene inicio de acción más lento?",
+      "options": {
+        "A": "Etidocaina",
+        "B": "Clorprocaina",
+        "C": "Lidocaina",
+        "D": "Bupivacaina",
+        "E": "Procaina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuál es la causa más frecuente de paro cardio respiratorio en el adulto?",
+      "options": {
+        "A": "Fibrilación ventricular",
+        "B": "Aleteo ventricular",
+        "C": "Taquicardia paroxística",
+        "D": "Infarto agudo",
+        "E": "Insuficiencia cardiaca"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Una anestesia de tipo disociativa está relacionada con el uso de:",
+      "options": {
+        "A": "Ketamina",
+        "B": "Fentanilo",
+        "C": "Remifentanilo",
+        "D": "Propofol",
+        "E": "Thiopental"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

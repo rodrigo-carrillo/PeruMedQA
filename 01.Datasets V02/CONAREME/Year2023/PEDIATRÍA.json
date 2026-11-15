@@ -1,0 +1,1351 @@
+{
+  "metadata": {
+    "year": 2023,
+    "exam": "PEDIATRÍA",
+    "source_pdf": "PEDIATRÍA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Pediatría",
+    "sha256_pdf": "9737eb775d2d827d11fa04bab7c0aeac695f677d38df1586dec40b269cda7458",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:30:47",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 11,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Pediatría",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9952,
+        "vec_max_loser": 0.0031,
+        "pix_min_winner": 0.6042,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 29584,
+      "coverage_out_chars": 29584,
+      "human_reference": "_backup_csv_verificados/Year2023/PEDIATRÍA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 427,
+        "solo_espacios": 71,
+        "csv_antiguo_truncado": 1,
+        "menor": 1
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "En la Enfermedad de Kawasaki en niños:",
+      "options": {
+        "A": "La resistencia a la IGIV se presenta en un 15% de casos",
+        "B": "La puntuación de Kobayashi es de aplicación multirracial",
+        "C": "La dosis de carga de IGIV es de 4 g/Kg en infusión de 4 horas",
+        "D": "La dosis de carga de IGIV es de 4 g/Kg en infusión de 12 horas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuál de los siguientes es un criterio mayor para el diagnóstico de fiebre reumática aguda?",
+      "options": {
+        "A": "Artralgia",
+        "B": "Fiebre",
+        "C": "Eritema marginado",
+        "D": "Faringitis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Niño de 7 años desde hace 5 días presenta lesiones dérmicas rojizas, pruriginosas asociado a febrículas. Antecedentes: Trisomía 21, cardiopatía congénita corregida y alergia alimentaria. Madre refiere que fue diagnosticado de urticaria, y recibió antihistamínicos sin presentar mejoría. Examen: máculas eritematosas a predominio de flexuras, zonas periorificiales, comisuras labiales con signos de inflamación y zonas de descamación. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Impétigo ampolloso",
+        "B": "Eritema multiforme",
+        "C": "Necrolisis epidérmica tóxica",
+        "D": "Enfermedad de Ritter"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Escolar de 8 años acude a emergencia por fiebre de 36 horas, con leucemia en tratamiento de consolidación, última quimioterapia hace 5 días. ¿Cuál es el diagnóstico más importante?",
+      "options": {
+        "A": "Relapso de enfermedad",
+        "B": "Neutropenia febril",
+        "C": "Reacción a quimioterapicos",
+        "D": "Síndrome de lisis tumoral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Adolescente de 12 años, que luego de discusión con la madre ingiere 10 tabletas de paracetamol, presentando dos horas después náusea y vómitos, por lo que es llevada a emergencia. ¿Cuál es el fármaco de elección para tratar esta intoxicación?",
+      "options": {
+        "A": "Naloxona",
+        "B": "N-acetilcisteina",
+        "C": "Dimenhidrinato",
+        "D": "Omeprazol"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Niña de 5 años, radica en zona tropical con malas condiciones sanitarias, traída por presentar disminución del apetito. Examen: no contributorio. Laboratorio: eosinofilia y confirma presencia de un parásito. Sometida a tratamiento, respondió muy bien a prazicuantel en dosis única. ¿De qué parásito se trata?",
+      "options": {
+        "A": "Enterobius vermicularis",
+        "B": "Necator americano",
+        "C": "Giardia lamblia",
+        "D": "Hymenolepis nana"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Lactante de 2 años que presenta diarrea crónica y lesiones en región perineal. Examen: alopecia, discreto edema facial, marcado eritema y zonas esfaceladas en región perineal. Laboratorio: fosfatasa alcalina: cero. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Candidiasis sistémica",
+        "B": "Diátesis cutánea",
+        "C": "Eccema atópico",
+        "D": "Déficit de zinc"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "El......produce síndrome de Loeffler y obstrucción de vías biliares.",
+      "options": {
+        "A": "Taenia solium",
+        "B": "Taenia saginata",
+        "C": "Necator americanus",
+        "D": "Ascaris lumbricoides"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "La causa más frecuente de traumatismo craneoencefálico no penetrante en lactantes menores de 1 año es maltrato infantil y frecuentemente la exploración física revela...",
+      "options": {
+        "A": "hemorragias intracerebral.",
+        "B": "hemorragias retinianas.",
+        "C": "equimosis en zonas de traumatismo.",
+        "D": "infartos cerebrales."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Adolescente de 15 años con asma bronquial, traído al hospital por su madre, sin respuesta al tratamiento instalado. Examen: T°: 36.5° C, FR: 35 X´, FC: 120 X´, SatO2: 94%. Tórax: MV disminuido en AHT, sibilantes aislados; CV: taquicardia sinusal. Resto normal. El médico concluye que se trata de un asma grave no controlado. ¿Qué tratamiento debe considerar?",
+      "options": {
+        "A": "Fármaco biológico",
+        "B": "GCI a dosis media + LABA",
+        "C": "GCI a dosis alta",
+        "D": "GCI a dosis media+ ARLT"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "La deficiencia en......es la principal indicación para inducir inmunidad pasiva:",
+      "options": {
+        "A": "eosinófilos",
+        "B": "células plasmáticas",
+        "C": "linfocitos T",
+        "D": "linfocitos B"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál es la localización más frecuente de la denominada enfermedad de mucorales?",
+      "options": {
+        "A": "Gastrointestinal",
+        "B": "Senos paranasales y cerebro",
+        "C": "Genitourinario",
+        "D": "Pulmonar"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Niño de 8 años, traído al centro de salud por presentar fiebre alta y dolor de garganta desde hace 2 días. Examen: T°: 38.5 °C, FC: 120 X´, FR: 24 X´. orofaringe: marcado eritema en faringe, ganglios en región cervical pequeños y dolorosos. Resto de examen no contributorio. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Faringitis por herpes virus",
+        "B": "Herpangina",
+        "C": "Faringitis estreptocócica",
+        "D": "Mononucleosis infecciosa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Madre cuyo primer hijo tiene diagnóstico de anemia falciforme y acude a consulta a preguntar si su hija de 1 año también es portadora de la misma enfermedad. ¿Qué examen solicita?",
+      "options": {
+        "A": "Aspirado de médula ósea para detectar Hb fetal",
+        "B": "Hemograma para visualizar hematíes en forma de semiluna",
+        "C": "Test de stress del eritrocito para evidenciar alteración de membrana",
+        "D": "Electroforesis de hemoglobina para detectar Hb S"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "En relación a la enfermedad neumocócica invasiva en niños...",
+      "options": {
+        "A": "los síndromes menos frecuentes son otitis media, sinusitis y neumonía.",
+        "B": "es 30-100 veces más frecuente en los niños con anemia falciforme y otras hemoglobinopatías.",
+        "C": "los serotipos 6A, 6B, 9V, 14, 19A, 19F y 23F presentan mayor sensibilidad a la penicilina.",
+        "D": "las vacunas actuales eliminan todas las infecciones neumocócicas invasivas."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "En el hígado: ¿Qué parásito provoca formación de granulomas como lesión histopatológica característica, conteniendo eosinófilos, células gigantes multinucleadas y colágeno?",
+      "options": {
+        "A": "Ancylostoma duodenale",
+        "B": "Necator americano",
+        "C": "Toxocara canis",
+        "D": "Strongyloides stercoralis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Adolescente de 15 años, es traída a emergencia por presentar agitación, confusión, vómitos, sialorrea y dificultad respiratoria; padres la encuentran en el piso de su dormitorio. Examen: T°: 37 °C, FC: 70 X', FR: 20 X', SatO2: 94%, confusa, con sialorrea, abundante sudoración, pupilas mióticas; tórax: roncantes y sibilantes en AHT; abdomen: fasciculaciones. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Intoxicación por cáusticos",
+        "B": "Intoxicación por órganos fosforados",
+        "C": "Intoxicación por metanol",
+        "D": "Cuerpo extraño en vía aérea"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Niño de 6 años acude por presentar episodio de tos seca exigente y silbido de pecho, sin fiebre. Tiene diagnóstico de asma desde hace un año. Examen: T°: 36.8 °C, FC: 110 X´, FR: 30 X´; REG; tórax: escasos sibilantes en ACP; resto del examen normal. ¿Cuál es el tratamiento inmediato?",
+      "options": {
+        "A": "Broncodilatador de acción rápida",
+        "B": "Broncodilatador de acción rápida + Bromuro de Ipratropio",
+        "C": "Bromuro de Ipratropio",
+        "D": "Broncodilatador de acción rápida + corticoide sistémico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "En niños sin antecedente patológico. ¿Cuál es el hallazgo más frecuente a nivel ocular que induce a pensar en maltrato infantil?",
+      "options": {
+        "A": "Hemorragia retiniana",
+        "B": "Luxación del cristalino",
+        "C": "Desprendimiento de retina",
+        "D": "Laceración palpebral"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Niña de 8 años traída a consulta por talla baja. Examen: peso: 25 Kg, talla: 120 cm; presenta cuello alado, implantación baja del pelo en la nuca, paladar ojival, tórax ancho, pezones separados y cúbito valgo. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Noonan XX",
+        "B": "Turner XX",
+        "C": "Síndrome de X frágil",
+        "D": "Turner XO"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "RN varón a término, parto por cesárea, presenta agitación de comienzo precoz. Examen: T°: 37 °C, FC: 160 X´, FR: 60 X´, despierto, sonrosado. tórax: MV pasa bien en AHT, presenta tiraje intercostal y subcostal leves; CV: taquicardia sinusal, no soplos; abdomen: blando, depresible, no visceromegalia, RHA presentes; neurológico: activo, adecuada respuesta a estímulos, reflejos presentes. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Taquipnea transitoria del recién nacido",
+        "B": "Neumonía neonatal",
+        "C": "Enfermedad de membrana hialina",
+        "D": "Síndrome de dificultad respiratoria"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Preescolar de 2 años es traído por pobre ganancia pondoestatural. Examen: pulso periférico amplio; impulso ventricular amplio, ruidos cardiacos fuera de la línea media clavicular y soplo sistodiastólico III/VI continuo, máxima intensidad al final de la sístole. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Comunicación interauricular",
+        "B": "Persistencia de conducto arterioso",
+        "C": "Comunicación interventricular",
+        "D": "Retorno venoso pulmonar anómalo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Lactante de 8 meses, traída al hospital, la madre ha notado que \"no mueve bien el miembro inferior izquierdo\". Antecedente: hermana de 6 años, presentó displasia congénita de cadera. Examen: T°: 36.5 °C, FC: 100 X´, FR: 30 X´; resto normal. ¿Cuál es el signo más representativo de una luxación de cadera?",
+      "options": {
+        "A": "Maniobra de Barlow",
+        "B": "Limitación de la abducción",
+        "C": "Maniobra de Ortolani",
+        "D": "Asimetría de pliegues glúteos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Niño de 9 años con leucemia linfática aguda, se encuentra en tratamiento quimioterápico de inducción, durante la infusión que incluye vincristina se observa diuresis decreciente, náusea, vómitos, irritabilidad y luego presenta convulsiones. ¿Qué anomalía electrolítica es la causa más probable de sus convulsiones?",
+      "options": {
+        "A": "Hiperkalemia",
+        "B": "Hipocloremia",
+        "C": "Hipomagnesemia",
+        "D": "Hiponatremia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Niño de 3 años, quien ha presentado 3 episodios de sibilancias en el último año y sufre de eccema atópico y rinitis alérgica. Según el índice predictor de asma, presenta:",
+      "options": {
+        "A": "Condición previa y dos criterios mayores",
+        "B": "Condición previa, un criterio mayor y un criterio menor",
+        "C": "Condición previa y dos criterios menores",
+        "D": "Un criterio mayor y un criterio menor"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "En relación a las reacciones adversas a medicamentos (RAM) en pediatría:",
+      "options": {
+        "A": "Son una causa importante de hospitalizaciones pediátricas",
+        "B": "En niños hospitalizados son potencialmente mortales",
+        "C": "No son consideradas como eventos adversos",
+        "D": "Es de alta frecuencia en pediatría ambulatoria"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Los beneficios específicos que brinda la circuncisión son: disminuye la transmisión del VIH, previene las infecciones del tracto urinario y...",
+      "options": {
+        "A": "aumenta la sensibilidad del glande.",
+        "B": "previene el cáncer de pene.",
+        "C": "evita el cáncer de testículo.",
+        "D": "optimiza la sexualidad."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Lactante de 3 meses portador de cardiopatía en estudio, es llevado a urgencias por cianosis central al llanto intenso y luego laxitud, ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Crisis de hipoxia",
+        "B": "Espasmo del sollozo",
+        "C": "Insuficiencia cardiaca",
+        "D": "Septicemia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Recién nacido con 72 horas de vida en fototerapia por hiperbilirrubinemia, presenta durante el tratamiento coloración oscura de la piel y orina oscura. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Incompatibilidad ABO",
+        "B": "Ictericia por leche materna",
+        "C": "Síndrome del recién nacido bronceado",
+        "D": "Enfermedad isoinmunitaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "La infección por......ocasiona frecuentemente un exantema típico, que cursa en tres fases, la primera caracterizada por eritema bilateral de las mejillas (mejillas abofeteadas).",
+      "options": {
+        "A": "virus herpes humano 6 y 7",
+        "B": "virus de Epstein-Barr",
+        "C": "parvovirus B19",
+        "D": "citomegalovirus"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Según el esquema nacional de vacunación MINSA. ¿En qué meses de edad, se aplica la vacuna Sarampión-Rubeola- Paperas?",
+      "options": {
+        "A": "12 y 18",
+        "B": "10 y 12",
+        "C": "12 y 15",
+        "D": "6 y 12"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "Escolar de 10 años desde hace 5 días presenta fiebre con dolor muscular, dolor retroorbitario, cefalea intensa y eritema facial. Examen: T°: 38.5 °C, FC: 100 X´; eritema facial; orofaringe congestiva; rash maculopapuloso. Laboratorio: leucopenia, hematocrito elevado. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Manejar el dolor de cabeza y fiebre con ácido acetil salicílico",
+        "B": "Controlar el dolor de cabeza y fiebre con antiinflamatorios no esteroideos",
+        "C": "Reconocimiento temprano del shock, hidratación y mantenimiento del volumen intravascular",
+        "D": "Iniciar la administración antibióticos de amplio espectro"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Lactante de 5 meses, desde hace 4 días presenta fiebre, rinorrea y tos, hace un día irritabilidad, vómito y rechazo a la lactancia. Examen: T°: 39 °C, FC: 128 X', FR: 24 X', irritable, fontanela anterior prominente, diástasis de suturas, pupilas reactivas; Antecedente: vacunas al nacer. Laboratorio: LCR: leucocitos 2000/µl, PMN: 80%, proteínas 80 mg/dl, glucosa 16 mg/dl. ¿Cuál es su sospecha diagnóstica?",
+      "options": {
+        "A": "Encefalitis viral",
+        "B": "Meningitis bacteriana",
+        "C": "Meningitis tuberculosa",
+        "D": "Meningitis fúngica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "En relación a la profilaxis por riesgo de infección por Neisseria meningitidis. ¿Cuál es la recomendación?",
+      "options": {
+        "A": "Lactantes <1 mes: rifampicina 5 mg/Kg VO cada 12 h por dos días",
+        "B": "Lactantes <1 mes: ciprofloxacino 20 mg/Kg VO única dosis",
+        "C": "Lactantes <1mes: azitromicina 5 mg/Kg VO única dosis",
+        "D": "Niños <15 años: ceftriaxona 1g IM única dosis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "En un neonato a término. ¿Cuál es el nivel máximo que puede alcanzar la ictericia para considerarla fisiológica?",
+      "options": {
+        "A": "Piernas",
+        "B": "Cara",
+        "C": "Cuello",
+        "D": "Abdomen"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Neonato es traído a su primer control y se recibe resultado de tamizaje confirmando que padece de fenilcetonuria. ¿Qué tipo de dieta es la recomendada?",
+      "options": {
+        "A": "Lactancia materna más fórmulas con poco o nada de fenilalanina",
+        "B": "Lactancia materna exclusiva más fórmulas con abundante fenilalanina",
+        "C": "Fórmulas libre de fenilalanina",
+        "D": "Fórmulas lácteas maternizadas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Cuál es el micronutriente presente en los neurotransmisores cuya deficiencia deteriora el desarrollo conductual, motor y mental en los niños?",
+      "options": {
+        "A": "Ácido Fólico",
+        "B": "Hierro",
+        "C": "Vitamina B12",
+        "D": "Zinc"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Niña de 10 años con alza térmica de 40°C de 16 horas de evolución. Antecedente: portadora de leucemia linfoblástica aguda en esquema de consolidación, siete días antes de ingreso recibió quimioterapia. Examen: no contributorio. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Antipiréticos vía parenteral y solicitar exámenes de laboratorio para evaluación con resultados",
+        "B": "Hospitalización, hemocultivos e iniciar antibioticoterapia precoz según los patrones de resistencia local",
+        "C": "Antipiréticos condicionales, iniciar antibióticos vía oral y seguimiento ambulatorio por consulta externa",
+        "D": "Controlar la fiebre y alta médica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Lactante eutrófico, con dolor abdominal de <24 horas de evolución, madre lo trae a emergencia pues no calma con tratamiento \"convencional\" y se han agregado vómitos. Examen: llenado capilar normal, facie dolorosa, llanto intermitente; abdomen: dolor difuso a la palpación, resistencia discreta. ¿Qué examen solicitaría?",
+      "options": {
+        "A": "Radiografía de abdomen en decúbito y de pie",
+        "B": "Exámenes de orina y hemograma",
+        "C": "Analgésicos y dieta con seguimiento por consulta externa",
+        "D": "Ultrasonido de abdomen"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Adolescente de 15 años que refiere ardor y prurito vulvar con flujo vaginal. Examen: marcado eritema vulvar, escasa secreción blanquecina grumosa. ¿En qué agente sospecha?",
+      "options": {
+        "A": "Trichomonas",
+        "B": "Gardnerella",
+        "C": "Chlamydia",
+        "D": "Candida"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Varón de 5 años desde hace siete días con alza térmica. Examen: FC: 120 X´, FR: 20 X´, T°: 38 °C axilar, adenopatías generalizadas, inyección conjuntival bilateral, edemas de manos y pies, rush en tronco y abdomen, glositis y fisuras en comisuras labiales. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Mononucleosis infecciosa",
+        "B": "Dengue",
+        "C": "Escarlatina",
+        "D": "Enfermedad de Kawasaki clásico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Adolescente de 14 años acude por presentar prurito vulvar intenso, secreción vaginal y disuria. Examen vaginal: marcado eritema brillante y edema vulvar, secreción espesa blanquecina y grumosa. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Hidrocortisona tópica al 1%",
+        "B": "Clindamicina VO + crema antibiótica",
+        "C": "Doxiciclina VO + crema antibiótica",
+        "D": "Fluconazol dosis única + crema antimicótica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Lactante de 11 meses que presenta regresión del desarrollo, espasmos epilépticos y un trazado en el EEG de hipsarritmia. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Síndrome de Lennox-Gastaut",
+        "B": "Epilepsia mioclónica progresiva",
+        "C": "Síndrome de West",
+        "D": "Síndrome de Landau-Kleffner"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Niño de 6 años, con antecedente de asma y rinitis alérgica, uso de inhaladores y antihistamínicos. Ingresa a emergencia por cuadro obstructivo bronquial severo, manejado con hidrocortisona parenteral y nebulización con salbutamol y bromuro de ipratropio. Laboratorio: leucocitos: 18000/µl, glucosa: 200 mg/dl, sedimento de orina: glucosa (++). ¿Cuál es el fármaco que produce estos resultados?",
+      "options": {
+        "A": "Corticoides",
+        "B": "Salbutamol",
+        "C": "Ipratropio",
+        "D": "Antihistamínicos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuál es la mayor utilidad del aciclovir, como quimioterápico antiviral?",
+      "options": {
+        "A": "Es efectiva contra el Virus de Epstein barr",
+        "B": "Es muy efectiva contra el Citomegalovirus",
+        "C": "No está indicado para encefalitis por VHS",
+        "D": "En infecciones genitales por VHS"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Niño de 10 meses de edad, traído al hospital por presentar desde hace 2 días, fiebre, llanto constante, náusea, vómitos. Examen: T°: 39.5 °C, FC: 110 X´, FR: 30 X´; BEH, irritable; resto del examen normal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Nefritis lobar aguda",
+        "B": "Pielonefritis aguda",
+        "C": "Cistitis",
+        "D": "Cistouretritis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Niño de 3 años conducido a Centro de Salud, por presentar desde hace 3 días fiebre, secreción nasal, tos y dolor de garganta. Examen: T°: 38.5 °C, FC: 120 X´, FR: 34 X´; REG, lesiones pápulo-vesiculares y úlceras en orofaringe posterior. Resto del examen dentro de límites normales. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Faringitis estreptocócica",
+        "B": "Faringitis por herpes simple",
+        "C": "Faringitis por adenovirus",
+        "D": "Herpangina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Niño de 2 años, es traído a emergencia luego de haber ingerido lejía colocada en botella de gaseosa, hace 30 minutos. Examen: T°: 36.5 °C, FC: 90 X', FR: 24 X', algunas lesiones en labio y mucosa oral. ¿Cuál es la actitud inmediata a seguir?",
+      "options": {
+        "A": "Provocar el vómito",
+        "B": "Carbón activado",
+        "C": "Lavado de piel y ojos con agua",
+        "D": "Lavado gástrico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Lactante de 8 meses, presenta lesiones cutáneas eccematosas papulares eritematosas, que se hacen confluentes en las mejillas y mentón, así como en los pliegues del cuello, con zonas liquenificadas, muy pruriginosas. Antecedentes familiares: madre asmática. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Dermatitis seborreica",
+        "B": "Dermatitis atópica",
+        "C": "Eccema numular",
+        "D": "Ictiosis vulgar"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "El incremento de la demanda metabólica da lugar a diferentes recomendaciones en farmacología pediátrica, esto se debe a:",
+      "options": {
+        "A": "Reducción en la secreción tubular activa",
+        "B": "Reducción de reabsorción tubular activa",
+        "C": "Incremento de la filtración glomerular",
+        "D": "Incremento de la excreción de fármacos básicos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Niño de 8 meses desde hace 6 días presenta diarreas, hoy es traído a urgencias por llanto intenso-intermitente, poca aceptación oral y vómitos. Examen: FC: 190 X´, FR: 30 X´, T°: 37 °C, llenado capilar >2\"; pálido, facie dolorosa, irritable; abdomen: RHA disminuido, dolor a la palpación y se identifica masa en cuadrante inferior derecho. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Invaginación intestinal",
+        "B": "Cólico de gases",
+        "C": "Apendicitis aguda",
+        "D": "Malrotación intestinal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuál es la causa más frecuente de síncope en pediatría especialmente en la adolescencia?",
+      "options": {
+        "A": "Vasovagal",
+        "B": "Hipotensión",
+        "C": "QT largo",
+        "D": "Estenosis aórtica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál de los siguientes hallazgos sugiere diagnóstico de asma en el niño menor de 5 años?",
+      "options": {
+        "A": "Tos no productiva recurrente o persistente",
+        "B": "Tos con flema esporádica",
+        "C": "Síntomas de corta duración, en una infección del tracto respiratorio alto",
+        "D": "Tos no productiva esporádica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Niña de 2 años de edad, traída por presentar desde hace 2 días fiebre, tos y dolor de garganta, deglute con leve molestia los alimentos sólidos. Examen: T°: 38.5°C, FC: 100 X´, FR: 24 X´; orofaringe: marcado eritema faringoamigdaliano, ganglios pequeños levemente dolorosos en región cervical. Resto normal. ¿Cuál es el agente etiológico más probable?",
+      "options": {
+        "A": "Streptococcus pyogenes",
+        "B": "Herpes virus",
+        "C": "Adenovirus",
+        "D": "Coxsackievirus"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Niño de 12 años con dificultad respiratoria y alza térmica desde hace 6 días. Examen: FC: 120 X', FR: 38 X', SatO2: 94%, luce tóxico, lesión eritematosa con secreción amarillenta escasa en pierna derecha; tórax: crepitantes y matidez en HTD. ¿Cuál es el agente etiológico?",
+      "options": {
+        "A": "Klebsiella pneumoniae",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Clostridium tetani",
+        "D": "Staphylococcus aureus"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "¿Cuál es el tipo de hierro que participa en la estructura del grupo hem o hierro unido a porfirina, que forma parte de la hemoglobina, mioglobina y diversas enzimas como citocromos y que se encuentra únicamente en alimentos de origen animal?",
+      "options": {
+        "A": "Hierro hemínico",
+        "B": "Gluconato ferroso",
+        "C": "Sulfato ferroso",
+        "D": "Hierro polimaltosado"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Lactante de 10 meses desde hace 4 días presenta erupción cutánea maculopapular eritematosa de distribución difusa en brazos y piernas; madre refiere que hace 10 días fue tratado con antibióticos por diarrea. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Eritema multiforme",
+        "B": "Enfermedad de Kawasaki",
+        "C": "Síndrome de Stevens-Johnson",
+        "D": "Enfermedad de Ritter"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Recién nacido inmediato, en su evaluación inicial: bajo peso, hepatoesplenomegalia, microftalmía, soplo cardiaco y petequias difusas. Antecedentes perinatales: madre con controles pre-natales incompletos. ¿Cuál es la impresión diagnóstica?",
+      "options": {
+        "A": "Herpes virus neonatal",
+        "B": "Infección por citomegalovirus",
+        "C": "Síndrome de rubéola congénita",
+        "D": "Toxoplasmosis congénita"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Niño de 5 años que acude por exacerbación aguda severa de asma. ¿Cuál es el tratamiento dentro de la primera hora?",
+      "options": {
+        "A": "Salbutamol inhalado + corticoide sistémico.",
+        "B": "Salbutamol inhalado + bromuro de ipratropio.",
+        "C": "Salbutamol inhalado + sulfato de magnesio.",
+        "D": "Salbutamol inhalado + corticoide sistémico + Bromuro de ipratropio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Niño de 2 años es traído por cuadro que inició con rinorrea, inyección conjuntival, fotofobia, fiebre de 39°C y tos seca exigente; se añade una erupción maculopapular rojiza en tórax, extremidades hasta planta de pies. Antecedente: procesos infecciosos a repetición, lo cual ha postergado el cumplimiento de programa de inmunizaciones. ¿Cuál es el diagnostico probable?",
+      "options": {
+        "A": "Rubéola",
+        "B": "Exantema súbito",
+        "C": "Sarampión",
+        "D": "Eritema infeccioso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Lactante de 3 meses quien ha recibido primera dosis de vacuna de rotavirus, madre refiere haber extraviado carnet vacunal y desconoce la procedencia y nombre de la vacuna. ¿Cuál es la mejor recomendación para continuar el calendario vacunal con respecto a esta vacuna?",
+      "options": {
+        "A": "Se debe administrar un total de tres dosis de vacuna",
+        "B": "No se puede administrar concurrentemente con otras vacunas infantiles",
+        "C": "El intervalo mínimo entre dosis de vacuna es de dos semanas",
+        "D": "Completar la inmunización con cualquier tipo de vacuna hasta los doce meses"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Niño de 3 años que acude a consulta de control, madre refiere que come poco. Hemograma: formula leucocitaria normal, VCM <80, Hb: 9.8 g/dl, frotis: morfología microcítica. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Anemia perniciosa",
+        "B": "Anemia ferropénica",
+        "C": "Hemólisis",
+        "D": "Mielodisplasia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es uno de los objetivos de la medicación controladora en un niño con diagnóstico de asma bronquial?",
+      "options": {
+        "A": "Reducir la inflamación crónica de los bronquios",
+        "B": "Controlar prontamente la exacerbación asmática",
+        "C": "Curar la inflamación crónica bronquial",
+        "D": "No influye en la función pulmonar"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "En la evaluación de la función pulmonar, en el niño menor de 2 años, la técnica más utilizada es:",
+      "options": {
+        "A": "Espirometría",
+        "B": "Pletismografía",
+        "C": "Oscilometría de impulsos",
+        "D": "Compresión rápida toracoabdominal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "En reanimación cardiopulmonar avanzada en pacientes pediátricos, el antiarritmico......es considerado en el tratamiento de fibrilación ventricular/taquicardia ventricular que son refractarias a las descargas eléctricas y administración de adrenalina.",
+      "options": {
+        "A": "atropina",
+        "B": "vasopresina",
+        "C": "adenosina",
+        "D": "amiodarona"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "RN a término, parto eutócico, con dificultad respiratoria desde nacimiento. Examen: T: 36.5 °C, FC: 160 X´, FR: 70 X´; despierto, taquipneico; tórax: aumento del diámetro, MV atenuado en AHT, sobre todo en el lado izquierdo y se auscultan ruidos hidroaéreos; CV: taquicardia sinusal, no soplos; abdomen: escafoideo; neurológico: activo, adecuada respuesta a estímulos. La evaluación posterior objetiva atresia esofágica y cardiopatía. ¿Qué tipo de hernia diafragmática presenta?",
+      "options": {
+        "A": "Hiatal",
+        "B": "Paraesofágica",
+        "C": "Retroesternal",
+        "D": "Congénita"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "En salud pública, se define la anemia como la concentración de hemoglobina por debajo de:",
+      "options": {
+        "A": "Hemoglobina <11 g/l",
+        "B": "Hemoglobina <9 g/l",
+        "C": "3 desviaciones estándar del promedio según género, edad y altura a nivel del mar",
+        "D": "2 desviaciones estándar del promedio según género, edad y altura a nivel del mar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Niño de 4 años, portador de válvula ventrículo peritoneal por hidrocefalia y mielomeningocele, con vejiga neurogénica y paraparesia de MMII, presenta infecciones urinarias a repetición. ¿Cuál es la intervención quirúrgica a considerar para evitar infecciones recurrentes?",
+      "options": {
+        "A": "Recambio valvular",
+        "B": "Reimplante ureteral",
+        "C": "Vesicostomía cutánea",
+        "D": "Nefrostomía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Niño de 4 años desde hace 5 días presenta tos continua de inicio súbito que no mejora con tratamiento \"convencional\" de antitusígenos y broncodilatadores. Niega otros síntomas. Examen: FC: 88 X´, FR: 20 X´, SatO2: 96%; tórax: sibilancias escasas en AHT, disminución de MV en HTD. ¿Cuál es su diagnóstico probable?",
+      "options": {
+        "A": "Aspiración de cuerpo extraño",
+        "B": "Neumonía adquirida en la comunidad",
+        "C": "Crisis asmática severa",
+        "D": "Rinosinusitis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuál es el riesgo a largo plazo de un hidrocele comunicante?",
+      "options": {
+        "A": "Hernia inguino-escrotal",
+        "B": "Cáncer de testículo",
+        "C": "Hernia inguinal",
+        "D": "Cáncer de escroto"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Niño de 10 años de edad afrodescendiente, quien presenta cuadro que ha sido diagnosticado como síndrome nefrótico, que no ha respondido al tratamiento con corticoide y muestra una enfermedad de curso progresivo. Examen: T°: 36.5 °C, FC: 80 X´, FR: 18 X´, PA: 120/70 mmHg, peso: 70 Kg, edema generalizado; tórax: normal; resto normal. ¿A cuál de las siguientes entidades corresponde?",
+      "options": {
+        "A": "Glomeruloesclerosis segmentaria y focal",
+        "B": "Síndrome nefrótico de cambios mínimos",
+        "C": "Enteropatía perdedora de proteína",
+        "D": "Glomerulonefritis aguda"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "El síndrome de......asociado al recién nacido grande para la edad gestacional se caracteriza por macrosomía, onfalocele, macroglosia y pliegues en la oreja.",
+      "options": {
+        "A": "Williams",
+        "B": "Beckwith-Wiedemann",
+        "C": "DiGeorge",
+        "D": "Edwards"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "La combinación de un probiótico con un prebiótico son...",
+      "options": {
+        "A": "organismos viables, aislados de la microbiota humana.",
+        "B": "simbióticos.",
+        "C": "organismos inactivos aislados de la microbiota humana.",
+        "D": "carbohidratos selectivamente metabolizados en la microbiota."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Varón de 3 años, traído a consulta por presentar epistaxis en tres oportunidades y equimosis en MMII. Antecedente: infección respiratoria viral tratada con antihistamínicos hace tres semanas. Examen: pálido, petequias y equimosis en MMII, algunas petequias en cara. Laboratorio: leucocitos 7500/µl, neutrófilos 70%, linfocitos 25%, Hb: 9.5 g/dl, plaquetas: 30000/µl. Prueba de Coombs (-). ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Purpura trombótica trombocitopénica",
+        "B": "Síndrome de Wiskott-Aldrich",
+        "C": "Trombocitopenia inmune primaria",
+        "D": "Trombocitopenia inducida por fármacos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Niña de 4 años traída por su madre a Centro de Salud por presentar desde hace 2 días tos seca persistente, agitación, sin fiebre. En el último año ha presentado 2 episodios similares, con presencia de sibilancia. Examen: T°: 36.8 °C, FC: 110 X´, FR: 42 X'; BEG; tórax: algunos subcrepitantes en AHT. Resto del examen normal. ¿Cuál es el tratamiento inicial?",
+      "options": {
+        "A": "Bromuro de ipratropio",
+        "B": "Corticoide sistémico",
+        "C": "Corticoide inhalado a doble dosis",
+        "D": "Broncodilatador de acción rápida"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "En relación a Pancreatitis aguda en niños:",
+      "options": {
+        "A": "En 60% de los casos son idiopáticos",
+        "B": "La actividad de lipasa dos veces mayor, predice la evolución grave",
+        "C": "El ácido valproico y 6-mercaptopurina pueden inducirla",
+        "D": "La forma moderada es la forma más frecuente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Adolescente de 12 años desde hace 10 días presenta dolor torácico progresivo, cansancio al esfuerzo y tos. Examen: FC:120 X´, FR: 30 X´, SatO2: 92%, no tolera el decúbito supino, ingurgitación yugular; tórax: MV disminuido en base de AHT; CV: RC poco audibles; Abdomen: hepatomegalia. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Neumonía adquirida en la comunidad",
+        "B": "Pericarditis aguda",
+        "C": "Insuficiencia cardíaca",
+        "D": "Costocondritis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Neonato a término con 72 horas de vida, parto eutócico, AEG y alta conjunta, es traído a la emergencia por vómitos, somnolencia y pobre succión. Examen: FR: 70 X´, FC: 180 X´, T°: 36 °C axilar, frialdad distal, perfusión tisular >2\", poco reactivo al estímulo. ¿Cuál es el diagnóstico más importante?",
+      "options": {
+        "A": "Sepsis neonatal",
+        "B": "Shock séptico",
+        "C": "Infección urinaria",
+        "D": "Neumonía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuál es el fármaco que disminuye la resistencia vascular pulmonar provocada por la acidosis e hipoxemia en el tratamiento de la crisis hipóxica en pediatría?",
+      "options": {
+        "A": "Oxigenoterapia",
+        "B": "Bicarbonato de sodio",
+        "C": "Morfina",
+        "D": "Vasopresores"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Lactante de 8 meses con anemia persistente, medicado con hierro polimaltosado y ácido fólico desde los 4 meses sin mejoría. Examen: no ictericia, puente nasal ancho, micrognatia, hipertelorismo, aplanamiento de la eminencia tenar, pulgar trifalángico y talla corta. Laboratorio: hemograma: pancitopenia. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Síndrome de insuficiencia medular",
+        "B": "Anemia por deficiencia de hierro",
+        "C": "Anemia megaloblástica",
+        "D": "Anemia hemolítica autoinmune"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "La onicomadesis se asocia frecuentemente a estados post infecciosos debidos a...",
+      "options": {
+        "A": "infecciones parasitarias.",
+        "B": "virus coxsackie.",
+        "C": "infecciones fúngicas.",
+        "D": "enterovirus A71."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Niña de 5 años desde hace siete días presenta fiebre, malestar general y anorexia. Madre tiene gatos. Examen: FC: 70 X’, T°: 37.5 °C, FR: 18 X´, a nivel axilar derecha tumoración fusiforme de 3x4 cm dolorosa a palpación y huellas de abrasiones antiguas en piel de brazo derecho. ¿Cuál es el agente infeccioso?",
+      "options": {
+        "A": "Mycobacterium tuberculosis",
+        "B": "Mycobacterium avium",
+        "C": "Bartonella bacilliformis",
+        "D": "Bartonella henselae"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "En la evaluación inicial del triaje pediátrico de urgencias, el triángulo de evaluación pediátrico consigna...",
+      "options": {
+        "A": "exámenes de laboratorio.",
+        "B": "ABC.",
+        "C": "apariencia, respiración y circulación.",
+        "D": "ABCDE."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "En relación a linfoma gastrointestinal en niños:",
+      "options": {
+        "A": "Es la enfermedad maligna gastrointestinal menos frecuente en los niños",
+        "B": "La localización más frecuente es en intestino delgado distal y región íleo-cecal",
+        "C": "Pacientes inmunocomprometidos tienen baja incidencia de linfoma",
+        "D": "Debe ser considerado en pacientes menores de 3 años que se presentan con intususcepción"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Niño de 5 años traído a urgencias por la abuela materna refiriendo notarlo muy pálido, \"orina poco\" y párpados \"hinchados\", en la anamnesis que usted realiza le refieren cuadro previo diarreico tratado con antibiótico indicado en una farmacia. ¿Cuál es su diagnóstico más probable?",
+      "options": {
+        "A": "Insuficiencia renal aguda",
+        "B": "Reacción adversa a medicamentos",
+        "C": "Deshidratación por diarreas",
+        "D": "Anafilaxia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Niño de 2 años con antecedente de diarrea crónica y síndrome de mala absorción secundaria a cirugía de resección intestinal a los 6 meses de edad, en sus controles posteriores presenta persistentemente anemia. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Anemia ferropénica",
+        "B": "Anemia hemolítica",
+        "C": "Anemia megaloblástica",
+        "D": "Esferocitocis hereditaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Escolar de 3 años con sobrepeso y polifagia. Antecedente: retardo en el crecimiento y desarrollo desde el primer año de vida, con dificultad para alimentarse que supera con terapias físicas. Examen: obeso, retraso del crecimiento, retraso madurativo genital, manos y pies pequeños. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Obesidad exógena",
+        "B": "Hipotiroidismo congénito",
+        "C": "Síndrome de Prader-Willi",
+        "D": "Síndrome de Angelman"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Diarrea crónica se define como más de......en infantes y más de......en niños mayores, de cuatro semanas o más.",
+      "options": {
+        "A": "5 g/Kg/día - 200 g/día",
+        "B": "10 g/Kg/día - 200 g/día",
+        "C": "5 g/Kg/día - 100 g/día",
+        "D": "10 g/Kg/día - 100 g/día"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "En relación al prolapso de la mucosa rectal en niños:",
+      "options": {
+        "A": "La mayoría de casos son idiopáticos",
+        "B": "Es menos frecuente que los pólipos y las hemorroides",
+        "C": "Su inicio es a menudo entre los 5 y 10 años",
+        "D": "Es raro en niños con pobre desarrollo del esfínter anal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Niño de 10 años es traído a urgencias por tía materna, no refiere mayores datos porque no vive con él. Manifiesta tener mucha sed, débil y fatigado. Niega diarreas. Antecedentes: madre en tratamiento por enfermedad autoinmune. Examen: FC: 140 X´, FR: 40 X´, T°: 37.4 °C; adelgazado, hipoactivo, globos oculares hundidos, piel seca, llenado capilar 2\". Resto normal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Cetoacidosis diabética",
+        "B": "Gastroenterocolitis aguda",
+        "C": "Coma hiperosmolar",
+        "D": "Intoxicación por medicamentos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Escolar de 6 años, presenta desde hace 5 horas fiebre alta, dolor abdominal intenso, anorexia, vómitos, tenesmo, defecación dolorosa y deposiciones acuosas con moco y sangre. Examen: T°: 39 °C, FC: 100 X', FR: 20 X', PA: 80/50 mmHg, mucosa oral seca, ojos hundidos, mal estado general, luce tóxico; ruidos cardiacos de baja intensidad, llenado capilar >2\". Tratamiento: hidratación endovenosa. ¿Cuál es el agente etiológico probable de la diarrea?",
+      "options": {
+        "A": "Shigella",
+        "B": "Campylobacter",
+        "C": "Escherichia coli",
+        "D": "Vibrio cholerae"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Se considera una prueba broncodilatadora positiva, cuando el incremento del FEV1 respecto al valor basal es...",
+      "options": {
+        "A": "mayor o igual al 15%.",
+        "B": "del 5%.",
+        "C": "del 20%.",
+        "D": "mayor o igual al 12%."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Varón de 14 años, presenta lesiones acneiformes, nodulares extensas, comedones, numerosas pápulas, pústulas y abscesos en espalda, tórax, brazos y glúteos. Laboratorio: cultivo de las lesiones estafilococo coagulasa positivo. No responde al tratamiento convencional. ¿Qué tratamiento recomendaría como más eficaz?",
+      "options": {
+        "A": "Peróxido de Benzoilo",
+        "B": "Tretinoína tópica",
+        "C": "Eritromicina",
+        "D": "Isotretinoína"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "En relación a la vacuna contra la varicela. ¿Hasta cuántas horas después del contacto con el paciente con varicela se puede aplicar la vacuna a personas inmunocompetentes susceptibles?",
+      "options": {
+        "A": "24",
+        "B": "18",
+        "C": "48",
+        "D": "72"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es el microorganismo productor de la exotoxina pirogénica (toxina eritrogénica) y que causa la escarlatina y la erisipela?",
+      "options": {
+        "A": "Estreptococo del grupo B",
+        "B": "Enterococo faecium",
+        "C": "Estreptococo del grupo A",
+        "D": "Enterococo faecalis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Niña de 7 años previamente sana, refiere dolor de garganta, diuresis indolora, orinas oscuras durante dos días. En el control algunos días después. Laboratorio: orina de color ámbar, hematuria microscópica, proteinuria de 2+, cilindros eritrocíticos. Ningún otro síntoma ni hallazgo clínico. ¿Cuál es la causa más probable de esta presentación?",
+      "options": {
+        "A": "Síndrome urémico hemolítico",
+        "B": "Nefropatía por IgA",
+        "C": "Síndrome Nefrótico",
+        "D": "Infección urinaria"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Lactante de 6 meses eutrófico con LME y calendario vacunal completo para edad, desde hace cuatro días presenta tos y rinorrea que progresan con aumento del esfuerzo respiratorio y succión entrecortada. Examen: FC: 120 X´, FR: 70 X´, T°: 37.5 °C, taquipnea, aleteo nasal; tórax: sibilancias, subcrepitantes y retracciones intercostales. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Bronconeumonía bacteriana",
+        "B": "Neumonía adquirida en la comunidad",
+        "C": "Bronquiolitis viral",
+        "D": "Neumonía complicada"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "En relación a la fístula anal en pediatría:",
+      "options": {
+        "A": "En menores de 2 años, los más afectados son las niñas",
+        "B": "Cuadros asociados al riesgo incluyen: Enfermedad de Crohn, TBC, entre otros",
+        "C": "Es causa de absceso perianal",
+        "D": "En niños mayores, se asocia a: linfoma, cuerpo extraño, entre otros"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "En relación a púrpura de Henoch-Schönlein en niños:",
+      "options": {
+        "A": "La afectación osteomuscular ocurre en el 30%",
+        "B": "Las manifestaciones digestivas se dan en más del 80%",
+        "C": "Es mediada por inmunocomplejos IgE",
+        "D": "La isquemia mesentérica es una complicación frecuente"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Niño de 4 años con antecedente de intolerancia a la lactosa, es traído después de dos años de pandemia por presentar sensación de rigidez en manos y pies desde hace un mes y tos desde hace 3 días. Retraso del desarrollo psicomotor. Examen: talla: 90 cm, peso: 13 Kg; se ausculta escasos roncantes en ambos hemitórax. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Déficit de Alfa1 antitripsina",
+        "B": "Hipovitaminosis D",
+        "C": "Hiperparatiroidismo",
+        "D": "Galactosemia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

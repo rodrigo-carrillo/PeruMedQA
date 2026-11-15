@@ -1,0 +1,1349 @@
+{
+  "metadata": {
+    "year": 2026,
+    "exam": "RADIOLOGIA",
+    "source_pdf": "RADIOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Radiología",
+    "sha256_pdf": "0fff2c174a26378e10a2a7a334cae194cd883aa54b67286606c6748b24935c9a",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:31:19",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Radiología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 1.0,
+        "vec_max_loser": 0.0569,
+        "pix_min_winner": 0.5998,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 23990,
+      "coverage_out_chars": 23990,
+      "human_reference": "_backup_csv_verificados/Year2026/RADIOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 78,
+        "identico": 422
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Mujer de 30 años con ascitis, derrame pleural y tumor de ovario. RM: lesión sólida bien definida que compromete el ovario izquierdo, muestra señal intermedia en T1, hipointensa en T2, isointensa con el músculo y leve realce al contraste. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Fibroma de ovario",
+        "B": "Quiste dermoide",
+        "C": "Quiste paraovárico",
+        "D": "Cuerpo lúteo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Niña de 4 años, con dolor y distensión abdominal. Examen clínico masa abdominal palpable y presión arterial elevada. TC: masa sólida suprarrenal derecha con áreas quísticas, realce heterogéneo, engloba a la arteria renal, cruza la línea media, comprime y desplaza al riñón ipsilateral. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Tumor de Wilms",
+        "B": "Neuroblastoma",
+        "C": "Linfoma de Hodgkin",
+        "D": "Nefroblastoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Mujer de 30 años sufre caída por escaleras. TC contrastado: en el parénquima del bazo se observa áreas moteadas de baja atenuación a predominio del polo inferior, el diagnóstico más probable es ...... de bazo.",
+      "options": {
+        "A": "contusión",
+        "B": "laceración",
+        "C": "hematoma subcapsular",
+        "D": "hematoma intraparenquimal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Tanto en los exámenes de Ecografía, TC y RM, se ejecutan cortes sobre el eje largo del corazón. ¿Cuáles son las estructuras que estamos buscando visualizar principalmente?",
+      "options": {
+        "A": "Ventrículo derecho, ventrículo izquierdo y sus respectivas válvulas",
+        "B": "Ambos ventrículos y ambas aurículas",
+        "C": "Ventrículo derecho y aorta ascendente",
+        "D": "Ventrículo izquierdo, válvula aórtica y aorta ascendente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Un niño jugando fútbol sufre caída sobre el antebrazo generando dolor y tumefacción. Rx: fractura que afecta solamente a una parte de la cortical manteniendo indemne la otra parte, produciéndose una inclinación hacia el lado donde está la cortical completa; según estos datos. ¿Qué tipo de fractura se está describiendo?",
+      "options": {
+        "A": "Tallo verde",
+        "B": "Incurvación plástica",
+        "C": "Rodete",
+        "D": "Completa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Lactante menor femenino, nacida de parto podálico, al examen clínico muestra asimetría de pliegues glúteos. Eco de caderas: cobertura acetabular del 60%, ángulo alfa de 55°. ¿Cuál es el diagnóstico más probable en la cadera?",
+      "options": {
+        "A": "Inestable",
+        "B": "Subluxada",
+        "C": "Luxada",
+        "D": "Inmadura"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Paciente de 50 años fumador, con tos y disnea crónica. TC tórax: patrón en \"vidrio esmerilado\" con fibrosis en bases pulmonares. ¿Cuál es la neumonía más probable?",
+      "options": {
+        "A": "Intersticial linfoide",
+        "B": "Organizativa criptogenética",
+        "C": "Intersticial descamativa",
+        "D": "Intersticial usual"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "En artritis reumatoide es necesario contar con el más potente predictor de valoración pronóstica de la evolución de la lesión articular. ¿Qué se espera encontrar en la RM?",
+      "options": {
+        "A": "Aumento del espacio articular",
+        "B": "Osteofitos",
+        "C": "Edema óseo",
+        "D": "Formación de quiste sinovial"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál es la intensidad del nódulo de regeneración siderótico en las secuencias T1 y T2 en la cirrosis hepática?",
+      "options": {
+        "A": "Hipointenso e hiperintenso",
+        "B": "Hiperintenso e hiperintenso",
+        "C": "Hipointenso e hipointenso",
+        "D": "Isointenso e hipointenso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Varón de 40 años con dolor en ambas manos. Rx: tumefacción fusiforme de las partes blandas de los dedos. Densidad radiológica conservada. Reducción uniforme del espacio articular. Erosiones \"en lápiz en copa\". ¿Qué tipo de artritis es más probable?",
+      "options": {
+        "A": "Gotosa",
+        "B": "Reumatoide",
+        "C": "Psoriásica",
+        "D": "Depósito de cristales"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Cuál es característica de los efectos deterministas producidos por la radiación?",
+      "options": {
+        "A": "Dependen de la dosis recibida",
+        "B": "Son hereditarios",
+        "C": "Dependen de la dosis absorbida",
+        "D": "Producen mutaciones"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "En un paciente sintomático por hemangioma vertebral. ¿Cuál es un criterio radiológico de agresividad para realizar una vertebroplastía?",
+      "options": {
+        "A": "Extensión parcial del cuerpo vertebral",
+        "B": "Disminución del tamaño del cuerpo vertebral",
+        "C": "Localización dorsal central",
+        "D": "Cortical ósea indemne"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Paciente de 60 años con tos y disnea crónica. TC de tórax: quistes \"en panal\" y patrón reticular periférico subpleural de predominio basal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Fibroelastosis pleuropulmonar",
+        "B": "Neumonía intersticial descamativa",
+        "C": "Neumonía organizativa",
+        "D": "Neumonía intersticial usual"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "En la uropatía obstructiva supravesical. ¿Cómo se llama el tratamiento que consiste en el implante de un drenaje percutáneo en la vía urinaria dilatada?",
+      "options": {
+        "A": "Nefrostomía",
+        "B": "Ureterostomía",
+        "C": "Talla vesical",
+        "D": "Cistectomía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Varón de 40 años con dolor intenso en epigastrio de 48 horas de duración.TC abdominal: aumento difuso del volumen del páncreas con realce levemente heterogéneo, tejido graso adyacente con incremento de densidad. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Carcinoma pancreático",
+        "B": "Pancreatitis crónica",
+        "C": "Absceso pancreático",
+        "D": "Pancreatitis aguda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "En RM la secuencia que se obtiene con T1 largos, suprime el líquido libre y se utiliza fundamentalmente en la evaluación de la sustancia blanca del cerebro, corresponde a la secuencia ........",
+      "options": {
+        "A": "STIR.",
+        "B": "eco de gradiente.",
+        "C": "FLAIR.",
+        "D": "inversión-recuperación."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Mujer de 60 años con cáncer de mama triple negativo recibió quimioterapia neoadyuvante. RM control: no se identifica imagen tumoral, ni restricción a la difusión, ni realce vascular en la secuencia dinámica (respuesta completa al tratamiento por imagen). ¿Cuál es su clasificación BI -RADS?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "1"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Mujer de 30 años durante chequeo preventivo la ecografía de mama incidentalmente evidenció en axila un nódulo solido de 7 mm, hipoecogénico de contornos irregulares y con vascularidad periférica. ¿Cuál es el tipo de biopsia a realizar?",
+      "options": {
+        "A": "BAV",
+        "B": "Localización con arpón",
+        "C": "BAAF",
+        "D": "Quirúrgica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "En el Síndrome de Budd-Chiari. ¿Cuál es un signo especifico en ecografía Doppler?",
+      "options": {
+        "A": "Infartos hepáticos",
+        "B": "Trombo en una o más venas suprahepáticas",
+        "C": "Flujo portal enlentecido",
+        "D": "Flujo portal invertido"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Lactante varón de 5 meses con aumento del perímetro abdominal. RM: masa hepática circunscrita, quística con áreas sólidas que realzan con el contraste, en T1 heterogénea a predominio hipointensa y en T2 heterogénea a predominio hiperintensa. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Hamartoma mesenquimal",
+        "B": "Rabdomiosarcoma",
+        "C": "Sarcoma embrionario",
+        "D": "Hepatoblastoma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Mujer de 75 años, diabética, obesa, desencadena síndrome de malabsorción. RM: páncreas con alta señal en T1 y T2, pérdida de la señal de intensidad en secuencia de supresión grasa, sin restricción a la difusión, no realza al contraste. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Pancreatitis intersticial",
+        "B": "Infiltración grasa",
+        "C": "Necrosis encapsulada",
+        "D": "Pancreatitis crónica focal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "RN pretérmino de 1400 g, con distensión abdominal, vómitos, diarrea y sangre en heces. ¿Cuál es el signo ecográfico más precoz que confirma el probable diagnostico?",
+      "options": {
+        "A": "Presencia de peristalsis",
+        "B": "Gas portal",
+        "C": "Pared intestinal engrosada",
+        "D": "Neumoperitoneo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Paciente de 70 años hipertenso no controlado. Acude a emergencia por cefalea intensa.TC: imagen redondeada oval hiperdensa con fino halo hipodenso de localización intraparenquimatosa a nivel del putamen y el córtex insular derecho. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hematoma subdural",
+        "B": "Hematoma epidural",
+        "C": "Hemorragia subaracnoidea",
+        "D": "Hemorragia intracerebral"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Varón de 60 años con antecedente de exposición al asbesto. Rx de tórax: calcificaciones pleurales, opacidad en periferia del lóbulo inferior derecho con broncograma aéreo, seudocavitación y ovillo broncovascular. ¿Cuál es el tipo de atelectasia más probable?",
+      "options": {
+        "A": "Segmentaria",
+        "B": "Cicatricial",
+        "C": "Redonda",
+        "D": "Subsegmentaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "En osteoma osteoide. ¿Cuál es la técnica de elección para confirmar la presencia del nido dentro de la zona de engrosamiento cortical?",
+      "options": {
+        "A": "RM",
+        "B": "Eco",
+        "C": "Rx",
+        "D": "TC"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "En el examen de PET/CT, de pacientes con diagnóstico de NM de próstata, en los que se sospecha recidiva local. ¿Cuál es el radiotrazador más apropiado?",
+      "options": {
+        "A": "F-18 PSMA",
+        "B": "F-18 glucosa",
+        "C": "TC-99",
+        "D": "TC-99 MAA"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Mujer de 30 años con tumor palpable en parótida. RM: nódulo solido de contornos circunscritos, hiperintenso en T2, en la secuencia dinámica con contraste tiene realce intenso y progresivo con ausencia de lavado. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Linfoma",
+        "B": "Tumor de Warthin",
+        "C": "Adenoma pleomorfo",
+        "D": "Sialoadenitis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "En una angioTC, cobra mayor importancia la fase que permite obtener mejor opacificación de los vasos en un tiempo de 15 a 20 segundos. ¿Cuál fase cumple estos requisitos?",
+      "options": {
+        "A": "Portal",
+        "B": "Arterial precoz",
+        "C": "Arterial tardía",
+        "D": "Venosa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Mujer de 55 años sufre accidente de tránsito, consulta por dolor torácico. TC: opacidad alveolar de localización periférica en el lóbulo inferior derecho, sin broncograma aéreo. No derrame pleural. Control tomográfico a los cuatro días muestra ausencia de opacidad alveolar. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Laceración pulmonar",
+        "B": "Neumonía",
+        "C": "Atelectasia",
+        "D": "Contusión pulmonar"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "En fractura de la región lateral del hueso temporal. ¿Qué pares craneales se pueden lesionar?",
+      "options": {
+        "A": "VII y VIII",
+        "B": "I y II",
+        "C": "IX y X",
+        "D": "XI y I"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "En un traumatismo de fosa craneal media. ¿Qué pares craneales se pueden lesionar?",
+      "options": {
+        "A": "III y IV",
+        "B": "I y IX",
+        "C": "VII y VIII",
+        "D": "X y XII"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "Varón de 20 años consulta por traumatismo abdominal cerrado por accidente de tránsito. TC: en el hígado se observan múltiples imágenes lineales irregulares intraparenquimatosas hipodensas que no realzan al contraste, que entran en contacto con la superficie capsular hepática. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hematoma subcapsular",
+        "B": "Laceración",
+        "C": "Hematoma intrahepático",
+        "D": "Absceso hepático"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "RN que presenta de forma repentina vómitos biliosos y distensión abdominal. Rx: signos de obstrucción intestinal alta. Eco: asas intestinales y mesenterio alrededor de la arteria mesenterica superior y asa proximal dilatada. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Mal rotación intestinal",
+        "B": "Estenosis hipertrófica del píloro",
+        "C": "Membrana duodenal",
+        "D": "Vólvulo de intestino medio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Varón de 60 años, con fatiga, anorexia, pérdida de peso, hematuria, dolor en flanco izquierdo. Examen clínico: hidrocele. TC: masa retroperitoneal de tejido blando isodensa con el tejido muscular, realza con el contraste, rodea a la aorta abdominal se extiende al hilio renal izquierdo, engloba la arteria renal y al uréter ipsilateral. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Fibrosis retroperitoneal",
+        "B": "Linfoma no Hodgkin",
+        "C": "Sarcoma",
+        "D": "Metástasis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Varón de 25 años, sufre traumatismo torácico penetrante. Rx: banda radiolúcida continua que rodea la silueta cardiaca y que no se extiende por encima de la raíz de los grandes vasos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Neumopericardio",
+        "B": "Neumomediastino",
+        "C": "Neumotórax",
+        "D": "Enfisema intersticial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "La dosis límite máxima de radiación anual recomendada para los radiólogos expuestos a radiación ionizante es .......... mSV.",
+      "options": {
+        "A": "1",
+        "B": "20",
+        "C": "100",
+        "D": "0.1"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Según los criterios de la Sociedad Internacional de Radiólogos Torácicos (Sociedad de Fleischner) estipulados para el seguimiento del nódulo pulmonar solitario sólido; en un nódulo sin calcificación de 7mm, detectado de forma accidental en un paciente de alto riesgo. ¿Cuántos meses deben trascurrir para realizar TC de control?",
+      "options": {
+        "A": "18-24",
+        "B": "1- 5",
+        "C": "6-12",
+        "D": "24-48"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Mujer de 50 años, con antecedente de NM de mama tratado, asintomática. TC: nódulo suprarrenal derecho hipodenso (10UH), realza con la sustancia de contraste y lavado más del 50%. RM: nódulo hipointenso con la técnica de fuera de fase. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Metástasis",
+        "B": "Adenoma",
+        "C": "Hiperplasia pseudotumoral",
+        "D": "Mielolipoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Paciente de 20 años durante el ejercicio refiere dolor como un \"tirón\" en la región posterior de la pierna, con impotencia funcional que se recupera al reposo. RM: rotura parcial de fibras, separación de la fascia y extensa área hiperintensa en T2. ¿Cuál es el grado de lesión miotendinosa?",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "II",
+        "D": "IV"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿Cuál es la indicación más frecuente de derivación portocava transyugular percutánea?",
+      "options": {
+        "A": "Ascitis refractaria",
+        "B": "Coledocolitiasis",
+        "C": "Hemorragia por varices gastroesofágicas",
+        "D": "Hepatoma lobar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "En el estudio de RM del abdomen con contraste hepatoespecífico. ¿Cuál es la señal que muestran las estructuras vasculares del hígado?",
+      "options": {
+        "A": "Hiperintensa",
+        "B": "Isointensa",
+        "C": "De vacío",
+        "D": "Hipointensa"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "En un estudio de TC contrastado. ¿Cuál es la fase más importante para el rastreo de metástasis hepática?",
+      "options": {
+        "A": "Arterial",
+        "B": "Portal",
+        "C": "Equilibrio",
+        "D": "Tardía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Mujer de 45 años, obesa, con dolor en hipocondrio derecho y epigastrio, náusea y vómitos. Eco: Litiasis vesicular. Se realiza RM. ¿Cuál es la intensidad de los cálculos pigmentarios en las secuencias de T1 y T2?",
+      "options": {
+        "A": "Hipointenso e hipointenso",
+        "B": "Hipointenso e hiperintenso",
+        "C": "Hiperintenso e hipointenso",
+        "D": "Hiperintenso e hiperintenso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "¿Cuál es el factor relacionado en la reacción adversa por toxicidad de los medios de contraste iodados?",
+      "options": {
+        "A": "Histamina",
+        "B": "Mastocitos",
+        "C": "Fibrinólisis",
+        "D": "Osmolaridad"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "En un estudio de RM: nódulo hepático hipointenso en T1 e hiperintenso en T2, en la fase arterial muestra un anillo hipervascular y en las fases portal y tardía es hipovascular. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hepatocarcinoma",
+        "B": "Adenoma",
+        "C": "Metástasis",
+        "D": "Hemangioma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Mujer de 60 años con dolor intenso en hipogastrio de 3 días de evolución y febrícula, sin sintomatología gastrointestinal. Antecedente de histerectomía hace 2 años. TC abdomen: Masa ovoide con densidad heterogénea de tejido graso, más denso que la grasa mesentérica y subcutánea, localizada por detrás de la pared abdominal anterior a nivel de la cicatriz post quirúrgica. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Liposarcoma",
+        "B": "Infarto omental segmentario",
+        "C": "Fibrosarcoma",
+        "D": "Hernia de pared abdominal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "En un paciente con sospecha de tromboembolismo pulmonar, con aumento de dímero D y estudio de Angio TC no concluyente por la presencia de múltiples artefactos por movimiento. ¿Cuál es el estudio de imágenes a realizar para decidir uso de anticoagulantes?",
+      "options": {
+        "A": "Gammagrafía de ventilación-perfusión",
+        "B": "Venografía con tomografía",
+        "C": "Angio RM",
+        "D": "Eco Doppler de miembros inferiores"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Paciente de 50 años, sufre contusión en región costal con sospecha de neumotórax. Rx de tórax PA: normal. ¿Cuál es la proyección radiográfica adicional a solicitar?",
+      "options": {
+        "A": "Espiración",
+        "B": "Lordótica",
+        "C": "Oblicua",
+        "D": "Transtorácica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "La resolución espacial es la capacidad que tiene un examen por imágenes para distinguir una lesión .......",
+      "options": {
+        "A": "pequeña.",
+        "B": "contrastada.",
+        "C": "móvil.",
+        "D": "sólida."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Mujer de 63 años, dolor lumbar, disuria, hematuria. TC: múltiples imágenes hipodensas (20UH), en los senos renales, que no se comunican entre sí, no realzan con la sustancia de contraste y no se opacifican en la fase tardía. Con estos datos. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Hidronefrosis bilateral",
+        "B": "Pelvis extrarrenal",
+        "C": "Quistes parapielicos",
+        "D": "Pieloureteritis quística"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Una TC de macizo facial muestra masa localizada en meato medio que provoca obstrucción de la unidad osteomeatal, se pide una RM para ampliación de estudio: en T2 y T1 con gadolineo y supresion grasa, muestran un patrón de \"circunvoluciones cerebriformes\". ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Angiofibroma nasofaríngeo",
+        "B": "Papiloma invertido",
+        "C": "Carcinoma nasosinusual",
+        "D": "Pólipo nasal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "Durante la realización de un estudio tomográfico del cerebro se visualiza una imagen en anillo constantemente. ¿Cuál es el significado de este artefacto de imagen?",
+      "options": {
+        "A": "Efecto aliasing por rotación del tubo",
+        "B": "Movimiento excesivo del paciente",
+        "C": "Metal en la vestimenta del paciente",
+        "D": "Falla de la calibración del detector"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál es el tipo de mamografía generada a partir del conjunto de datos, obtenidos de la mamografía 3D sin dosis adicional de rayos X?",
+      "options": {
+        "A": "Analógica",
+        "B": "Directa",
+        "C": "Indirecta",
+        "D": "Sintetizada"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Varón de 20 años, sufre accidente de tránsito, presenta dolor lumbar. TC contrastado: defecto lineal hipodenso en el parénquima renal izquierdo, que no compromete el sistema colector. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Laceración",
+        "B": "Contusión",
+        "C": "Hematoma subcapsular",
+        "D": "Hematoma perirrenal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Mujer de 50 años diabética con antecedente de uso crónico de analgésicos. Urografía excretora: formación de cavitaciones \"suspendidas\" llenas de contraste con deformidad del cáliz adyacente en la fase excretora. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Hidronefrosis",
+        "B": "Megacaliosis",
+        "C": "Necrosis papilar",
+        "D": "Necrosis tubular aguda"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "¿Cuál es el método indicado para detectar fracturas ocultas por estrés?",
+      "options": {
+        "A": "RX",
+        "B": "RM",
+        "C": "TC",
+        "D": "Centellograma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Mujer de 30 años con dolor en fosa iliaca derecha, nausea y vómitos, se sospecha diverticulitis. ¿Cuál es el mejor método para su diagnóstico?",
+      "options": {
+        "A": "RM",
+        "B": "US",
+        "C": "TC",
+        "D": "RX"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Según protocolo de estudio de páncreas con RM. ¿Cuantos segundos tras la administración del contraste endovenoso se obtiene la fase pancreática?",
+      "options": {
+        "A": "45",
+        "B": "65",
+        "C": "70",
+        "D": "35"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Qué ventaja se encuentra en los estudios de medicina nuclear?",
+      "options": {
+        "A": "Permite conocer la resolución anatómica",
+        "B": "No emiten radiación",
+        "C": "Discrimina densidades",
+        "D": "Evalúa fenómenos fisiológicos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "La embolización de las arterias uterinas es un procedimiento de radiología intervencionista. ¿Cuál es contraindicación relativa para realizarla?",
+      "options": {
+        "A": "Alergia grave al contraste yodado",
+        "B": "Insuficiencia renal",
+        "C": "Antecedente de cáncer pélvico",
+        "D": "Infección pélvica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Varón de 65 años, recibe tratamiento crónico con anticoagulante por TVP, consulta por dolor abdominal agudo y masa palpable en la pared abdominal anterior. Eco: masa compleja heterogénea y rotura de fibras musculares. TC: masa de alta densidad en el musculo recto anterior derecho con extravasación de la sustancia de contraste. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Seroma",
+        "B": "Absceso",
+        "C": "Hematoma",
+        "D": "Diástasis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál es la intensidad en T1 de un hígado normal?",
+      "options": {
+        "A": "Isointenso en relación con el páncreas",
+        "B": "Hipointenso en relación a la corteza renal",
+        "C": "Hiperintenso en relación con el páncreas",
+        "D": "Hipointenso en relación con el bazo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "En una Rx de tórax. ¿Cuál es un signo directo de bronquiectasia?",
+      "options": {
+        "A": "Engrosamiento de pared bronquial",
+        "B": "Dilatación bronquial",
+        "C": "Imagen en \"dedo de guante\"",
+        "D": "Quistes con niveles hidroaéreos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Una Rx de tórax PA que muestra una opacidad en la base pulmonar que no borra la silueta cardiaca, nos indica que la opacidad es ........ con respecto al corazón.",
+      "options": {
+        "A": "oblicua",
+        "B": "anterior",
+        "C": "posterior",
+        "D": "lateral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Cuál es el hallazgo mamográfico típico en la cicatriz post operatoria luego de la explantación de un implante mamario?",
+      "options": {
+        "A": "Calcificaciones pleomórficas",
+        "B": "Asimetría",
+        "C": "Engrosamiento de piel",
+        "D": "Distorsión de la arquitectura"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "Varón de 15 años con antecedente de otomastoiditis. RMN: Lesión en el lóbulo frontal con cápsula hipointensa en T2 que realza en T1 con contraste, restricción a la difusión en su interior, espectroscopía pico marcado de lípidos-lactato y edema perilesional. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Absceso",
+        "B": "Glioblastoma",
+        "C": "Hematoma en resolución",
+        "D": "Lesión desmielinizante"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "Mujer de 60 años. Antecedente familiar de madre con NM de mama. RM de mama: lesión no masa con distribución segmentaria y patrón de realce interno en anillo. ¿Cuál es el tipo de carcinoma más probable?",
+      "options": {
+        "A": "Medular",
+        "B": "Ductal invasivo",
+        "C": "Ductal in situ",
+        "D": "Papilar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Recién nacido a término de madre diabética, presenta estertores pulmonares, aleteo nasal, retracción costal, taquipnea y cianosis. Rx: pulmones pequeños, opacidades finas granulares con broncograma aéreo hasta la periferia. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Taquipnea transitoria",
+        "B": "Síndrome de aspiración meconial",
+        "C": "Síndrome de distrés respiratoria tipo 1",
+        "D": "Neumonía neonatal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Característicamente la RM de sacro puede mostrar imágenes ovaladas bien circunscritas, alojadas en las emergencias radiculares sacras, siendo en T1 hipointensas, en T2 y STIR son hiperintensas no realzan con el contraste y no restringen a la difusión recibiendo el nombre de …",
+      "options": {
+        "A": "síndrome de Morel-Lavallée.",
+        "B": "enfermedad del seno pilonidal.",
+        "C": "quistes de Tarlov.",
+        "D": "siliconoma."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "El gadolinio es un metal potencialmente tóxico que se usa como medio de contraste al modificar la señal de intensidad en RM. ¿Qué tipo de reacción adversa se produce cuando se libera de su agente quelante?",
+      "options": {
+        "A": "Amiloidosis diseminada",
+        "B": "Broncoespasmo severo",
+        "C": "Fibrosis sistémica nefrogénica",
+        "D": "Insuficiencia cardiaca congestiva"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "¿Cuál es el método de imágenes de elección para diagnosticar la osificación periférica de una miositis osificante por rotura muscular?",
+      "options": {
+        "A": "RM",
+        "B": "Eco",
+        "C": "TC",
+        "D": "Rx"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "El estudio de PET/CT con glucosa marcada es el método más sensible y específico para diferenciar entre un nódulo pulmonar benigno de uno maligno, este método NO está indicado en nódulos...........",
+      "options": {
+        "A": "espiculados.",
+        "B": "de localización periférica.",
+        "C": "menores de 5mm.",
+        "D": "con calcificación anular."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Niño de 3 años con infecciones urinarias recurrentes. Cistouretrografía retrograda miccional seriada: uréter tortuoso moderadamente dilatado, ángulos de los fórnices abombados, pero se define la papila. ¿Cuál es el grado de reflujo vésico ureteral?",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "IV",
+        "D": "V"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "En un paciente con infarto isquémico cerebral en fase inicial la RM muestra en la región frontoparietotemporal derecho una extensa área córtico subcortical hiperintensa en T2 con restricción a la difusión, representativo de edema. ¿Qué tipo de edema es el descrito?",
+      "options": {
+        "A": "Vasogénico",
+        "B": "Intersticial",
+        "C": "Intramiélico",
+        "D": "Citotóxico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Cuál es el método de imagen de elección en la isquemia mesentérica aguda?",
+      "options": {
+        "A": "Ecografía",
+        "B": "Resonancia",
+        "C": "Tomografía",
+        "D": "Radiografía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Paciente de 20 años con síndrome disentérico desde hace una semana dolor en cuadrante inferior derecho.TC abdomen: engrosamiento asimétrico de la pared ileocólica con pliegues hipertróficos y realce al contraste, estriaciones de la grasa pericólica y ganglios adyacentes con realce en su periferia y centros hipodensos. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Carcinoma velloso",
+        "B": "Linfoma Hodgkin",
+        "C": "Colitis tuberculosa",
+        "D": "Absceso colónico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "¿En qué fase tomográfica se evalúa mejor las lesiones tumorales fibrosas?",
+      "options": {
+        "A": "Arterial",
+        "B": "Portal",
+        "C": "Equilibrio",
+        "D": "Venosa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿Cuál es un signo ecográfico característico de colecistitis crónica?",
+      "options": {
+        "A": "Edema de pared",
+        "B": "Dilatación de la vesícula biliar",
+        "C": "Liquido perivesicular",
+        "D": "Murphy ecográfico negativo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuál es la secuencia de RM que permite diferenciar un NM de endometrio del endometrio normal?",
+      "options": {
+        "A": "T1",
+        "B": "Difusión",
+        "C": "T2",
+        "D": "T1 contrastado"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Mujer de 55 años en tratamiento con clindamicina por tres semanas, acude por diarrea. TC abdomen: engrosamiento y realce de las paredes del colon en todos sus segmentos, el contraste oral se encuentra atrapado en todos los pliegues haustrales gruesos y produce el \"signo del acordeón\". ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Colitis pseudomenbranosa",
+        "B": "Adenocarcinoma de colon",
+        "C": "Linfoma",
+        "D": "Diverticulitis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Niño de 9 años sufre traumatismo craneal severo. Se solicita TC con la sospecha de sangrado subdural, esperando encontrar característicamente una imagen hiperdensa en forma de …",
+      "options": {
+        "A": "masa.",
+        "B": "biconvexa.",
+        "C": "redondeada.",
+        "D": "semiluna."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "En la técnica de RM, con tiempo de relajación tisular longitudinal. ¿Cuál es la secuencia que se utiliza para evaluar mejor el detalle anatómico?",
+      "options": {
+        "A": "T2",
+        "B": "Flujo rápido",
+        "C": "Espectroscopia",
+        "D": "T1"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "En el cuello infrahíodeo. ¿Cuál es el espacio donde se ubica la glándula tiroides?",
+      "options": {
+        "A": "Visceral",
+        "B": "Carotídeo",
+        "C": "Retrofaríngeo",
+        "D": "Perivertebral"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Mujer de 50 años diabética. Post operada de peritonitis con distensión abdominal y ruidos hidroaéreos ausentes. Estudio de imágenes muestra: dilatación de cámara gástrica, asas intestinales gruesas y delgadas con múltiples niveles hidroaéreos y aire en ampolla rectal. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Obstrucción de asa gruesa",
+        "B": "Asa centinela",
+        "C": "Obstrucción de asa delgada",
+        "D": "Íleo paralítico generalizado"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Cuál es el patrón de flujo Doppler en los vasos distales a una estenosis arterial grave?",
+      "options": {
+        "A": "Trifásico",
+        "B": "Elevación del pico sistólico",
+        "C": "Tardus-parvus",
+        "D": "Turbulento"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "En un estudio de arteriografía periférica de miembros inferiores, en uno de ellos se detecta estenosis concéntrica la cual se asume, en primera instancia, que se debe a ......",
+      "options": {
+        "A": "infiltración tumoral.",
+        "B": "vasculitis.",
+        "C": "placa de ateroma.",
+        "D": "compresión extrínseca."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "En Uro TC. ¿Cuál es un signo directo de litiasis renal?",
+      "options": {
+        "A": "Dilatación del sistema colector",
+        "B": "Nefromegalia homolateral",
+        "C": "Engrosamiento perirrenal",
+        "D": "Imagen hiperdensa"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿Cuál es la complicación más frecuente de la rotura muscular?",
+      "options": {
+        "A": "Recidiva",
+        "B": "Hernia muscular",
+        "C": "Síndrome compartimental",
+        "D": "Mionecrosis Cálcica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Mujer de 65 años con cefalea intensa y fotofobia. TC: imágenes lineales finas hiperdensas localizadas en el interior de los surcos cerebrales superficiales, cisternas basales y la cisura de Silvio. Según este informe tomográfico. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Hematoma epidural",
+        "B": "Hematoma subdural",
+        "C": "Hemorragia subaracnoidea",
+        "D": "Hemorragia intracerebral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Mujer de 40 años, diabética. Presenta dolor lumbar y fiebre. Uro TC: riñón izquierdo con leve aumento de tamaño y realce heterogéneo del parénquima con zonas en \"cuña\" de menor realce. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Pielonefritis enfisematosa",
+        "B": "Pielonefritis crónica",
+        "C": "Pielonefritis aguda",
+        "D": "Absceso renal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "En el control ecográfico del embarazo que se realiza entre la semana 11 y 14. ¿Qué estructura se debe evaluar para detectar tempranamente anomalías cromosómicas?",
+      "options": {
+        "A": "Placenta",
+        "B": "Pliegue nucal",
+        "C": "Cordón umbilical",
+        "D": "Cara fetal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Niño de 6 años con retraso en el desarrollo de su edad ósea, presenta dolor en cadera derecha que se irradia al muslo. Se diagnostica enfermedad de Perthes. Rx: incremento de la densidad, aplanamiento y fractura subcondral anterolateral de la epífisis femoral. RM: enT2 hipointensidad epifisiaria central del fémur. ¿En qué estadio se encuentra la enfermedad?",
+      "options": {
+        "A": "Fragmentación",
+        "B": "Regeneración",
+        "C": "Esclerosis",
+        "D": "Secuelas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Mujer de 70 años, con infecciones urinarias recurrentes y hematuria. TC: múltiples y pequeñas imágenes por defecto de relleno en la pelvis renal y uréter izquierdo. Deformidad de los pequeños cálices. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Tumor urotelial",
+        "B": "Pieloureteritis quística",
+        "C": "Cálculos radiolúcidos",
+        "D": "Coágulos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Cuál es el hallazgo radiológico más característico que permite sospechar afectación de pared torácica por una neoplasia pulmonar?",
+      "options": {
+        "A": "Ángulo agudo del tumor con la superficie pleural",
+        "B": "Hipodensidad de la grasa extrapleural",
+        "C": "Engrosamiento pleural adyacente",
+        "D": "Simetría de tejidos blandos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Mujer de 40 años acude a su chequeo anual. Informe de TC: hígado con múltiples nódulos hipodensos distribuidos en forma uniforme, en todo el parénquima que no realzan al contraste, miden en promedio 10mm. Colangiorresonancia: T1 hipointenso, T2 hiperintenso con aspecto de \"cielo estrellado\". Con esos datos de imágenes. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Metástasis de mama",
+        "B": "Hamartoma biliar múltiple",
+        "C": "Carcinoma fibrolamelar",
+        "D": "Microabscesos múltiples"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Adolescente de 14 años sufre fuerte accidente de tránsito. Se realiza de inmediato una TC cerebral la que informa imagen hiperdensa extraaxial circunscrita de forma biconvexa, homogénea, que no cruza las suturas del cráneo y se asocia a trazo de fractura lineal a nivel del hueso occipital derecho. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Hematoma subdural",
+        "B": "Hemorragia cerebelar",
+        "C": "Hemorragia Intracerebral",
+        "D": "Hematoma epidural"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "En el niño maltratado, hay lesiones óseas muchas de ellas son estadísticamente mal valoradas. ¿Cuál es una fractura muy específica orientadora de maltrato?",
+      "options": {
+        "A": "Clavícula",
+        "B": "Apófisis espinosa",
+        "C": "Lineal de la calota",
+        "D": "De pelvis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Varón de 65 años, con antecedente de pancreatitis a repetición y diagnostico reciente de DM, presenta dolor abdominal, pérdida de peso. RM: dilatación del conducto pancreático principal y de sus ramas con aspecto de \"brotes\" con baja señal en T1 y alta señal en T2, sin realce al contraste endovenoso. Con los datos recogidos de la RM. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Neoplasia mucinosa intraductal papilar",
+        "B": "Neoplasia quística serosa",
+        "C": "Cistoadenocarcinoma mucinoso",
+        "D": "Neoplasia papilar sólido quística"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Varón de 15 años con dolor en rodilla derecha. Rx de rodilla: lesión lítica ovalada de contornos bien definidos con anillo escleroso de 2cm en epífisis proximal de tibia. Con estos datos. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Osteoma",
+        "B": "Osteoblastoma",
+        "C": "Condroblastoma",
+        "D": "Osteosarcoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "En los pacientes que presentan tatuajes en la piel, sometidos a RM. ¿Qué tipo de energía se debe tener en cuenta en la radioprotección?",
+      "options": {
+        "A": "Radiofrecuencia",
+        "B": "Campo magnético",
+        "C": "Ionizante",
+        "D": "Fotónica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2019,
+    "exam": "ANESTESIOLOGIA",
+    "source_pdf": "ANESTESIOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Anestesiología",
+    "sha256_pdf": "84e9db70fa9af30156f06d7d9fb1ef05f07669c11786923bbdc9cef1e7144e92",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:17",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Anestesiología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.992,
+        "vec_max_loser": 0.0051,
+        "pix_min_winner": 0.6231,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 19529,
+      "coverage_out_chars": 19529,
+      "human_reference": "_backup_csv_verificados/Year2019/ANESTESIOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 557,
+        "csv_antiguo_truncado": 9,
+        "solo_espacios": 34
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál de las siguientes es una ventaja del uso de la anestesia balanceada?",
+      "options": {
+        "A": "Lenta absorción",
+        "B": "Lento despertar",
+        "C": "Lenta reversibilidad de la profundidad anestésica",
+        "D": "Baja excitación",
+        "E": "Buena hipnosis y analgesia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "En la valoración para intubación traqueal. ¿A qué equivale un grado III de Mallampati?",
+      "options": {
+        "A": "Imposibilidad para ver el paladar blando",
+        "B": "Visibilidad del paladar blando y úvula",
+        "C": "Solo hay visibilidad del paladar blando",
+        "D": "Visibilidad del paladar blando, úvula y pilares amigdalianos",
+        "E": "Visibilidad de cuerdas vocales"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál de las siguientes es una complicación de la inducción anestésica?",
+      "options": {
+        "A": "Fiebre",
+        "B": "Cefalea",
+        "C": "Reflujo gástrico",
+        "D": "Laringoespasmo",
+        "E": "Convulsiones"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "¿Cuál de los siguientes es un efecto adverso del uso crónico de los opiodes?",
+      "options": {
+        "A": "Prurito",
+        "B": "Urticaria",
+        "C": "Depresión respiratoria",
+        "D": "Retención urinaria",
+        "E": "Hipogonadismo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "¿Cuál es el número de máscara laríngea que le corresponde a un niño eutrófico que pesa entre 20 a 30 kg?",
+      "options": {
+        "A": "1.5",
+        "B": "2.5",
+        "C": "1",
+        "D": "4",
+        "E": "3"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "El paciente declarado en muerte cerebral y donante de órganos, equivale en la clasificación ASA a la clase:",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "6",
+        "E": "2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál de los siguientes laringoscopios tiene la hoja curva?",
+      "options": {
+        "A": "Flagg",
+        "B": "Guedel",
+        "C": "Macintosh",
+        "D": "Miller",
+        "E": "Winconsin"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es el primer componente en la secuencia del bloqueo nervioso con el uso de anestésicos locales?",
+      "options": {
+        "A": "Pérdida de la sensibilidad táctil y de presión",
+        "B": "Pérdida de la sensibilidad dolorosa y térmica",
+        "C": "Pérdida de la propiocepción",
+        "D": "Bloqueo simpático con vasodilatación",
+        "E": "Parálisis motora"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál de los siguientes es un anestésico local de tipo éster?",
+      "options": {
+        "A": "Lidocaína",
+        "B": "Procaína",
+        "C": "Bupivacaína",
+        "D": "Mepivacaína",
+        "E": "Prilocaína"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "¿Cuál de las siguientes es una característica del dantroleno?",
+      "options": {
+        "A": "Aumenta la salida de calcio del retículo sarcoplásmico",
+        "B": "Se metaboliza y excreta por vía hepática",
+        "C": "Aumenta el reingreso de calcio",
+        "D": "Disminuye la salida de calcio del retículo sarcoplásmico",
+        "E": "Aumenta el sodio intracelular"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "El grado de dificultad IV para la ventilación con mascarilla facial se refiere a:",
+      "options": {
+        "A": "La imposibilidad de la ventilación con o sin mascarilla",
+        "B": "Que se precisa el empleo de cánula nasal o faríngea",
+        "C": "Una ventilación eficaz con mascarilla facial sin ayuda de dispositivos",
+        "D": "Que se precisa emplear cánula de Guedel",
+        "E": "Una ventilación difícil con dos personas y el empleo de cánula"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál de las siguientes es una contraindicación relativa de la anestesia neuroaxial?",
+      "options": {
+        "A": "Coagulopatía",
+        "B": "Rechazo del paciente",
+        "C": "Dolor crónico de espalda",
+        "D": "Septicemia o bacteremia",
+        "E": "Infección en el sitio de punción"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "La anestesia general es un estado fisiológico alterado que se caracteriza por:",
+      "options": {
+        "A": "Hipnosis y relajación muscular",
+        "B": "Inconsciencia, analgesia, relajación muscular y amnesia",
+        "C": "Analgesia e inconsciencia",
+        "D": "Inconsciencia, inmovilidad y amnesia",
+        "E": "Hipnosis y analgesia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Paciente geronte hipertenso, que consume apraclonidina por largo tiempo para reducir la presión intraocular, es programado para cirugía ocular, por lo que se decide suspender el medicamento en el preoperatorio. ¿Cuál es el evento adverso mas frecuente a presentarse en éste caso?",
+      "options": {
+        "A": "Hipotensión arterial",
+        "B": "Taquicardia",
+        "C": "Tos",
+        "D": "Vómitos",
+        "E": "Hipertensión arterial"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Paciente joven con isquemia cerebral aguda que recibirá anestesia general. ¿Cuál de los siguientes fármacos es el indicado para el manejo anestésico?",
+      "options": {
+        "A": "Ketamina",
+        "B": "Nimodipina",
+        "C": "Corticoide",
+        "D": "Barbitúrico",
+        "E": "Succinilcolina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿Cuál de los siguientes fármacos está indicado para el tratamiento de la hipertermia maligna?",
+      "options": {
+        "A": "Flumazenil",
+        "B": "Dipirona",
+        "C": "Dantroleno",
+        "D": "Dexametasona",
+        "E": "Dimenhidrinato"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "En un paciente diabético sometido a una operación de mediana complejidad, el control de la glicemia se realiza:",
+      "options": {
+        "A": "En el pre, intra y posoperatorio",
+        "B": "Solo en el preoperatorio",
+        "C": "Al final de la cirugía",
+        "D": "Un día antes de la operación",
+        "E": "Al inicio de la cirugía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "El propofol es un hipnótico ideal para la inducción y mantenimiento de la anestesia en neurocirugía debido a que:",
+      "options": {
+        "A": "Aumenta el flujo sanguíneo cerebral y disminuye la PIC",
+        "B": "Aumenta el volumen sanguíneo cerebral y la PIC",
+        "C": "Es antiemético y anticonvulsivante",
+        "D": "Reduce el flujo sanguíneo, el índice metabólico, el volumen sanguíneo cerebral y la PIC",
+        "E": "Es antipruriginoso y antiemético"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Cuál de los siguientes es un antídoto puro de los opiáceos?",
+      "options": {
+        "A": "Ciclazocina",
+        "B": "Buprenorfina",
+        "C": "Nalmexona",
+        "D": "Neostigmina",
+        "E": "Naloxona"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "El metabolismo de la meperidina es a nivel ...",
+      "options": {
+        "A": "renal.",
+        "B": "hepático.",
+        "C": "del plasma.",
+        "D": "celular.",
+        "E": "biliar."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Promover la cultura de la seguridad del paciente de forma más integra y contribuir a reducir la mortalidad y complicaciones de los pacientes quirúrgicos, se asocia a:",
+      "options": {
+        "A": "La experiencia del anestesiólogo y el cirujano",
+        "B": "Antibioticoterapia profiláctica",
+        "C": "La aplicación de la lista de verificación de cirugía segura",
+        "D": "La solicitud de exámenes preoperatorios",
+        "E": "La obtención del consentimiento informado"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cuál de los siguientes fármacos anestésicos es derivado de la fenciclidina?",
+      "options": {
+        "A": "Ketamina",
+        "B": "Tiopental",
+        "C": "Diprivan",
+        "D": "Propanidida",
+        "E": "Etomidato"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "¿Cuál de las siguientes es una contraindicación de la anestesia general con el uso de mascarilla facial?",
+      "options": {
+        "A": "Cirugía con una duración menor a 30 minutos",
+        "B": "Para desnitrogenar en inducción",
+        "C": "Laringoespasmo",
+        "D": "Paciente con terapia de coagulación",
+        "E": "Paciente ambulatorio"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "¿Cuál es la técnica anestésica mas adecuada en el manejo de un paciente que será sometido a cirugía de un pulmón?",
+      "options": {
+        "A": "Uso de óxido nitroso mas tubo de doble lumen",
+        "B": "Anestesia general con tubo simple",
+        "C": "Anestesia general inhalatoria con tubo de doble lumen",
+        "D": "No dar dosis suplementarias por el catéter epidural",
+        "E": "Anestesia general combinada con epidural"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Cuál es la contraindicación para el uso de analgesia regional en el trabajo de parto?",
+      "options": {
+        "A": "Vía aérea difícil",
+        "B": "Coagulopatía",
+        "C": "Enfermedad cardiorespiratoria",
+        "D": "Preeclampsia",
+        "E": "Embarazo múltiple"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "La estimulación más importante para la secreción de hormona antidiurética y de aldosterona es la:",
+      "options": {
+        "A": "Hipotensión arterial",
+        "B": "Hipovolemia",
+        "C": "Taquicardia",
+        "D": "Hipernatremia",
+        "E": "Bradicardia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Cuál de los siguientes opiodes tiene acción agonista u2 y antagonista sigma?",
+      "options": {
+        "A": "Nalorfina",
+        "B": "Buprenorfina",
+        "C": "Morfina",
+        "D": "Fentanilo",
+        "E": "Meperidina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Cuál de los anestésicos mencionados es el menos indicado en pacientes en quienes se sospecha o tienen un aumento de la presión intracraneal?",
+      "options": {
+        "A": "Óxido nitroso",
+        "B": "Isoflurano",
+        "C": "Sevoflurano",
+        "D": "Ketamina",
+        "E": "Tiopental"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál es el anestésico endovenoso muy utilizado en sedación, anestesia general, actúa en los receptores GABA y con efecto antiemético?",
+      "options": {
+        "A": "Propofol",
+        "B": "Midazolam",
+        "C": "Diazepam",
+        "D": "Tiopental sódico",
+        "E": "Succinilcolina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Cuál de los siguientes anestésicos inhalatorios está relacionado con mayor frecuencia a episodios de hepatitis posanestésica?",
+      "options": {
+        "A": "Halothano",
+        "B": "Isoflurano",
+        "C": "Desflurano",
+        "D": "Óxido nitroso",
+        "E": "Sevoflurano"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Cuáles son los requerimientos hídricos de mantenimiento, en ml/h, en un niño de 25 kilos?",
+      "options": {
+        "A": "65",
+        "B": "35",
+        "C": "235",
+        "D": "25",
+        "E": "115"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuáles son los parámetros de monitoreo obligatorio en el cuidado del paciente en la unidad de cuidados posanetésicos?",
+      "options": {
+        "A": "EKG, frecuencia respiratoria, presión arterial, oximetría de pulso y temperatura",
+        "B": "EKG, presión arterial, frecuencia respiratoria y oximetria de pulso",
+        "C": "EKG, presión arterial y temperatura",
+        "D": "EKG, presión arterial, dolorabilidad y oximetría de pulso",
+        "E": "EKG, presión arterial, frecuencia respiratoria y dolorabilidad"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál de los siguientes anestésicos endovenosos tiene efecto analgésico y acción disociativa?",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamina",
+        "C": "Tiopental",
+        "D": "Fentanilo",
+        "E": "Midazolam"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "¿En cuál de las siguientes condiciones se pueden encontrar falsos valores al medir la SpO2?",
+      "options": {
+        "A": "Diabetes mellitus tipo 2",
+        "B": "Anemia falciforme",
+        "C": "Arritmias",
+        "D": "Hiponatremia",
+        "E": "Hipermagnesemia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "¿Cuál de los siguientes enunciados corresponde a un objetivo de la premedicación anestésica?",
+      "options": {
+        "A": "Aumento del tono simpático",
+        "B": "Usar bajas dosis de relajantes musculares",
+        "C": "Aumento de la oxigenación pulmonar",
+        "D": "Analgesia posoperatoria prolongada",
+        "E": "Disminución de catecolaminas"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "¿Cuál de los siguientes es un factor que NO influye en la extensión de la anestesia regional epidural?",
+      "options": {
+        "A": "Edad",
+        "B": "Dolorabilidad",
+        "C": "Baricidad del anestésico",
+        "D": "Dosis del anestésico",
+        "E": "Embarazo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "La monitorización del estado de consciencia durante la anestesia general se realiza a través de:",
+      "options": {
+        "A": "Control de la presión arterial y la frecuencia cardiaca",
+        "B": "Reflejo palpebral",
+        "C": "Sistemas de índices basados en el EEG de superficie",
+        "D": "Pupilometría",
+        "E": "Respuesta a estimulación dolorosa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "El término \"halogenado\", atribuido a los agentes volátiles utilizados en anestesiología, es porque contienen:",
+      "options": {
+        "A": "Helio",
+        "B": "Carbono",
+        "C": "Manganeso",
+        "D": "Flúor",
+        "E": "Calcio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Los tubos endotraqueales que más se usan en la actualidad son de:",
+      "options": {
+        "A": "Cloruro de polivinilo o plástico",
+        "B": "Metal",
+        "C": "Caucho",
+        "D": "Hule",
+        "E": "Polietileno"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿Cuál de los siguientes factores influye en la farmacocinética de los anestésicos locales?",
+      "options": {
+        "A": "Temperatura corporal",
+        "B": "Tipo de cirugía",
+        "C": "Sexo",
+        "D": "Índice de masa corporal",
+        "E": "Potencia"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "En el monitoreo de la hipnosis con sistema Biespectral BIS. ¿Cuál es la puntuación que corresponde al plano de la anestesia general quirúrgica?",
+      "options": {
+        "A": "Entre 40 y 60",
+        "B": "Entre 20 y 30",
+        "C": "Entre 70 y 80",
+        "D": "Entre 85 y 95",
+        "E": "100"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "En la técnica de anestesia epidural, si se aplicara dosis equipotentes. ¿Cuál de los opioides mencionados producirá analgesia más rápida y con tiempo intermedio de duración?",
+      "options": {
+        "A": "Morfina",
+        "B": "Hidromorfina",
+        "C": "Meperidina",
+        "D": "Fentanilo",
+        "E": "Sulfentanilo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Paciente de 70 años, con hipertensión arterial, que será operado de hernia inguinal en forma electiva. Tratamiento antihipertensivo no incluye inhibidores de la enzima convertidora de angiotensina. ¿Cuál es la recomendación en relación a este tratamiento en el preoperatorio mediato?",
+      "options": {
+        "A": "Continuarlo",
+        "B": "Cambiarlo",
+        "C": "Suspenderlo",
+        "D": "Incrementarlo",
+        "E": "Agregar diurético"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "¿Cuál es la complicación mas frecuente del bloqueo neuroaxial paracervical?",
+      "options": {
+        "A": "Fiebre",
+        "B": "Bradicardia fetal",
+        "C": "Atonia uterina",
+        "D": "Edema del cérvix",
+        "E": "Infección urinaria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuál de los siguientes fármacos tiene menor o nulo efecto depresor miocárdico?",
+      "options": {
+        "A": "Halotano",
+        "B": "Isoflurano",
+        "C": "Enflurano",
+        "D": "Óxido nitroso",
+        "E": "Sevorano"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuál de los siguientes es un factor que produce aumento de la concentración alveolar mínima?",
+      "options": {
+        "A": "Alcoholismo crónico",
+        "B": "Hipotermia",
+        "C": "Obesidad",
+        "D": "Embarazo",
+        "E": "Hipertensión arterial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "En pacientes que presentan cefalea pospunción dural. ¿Cuál es el procedimiento que tiene mayor porcentaje de éxito?",
+      "options": {
+        "A": "Buena hidratación y analgesia precoz",
+        "B": "Parche hemático",
+        "C": "Posición en Trendelenburg más ingesta de cafeína",
+        "D": "Analgésicos parenterales",
+        "E": "Opioides"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "En la estimación del riesgo de tromboembolia. ¿Cuál es un criterio asociado a mediano riesgo?",
+      "options": {
+        "A": "Gran intervención ortopédica",
+        "B": "Hiponutrición",
+        "C": "Sobrepeso",
+        "D": "Enfermedad neoplásica",
+        "E": "Trombofilia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Paciente de 50 años con diagnóstico de cirrosis hepática, que será sometido a cirugía abdominal de emergencia con anestesia general. ¿Cuál es el relajante muscular de elección en el manejo anestésico?",
+      "options": {
+        "A": "Succinilcolina",
+        "B": "Pancuronio",
+        "C": "Vecuronio",
+        "D": "Rocuronio",
+        "E": "Atracurio"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Paciente de 16 años, llega a emergencia pálida con abundante sangrado vaginal, habiendo ingerido alimentos hace menos de 2 horas. Examen: PA: 90/50 mmHg, FC: 115X'. ¿Cuál es el fármaco más adecuado en el preoperatorio inmediato a fin de que ingrese a sala de operaciones?",
+      "options": {
+        "A": "Atropina",
+        "B": "Citrato de sodio",
+        "C": "Oxitocina",
+        "D": "Cimetidina",
+        "E": "Metoclopramida"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál de las siguientes benzodiazepinas tiene la vida media plasmática más corta?",
+      "options": {
+        "A": "Diazepam",
+        "B": "Midazolam",
+        "C": "Cloracepato",
+        "D": "Flurazepam",
+        "E": "Clordiazepóxido"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuál es el anestésico inhalado que por su menor acción irritante de mucosas, aroma agradable y rápida absorción es la mejor opción en la inducción anestésica en niños?",
+      "options": {
+        "A": "Isoflurano",
+        "B": "Sevoflurano",
+        "C": "Óxido nitroso",
+        "D": "Halothano",
+        "E": "Desflorano"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "Para los efectos de la seguridad de la aplicación anestésica, debemos saber que la médula espinal va desde el agujero occipital hasta:",
+      "options": {
+        "A": "La tercera o cuarta lumbar",
+        "B": "Solo la cuarta lumbar",
+        "C": "La quinta lumbar",
+        "D": "La primera sacra",
+        "E": "La primera o segunda lumbar"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Cuál de las siguientes escalas es usada para la valoración en neuroanestesia?",
+      "options": {
+        "A": "Lown",
+        "B": "Goldman",
+        "C": "Samsoon",
+        "D": "Wood Downess",
+        "E": "Hunt y Hess"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Anestésico local amida, con periodo de latencia y de acción cortos, ampliamente usado como antiarrítmico, relacionado con neurotoxicidad al ser aplicado por vía subaracnoidea. Estas características corresponden a:",
+      "options": {
+        "A": "Bupivacaína",
+        "B": "Lidocaína",
+        "C": "Etidocaína",
+        "D": "L Bupivacaína",
+        "E": "Ropivacaína"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "¿Cuál de los siguientes es un método mecánico para la valoración de la profundidad anestésica?",
+      "options": {
+        "A": "Electroencefalograma",
+        "B": "Contractilidad esofágica",
+        "C": "Potenciales evocados",
+        "D": "Índice biespectral",
+        "E": "Electrocardiograma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Paciente gestante con preeclampsia que presenta signos y síntomas hipertensivos difíciles de controlar. Al exámen obstétrico la edad gestacional es mayor a 34 semanas y el obstetra decide inducir el parto. ¿Cuál es el método anestésico más adecuado para manejar el trabajo de parto?",
+      "options": {
+        "A": "Anestesia raquídea de una sola dosis",
+        "B": "Sedación más analgesia",
+        "C": "La anestesia epidural",
+        "D": "Vía venosa más opiáceos",
+        "E": "Hipotensores sistémicos más analgesia parenteral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Paciente que va ser operado de glaucoma, con anestesia general intubada. ¿Cuál es el relajante muscular que debe evitarse?",
+      "options": {
+        "A": "Vecuronio",
+        "B": "Rocuronio",
+        "C": "Atracurio",
+        "D": "Succinilcolina",
+        "E": "Pancuronio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál es la benzodiazepina hidrosoluble que produce ansiolisis, amnesia y es usada en inducción anestésica por su rápido inicio y su tiempo de acción mas corto?",
+      "options": {
+        "A": "Midazolam",
+        "B": "Diazepam",
+        "C": "Propofol",
+        "D": "Loracepam",
+        "E": "Ketamina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál es la edad gestacional con mayor peligro de teratogenicidad en relación con los agentes anestésicos?",
+      "options": {
+        "A": "De tercera a octava semana",
+        "B": "Semana 14",
+        "C": "Semana 18",
+        "D": "Semana 24",
+        "E": "Semana 36"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuál es el coeficiente de partición s/g del sevoflurano?",
+      "options": {
+        "A": "0.69",
+        "B": "0.47",
+        "C": "0.42",
+        "D": "2.3",
+        "E": "1.41"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál es el valor de la concentración alveolar mínima del halotano?",
+      "options": {
+        "A": "0.75",
+        "B": "2",
+        "C": "1.7",
+        "D": "1.4",
+        "E": "100"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es el método anestésico más adecuado en niños que reciben radioterapia en forma ambulatoria?",
+      "options": {
+        "A": "Sedación más opiáceo",
+        "B": "Anestesia general simple con N2O",
+        "C": "Anestesia epidural más oxígeno con máscara",
+        "D": "Uso de infusión de propofol",
+        "E": "Uso de midazolam más oxígeno en máscara"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "En el algoritmo universal de la reanimación cardiopulmonar, la relación compresión/ventilación es de:",
+      "options": {
+        "A": "30:2",
+        "B": "15:2",
+        "C": "20:2",
+        "D": "1:1",
+        "E": "25:2"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Paciente usuaria de heparina de bajo peso molecular a quien se le suspendió en el preoperatorio, para aplicación de anestesia epidural con catéter. ¿Después de cuántas horas de retirar el catéter puede reiniciarse la heparina?",
+      "options": {
+        "A": "4",
+        "B": "12",
+        "C": "18",
+        "D": "24",
+        "E": "2"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál de los anestésicos locales mencionados de uso epidural, teniendo en cuenta su concentración, tiene mayor tiempo de duración y menor toxicidad cardiaca que la bupivacaína?",
+      "options": {
+        "A": "Etidocaína 0.5%",
+        "B": "Ropivacaína 0.5%",
+        "C": "Lidocaína 2%",
+        "D": "Mepivacaína 1%",
+        "E": "Clorprocaína 0.5%"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "Una buena forma de anticiparse a la hipotensión arterial en los bloqueos intra y epidurales es:",
+      "options": {
+        "A": "Colocar rápidamente en posición prona",
+        "B": "Aplicar rápido el anestésico",
+        "C": "Colocar en posición Trendelemburg",
+        "D": "Perfundir previamente de 10 a 20 ml/Kg de fluídos",
+        "E": "Aplicar sedación suave"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Paciente con sobrepeso que, en la evaluación pre anestésica de la vía aérea, solo se logra visualizar el paladar blando. Según la clasificación de Mallanpati corresponde a la clase:",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "IV",
+        "D": "II",
+        "E": "IIA"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Gestante de 27 años con hemorragia del tercer trimestre, llega a emergencia pálida y sudorosa, requiriendo operación cesárea de urgencia. Examen: PA:100/55 mmHg y FC: 120X'. ¿Cuál de los siguientes anestésico es de elección?",
+      "options": {
+        "A": "Lidocaína 2%",
+        "B": "Bupivacaína 0.50%",
+        "C": "Desflurano",
+        "D": "Isoflurano",
+        "E": "Ketamina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "El flumazenilo es un antagonista de los fármacos tipo:",
+      "options": {
+        "A": "Opiáceos",
+        "B": "Corticoides",
+        "C": "Anestésicos locales",
+        "D": "AINES",
+        "E": "Benzodiazepinas"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "La hipotermia transoperatoria produce efectos perjudiciales como:",
+      "options": {
+        "A": "Rápido despertar",
+        "B": "Aumento del metabolismo de fármacos anestésicos",
+        "C": "Incremento de la diuresis",
+        "D": "Arritmias cardiacas e isquemia",
+        "E": "Disminución de la resistencia vascular periférica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Paciente de 60 años con diagnóstico de hipertensión arterial y diabetes mellitus controladas, ingresa a sala de operaciones para colecistectomía laparoscópica. ¿Cuál es el riesgo perioperatorio que le corresponde según el sistema de clasificación del estado físico de la ASA?",
+      "options": {
+        "A": "III",
+        "B": "I",
+        "C": "IV",
+        "D": "II",
+        "E": "V"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "¿Cuál es la mejor medida preanestésica a tomar en un paciente con patología vesicular con dolor intenso, que se va intervenir de colecistectomía con obstrucción biliar?",
+      "options": {
+        "A": "Colocar sonda nasogástrica y administrar buena hidratación",
+        "B": "Hidratación y determinar hemoglobina y hematocrito",
+        "C": "Hidratación, analgesia con opioides y colocar sonda nasogástrica",
+        "D": "Aplicar atropina y colocar sonda nasogástrica",
+        "E": "Manejar dolorabilidad y estrés"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál de las siguientes es un signo tardío de la complicación anestésica denominada hipertermia maligna?",
+      "options": {
+        "A": "Taquicardia de causa desconocida",
+        "B": "Fiebre",
+        "C": "Hiperpotasemia",
+        "D": "Rigidez muscular",
+        "E": "Hipoxemia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "En relación al grado de bloqueo neuromuscular y su significado clínico, un TOF-Ratio = 0.5 corresponde a una:",
+      "options": {
+        "A": "Relajación abdominal",
+        "B": "Relajación faríngea",
+        "C": "Reducción alta del volumen corriente",
+        "D": "Respiración espontánea con riesgo de aspiración",
+        "E": "Respiración con suspiros"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Mujer de 16 años, pálida, con sangrado vaginal abundante, fue intervenida de legrado uterino con anestesia general simple, presentando en la etapa de recuperación excitación, sialorrea y taquicardia. ¿Cuál es el fármaco que con más probabilidad es el causante de esta reacción?",
+      "options": {
+        "A": "Pentotal",
+        "B": "Propofol",
+        "C": "Ketamina",
+        "D": "Oxido nitroso",
+        "E": "Oxitocina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "El fármaco de elección para revertir el efecto de los relajantes musculares no despolarizantes es:",
+      "options": {
+        "A": "Acetilcolina",
+        "B": "Atropina",
+        "C": "Etilefrina",
+        "D": "Neostigmina",
+        "E": "Escopolamina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿Cuál es el opioide de acción ultracorta usado como adyuvante en la anestesia general, metabolizado rápidamente por esterasas plasmáticas y tisulares inespecíficas?",
+      "options": {
+        "A": "Morfina",
+        "B": "Fentanilo",
+        "C": "Sufentanilo",
+        "D": "Remifentanilo",
+        "E": "Alfentanilo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "El método estándar para la valoración del gasto cardiaco en el paciente bajo efecto anestésico, es el de:",
+      "options": {
+        "A": "Fick",
+        "B": "La dilución de colorante",
+        "C": "La ecografía transesofágica",
+        "D": "El índice biespectral",
+        "E": "Termodilución"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál de los siguientes es un opiode con vida media de eliminación muy prolongada y qué en su estructura tiene una mezcla racémica?",
+      "options": {
+        "A": "Meperidina",
+        "B": "Metadona",
+        "C": "Morfina",
+        "D": "Fentanilo",
+        "E": "Remifentanilo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "En la técnica anestésica para cirugía laparoscópica con neumoperitoneo. ¿Cuál es el parámetro de las funciones vitales más importante a medir?",
+      "options": {
+        "A": "Capnometría",
+        "B": "Esfingomanometría",
+        "C": "Temperatura",
+        "D": "Oximetría de pulso",
+        "E": "Relajación muscular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "¿Cuál de los siguientes relajantes musculares puede ser usado en pacientes con asma?",
+      "options": {
+        "A": "Succinilcolina",
+        "B": "Atracurio",
+        "C": "Tubocurarina",
+        "D": "Cistracurio",
+        "E": "Rocuronio"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "En el adulto, la dosis óptima para poner fin a la fibrilación ventricular mediante el uso de desfibrilación bifásica es de:",
+      "options": {
+        "A": "100 J",
+        "B": "250 J",
+        "C": "150 J",
+        "D": "300 J",
+        "E": "350 J"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "¿Cuál es la fibra nerviosa cuya función está relacionada a la temperatura y el dolor?",
+      "options": {
+        "A": "A gamma",
+        "B": "A beta",
+        "C": "C",
+        "D": "A delta",
+        "E": "B"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "En la vía aérea difícil. ¿Cuál de los siguientes es un parámetro del Test de Wilson?",
+      "options": {
+        "A": "Movilidad de mandíbula",
+        "B": "Talla",
+        "C": "Distancia tiromentoniana",
+        "D": "Mallampati",
+        "E": "Movilidad cervical"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "La analgesia preventiva posoperatoria de procedimientos quirúrgicos abdominales, torácicos, pélvicos o de miembros inferiores tiene como característica:",
+      "options": {
+        "A": "Baja dolorabilidad y buen estado de conciencia",
+        "B": "Baja dolorabilidad y confort",
+        "C": "Requiere adicionar ketamina",
+        "D": "Bajo dolor, buena función pulmonar y evita trombosis venosas",
+        "E": "Reduce posible infección de herida operatoria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es el fármaco agonista alfa 2 adrenérgico que produce sedación, hipnosis, analgesia y bloqueo simpático con un efecto mínimo en la respiración?",
+      "options": {
+        "A": "Droperidol",
+        "B": "Propofol",
+        "C": "Midazolam",
+        "D": "Tiopental",
+        "E": "Dexmedetomidina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿Cuál de las siguientes es una característica de las heparinas de bajo peso molecular?",
+      "options": {
+        "A": "No inhiben el factor X",
+        "B": "Para acelerar su reversión no requieren uso de plasma fresco",
+        "C": "La semivida es más corta que de la heparina",
+        "D": "Su efecto se revierte rápidamente después de aplicar protamina",
+        "E": "No prolonga el TTP"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Cuál de los siguientes es un efecto adverso de los fármacos intradurales utilizados en la analgesia combinada?",
+      "options": {
+        "A": "Prurito",
+        "B": "Analgesia inapropiada",
+        "C": "Fiebre",
+        "D": "Reacción inflamatoria al catéter",
+        "E": "Infección"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál de los siguientes es un relajante despolarizante con eliminación plasmática?",
+      "options": {
+        "A": "Atracurio",
+        "B": "Cisatracurio",
+        "C": "Rocuronio",
+        "D": "Succinilcolina",
+        "E": "Pancuronio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "De los agentes hipnóticos inductores de la anestesia, el que tiene acción anticonvulsiva, leve acción analgésica y bajo efecto antiemético es:",
+      "options": {
+        "A": "Propofol",
+        "B": "Tiopental",
+        "C": "Ketamina",
+        "D": "Midazolam",
+        "E": "Etomidato"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "¿En cuál de las siguientes condiciones se encuentra disminuida la presión venosa central?",
+      "options": {
+        "A": "Insuficiencia cardiaca derecha",
+        "B": "Embolia pulmonar",
+        "C": "Hipovolemia",
+        "D": "Hipertensión pulmonar",
+        "E": "Taponamiento pericárdico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Paciente con diagnóstico de miastenia gravis, tratado con terapia anticolinesterásica, requiere ser operado aplicando anestesia general. ¿Cuál es la consideración a tener en cuenta en el manejo anestésico?",
+      "options": {
+        "A": "Si se aplica relajante muscular debe ser tipo no despolarizante",
+        "B": "No suspender terapia anticolinesterásica",
+        "C": "Los opiáceos son seguros",
+        "D": "La regurgitación no se presenta",
+        "E": "Las benzodiazepinas estan indicadas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Si en una mezcla de gases cada uno ejerce la misma presión que ejercería si el solo ocupara todo el recipiente, estariamos refiriendonos a la Ley de:",
+      "options": {
+        "A": "Henry",
+        "B": "Dalton",
+        "C": "Boyle",
+        "D": "Gay-Lussac",
+        "E": "De átomos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es el fármaco que acorta el período de latencia del anestésico local en la técnica de anestesia epidural?",
+      "options": {
+        "A": "Opiáceo",
+        "B": "Metil paraveno",
+        "C": "Suero fisiológico",
+        "D": "Adrenalina",
+        "E": "Bicarbonato"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Cuál es el relajante muscular adecuado en la inducción anestésica de un paciente para cirugía cardiaca que presenta bradicardia por administración de opiáceos en la preanestesia?",
+      "options": {
+        "A": "Pancuronio",
+        "B": "Vecuronio",
+        "C": "Succinilcolina",
+        "D": "Cisatracurio",
+        "E": "Mivacurio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Según la Asociación Americana de Anestesiología - ASA. El periodo de ayuno de leche materna en el preoperatorio recomendado para un lactante debe ser de:",
+      "options": {
+        "A": "4 h",
+        "B": "2 h",
+        "C": "6 h",
+        "D": "1 h",
+        "E": "8 h"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál de las siguientes es una condición asociada a un riesgo elevado de aspiracion broncopulmonar?",
+      "options": {
+        "A": "Obesidad mórbida",
+        "B": "Talla corta",
+        "C": "Cuello largo",
+        "D": "Dispepsia gástrica",
+        "E": "Tos productiva"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuál de las siguientes es una característica del Xenón como anestésico inhalatorio?",
+      "options": {
+        "A": "Alta solubilidad en sangre",
+        "B": "También produce hipertermia maligna",
+        "C": "Lenta recuperación",
+        "D": "No genera contaminación ambiental",
+        "E": "Bajo costo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "¿Cuál de las siguientes entidades es una contraindicación absoluta para el uso de tiopental?",
+      "options": {
+        "A": "Porfiria",
+        "B": "Insuficiencia renal aguda",
+        "C": "Hepatitis A",
+        "D": "Quemadura de II grado",
+        "E": "Hipoproteinemia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

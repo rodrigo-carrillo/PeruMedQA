@@ -1,0 +1,1450 @@
+{
+  "metadata": {
+    "year": 2022,
+    "exam": "Urología",
+    "source_pdf": "Urología.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Urología",
+    "sha256_pdf": "4878ac3a1bca50767b33c921e6e7df03b78fe57c255f323ef99fbd29bd2b0cc5",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:42",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 11,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Urología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9985,
+        "vec_max_loser": 0.0111,
+        "pix_min_winner": 0.597,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 20134,
+      "coverage_out_chars": 20134,
+      "human_reference": "_backup_csv_verificados/Year2022/Urología.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 567,
+        "solo_espacios": 33
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Qué anticolinérgico solo actúa en los receptores muscarínicos M3?",
+      "options": {
+        "A": "Oxibutinina",
+        "B": "Solifenacina",
+        "C": "Darifenacina",
+        "D": "Flavoxato",
+        "E": "Tolterodina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Lactante varón de 8 meses con poca ganancia ponderal, presenta fiebre de 39 °C desde hace dos días, irritabilidad, distención abdominal, anorexia y vómitos; niega otros síntomas. Examen: se evidencia adherencia balanoprepucial. ¿Cuál de las siguientes patologías es importante descartar?",
+      "options": {
+        "A": "Otitis media",
+        "B": "Apendicitis",
+        "C": "Neumonía",
+        "D": "Urolitiasis",
+        "E": "Infección urinaria"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Qué caracteriza a las infecciones urinarias pediátricas?",
+      "options": {
+        "A": "No evolucionan a un proceso de nefroesclerosis",
+        "B": "Son más frecuentes durante el primer año de vida",
+        "C": "La incidencia es 10 veces mayor en los lactantes",
+        "D": "Hay una asociación precisa entre síntomas y localización de las bacterias en la vía urinaria",
+        "E": "Las pilosidades o las fimbrias bacterianas disminuyen la virulencia de las bacterias"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "En el riñón, las arterias interlobulares se ramifican en arterias...",
+      "options": {
+        "A": "interlobulillares.",
+        "B": "segmentarias.",
+        "C": "aferentes.",
+        "D": "eferentes.",
+        "E": "arcuatas."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Se define hiperactividad vesical cuando la contracción del detrusor supera los ...... cm H2O con un volumen vesical ...",
+      "options": {
+        "A": "15 / inferior a 300 ml.",
+        "B": "15 / superior a 500 ml.",
+        "C": "10 / inferior a 100 ml.",
+        "D": "15 / superior a 300 ml.",
+        "E": "10 / superior a 100 ml."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "¿Cuál es una contraindicación para la realización de una biopsia de próstata?",
+      "options": {
+        "A": "Insuficiencia renal",
+        "B": "Adulto mayor",
+        "C": "Coagulopatía",
+        "D": "Estrechez uretral",
+        "E": "Litiasis vesical"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál es la causa más frecuente de formación de cálculos de calcio?",
+      "options": {
+        "A": "Hipercalciuria",
+        "B": "Hiperoxaluria",
+        "C": "Hipercalcemia",
+        "D": "Hiperuricosuria",
+        "E": "Hipercitraturia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "La inervación simpática y parasimpática procedente del plexo pelviano se dirige a la próstata a través de los nervios...",
+      "options": {
+        "A": "cavernosos.",
+        "B": "hipogástricos.",
+        "C": "femorales.",
+        "D": "vesicales.",
+        "E": "ilioinguinales."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuáles son los planos musculares que componen la musculatura del flanco lateral?",
+      "options": {
+        "A": "Oblicuo externo, oblicuo interno y abdominales transversos",
+        "B": "Oblicuo interno, dorsal ancho y psoas mayor y menor",
+        "C": "Psoas mayor, dorsal ancho y abdominales transversos",
+        "D": "Intercostales internos, oblicuo externo y dorsal ancho",
+        "E": "Dorsal ancho, oblicuo interno y abdominales transversos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Mujer de 33 años, desde hace 15 meses con dolor suprapúbico al llenado vesical, polaquiuria >10 veces, disuria permanente, niega nicturia y escape de orina. Urocultivos repetidos negativos, Ecografía: riñones normales, vejiga volumen premicción 110 ml, RPM 3%. ¿Cuál es un criterio de exclusión para el diagnóstico de cistitis intersticial?",
+      "options": {
+        "A": "Urocultivos negativos",
+        "B": "Polaquiuria >8 veces",
+        "C": "Síntomas >6 meses",
+        "D": "Ausencia de nicturia",
+        "E": "Ausencia de incontinencia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Cuál es una característica del divertículo congénito de la vejiga?",
+      "options": {
+        "A": "Es más frecuente en niños",
+        "B": "Son múltiples",
+        "C": "Frecuente en niños >10 años",
+        "D": "Asociado a estrechez uretral",
+        "E": "Gran trabeculación de la vejiga"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuál es un factor que afecta la función peristáltica normal del uréter favoreciendo el ascenso de bacterias de la vejiga al riñón?",
+      "options": {
+        "A": "Embarazo",
+        "B": "Menstruación",
+        "C": "Estreñimiento",
+        "D": "Menopausia",
+        "E": "Inmunodeficiencia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Varón de 81 años que acude para instilación vesical de BCG. Antecedentes: RTU de tumor vesical, carcinoma urotelial de alto riesgo. ¿Cuál es una contraindicación absoluta para colocación de BCG en cáncer de vejiga?",
+      "options": {
+        "A": "Infección urinaria",
+        "B": "Mal estado general",
+        "C": "Edad avanzada",
+        "D": "Cateterismo traumático",
+        "E": "Reflujo ureteral"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Mujer de 46 años con síntomas irritativos urinarios recurrentes desde hace 6 meses. Antecedentes: cirugía de divertículo uretral de 5 cm hace 6 meses, 3 infecciones urinarias después de la cirugía. Urocultivo positivo, ecografía renal y vesical normales. ¿Cuál es una complicación frecuente de la diverticulectomía uretral transvaginal?",
+      "options": {
+        "A": "Lesión vesical",
+        "B": "Estenosis vaginal",
+        "C": "Necrosis uretral distal",
+        "D": "Estenosis uretral",
+        "E": "Infección urinaria recurrente"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál es la causa más frecuente de fístula renovascular?",
+      "options": {
+        "A": "Nefrolitotomía anatrófica",
+        "B": "Nefrolitotomía percutánea",
+        "C": "Nefrectomía laparoscópica",
+        "D": "Nefrostomía",
+        "E": "Pielolitotomía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿A partir de qué semana gestacional la orina representa la mayor parte del líquido amniótico?",
+      "options": {
+        "A": "15",
+        "B": "10",
+        "C": "12",
+        "D": "20",
+        "E": "8"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "¿Cuál es el sitio más frecuente de la tuberculosis urogenital?",
+      "options": {
+        "A": "Riñón",
+        "B": "Epidídimo",
+        "C": "Uréter",
+        "D": "Vejiga",
+        "E": "Próstata"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "El diagnóstico ecográfico Doppler del varicocele consiste en la dilatación de los vasos venosos mayor de:",
+      "options": {
+        "A": "1.5 mm",
+        "B": "2 mm",
+        "C": "0.25 mm",
+        "D": "1 mm",
+        "E": "0.75 mm"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Con qué diagnóstico se indica colocar el pesario con la vejiga relativamente llena?",
+      "options": {
+        "A": "Vejiga hiperactiva",
+        "B": "Enuresis nocturna",
+        "C": "Prolapso genital anterior",
+        "D": "Retención urinaria",
+        "E": "Incontinencia de esfuerzo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Qué medicamento promueve de forma directa la formación de cálculos urinarios?",
+      "options": {
+        "A": "Furosemida",
+        "B": "Acetazolamida",
+        "C": "Corticosteroides",
+        "D": "Enalapril",
+        "E": "Triamtereno"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Mujer de 65 años presenta pérdida constante de orina con patrón normal de micción posterior a histerectomía hace 6 meses. UROTEM con contraste: dilatación del uréter y pelvis renal derecha. ¿Qué tipo de fístula es más probable?",
+      "options": {
+        "A": "Vesicovaginal",
+        "B": "Uterovaginal",
+        "C": "Vesicorectal",
+        "D": "Ureterorectal",
+        "E": "Ureterovaginal"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cuál es la complicación más importante de la reparación de la fístula vésicovaginal?",
+      "options": {
+        "A": "Hemorragia significativa",
+        "B": "Lesión ureteral",
+        "C": "Estenosis de la vagina",
+        "D": "Infección urinaria",
+        "E": "Recidiva de la fístula"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Mujer de 30 años con dolor pélvico y dificultad para miccionar desde hace 1 día. Niega urgencia miccional. Antecedentes: niega DM2, niega enfermedad neurológica. Examen: abdomen con globo vesical. Examen de orina no patológico, ecografía vesical: volumen pre micción 1000 ml, RPM 90%. ¿Cuál es el síndrome más probable?",
+      "options": {
+        "A": "Beckwith",
+        "B": "Wiedemann",
+        "C": "Fowler",
+        "D": "Down",
+        "E": "Alport"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "¿Qué factor afecta el pasaje del cálculo en uréter?",
+      "options": {
+        "A": "Componentes del cálculo",
+        "B": "Presión hidrostática de la vena renal",
+        "C": "Peristaltismo abdominal",
+        "D": "Intensidad del dolor lumbar",
+        "E": "Estrecheces intrínsecas del uréter"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Cuál es una indicación para diverticulectomía vesical?",
+      "options": {
+        "A": "Asintomáticos",
+        "B": "Litiasis en divertículo",
+        "C": "Gran divertículo",
+        "D": "Microhematuria",
+        "E": "Incontinencia urinaria"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "La contracción de los músculos......produce la fase de erección rígida.",
+      "options": {
+        "A": "bulbocavernosos",
+        "B": "sinusoidales",
+        "C": "pubococcígeos",
+        "D": "isquiopubianos",
+        "E": "isquiocavernosos"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿Cuál es la fístula adquirida más común del tracto urinario?",
+      "options": {
+        "A": "Ureterovaginal",
+        "B": "Vesicouterina",
+        "C": "Uretrovaginal",
+        "D": "Vesicovaginal",
+        "E": "Pieloentérica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Cuál es el volumen promedio de eyaculación humana?",
+      "options": {
+        "A": "0.5 ml",
+        "B": "3 ml",
+        "C": "7 ml",
+        "D": "8 ml",
+        "E": "1 ml"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál de los siguientes tumores se origina en la túnica vaginal testicular?",
+      "options": {
+        "A": "Cistoadenoma",
+        "B": "Gonadoblastoma",
+        "C": "Teratoma",
+        "D": "Mesotelioma",
+        "E": "Sarcoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Varón de 61 años presenta escape de orina con urgencia miccional desde hace 2 meses. Niega otros síntomas urinarios. Antecedentes: RTUp hace 3 meses. Urocultivo negativo, cistoscopía normal. ¿Cuál es la sospecha diagnóstica?",
+      "options": {
+        "A": "Lesión del esfínter externo",
+        "B": "Incontinencia urinaria de esfuerzo",
+        "C": "Hiperactividad vesical",
+        "D": "Litiasis vesical",
+        "E": "Estrechez uretral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Qué nervio inerva el músculo cremáster?",
+      "options": {
+        "A": "Genitocrural",
+        "B": "Femorocutáneo",
+        "C": "Ilioinguinal",
+        "D": "Hipogástrico",
+        "E": "Abdominogenital"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es una característica de los adenomas suprarrenales?",
+      "options": {
+        "A": "Tienen <10 UH en la TEM sin contraste",
+        "B": "Las masas >6 cm suelen ser benignas",
+        "C": "La frecuencia de presentación es baja",
+        "D": "La incidencia disminuye con la edad",
+        "E": "Es frecuente la indicación de biopsia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Varón de 41 años trasplantado renal hace 1 año, acude a emergencia por cefalea. PA 200/160 mmHg refractario al tratamiento regular. Si la sospecha diagnóstica es una estenosis de la arteria renal. ¿Cuál es el examen de elección?",
+      "options": {
+        "A": "Ecografía pélvica",
+        "B": "Urotem con contraste",
+        "C": "Urografía excretoria",
+        "D": "Radiorrenograma con furosemida",
+        "E": "Ecografía doppler color"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Varón de 60 años con disminución progresiva de fuerza y duración de la erección desde hace 4 meses. Líbido normal. HTA en tratamiento desde hace 5 meses. Niega otras comorbilidades. ¿Cuál de los siguientes medicamentos antihipertensivos podría ser el causante de la disfunción eréctil?",
+      "options": {
+        "A": "Amlodipino",
+        "B": "Propanolol",
+        "C": "Diltiazem",
+        "D": "Captopril",
+        "E": "Losartán"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "En la uroflujometría, la medición del flujo es inexacta cuando el volumen urinario es...",
+      "options": {
+        "A": "superior a 150 ml.",
+        "B": "inferior a 180 ml.",
+        "C": "superior a 300 ml.",
+        "D": "superior a 200 ml.",
+        "E": "inferior a 150 ml."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Se denomina eritroplasia de Queyrat al carcinoma in situ de pene que se localiza en...",
+      "options": {
+        "A": "cuerpo de pene.",
+        "B": "glande.",
+        "C": "escroto.",
+        "D": "base de pene.",
+        "E": "uretra."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Cuál hormona es el principal estímulo para el crecimiento de los túbulos seminíferos durante el desarrollo?",
+      "options": {
+        "A": "LH",
+        "B": "Prolactina",
+        "C": "GnRH",
+        "D": "FSH",
+        "E": "Dihidrotestosterona"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Qué medicamentos pueden ocasionar retención urinaria en varones?",
+      "options": {
+        "A": "Quinolonas",
+        "B": "Corticoides",
+        "C": "Relajantes musculares",
+        "D": "Ácido tranexámico",
+        "E": "Descongestivos nasales"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Mujer de 25 años acude por dolor lumbar derecho, SAT, escalofríos y malestar general desde hace 2 días. Niega antecedentes patológicos. Examen de orina: piuria; hemograma: leucocitosis con desviación izquierda. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Cistitis aguda",
+        "B": "Pielonefritis aguda",
+        "C": "Cólico renoureteral",
+        "D": "Lumbalgia aguda",
+        "E": "Absceso del psoas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿Cuál es una causa de incontinencia urinaria transitoria?",
+      "options": {
+        "A": "Cálculo ureteral",
+        "B": "Vaginitis atrófica",
+        "C": "Lumbalgia",
+        "D": "Oliguria",
+        "E": "Diarrea"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Cuál es la causa más común de fistula del tracto urinario en países industrializados?",
+      "options": {
+        "A": "Anomalías congénitas",
+        "B": "Iatrogénicas",
+        "C": "Radioterapia",
+        "D": "Enfermedades malignas",
+        "E": "Inflamación e infección"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "La vena gonadal derecha drena directamente en la vena...",
+      "options": {
+        "A": "renal derecha.",
+        "B": "ilíaca común.",
+        "C": "ilíaca externa.",
+        "D": "cava superior.",
+        "E": "cava inferior."
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "¿En qué se transforman los conductos de Wolff estimulados por la testosterona?",
+      "options": {
+        "A": "Próstata",
+        "B": "Vesículas seminales",
+        "C": "Pene",
+        "D": "Escroto",
+        "E": "Vejiga"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "¿Cuál es una característica de la fístula vesicouterina?",
+      "options": {
+        "A": "Siempre se presenta incontinencia urinaria",
+        "B": "El tratamiento siempre es quirúrgico",
+        "C": "La causa más común es la cesárea",
+        "D": "La reparación quirúrgica no mejora la fertilidad",
+        "E": "Se debe realizar histerectomía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿En qué zona se desarrolla el carcinoma de próstata?",
+      "options": {
+        "A": "Periférica",
+        "B": "Central",
+        "C": "Anterior",
+        "D": "Uretra",
+        "E": "Transición"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Mujer de 35 años con microhematuria. Niega antecedentes patológicos y quirúrgicos. UROTEM: fase sin contraste con tumoración en tercio medio de riñón derecho de 3x3 cm con -4UH, en la fase nefrogénica presenta realce del contraste a 3UH. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Cáncer de urotelio",
+        "B": "Quiste simple",
+        "C": "Cáncer de riñón",
+        "D": "Angiomiolipoma renal",
+        "E": "Quiste hidatídico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es un indicador clínico de lesión vesical por fractura de pelvis?",
+      "options": {
+        "A": "Buen volumen urinario",
+        "B": "Líquido libre intraperitoneal",
+        "C": "Orina clara",
+        "D": "Dolor lumbar bilateral",
+        "E": "Enfisema subcutáneo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Cuál es una causa de nicturia asociada al volumen urinario?",
+      "options": {
+        "A": "Diabetes mellitus",
+        "B": "Insomnio",
+        "C": "Urgencia miccional",
+        "D": "Hiperactividad del detrusor",
+        "E": "Incontinencia por rebosamiento"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál de los siguientes microrganismos causa más frecuentemente pielonefritis xantogranulomatosa?",
+      "options": {
+        "A": "Pseudomona sp",
+        "B": "Proteus mirabilis",
+        "C": "Staphylococo aureus",
+        "D": "Streptococo sp",
+        "E": "Chlamydia trachomatis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál es el punto por donde habitualmente el uréter cruza a los vasos ilíacos?",
+      "options": {
+        "A": "Bifurcación de vasos ilíacos comunes",
+        "B": "Bifurcación de arteria ilíaca externa",
+        "C": "Paralelo al sigmoides",
+        "D": "Por delante del fondo uterino",
+        "E": "Por detrás del ovario"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál es el tumor benigno renal más frecuente?",
+      "options": {
+        "A": "Adenoma cortical",
+        "B": "Adenoma metanéfrico",
+        "C": "Oncocitoma",
+        "D": "Angiomiolipoma",
+        "E": "Nefroma quístico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿A cuántos milímetros equivale 1 french (Fr)?",
+      "options": {
+        "A": "0.55",
+        "B": "0.33",
+        "C": "0.23",
+        "D": "0.52",
+        "E": "0.35"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿En qué caso se debe reparar inmediatamente una lesión vesical?",
+      "options": {
+        "A": "Microhematuria persistente",
+        "B": "Lesión retroperitoneal por traumatismo externo",
+        "C": "Lesión no penetrante de vejiga",
+        "D": "Fragmentos óseos al interior de la vejiga",
+        "E": "Fractura de pelvis que no requiere reducción"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Mujer de 16 años con dificultad para la micción. Antecedentes: traumatismo pélvico por arma de fuego hace 1 año. Examen: reflejo bulbocavernoso negativo. Urocultivo: negativo. Ecografía: capacidad vesical 800 ml. ¿Qué raíces nerviosas están afectadas?",
+      "options": {
+        "A": "L4 - L6",
+        "B": "S2 - S4",
+        "C": "L5 - S1",
+        "D": "D10- D12",
+        "E": "D11 - L2"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuál es el primer lugar donde drenan las metástasis linfáticas del cáncer testicular derecho?",
+      "options": {
+        "A": "Ilíacos derechos",
+        "B": "Paraaórticos",
+        "C": "Intercavoaórticos",
+        "D": "Paracavos externos",
+        "E": "Intermesentéricos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Varón de 60 años en preparación para una biopsia de próstata transrectal ecodirigida. Hipertenso controlado. Niega RAMS, cirugías previas y otras enfermedades. ¿Cuál es la mejor opción como profilaxis antibiótica?",
+      "options": {
+        "A": "Amoxicilina",
+        "B": "Cotrimoxazol",
+        "C": "Macrólidos",
+        "D": "Fluoroquinolonas",
+        "E": "Cefalosporina de 1a generación"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Varón de 22 años con lesiones dolorosas en pene que aparecieron 4 días después de contacto sexual sin protección con desconocida. Niega otros síntomas. Niega RAMS y comorbilidades. Examen: dorso de pene con lesiones vesiculares (4), agrupadas con base eritematosa; linfadenomegalias de 1 cm inguinales bilaterales, dolorosas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Herpes virus genital",
+        "B": "Linfogranuloma venéreo",
+        "C": "Sífilis primaria",
+        "D": "Tricomoniasis de pene",
+        "E": "Infección gonocócica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Cuál de los siguientes medicamentos es un ISRS de vida media corta que se indica a demanda para el tratamiento de la eyaculación precoz?",
+      "options": {
+        "A": "Paroxetina",
+        "B": "Sertralina",
+        "C": "Fluoxetina",
+        "D": "Clomipramina",
+        "E": "Dapoxetina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál de las siguientes disminuye la formación de cálculos vesicales en un lesionado medular?",
+      "options": {
+        "A": "Uretrocistoscopía",
+        "B": "Colector urinario",
+        "C": "Cateterismo intermitente",
+        "D": "Dilatación uretral",
+        "E": "Sonda permanente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Varón de 30 años con erección sostenida desde hace 10 horas, no dolorosa. Hace 2 días recibió un puntapié en pene. Niega comorbilidades y cirugías. Examen: pene erecto no rígido, leve edema de glande, coloración normal, equímosis en zona penoescrotal izquierda. Se realiza AGA de cuerpos cavernosos. ¿Cuál será el hallazgo más probable?",
+      "options": {
+        "A": "pH 7.30, PO2 40 mmHg, PCO2 55 mmHg",
+        "B": "pH 7.4, PO2 35 mmHg, PCO2 65 mmHg",
+        "C": "pH 7.4, PO2 98 mmHg, PCO2 40 mmHg",
+        "D": "pH 7.25, PO2 90 mmHg, PCO2 65 mmHg",
+        "E": "pH 7.25, PO2 25 mmHg, PCO2 55 mmHg"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Qué músculos son un elemento funcional de soporte de la pelvis femenina y cooperan para prevenir el prolapso de los órganos urogenitales?",
+      "options": {
+        "A": "Uretrales posteriores",
+        "B": "Placa de elevadores del ano",
+        "C": "Bulboesponjoso central",
+        "D": "Pubouretrales anteriores",
+        "E": "Isquiopúbicos posteriores"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "La arteria renal se divide en ramas segmentarias. La primera rama es la segmentaria posterior, la cual pasa por...",
+      "options": {
+        "A": "delante del uréter.",
+        "B": "detrás del sistema colector.",
+        "C": "encima de la vena renal.",
+        "D": "debajo de cálices anteriores.",
+        "E": "al costado del seno renal."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es el subtipo histopatológico de carcinoma de células renales más frecuente?",
+      "options": {
+        "A": "Papilar",
+        "B": "Renal medular",
+        "C": "De células claras",
+        "D": "Cromófobo",
+        "E": "Mucinoso tubular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Niña de 10 años con pielonefritis recurrente desde los 4 años. Antecedente: presentó absceso renal resuelto hace 6 meses. Actualmente asintomática. Urocultivo negativo. Se desea evaluar la corteza renal para detectar nefroesclerosis. ¿Qué examen es el más indicado?",
+      "options": {
+        "A": "UROTEM con contraste",
+        "B": "Urorresonancia magnética",
+        "C": "Urografía intravenosa",
+        "D": "Cistografía miccional",
+        "E": "Gammagrafía renal con DMSA"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Cuál es el tipo de neoplasia más frecuente de la uretra masculina?",
+      "options": {
+        "A": "Carcinoma de células transicionales",
+        "B": "Adenocarcinoma",
+        "C": "Paragangliomas",
+        "D": "Sarcoma",
+        "E": "Carcinoma epidermoide"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuándo es recomendable el tratamiento de la bacteriuria asintomática?",
+      "options": {
+        "A": "Diabetes",
+        "B": "Usuario de sonda",
+        "C": "Embarazo",
+        "D": "Menopausia",
+        "E": "Adolescencia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "Varón de 60 años con diagnóstico de carcinoma de células renales en pre quirúrgicos. TP prolongado, fosfatasa alcalina elevada, bilirrubina total elevada, hipoalbuminemia. ¿Cuál es el síndrome paraneoplásico que está manifestando?",
+      "options": {
+        "A": "Cushing",
+        "B": "Strudel",
+        "C": "Von Hippel-Lindau",
+        "D": "Stauffer",
+        "E": "Birt-Hogg-Dubé"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Varón de 68 años que presentó el síndrome del iris flácido intraoperatorio durante cirugía de catarata. ¿Qué medicamento se asocia a esta complicación?",
+      "options": {
+        "A": "Alfuzosina",
+        "B": "Finasteride",
+        "C": "Tadalafilo",
+        "D": "Tamsulosina",
+        "E": "Dutasteride"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Qué zona suele ser el origen de la hiperplasia benigna de próstata?",
+      "options": {
+        "A": "Cuello vesical",
+        "B": "Periférica",
+        "C": "Estromal",
+        "D": "Cápsula quirúrgica",
+        "E": "De transición"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Según la clasificación de Bosniak. ¿Qué categoría de quiste renal requiere resección quirúrgica?",
+      "options": {
+        "A": "III",
+        "B": "IA",
+        "C": "II",
+        "D": "II F",
+        "E": "II C"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Varón de 95 años con demencia desde hace 7 años, acude por incontinencia urinaria de urgencia desde hace 8 meses. Niega otras comorbilidades. Urocultivo negativo, PSA 5 ng/ml, ecografía vesical: volumen premicción 100 ml, RPM 5%, próstata 30 cc. ¿La afectación de qué área encefálica se relaciona con disfunción miccional?",
+      "options": {
+        "A": "Lóbulo occipital",
+        "B": "Lóbulo parietal",
+        "C": "Cerebelo",
+        "D": "Tronco encefálico",
+        "E": "Lóbulo frontal"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Niña de 5 años con hematuria, dolor abdominal, irritabilidad, vómitos y diarrea desde hace 1 día. Antecedentes: niega comorbilidades, madre con litiasis renal. Examen de orina: leucocitos 3/campo, hematíes 30/campo. Ecografía: leve hidronefrosis derecha. ¿Cuál es la sospecha diagnóstica?",
+      "options": {
+        "A": "Infección urinaria",
+        "B": "Tumor de Wilms",
+        "C": "Urolitiasis",
+        "D": "Gastritis",
+        "E": "Apendicitis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Varón de 30 años acude por dolor intenso y gran hematoma en pene durante el coito. Se diagnostica fractura de pene. ¿En qué área del pene es más probable encontrar la rotura?",
+      "options": {
+        "A": "Dorsal",
+        "B": "Proximal",
+        "C": "Coronal",
+        "D": "Lateral",
+        "E": "Glande"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál es el principal neurotransmisor que controla la flacidez y detumescencia peniana?",
+      "options": {
+        "A": "Óxido nítrico",
+        "B": "Endotelina",
+        "C": "Noradrenalina",
+        "D": "Acetilcolina",
+        "E": "Adrenalina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "La uretra membranosa está rodeada por...",
+      "options": {
+        "A": "la membrana perineal.",
+        "B": "el esfínter uretral estriado.",
+        "C": "una lámina muscular plana.",
+        "D": "el hiato urogenital.",
+        "E": "los ligamentos puboprostáticos."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Varón de 25 años con lesiones en pene compatibles con infección por molusco contagioso. Niega comorbilidades. RAMS: macrólidos. Con respecto al tratamiento. ¿Cuál es la opción más adecuada?",
+      "options": {
+        "A": "Doxiciclina 100 mg VO bid por 7 días",
+        "B": "Es autolimitada, no requiere tratamiento",
+        "C": "Metronidazol 500 mg VO bid por 10 días",
+        "D": "Betametasona al 1% tópica bid por 15 días",
+        "E": "Aseo genital con solución yodada por 1 mes"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "¿Qué patología renal se caracteriza por la acumulación de macrófagos espumosos cargados de lípidos?",
+      "options": {
+        "A": "Absceso renal",
+        "B": "Hidronefrosis infectada",
+        "C": "Pielonefritis enfisematosa",
+        "D": "Equinococosis renal",
+        "E": "Pielonefritis xantogranulomatosa"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Varón de 57 años con aneyaculación desde hace 8 meses. Refiere buen líbido y leve disminución de fuerza de la erección. Hipertenso en tratamiento con losartan 50 mg/día. Niega otras enfermedades y cirugías. Padre y hermana con DM2. ¿Cuál de las siguientes decisiones considera que es más importante realizar?",
+      "options": {
+        "A": "Retiro de losartan",
+        "B": "Evaluación psiquiátrica",
+        "C": "Dosaje de prolactina",
+        "D": "Descarte de DM2",
+        "E": "Estudio urodinámico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuál es un tumor testicular de células germinales?",
+      "options": {
+        "A": "Gonadoblastoma",
+        "B": "Teratoma",
+        "C": "Plasmocitoma",
+        "D": "Carcinoide",
+        "E": "Adenomatoide"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cómo se le denomina a la extensión de la corteza entre las pirámides renales?",
+      "options": {
+        "A": "Médula renal",
+        "B": "Cáliz menor",
+        "C": "Línea de Brodel",
+        "D": "Papila renal",
+        "E": "Columna de Bertin"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Los andrógenos circulantes producidos por el testículo fetal estimulan el desarrollo de...",
+      "options": {
+        "A": "riñones.",
+        "B": "vejiga.",
+        "C": "uréteres.",
+        "D": "próstata.",
+        "E": "uretra."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Una velocidad de ascenso del PSA mayor de......ng/ml por año se suele asociar con cáncer de próstata y justifica la biopsia.",
+      "options": {
+        "A": "0.65",
+        "B": "0.25",
+        "C": "0.35",
+        "D": "0.75",
+        "E": "0.55"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Cuál es una característica de la tuberculosis urogenital?",
+      "options": {
+        "A": "En la vejiga, la tuberculosis afecta principalmente el techo y fondo",
+        "B": "Los bacilos tuberculosos llegan al epidídimo por vía linfática",
+        "C": "La tuberculosis ureteral suele ser una extensión de la tuberculosis renal",
+        "D": "Es usual el compromiso de la próstata y las vesículas seminales",
+        "E": "El compromiso renal se da principalmente por diseminación linfática"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "¿Cuál es la complicación tardía más frecuente de la prostatectomía radical?",
+      "options": {
+        "A": "Infección urinaria",
+        "B": "Disfunción eréctil",
+        "C": "Divertículo vesical",
+        "D": "Hernia umbilical",
+        "E": "Eyaculación precoz"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "El......es el tumor retroperitoneal primario más frecuente y se caracteriza por ser de grandes dimensiones.",
+      "options": {
+        "A": "leiomiosarcoma",
+        "B": "fibrosarcoma",
+        "C": "rabdomiosarcoma",
+        "D": "histiocitoma maligno",
+        "E": "liposarcoma"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "El margen de seguridad que da el láser de Holmio-YAG durante la litotricia endoscópica, es porque la energía del láser no se propaga por más de......en el tejido.",
+      "options": {
+        "A": "1 mm",
+        "B": "2 mm",
+        "C": "3 mm",
+        "D": "4 mm",
+        "E": "5 mm"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Mujer de 76 años con lesión carnosa en el área genital. Examen: masa exofítica, rojiza, de 1 cm en meato uretral, móvil, no dolorosa. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Quiste de Skene",
+        "B": "Quiste de pared vaginal",
+        "C": "Divertículo uretral",
+        "D": "Quiste de Gartner",
+        "E": "Carúncula uretral"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "El éxito de la profilaxis antibiótica en infección urinaria recurrente depende del efecto que ejerza el antibiótico sobre los reservorios de las bacterias patógenas en el......y el...",
+      "options": {
+        "A": "recto/periné.",
+        "B": "meato uretral/periné.",
+        "C": "vello púbico/intestino.",
+        "D": "introito vaginal/intestino.",
+        "E": "vello púbico/introito vaginal."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Qué examen evalúa las alteraciones perinatales de la vía urinaria?",
+      "options": {
+        "A": "Urografía",
+        "B": "Tomografía",
+        "C": "Ecografía",
+        "D": "Gammagrafía",
+        "E": "Radiografía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "La fascia dorsolumbar proporciona cobertura anterior al músculo......y forma el límite posterior del...",
+      "options": {
+        "A": "dorsal ancho / retroperitoneo.",
+        "B": "sacroespinoso / peritoneo.",
+        "C": "oblicuo menor / retroperitoneo.",
+        "D": "cuadrado lumbar / retroperitoneo.",
+        "E": "abdominal recto / peritoneo."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿En qué vertebra se origina el músculo psoas mayor?",
+      "options": {
+        "A": "D11",
+        "B": "D12",
+        "C": "D10",
+        "D": "D9",
+        "E": "D8"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Varón de 40 años con aumento de volumen del testículo derecho desde hace 4 meses, no doloroso. Antecedente de orquidopexia derecha a los 4 años de edad. Examen: Testículo derecho con masa palpable de 3cm, consistencia dura, en tercio medio. Ecografía: masa intratesticular derecha, hipoecogénica, multinodular. Alfa fetoproteina negativa. ¿Cuál es el tipo de tumor más probable?",
+      "options": {
+        "A": "Carcinoma epidermoide",
+        "B": "Teratoma",
+        "C": "Del saco vitelino",
+        "D": "Seminoma",
+        "E": "Carcinoma embrionario"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Dónde nace el conducto deferente?",
+      "options": {
+        "A": "Cabeza del epidídimo",
+        "B": "Rete testis",
+        "C": "Cola del epidídimo",
+        "D": "Vesícula seminal",
+        "E": "Polo superior testicular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Qué examen confirma el diagnóstico de fístula rectouretral?",
+      "options": {
+        "A": "Radiografía de colon",
+        "B": "Urodinamia",
+        "C": "Cistouretrografía miccional",
+        "D": "Ecografía vesical",
+        "E": "Ecografía transrectal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es un cálculo coraliforme?",
+      "options": {
+        "A": "Oxalato de calcio",
+        "B": "Fosfato de calcio",
+        "C": "Ácido úrico",
+        "D": "Estruvita",
+        "E": "Cistina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Cuál es un determinante principal en la formación de cálculos de ácido úrico?",
+      "options": {
+        "A": "Poliuria",
+        "B": "Hipercalciuria",
+        "C": "Hipocitraturia",
+        "D": "pH urinario bajo",
+        "E": "Hipomagnesiuria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Cuál sustancia es necesaria para la descondensación de la cromatina y para que se separe la cabeza de la cola del espermatozoide durante la fertilización?",
+      "options": {
+        "A": "Acrosina",
+        "B": "Fructosa",
+        "C": "Zinc",
+        "D": "L-carnitina",
+        "E": "Cobre"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál es el sitio de acción del finasteride?",
+      "options": {
+        "A": "Adenohipófisis",
+        "B": "Suprarrenal",
+        "C": "Testículos",
+        "D": "Hígado",
+        "E": "Próstata"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Mujer de 70 años con escape de orina al esfuerzo físico desde hace 2 años. Niega urgencia miccional. Niega comorbilidades y tratamiento hormonal. Urocultivo negativo. Ecografía renal y vesical normales. ¿Cuál es la causa más probable de la incontinencia urinaria?",
+      "options": {
+        "A": "Divertículo uretral",
+        "B": "Carúncula uretral",
+        "C": "Fístula vesicovaginal",
+        "D": "Hipermovilidad uretral",
+        "E": "Divertículo vesical"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "¿Cuál es una indicación absoluta de exploración quirúrgica en traumatismo renal?",
+      "options": {
+        "A": "Lesión renal grado 3",
+        "B": "Microhematuria persistente",
+        "C": "Lesión renal grado 4",
+        "D": "Estabilidad hemodinámica",
+        "E": "Hematoma retroperitoneal expansivo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,1349 @@
+{
+  "metadata": {
+    "year": 2023,
+    "exam": "PSIQUIATRÍA",
+    "source_pdf": "PSIQUIATRÍA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Psiquiatría",
+    "sha256_pdf": "65be7f4eee9d470f9a6cf029212cd63128849c942bd7d8204a06c8de3b667bf1",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:30:50",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Psiquiatría",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9985,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.6056,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 25782,
+      "coverage_out_chars": 25782,
+      "human_reference": "_backup_csv_verificados/Year2023/PSIQUIATRÍA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 433,
+        "solo_espacios": 67
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál es la lesión encefálica más frecuente en consumidores crónicos de inhalantes?",
+      "options": {
+        "A": "Leucoencefalopatía",
+        "B": "Infarto occipital",
+        "C": "Hemorragia aracnoidea",
+        "D": "Microinfartos frontales"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Mujer de 24 años, que fue secuestrada y asaltada por una banda hace 6 meses. Consulta por experimentar flashbacks, sueños donde es perseguida y huye de asaltantes, angustia y palpitaciones al ver que se acercan varios hombres juntos y sensación de embotamiento emocional. ¿Cuál es la alternativa farmacológica de elección?",
+      "options": {
+        "A": "Haloperidol",
+        "B": "Litio",
+        "C": "Paroxetina",
+        "D": "Clobazam"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Mujer de 31 años, que llega a terapia por discusiones con el esposo porque se rehúsa a salir a la calle o quedarse en casa sin compañía; abandonó su trabajo hace 6 meses y no acude sola a entrevistas laborales, aunque necesita el empleo. Afirmó que tiene miedo de estar sola en casa o en lugares con mucha gente, porque teme que le pase \"algo terrible, como que me desmaye, me dé un infarto o algo así, y nadie pueda ayudarme\". ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Manipulación",
+        "B": "Esquizofrenia",
+        "C": "Evitación",
+        "D": "Agorafobia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "De las siguientes técnicas psicoterapéuticas, ¿Cuál tiene mejor nivel de evidencia para el tratamiento del trastorno de ansiedad generalizada?",
+      "options": {
+        "A": "De esquemas",
+        "B": "Cognitivo conductual",
+        "C": "Constelaciones familiares",
+        "D": "Psicoanálisis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "¿Cuál es el fármaco usado para reducir el craving y la gratificación de beber alcohol a través del bloqueo de receptores opiáceos?",
+      "options": {
+        "A": "Haloperidol",
+        "B": "Naltrexona",
+        "C": "Tiamina",
+        "D": "Ketazolam"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Médica de 51 años; se queja constantemente de no ser atendida \"como merezco\" por los enfermeros y técnicos, a los cuales grita y humilla con frecuencia. Dice que es postergada injustamente por sus jefes \"aunque soy una médica A1\"; su trabajo es de mediana calidad. Se enoja cuando elogian a una colega suya, de buen trato con colegas y trabajadores, estimada de los pacientes y profesora universitaria. Cuando hace alguna gestión es muy amable, sobre todo con varones, pero si no obtiene lo que quiere dice que son ineptos. ¿Cuál es el trastorno de personalidad más probable?",
+      "options": {
+        "A": "Obsesivo",
+        "B": "Distímico",
+        "C": "Empático",
+        "D": "Narcisista"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Mujer de 52 años, sumisa y dependiente, sin patología orgánica que tiene un hijo dominante y agresivo con esquizofrenia. Afirmó en la consulta: \"mi hijo no está enfermo, lo que dice es cierto. He visto cómo los policías lo señalan en la calle y lo siguen, hacen gestos y dicen que lo van a encarcelar, no sé por qué\". Luego del internamiento del hijo por un mes, señaló: \"no sé por qué creí todo lo que decía mi hijo, era como si yo también fuera esquizofrénica\". ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Hebefrenia",
+        "B": "Personalidad histriónica",
+        "C": "Infarto cerebral",
+        "D": "Psicótico compartido"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Miedo es una respuesta a un peligro manifiesto, definido; ...... es una respuesta a una amenaza inminente con sensación de aprensión difusa, desagradable y vaga.",
+      "options": {
+        "A": "huida",
+        "B": "angustia",
+        "C": "afronte",
+        "D": "ansiedad"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "El rango terapéutico del litio está entre ...... mEq/l.",
+      "options": {
+        "A": "0.2 y 0.9",
+        "B": "0.6 y 1.2",
+        "C": "1.5 y 2.3",
+        "D": "1.1 y 3.2"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "El deseo sexual está frecuentemente disminuido en la esquizofrenia, principalmente en quienes...",
+      "options": {
+        "A": "no usan medicación.",
+        "B": "ganan peso.",
+        "C": "reciben aripiprazol.",
+        "D": "viven solos."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Mujer de 35 años. Durante las relaciones sexuales pide que la insulten y golpeen o lastimen para excitarse sexualmente. En varias ocasiones le provocaron lesiones, pero continúa con esa práctica. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Sadismo",
+        "B": "Fijación",
+        "C": "Voyerismo",
+        "D": "Masoquismo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Varón de 27 años, soltero, ingeniero electrónico, retraído y poco expresivo, solo se relaciona con gente de un grupo que busca mensajes de los extraterrestres, percibidos cuando están muy concentrados. Cree que sus colegas lo vigilan para interceptarlos. Cumple con su trabajo, pero sus colegas lo perciben como extravagante y desconfiado. ¿Cuál es el trastorno de personalidad más probable?",
+      "options": {
+        "A": "Ansioso",
+        "B": "Esquizotípico",
+        "C": "Paranoide",
+        "D": "Extravagante"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Varón de 45 años, que solicita consulta por síntomas depresivos; ha sido tratado con antidepresivos sin buenos resultados. Antecedentes: episodios de irritabilidad, euforia, hiperactividad, delusiones de grandeza y riqueza, gastos excesivos y poca necesidad de dormir. No hay historia de consumo de drogas. ¿Qué trastorno es el más probable?",
+      "options": {
+        "A": "Demencial",
+        "B": "Orgánico",
+        "C": "Bipolar",
+        "D": "Depresivo recurrente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Mujer de 38 años, sin patología previa, que cursa desde hace 4 meses con tristeza, anhedonia, insomnio de segunda mitad, hiporexia, distractibilidad, minusvalía e ideas pasivas de muerte. Hace 3 semanas llora y se queja de que la familia está en la ruina porque así lo descubrió en las noticias; también escucha voces que le dicen que ella es la culpable y todo mejorará si ella muere. ¿Cuál de las siguientes es la mejor combinación terapéutica?",
+      "options": {
+        "A": "Amitriptilina y litio",
+        "B": "Olanzapina y valproato",
+        "C": "Atomoxetina y haloperidol",
+        "D": "Paroxetina y quetiapina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál de los siguientes fármacos está asociado con mayor frecuencia a la aparición del síndrome de secreción inapropiada de hormona antidiurética?",
+      "options": {
+        "A": "Mirtazapina",
+        "B": "Sertralina",
+        "C": "Olanzapina",
+        "D": "Aripiprazol"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Varón de 8 años, sin antecedentes patológicos perinatales; impulsivo, distraído en la casa, con quejas de los profesores porque no hace tareas, no espera turnos, no sigue reglas de juegos y camina por el salón. Examen: inquieto, coge cosas del consultorio sin pedirlas, interrumpe el relato de la madre y no obedece indicaciones. Sabe leer y escribir, pero no le gusta copiar. Coeficiente intelectual normal. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Del espectro autista",
+        "B": "Negativista desafiante",
+        "C": "Déficit de atención con hiperactividad",
+        "D": "Conducta tipo disocial"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Varón de 49 años, conducido a la emergencia por provocar una pelea. Examen: lloroso y enojado, enlentecido, con dificultades para caminar y olor a alcohol. La alcoholemia se encontrará entre ...... mg/100 ml.",
+      "options": {
+        "A": "35-70",
+        "B": "100–120",
+        "C": "160-200",
+        "D": "0.5-40"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿En cuál de los siguientes casos está contraindicado el uso de un fármaco Z, como el zolpidem?",
+      "options": {
+        "A": "Fibromialgia",
+        "B": "Artritis reumatoide",
+        "C": "Insomnio esencial",
+        "D": "Miastenia gravis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Cuál es el mecanismo de defensa inconsciente mediante el cual la energía asociada con estímulos o impulsos inaceptables se desvía a cauces personal y socialmente aceptables?",
+      "options": {
+        "A": "Sublimación",
+        "B": "Acting out",
+        "C": "Ruminación",
+        "D": "Racionalización"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Mujer de 42 años, derivada a psiquiatría por trastorno de pánico en tratamiento psicoterapéutico desde hace 4 meses, con mala respuesta; se queja también de tremor, insomnio y cambios en la coloración de la piel. Siendo invierno, usa ropa de algodón \"porque no necesito abrigo\". ¿Qué examen de laboratorio se solicita?",
+      "options": {
+        "A": "Hemoglobina",
+        "B": "Bilirrubina",
+        "C": "Litemia",
+        "D": "Perfil tiroideo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Mujer de 36 años; desde hace 8 meses experimenta angustia casi todos los días. \"Me preocupo demasiado por todo y tengo los nervios de punta casi todo el día; peleo con mi esposo y mis hijos por tonterías. No me concentro cuando converso, pensando en una y mil cosas. Me canso con facilidad, pero si me acuesto no duermo, porque los pensamientos de los problemas o tareas pendientes están dando vueltas en mi cabeza\". ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Ansiedad generalizada",
+        "B": "Pánico sin agorafobia",
+        "C": "Personalidad obsesiva",
+        "D": "Problemas de adaptación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Varón de 22 años, que ejercita sus pectorales, sobre todo del lado izquierdo, porque los percibe \"aplanados y acortados\". Se queja del mal entrenamiento en los gimnasios. Ha consultado con cirujanos plásticos para conseguir que los alarguen. Cuando la familia, los entrenadores y los amigos le dicen que no hay problemas con el volumen de sus pectorales, no les cree y se irrita. Se mira en espejos con frecuencia para comprobar el volumen torácico. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Ansiedad corporal",
+        "B": "Dismórfico corporal",
+        "C": "Fobia simple",
+        "D": "Alucinatorio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "¿Cómo se denomina la forma de hablar en la que el paciente divaga innecesariamente en detalles y pensamientos inapropiados sin comunicar la idea central?",
+      "options": {
+        "A": "Superficialidad",
+        "B": "Tangencialidad",
+        "C": "Circunstancialismo",
+        "D": "Logorrea"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "En el tratamiento del miedo a lugares abarrotados de gente, la terapia con realidad virtual actúa a través de...",
+      "options": {
+        "A": "incremento.",
+        "B": "moldeamiento.",
+        "C": "persistencia.",
+        "D": "exposición."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Varón de 36 años, que afirmó en la consulta: \"quisiera tener amigos o pareja, pero desde niño tengo miedo de ponerme en ridículo. No me acercaba a otros chicos porque temía que me rechacen; solo iba a jugar si me llamaban. En las fiestas no saco a bailar a las chicas porque creo que bailo mal y no soy atractivo. He dejado trabajos donde había público porque no me atrevía a interactuar con gente\". ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Esquizofrenia simple",
+        "B": "Personalidad evitativa",
+        "C": "Retardo mental",
+        "D": "Trastorno del neurodesarrollo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Una persona con trastorno de personalidad ...... tolera un cónyuge maltratador, infiel o alcohólico debido a su pesimismo, desconfianza en sí mismo, pasividad y miedo a expresar sentimientos agresivos o sexuales para no alterar el vínculo.",
+      "options": {
+        "A": "esquizoide",
+        "B": "dependiente",
+        "C": "histriónico",
+        "D": "anancástico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Mujer de 45 años, con antecedentes de esquizofrenia y sin otra patología. Ingresó a la emergencia por agitación psicomotriz; luego de la aplicación del tratamiento farmacológico tuvo un síncope. EKG: prolongación del intervalo QT. ¿Cuál de los siguientes fármacos es responsable, con mayor probabilidad?",
+      "options": {
+        "A": "Olanzapina",
+        "B": "Ziprasidona",
+        "C": "Diazepam",
+        "D": "Valproato de sodio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Las mujeres que tienen vaginismo, anorgasmia y dispareunia tienen una alta prevalencia de trastornos ...",
+      "options": {
+        "A": "somatomorfos.",
+        "B": "bipolares.",
+        "C": "histriónicos.",
+        "D": "depresivos."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Varón de 60 años, en tercer intento de suicidio. Antecedente: diagnóstico de trastorno depresivo mayor sin tratamiento, vive solo. Examen: tristeza, anhedonia, desesperanza, hiporexia, hiposomnia. Ideación suicida persistente desde hace dos meses, con planificación desde hace 1 mes. Hace 4 meses rompió con su pareja y tiene deudas. ¿Cuál es la mejor conducta?",
+      "options": {
+        "A": "Consulta psicológica",
+        "B": "Psicoterapia de apoyo",
+        "C": "Hospitalización",
+        "D": "Pacto de no suicidio"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "El CI global para la discapacidad intelectual leve se sitúa entre ...... puntos.",
+      "options": {
+        "A": "60 y 80",
+        "B": "30 y 50",
+        "C": "50 y 70",
+        "D": "70 y 90"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Cómo se denomina la incapacidad para reconocer una parte del cuerpo como propia?",
+      "options": {
+        "A": "Somatoagnosia",
+        "B": "Amnesia",
+        "C": "Hipognosia",
+        "D": "Heteroagnosia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "En los estudios de imágenes de pacientes con depresión. ¿En qué estructura se aprecia con más frecuencia una reducción del volumen?",
+      "options": {
+        "A": "Lóbulo occipital",
+        "B": "Área de Broca",
+        "C": "Hipocampo",
+        "D": "Tronco encefálico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál es la distorsión cognitiva frecuente en los trastornos depresivos?",
+      "options": {
+        "A": "Indefensión",
+        "B": "Personalización",
+        "C": "Acting out",
+        "D": "Anhedonia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Mujer de 19 años, desde la infancia maltrató animales y se escapaba del colegio. Roba objetos de casa y lo niega, aunque la descubran. Pide dinero prestado a su familia o amigos sin intención de devolverlo, gastándolo en ropa o fiestas y alcohol con desconocidos. Si sus padres intentan contenerla, los amenaza con irse de la casa y tira objetos hasta que la dejan salir, calmándose al lograrlo. Cuando quiere pedir algo, se muestra cariñosa y seductora. ¿Cuál es el trastorno de personalidad más probable?",
+      "options": {
+        "A": "Antisocial",
+        "B": "Paranoide",
+        "C": "Bipolar",
+        "D": "Inestable"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Varón de 30 años, luego de accidente automovilístico; se teme que desarrolle trastorno de estrés postraumático y pobre respuesta al tratamiento farmacológico y psicoterapéutico por la presencia de un factor de vulnerabilidad en su historia, que es...",
+      "options": {
+        "A": "pobreza.",
+        "B": "personalidad histriónica.",
+        "C": "sexo masculino.",
+        "D": "trauma infantil."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Las creencias del sujeto sobre uno mismo, el mundo y el futuro conforman...",
+      "options": {
+        "A": "la triada cognitiva.",
+        "B": "los esquemas mentales.",
+        "C": "la visión del mundo.",
+        "D": "el sistema delusional."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Varón de 35 años, refiere que se excita solo al ver los pies de sus parejas. Menciona que es algo que no puede controlar; sus parejas se quejan de esto y lo dejan. En reuniones sociales se fija en los pies de las mujeres, generando incomodidad y rechazo. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Voyerismo",
+        "B": "Fetichismo",
+        "C": "Travestismo",
+        "D": "Frotismo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Varón de 31 años, que acude a emergencia gritando \"me muero, me asfixio\". 20 minutos antes del ingreso percibió incremento de los latidos cardiacos, debilidad muscular, náusea, vértigo y parestesias. Examen: FC: 99 X', FR: 18 X', SatO2: 99%; diaforético, tembloroso. Resto de la exploración y exámenes auxiliares sin alteraciones. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Ansiedad generalizada",
+        "B": "Ataque de pánico",
+        "C": "Trastorno facticio",
+        "D": "Somatización"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Se recomienda evitar la contención física en la agitación por delirium tremens por el riesgo de ...",
+      "options": {
+        "A": "hipermnesia.",
+        "B": "resentimiento.",
+        "C": "suicidio.",
+        "D": "agotamiento."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Niño de 6 años, llevado a consulta porque ingiere crayolas, viruta de madera y pintura de pared de modo persistente. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Geofagia",
+        "B": "Amilofagia",
+        "C": "Desintegración",
+        "D": "Pica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Mujer de 26 años que ingresó a emergencia por sexto intento de suicidio (esta vez, luego de una ruptura amorosa); se cortó los brazos con una hoja de afeitar. A la evaluación se evidencia sentimientos crónicos de vacío, episodios intensos de disforia, relaciones personales inestables con amigos y familiares, impulsividad (consumo de drogas, atracones con alimentos), ira inapropiada. ¿Cuál es el trastorno de personalidad más probable?",
+      "options": {
+        "A": "Antisocial",
+        "B": "Paranoide",
+        "C": "Evitativo",
+        "D": "Límite"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Cuál es el trastorno delirante de inicio posterior a los 60 años, de tipo persecutorio, sin relación con la demencia?",
+      "options": {
+        "A": "Psicosis tardía",
+        "B": "Delirio",
+        "C": "Depresión atípica",
+        "D": "Parafrenia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Varón de 35 años, sin otros antecedentes, que ingresó a emergencia por agitación psicomotriz secundaria a consumo de cocaína. Durante el ingreso, se constató insuficiencia renal aguda. ¿Cuál es la causa más probable?",
+      "options": {
+        "A": "Infarto de miocardio",
+        "B": "Vasculitis",
+        "C": "Rabdomiolisis",
+        "D": "Microangiopatía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Psicólogo educacional de 33 años, con buen rendimiento profesional, pero cuya carrera no progresa porque no acude a entrevistas de trabajo, no va a eventos con desconocidos, teme hablar ante grupos numerosos o exponer el resultado de su trabajo; se avergüenza porque piensa que va a tartamudear, ponerse rojo o sudar al hablar ante otros. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Ansiedad social",
+        "B": "Personalidad dependiente",
+        "C": "Distimia",
+        "D": "Inhibición conductual"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Niño de 10 años, que hace una semana presenció el asesinato de su hermano. Desde ese día tiene sueños donde lo persiguen para matarlo o revive el episodio. En ocasiones ha revivido los momentos del ataque con imágenes que le aparecen de un momento a otro, el niño llora o corre sin dirección fija. Juega a que sus muñecos se matan. No recuerda todos los detalles del evento. Tiene sobresaltos al oír sonidos fuertes. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Por estrés postraumático",
+        "B": "De adaptación",
+        "C": "De ansiedad",
+        "D": "Por estrés agudo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuál es una contraindicación absoluta para la terapia sexual de pareja?",
+      "options": {
+        "A": "Infidelidad",
+        "B": "Maltrato",
+        "C": "Esquizofrenia",
+        "D": "Separación"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "La dosis de atomoxetina en el trastorno por déficit de atención está alrededor de ...... mg/Kg.",
+      "options": {
+        "A": "3.9",
+        "B": "0.6",
+        "C": "4.3",
+        "D": "1.2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "En el trastorno de personalidad......hay incapacidad para perdonar agravios, suspicacia, interpretación de las manifestaciones neutrales o amistosas de los demás como hostiles o despectivas, sentido combativo y tenaz de los propios derechos al margen de la realidad y preocupación por conspiraciones que explicarían acontecimientos del mundo en general.",
+      "options": {
+        "A": "esquizoide",
+        "B": "delusivo",
+        "C": "paranoide",
+        "D": "sociopático"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuáles son las alucinaciones que consisten en sensaciones infundadas de alteraciones en los órganos corporales?",
+      "options": {
+        "A": "Nihilistas",
+        "B": "Cenestésicas",
+        "C": "Hápticas",
+        "D": "Táctiles"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Abogado de 45 años que inició demanda de divorcio por adulterio contra su esposa, a quien hizo seguir por detectives. Cuando cenaban en restaurantes, la acusaba de citarse con amantes en ese momento. Instaló cámaras en su departamento para grabarla y la acusó de manipular las cintas al no encontrar nada extraño. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Agitado",
+        "B": "Esquizofreniforme",
+        "C": "Delirante",
+        "D": "Somático"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál es el trastorno caracterizado por inanición autoinducida de intensidad significativa, búsqueda implacable de la delgadez, miedo mórbido a la obesidad, distorsión de la imagen corporal y negación de la existencia de un problema de salud?",
+      "options": {
+        "A": "Anorexia nerviosa",
+        "B": "Atracones",
+        "C": "Hiporexia ansiosa",
+        "D": "Dismorfofobia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿En qué distorsión cognitiva se piensa siempre en lo peor y que es casi seguro que eso ocurrirá?",
+      "options": {
+        "A": "Catastrofismo",
+        "B": "Referencialidad",
+        "C": "Generalización",
+        "D": "Dicotomización"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "Síndrome que aparece con más frecuencia en niñas después de los 6 meses de edad, con movimiento estereotipado de manos, pérdida de movimientos intencionados, disminución de la respuesta social, escasa coordinación motora y disminución del uso del lenguaje:",
+      "options": {
+        "A": "De Rett",
+        "B": "Asperger",
+        "C": "Retardo mental",
+        "D": "Turner"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Mujer de 20 años, derivada a psiquiatría del consultorio de dermatología por lesiones eccematoides en las manos producidas por lavado frecuente (10 a 15 veces al día, por 10 minutos) con detergente de ropa debido al miedo de ensuciarse. Dice: “me lavo por higiene y para no llevar el COVID a mi casa\". ¿Cuál es el fármaco de elección entre los citados?",
+      "options": {
+        "A": "Amitriptilina",
+        "B": "Haloperidol",
+        "C": "Fluvoxamina",
+        "D": "Carbamazepina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuál es el delito más frecuente cometido por personas con ludopatía?",
+      "options": {
+        "A": "Asalto",
+        "B": "Sabotaje",
+        "C": "Carterismo",
+        "D": "Desfalco"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "¿Cuál es la delusión en la cual los pensamientos son sustraídos de la propia mente por otras personas o fuerzas?",
+      "options": {
+        "A": "Robo del pensamiento",
+        "B": "Síndrome de ruina",
+        "C": "Trastorno asociativo",
+        "D": "Pensamiento inhibido"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿Cuáles de los siguientes son factores de riesgo de suicidio?",
+      "options": {
+        "A": "Varón y soltero",
+        "B": "Abstemio y vive solo",
+        "C": "Sociable y casado",
+        "D": "Desempleado y sano"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Varón de 12 años que ingresó a emergencia por inquietud motora; afirmó que no puede estar sentado o echado por malestar muscular y disforia desde hace dos días y que la molestia va en aumento. Tiene antecedentes de discapacidad mental leve; hace 7 días tuvo episodio de irritabilidad por el que se le prescribió risperidona 1 mg V.O. Examen: signos vitales y exámenes auxiliares sin alteraciones. ¿Cuál es la patología y la medida terapéutica más aconsejable?",
+      "options": {
+        "A": "Agitación / haloperidol 5 mg IM",
+        "B": "Irritabilidad / valproato de sodio 250 mg VO",
+        "C": "Acatisia / clonazepam 0.5 mg VO",
+        "D": "Manía / ziprasidona 10 mg IM"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál de las siguientes es una característica de la ingestión de comida en el trastorno por atracones?",
+      "options": {
+        "A": "Comer solos por vergüenza",
+        "B": "Indiferencia luego del atracón",
+        "C": "Ingestión matutina",
+        "D": "Comer hasta satisfacerse"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Mujer de 86 años, sin hipertensión arterial ni diabetes, contadora de normal desempeño hasta hace cuatro años. Desde hace dos años pierde llaves y documentos personales, pregunta datos y los olvida; quemó alimentos en varias ocasiones por olvidar la hornilla prendida. Desde hace 6 meses se ha perdido al salir de casa; desconoce a familiares y dice que alguien le roba sus cosas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Depresión mayor",
+        "B": "Esquizofrenia",
+        "C": "Alzheimer",
+        "D": "Personalidad paranoide"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "En pacientes con dolor crónico. ¿Cuál de los siguientes es un fuerte predictor de la intensidad de dolor al día siguiente?",
+      "options": {
+        "A": "Poco sueño nocturno",
+        "B": "Ejercicio vespertino",
+        "C": "Uso de alcohol",
+        "D": "Cena hipercalórica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál es el trastorno de personalidad caracterizado por afecto superficial, teatralidad, dramatización, exagerada expresión de las emociones, sugestionabilidad, egocentrismo, falta de consideración con los demás, facilidad para sentirse herido y búsqueda continua de aprecio, estímulos y atención?",
+      "options": {
+        "A": "Obsesivo",
+        "B": "Histriónico",
+        "C": "Disocial",
+        "D": "Dependiente"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es la razón más frecuente de las autolesiones sin propósito suicida?",
+      "options": {
+        "A": "Conseguir eutimia",
+        "B": "Autopunición",
+        "C": "Llamar la atención",
+        "D": "Evitar castigos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "La edad de inicio más frecuente de la fobia de tipo sangre-inyección-herida oscila entre los ...... años.",
+      "options": {
+        "A": "12 y 20",
+        "B": "25 y 35",
+        "C": "2 y 4",
+        "D": "5 y 9"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Varón de 27 años, con esquizofrenia. \"Estoy incómodo. Me molesta esa gente que todo el tiempo me mete sus ideas. Yo no las quiero, pero ponen sus ideas en mi mente\". El síntoma más probable es ...... del pensamiento.",
+      "options": {
+        "A": "obligación",
+        "B": "adaptación",
+        "C": "secuestro",
+        "D": "inserción"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "Mujer de 47 años, jefa de almacén; revisa una y otra vez los reportes de sus trabajadores y traza horarios detallados para las actividades. Insiste en revisar personalmente el almacén y no delega tareas en su muy eficiente y honrada asistente. Se enoja si alguien sale del protocolo, si sus hijos mueven objetos caseros o están fuera de casa 10 minutos más allá del horario que ella indica. ¿Cuál es el trastorno de personalidad más probable?",
+      "options": {
+        "A": "Paranoide",
+        "B": "Esquizotípico",
+        "C": "Pasivo-agresivo",
+        "D": "Obsesivo-compulsivo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es la alteración del habla donde se usa una palabra o frase relacionada con la correcta, pero que no es la que se usa ordinariamente?",
+      "options": {
+        "A": "Parafraseo",
+        "B": "Aliteración",
+        "C": "Reemplazo",
+        "D": "Metonimia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Trastorno presente desde antes de los 5 años en niños que han tenido cuidado negligente, donde raramente buscan consuelo cuando sienten malestar o se dejan consolar, muestran irritabilidad, tristeza o miedo inexplicado y reacción social y emocional mínima a los demás.",
+      "options": {
+        "A": "De relación social desinhibida",
+        "B": "Autismo leve",
+        "C": "De apego reactivo",
+        "D": "Síndrome desintegrativo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Cómo se denomina el aumento de la cantidad del habla espontánea, con discurso rápido, fuerte y acelerado?",
+      "options": {
+        "A": "Verborrea",
+        "B": "Hipoprosexia",
+        "C": "Verbigeración",
+        "D": "Logopedia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Niño nacido a término, a la evaluación presentó fisuras palpebrales, surco nasolabial liso, microcefalia, contracturas articulares, defecto del tabique auricular y sinostosis cubitorradial. La madre confesó que durante la gestación consumió ...... 3 a 4 veces por semana.",
+      "options": {
+        "A": "marihuana",
+        "B": "fluoxetina",
+        "C": "alcohol",
+        "D": "alprazolam"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Mujer de 29 años, muy indignada en la emergencia: \"no sé por qué me han traído aquí, como si yo estuviera enferma; solo estuve caminando, muy sensual, por la avenida Tomás Valle\". El policía que la condujo la vió en esa avenida, vistiendo solo zapatos de taco alto y ropa interior. Examen: sin alteración. Presión del habla, inquietud motora, bromea con el personal y hace juegos de palabras. Ex. toxicológico: negativo. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Manía",
+        "B": "Psicosis",
+        "C": "Retardo mental",
+        "D": "Hebefrenia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Niño de 5 años, con lenguaje previamente normal, que pierde la capacidad de comprensión, expresión del lenguaje y conserva la inteligencia, agregándose convulsiones. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Epilepsia generalizada",
+        "B": "Afasia adquirida con epilepsia",
+        "C": "Trastorno desintegrativo",
+        "D": "Afasia del desarrollo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "¿Cuál es el efecto secundario más frecuente del litio?",
+      "options": {
+        "A": "Estreñimiento",
+        "B": "Poliuria",
+        "C": "Hipertricosis",
+        "D": "Baja de peso"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál de los siguientes fármacos está indicado en el tratamiento de la bulimia nerviosa?",
+      "options": {
+        "A": "Mirtazapina",
+        "B": "Carbamazepina",
+        "C": "Fluoxetina",
+        "D": "Clonazepam"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Varón de 29 años, que desde hace 10 meses experimenta durante la mayor parte del día inquietud, irritabilidad, rumiaciones sobre asuntos laborales y familiares, incremento de peso y apetito, insomnio de conciliación y sensación de tensión muscular. Ha experimentado efectos secundarios desagradables con ISRS, de magnitud intolerable. No hay evidencia de otra patología. ¿Cuál fármaco tiene el mejor perfil para el paciente?",
+      "options": {
+        "A": "Mirtazapina",
+        "B": "Sulpirida",
+        "C": "Fluoxetina",
+        "D": "Venlafaxina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿Cuáles de los siguientes fármacos están asociados a disfunción eréctil, eyaculación prematura, disfunción orgásmica y disminución de la libido?",
+      "options": {
+        "A": "Anfetamínicos",
+        "B": "AINES",
+        "C": "Opioides",
+        "D": "Antibióticos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Varón de 81 años, con antecedentes de insuficiencia cardiaca congestiva; se queja de somnolencia diurna, insomnio y de despertar con falta de aliento. ¿Cuál es el trastorno del sueño más probable?",
+      "options": {
+        "A": "Hipoventilación",
+        "B": "Apnea central",
+        "C": "Hipopnea obstructiva",
+        "D": "Insomnio episódico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿En qué fase del sueño no REM hay ondas lentas de gran amplitud que ocupan más del 50% del periodo?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "3",
+        "D": "1"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Varón de 67 años, comerciante en ejercicio, en 2o día postoperatorio de fractura de cadera, que recibió tramadol como analgésico. En la noche se quitó la sonda, la ropa y las vías, gritando que lo habían secuestrado \"las sombras del rincón\". No sabía la fecha, hora ni el lugar en el que estaba. No reconoció a su hija, quien lo describió como calmado, lúcido y de buen humor. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Demencia",
+        "B": "Delirium",
+        "C": "Depresión",
+        "D": "Ansiedad"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Mujer de 89 años, con demencia tipo Alzheimer de 8 años de evolución. Se observa que, con frecuencia, arranca hilos o trozos de lana de las frazadas y colchas o pellizca sus prendas, sin motivo aparente. ¿Cómo se denomina esta conducta?",
+      "options": {
+        "A": "Flocilación",
+        "B": "Imbricación",
+        "C": "Destructividad",
+        "D": "Confusión"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Varón de 51 años con antecedentes de alcoholismo, que ingresó a la emergencia por episodio agudo caracterizado por dificultades para la marcha, problemas vestibulares, confusión y nistagmo horizontal; el cuadro mejoró con la administración de tiamina. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Síndrome de Korsakoff",
+        "B": "Encefalopatía de Wernicke",
+        "C": "Intoxicación aguda",
+        "D": "Abstinencia aguda"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Varón de 45 años, con antecedente de alcoholismo, que es conducido a emergencia por una fractura de pierna. Se indicó vigilancia estrecha durante las primeras ...... horas de abstinencia, por riesgo de delirium tremens.",
+      "options": {
+        "A": "12",
+        "B": "36",
+        "C": "48",
+        "D": "72"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "La falta de gliosis en los cerebros de pacientes con esquizofrenia, sin evidencia consistente de neurodegeneración, apoya la idea de que la esquizofrenia es un trastorno...",
+      "options": {
+        "A": "regenerativo.",
+        "B": "afectivo.",
+        "C": "del neurodesarrollo.",
+        "D": "del crecimiento."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Mujer de 19 años, con historia de anorexia nerviosa purgativa, que ingresó a emergencia sumamente emaciada. Durante la atención se produjo una arritmia y la paciente falleció. ¿Cuál es la causa más probable de la arritmia?",
+      "options": {
+        "A": "Hipocolesterolemia",
+        "B": "Hipokalemia",
+        "C": "Hiperglicemia",
+        "D": "Hiperprolactinemia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Niño de 4 años con escasa interacción social, mal contacto visual, falta de reciprocidad del contacto social, indiferencia hacia los juegos o manifestaciones emocionales de otros niños, lenguaje estereotipado, adherencia a rutinas invariables, manierismos, ausencia de juego simbólico e hiperreactividad ante los ruidos. Antecedentes: nacido de parto eutócico, sin complicaciones. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Autismo",
+        "B": "Sordera",
+        "C": "Retardo",
+        "D": "Psicosis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Los trabajadores de salud se sienten aislados y estigmatizados durante las pandemias, con riesgo de desarrollar trastorno de estrés postraumático. ¿Cuál de las siguientes medidas es un importante predictor negativo de la aparición de dicho trastorno?",
+      "options": {
+        "A": "Profilaxia con antidepresivos",
+        "B": "Uso de hipnóticos",
+        "C": "Soporte de jefes y colegas",
+        "D": "Refuerzo vitamínico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es el trastorno de personalidad caracterizado por frialdad emocional, ausencia de relaciones sociales, tendencia a la fantasía, las actividades solitarias y la introspección, con incapacidad para expresar sentimientos y sentir placer?",
+      "options": {
+        "A": "Compulsivo",
+        "B": "Ansioso",
+        "C": "Esquizoide",
+        "D": "Delirante"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿Cuál es la comorbilidad más frecuente de bulimia nerviosa?",
+      "options": {
+        "A": "Manía",
+        "B": "Depresión",
+        "C": "Pánico",
+        "D": "Alcoholismo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Varón de 47 años en tratamiento por depresión con fatiga y astenia. Se presentó a la consulta con insomnio; este no cedía al uso de hipnóticos indicados por su psiquiatra. Examen: edema e hipotonía muscular. El paciente confesó que usaba un \"suplemento natural\" que creía inofensivo. ¿Cuál es la planta responsable, con mayor probabilidad?",
+      "options": {
+        "A": "Ginseng",
+        "B": "Pasiflora",
+        "C": "Manzanilla",
+        "D": "Hoja de fresa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "En el abuso de esteroides anabolizantes androgénicos. ¿Cuál es el trastorno comórbido más frecuente?",
+      "options": {
+        "A": "Dismórfico corporal",
+        "B": "Ansiedad generalizada",
+        "C": "Explosivo intermitente",
+        "D": "Personalidad antisocial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cuál es el área cortical del cerebro implicada en el trastorno por déficit de atención e hiperactividad?",
+      "options": {
+        "A": "Prefrontal",
+        "B": "Hipocampal",
+        "C": "Occipital",
+        "D": "Parietal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "¿Cuál es el mecanismo de defensa más utilizado por las personas con un trastorno de personalidad límite?",
+      "options": {
+        "A": "Formación reactiva",
+        "B": "Anticipación",
+        "C": "Desplazamiento",
+        "D": "Identificación proyectiva"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "En la visita del pabellón de pediatría se observó que un niño juega a los médicos y practica con un muñeco la inyección que él recibe todos los días en la mañana. ¿Cuál es el tipo más probable de conducta, entre las siguientes?",
+      "options": {
+        "A": "Imaginación",
+        "B": "Agresión",
+        "C": "Venganza",
+        "D": "Contrafóbica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "De los siguientes. ¿Cuál es el sistema esencial en la creación del deseo y placer en la respuesta sexual humana?",
+      "options": {
+        "A": "Serotoninérgico",
+        "B": "Reticular",
+        "C": "Hipotalámico",
+        "D": "Dopaminérgico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es la droga de consumo que es llamada \"anestésico disociativo\" porque produce un estado en el que los individuos están conscientes, pero aparentemente insensibles o disociados del entorno?",
+      "options": {
+        "A": "Cocaína",
+        "B": "Propofol",
+        "C": "Fenciclidina",
+        "D": "Piperita"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Varón de 78 años, hipertenso, con antecedentes de microinfartos en región frontal, que se queja de sensibilidad emocional con cambio inestable y rápido de las emociones. ¿Cómo se denomina el síntoma?",
+      "options": {
+        "A": "Sensibilidad afectiva",
+        "B": "Labilidad emocional",
+        "C": "Letología",
+        "D": "Hipomanía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Mujer de 32 años, se despierta en la noche con la sensación de que hay un intruso en la casa; pero no puede moverse ni gritar en ese momento para alertar al esposo, quien niega la presencia extraña. ¿Cuál es el trastorno más probable?",
+      "options": {
+        "A": "Pesadillas",
+        "B": "Alucinosis",
+        "C": "Parálisis del sueño",
+        "D": "Del comportamiento"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Varón de 18 años que siempre tuvo dificultades escolares. Es incapaz de captar los aspectos esenciales de un todo, para dividir un conjunto en sus partes y para discernir las propiedades comunes. Se sospecha de un retardo mental con un déficit del pensamiento...",
+      "options": {
+        "A": "integrador.",
+        "B": "abstracto.",
+        "C": "semántico.",
+        "D": "lógico."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuál de los siguientes es el mecanismo clásico de adquisición de las fobias?",
+      "options": {
+        "A": "Condicionamiento operante",
+        "B": "Condicionamiento pavloviano",
+        "C": "Aprendizaje vicario",
+        "D": "Aprendizaje traumático"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Mujer de 66 años, en psicoterapia por psicólogo desde hace 6 meses por depresión, con mejoría discreta. Desde hace 10 meses se ha sentido triste, distraída, desanimada, con enlentecimiento psicomotor, sensación de intolerancia al frío. Examen: piel y cabello secos, obesidad central, edema en miembros inferiores y facies abotagada. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Diabetes mellitus",
+        "B": "Hipotiroidismo",
+        "C": "Depresión refractaria",
+        "D": "Fibromialgia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

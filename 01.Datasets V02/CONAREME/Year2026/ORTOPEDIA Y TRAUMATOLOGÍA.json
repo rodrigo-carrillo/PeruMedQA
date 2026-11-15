@@ -1,0 +1,1349 @@
+{
+  "metadata": {
+    "year": 2026,
+    "exam": "ORTOPEDIA Y TRAUMATOLOGÍA",
+    "source_pdf": "ORTOPEDIA Y TRAUMATOLOGÍA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Ortopedia y Traumatología",
+    "sha256_pdf": "355fb5f7bce3be5b80bedc8b9274ae743ddfe53ab353562c127c4551dfc59734",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:31:17",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 12,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Ortopedia y Traumatología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 1.0,
+        "vec_max_loser": 0.0569,
+        "pix_min_winner": 0.5995,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 34858,
+      "coverage_out_chars": 34858,
+      "human_reference": "_backup_csv_verificados/Year2026/ORTOPEDIA Y TRAUMATOLOGÍA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 86,
+        "identico": 414
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Se acude a interconsulta de neonatología, para evaluar a varón recién nacido a término de 36 horas de vida, nacido de parto distócico y presenta deformidad de pie derecho. Tiene controles prenatales. Examen preferencial: pie derecho biaducto, supinado equino y cavo. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Iniciar tratamiento con yeso Ponseti",
+        "B": "Solicitar radiografía del pie afecto",
+        "C": "Solicitar ecografía del pie afecto",
+        "D": "Iniciar masajes seriados del pie afecto"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Varón de 24 años, al correr y saltar gira bruscamente con la rodilla apoyada y en flexión, presentando sensación de bloqueo de rodilla, dicho evento sucedió hace 3 semanas. RM: rotura de menisco interno en asa de cubo. El plan de trabajo del cirujano es de inmediato la artroscopía para reparar…",
+      "options": {
+        "A": "el flap longitudinal dañado.",
+        "B": "la zona roja longitudinal.",
+        "C": "el flap radial crónico.",
+        "D": "el flap radial dañado."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Cuando la rótula se desvía lateralmente en extensión indicando inestabilidad, el hallazgo se denomina…",
+      "options": {
+        "A": "signo de la J.",
+        "B": "inclinación de la rótula.",
+        "C": "pivot invertido.",
+        "D": "reflejo del pivot."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Adolescente de 11 años, traída por madre quien refiere que en la escuela han notado que su hija “tiene desviada la columna”. Antecedente: menarquia a inicios de año. Examen: elevación de hombros, la línea de la cadera asimétrica, desviación del tronco, dismetría en la longitud de las extremidades. Rx postero anterior de columna: Risser 2 y ángulo de Cobb de 35°. ¿Cuál es el tratamiento más adecuado?",
+      "options": {
+        "A": "La observación",
+        "B": "La fusión quirúrgica",
+        "C": "Una osteotomía en cuña",
+        "D": "Aplicación de un corsé"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "¿Cuál es el abordaje para prótesis total de cadera asociado con mayor tasa de luxación?",
+      "options": {
+        "A": "Posterior",
+        "B": "Anterolateral",
+        "C": "Anterior",
+        "D": "Lateral"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Varón de 35 años, sufre traumatismo directo sobre rótula, presentando dificultad a la extensión. Rx: fractura transversa de rótula. Al planificar operación se decide realizar el principio de banda de tensión para mantener reducción y alineación, el cual utiliza:",
+      "options": {
+        "A": "Alambre grueso y rígido para soportar fuerzas de compresión",
+        "B": "Tornillos corticales para soportar las fuerzas de distracción",
+        "C": "Placa de rótula para evitar fuerzas de traslación de fragmentos",
+        "D": "Agujas Kirschner rectas para evitar traslación de fragmentos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Varón de 35 años sufre descarga eléctrica de alto voltaje en miembro superior derecho. Examen: dolor en miembro superior derecho, parestesias, lesiones tipo ampollas en primer, segundo y tercer dedo, rango articular hombro derecho normal. Rx: sin alteraciones significativas. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Alta y control por consulta externa",
+        "B": "Alta y manejo domiciliario",
+        "C": "Ingreso a sala de observación de emergencia",
+        "D": "Amputación inmediata"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Luego de resección exitosa de liposarcoma en región inguinal, presenta defecto de parte blanda de 12x7 cm en región inguinal con exposición de paquete vasculonervioso femoral. ¿Qué tipo de tratamiento plantea?",
+      "options": {
+        "A": "Uso de sistema de presión negativa y posterior cobertura",
+        "B": "Desarticulación de cadera",
+        "C": "Colgajo músculo cutáneo del recto abdominal",
+        "D": "Curaciones y cierre por segunda intención"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "Varón de 14 años, seleccionado de básquet en su colegio, presenta dolor a nivel de rodillas en cara anterior al finalizar su entrenamiento diario. Examen: dolor a nivel de tuberosidad tibial, no efusión articular, no flogosis, rango articular conservado. Rx: fragmentación de tuberosidad tibial. ¿Cuál es el tratamiento que indica?",
+      "options": {
+        "A": "Remoción vía artroscópica a la brevedad de fragmentos cartilaginosos",
+        "B": "Biopsia de fragmentos de tuberosidad tibial",
+        "C": "Restricción de la actividad deportiva, antiinflamatorios, terapia física",
+        "D": "Cirugía abierta y fijación de fractura de tuberosidad tibial"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Mujer de 55 años, presenta caída súbita con torsión de tobillo derecho. Examen: aumento de volumen de tobillo y dolor. Rx tobillo: aparente lesión de sindesmosis y fractura bimaleolar. En quirófano, tratada la fractura, para evaluar la sindesmosis intraoperatoriamente se realiza el test de…",
+      "options": {
+        "A": "Maisonneuve.",
+        "B": "Volkmann.",
+        "C": "Cotton.",
+        "D": "Tillaux."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Mujer de 30 años, sin comorbilidades, sufre fractura de diáfisis de húmero. Por lo que deciden realizar osteosíntesis con placa y mínima invasión por abordaje anterior. En este abordaje. ¿Qué nervios están en riesgo de sufrir lesión?",
+      "options": {
+        "A": "Mediano y cubital",
+        "B": "Axilar y radial",
+        "C": "Radial y musculocutáneo",
+        "D": "Mediano y axilar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuándo se sospecha de displasia congénita de cadera, en la evaluación radiográfica de un lactante de 4 meses?",
+      "options": {
+        "A": "El núcleo de osificación femoral es medial a línea Perkins",
+        "B": "La línea de Shenton es simétrico en ambos bordes internos",
+        "C": "La medición del índice acetabular es mayor a 30°",
+        "D": "Cabeza femoral centrada y cubierta por acetábulo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "La hemipelvectomía interna como tratamiento de sarcomas óseos de pelvis, tiene mejor resultado funcional, cuando el defecto óseo...",
+      "options": {
+        "A": "se reconstruye con prótesis.",
+        "B": "se reconstruye con autoinjerto.",
+        "C": "se reconstruye con aloinjerto.",
+        "D": "no se reconstruye."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Mujer de 44 años, acude a emergencia refiriendo caída bajando los últimos peldaños de escalera, presentando deformidad y dolor de tobillo derecho. Rx: luxofractura de tobillo en varo. Se aplica la maniobra de reducción consistente en colocar la palma de la mano en…",
+      "options": {
+        "A": "maléolo interno y empujar en sentido lateral.",
+        "B": "maléolo externo y empujar en sentido medial.",
+        "C": "retropié y empujar en sentido lateral.",
+        "D": "retropié y empujar en sentido medial."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Se acude a interconsulta por recién nacido de 36 horas de vida, parto a término, por presentar deformidad de pie. Examen: diagnóstico de pie equinovaro idiopático derecho. Iniciándose tratamiento con la colocación de yesos seriados según método de Ponseti, para luego proceder a la:",
+      "options": {
+        "A": "Colocación de botas con barras durante 2 a 3 años",
+        "B": "Transposición tendinosa del tibial anterior",
+        "C": "Osteotomía en cuña del cuboides",
+        "D": "Tenotomía del tendón de Aquiles por el equino"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Con respecto al manejo del pinzamiento femoroacetabular en pacientes sintomáticos ¿Cuál es la ventaja del tratamiento artroscópico versus el tratamiento conservador?",
+      "options": {
+        "A": "No se ha encontrado diferencia en el desarrollo de coxartrosis",
+        "B": "Menor frecuencia de fractura de cuello de fémur",
+        "C": "Menor tasa de conversión a artroplastia total de cadera",
+        "D": "Disminución de presentación de patología neuro compresiva"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "En las luxaciones acromioclaviculares de la Clasificación de Neer y Rockwood, la rotura de los ligamentos acromioclavicular y coracoclavicular, con desplazamiento superior de la clavícula es considerada tipo…",
+      "options": {
+        "A": "II.",
+        "B": "IV.",
+        "C": "III.",
+        "D": "I."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Mujer de 70 años independiente total, acude a consulta externa por dolor en cadera derecha. Antecedente de cirugía de columna lumbar. Se diagnóstica coxartrosis severa. Se indica tratamiento quirúrgico de reemplazo articular de cadera. Según la evidencia actual. ¿Qué tipo de prótesis propone?",
+      "options": {
+        "A": "Primaria total de cadera no cementada",
+        "B": "Primaria total de cadera cementada",
+        "C": "Total de cadera con copa de doble movilidad",
+        "D": "Bipolar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Las fracturas del maléolo posterior son denominadas también como fractura de …",
+      "options": {
+        "A": "Maisonneuve.",
+        "B": "Volkmann.",
+        "C": "Dupuytren.",
+        "D": "Tillaux."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Cuál es el test más sensible que me indica probable lesión del ligamento cruzado anterior (LCA), cuando la tibia es llevada hacia delante a 30° de flexión?",
+      "options": {
+        "A": "Lachman",
+        "B": "Apley",
+        "C": "McMurray",
+        "D": "Pívot invertido"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Varón de 55 años, sufre caída presentando traumatismo en cara anterior de rodilla derecha. Examen: equimosis y dolor a palpación en cara anterior de rótula, extensión limitada por dolor, sin defecto en tendón de cuadriceps o rotuliano. Rx rodilla: trazo de fractura vertical con menos de 3 mm de incongruencia articular. ¿Cuál es el tratamiento más adecuado?",
+      "options": {
+        "A": "Quirúrgico con banda de tensión",
+        "B": "Conservador con rodillera articulada",
+        "C": "Quirúrgico con placa de patella",
+        "D": "Quirúrgico con placa minifragmentos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Al realizar osteosíntesis con un tornillo de cortical de 3.5 mm de diámetro y así permitir que el tornillo ancle al hueso, se necesita un orificio que se debe efectuar con una broca de …... mm.",
+      "options": {
+        "A": "3.5",
+        "B": "3.2",
+        "C": "2.7",
+        "D": "2.0"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Adolescente de 15 años, traído por padre refiriendo que ha adoptado una postura curvada progresiva, presentando dolor sobre la cifosis y en la región lumbar. Examen: isquiotibiales cortos y una hipercifosis que no se corrige con los esfuerzos de hiperextensión y es a predominio de cifosis torácica. Rx: angulación curva cifótica de 60° y acuñamiento anterior en 3 vértebras consecutivas. ¿Cuál es la causa más probable?",
+      "options": {
+        "A": "Incurvación postural de la espalda",
+        "B": "Cifosis posterior a una infección",
+        "C": "Displasia ósea congénita",
+        "D": "Enfermedad de Scheuermann"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "En el movimiento de elevación del brazo en la articulación del hombro, el músculo que interviene de manera diferente según el plano de elevación del brazo, es el…",
+      "options": {
+        "A": "supraespinoso.",
+        "B": "infraespinoso.",
+        "C": "deltoides.",
+        "D": "subescapular."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Niño de 5 años, diagnosticado de parálisis cerebral espástica, nivel mental aceptable; acude con madre quien refiere que presenta marcha atípica. Examen: abducción de cadera derecha limitada a menos de 20°, que provoca dolor al forzar abducción. Rx: subluxación de cadera derecha. ¿Cuál es el tratamiento más adecuado?",
+      "options": {
+        "A": "Terapia física y rehabilitación",
+        "B": "Alargamiento de aductor",
+        "C": "Masajes y analgésicos",
+        "D": "Tenotomía del aductor"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Mujer de 68 años, presenta dolor en rodilla al caminar, qué no calma con antiinflamatorios. Examen: tibias varas severas, rango articular limitado en rodilla derecha. Rx: gonartrosis severa. Se indica prótesis total de rodilla derecha, que en su planificación quirúrgica debe equilibrar los ligamentos en el plano lateral de la rodilla para lo cual tiene que liberar:",
+      "options": {
+        "A": "La esquina posteromedial con semimembranoso",
+        "B": "La banda íliotibial si tensa en extensión",
+        "C": "El tendón poplíteo si está tenso en flexión",
+        "D": "Cápsula lateral disección amplia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Varón de 25 años, sufre caída con apoyo en manos mientras realizaba ciclismo. Examen: escoriaciones múltiples, dolor en región de mano derecha, dolor a la compresión axial del pulgar, dolor a la palpación de la tabaquera anatómica. ¿Qué arteria da la irrigación principal al hueso comprometido?",
+      "options": {
+        "A": "Rama volar de la arteria radial",
+        "B": "Ramas de la arteria cubital",
+        "C": "Rama dorsal de la arteria radial",
+        "D": "Ramas del arco intercarpal dorsal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Mujer de 72 años independiente total, médico, sufre caída de baja energía, presentando limitación funcional, dolor en cadera derecha. Antecedentes: hipertensión arterial controlada. Examen: dolor a la movilización de cadera derecha en región inguinal, rotación externa. Rx: signos de fractura de cuello de fémur derecho tipo Pauwells III. ¿Cuál es el tratamiento indicado?",
+      "options": {
+        "A": "Artroplastía bipolar de cadera",
+        "B": "Artroplastía total de cadera",
+        "C": "Reducción y fijación interna con tornillos canulados",
+        "D": "Artroplastia de resección tipo Girlestone"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Paciente con paraplejía por lesión medular y úlcera por presión grado IV, imágenes sin signos de compromiso infeccioso en tejido óseo. ¿Cuál es el manejo indicado?",
+      "options": {
+        "A": "Antibioticoterapia",
+        "B": "Cuidados mínimos",
+        "C": "Cambios posturales",
+        "D": "Tratamiento quirúrgico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Varón de 22 años, refiere que practicando deporte de contacto, presenta traumatismo violento de alta energía sobre la rodilla derecha, notando que la rodilla “se le sale de su lugar” reacomodándolo, antes de llegar a hospital. Examen: inestabilidad ligamentaria marcada, rodilla no luxada. Rx de rodilla no signos de luxación. ¿Cuál es la conducta inmediata?",
+      "options": {
+        "A": "Reevaluar la congruencia y la integridad vasculonerviosa",
+        "B": "Reparar de urgencia y abierta a los ligamentos laterales",
+        "C": "Hacer artroscopía temprana y reparar los ligamentos cruzados",
+        "D": "Reparar de forma tardía y abierta los ligamentos cruzados"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Mujer de 25 años, practicando futbol; sufre traumatismo en torsión, sin contacto y con una sensación de crujido de rodilla derecha. Examen: se evalúa los test de rodilla, dificultándose por dolor. Rx: pequeña avulsión en la cara externa de la meseta tibial. ¿Cuál es su interpretación?",
+      "options": {
+        "A": "Desgarro del ligamento cruzado anterior",
+        "B": "Lesión del ligamento cruzado posterior",
+        "C": "Fractura de Salter-Harris",
+        "D": "Lesión crónica del ligamento colateral medial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "En un paciente con sospecha de osteomielitis. ¿Cuál es el método de imagen de elección?",
+      "options": {
+        "A": "TC",
+        "B": "RM",
+        "C": "Rx",
+        "D": "Ecografía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Acude a consulta varón 50 años, quien refiere dolor en miembro superior derecho de 3 semanas de evolución, sin especificar dolor, que le dificulta sueño y para de mal humor, solicitando descanso médico. Examen: rango articular limitado por dolor, maniobras y test de miembro superior no se pueden realizar por no colaborar paciente. Frente a esta actitud el cirujano ortopedista debe velar por los intereses del paciente…",
+      "options": {
+        "A": "solicitando exámenes de diagnóstico por imágenes complejas.",
+        "B": "otorgándole descanso médico para calmar su ansiedad.",
+        "C": "indicando los analgésicos y antiinflamatorios más adecuados.",
+        "D": "con veracidad y honestidad, brindando atención competente y compasiva."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "¿Cuál es la técnica para reconstrucción de defectos óseos que consiste en la colocación en un primer tiempo de espaciador de polimetilmetacrilato y en un segundo tiempo el retiro del espaciador preservando la membrana que lo rodea y rellenando el defecto con autoinjerto de hueso esponjoso?",
+      "options": {
+        "A": "De Masquelet",
+        "B": "Osteogénesis por distracción",
+        "C": "Transporte óseo bifocal",
+        "D": "De Capanna"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Varón de 63 años, presenta desde hace 4 meses masa en hombro derecho con aumento progresivo asociado a dolor y limitación funcional, refiere sensación de alza térmica que controla con paracetamol, baja de peso de 6 Kg. Antecedente: DM 2 mal controlada, hipertenso. RM: necrosis de cabeza humeral, edema intraóseo y de partes blandas, colecciones periarticulares. Laboratorio: anemia normocítica normocrómica. VSG y PCR elevados. AP: necrosis caseosa, granuloma de células epitelioides. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Tuberculosis osteoarticular",
+        "B": "Osteosarcoma de alto grado",
+        "C": "Necrosis avascular",
+        "D": "Metástasis ósea"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "¿Cuál es el mecanismo más habitual de desgarro del ligamento?",
+      "options": {
+        "A": "Desgarro en la zona distal en los adultos",
+        "B": "Rotura de series secuenciales de haces de fibras de colágeno",
+        "C": "Desgarro en la zona medial en los niños",
+        "D": "Lesiones por arrancamiento, más frecuente en adultos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Varón de 20 años sufre lesión jugando futbol. Examen rodilla izquierda: aumento de volumen y dolor a la flexión en región posterior. RM: ruptura de cuerno posterior de menisco a nivel de su inserción. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Meniscectomía parcial",
+        "B": "Rodillera articulada y rehabilitación intensiva",
+        "C": "Reinserción de cuerno posterior del menisco transtibial",
+        "D": "Infiltración con plasma rico en plaquetas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Paciente varón de 60 años, post operado hace 6 meses de artroplastía total de cadera izquierda con abordaje anterolateral. Acude refiriendo cojera sin mejoría a pesar de realizar terapia física. Examen: test de Trendelenburg positivo; pérdida de fuerza de sistema abductor de cadera izquierda. ¿Cuál es el nervio lesionado con mayor probabilidad?",
+      "options": {
+        "A": "Ciático",
+        "B": "Glúteo superior",
+        "C": "Femorocutáneo",
+        "D": "Poplíteo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿Cuál es el componente de la matriz ósea que tiene como función proporcionar la fuerza de tensión?",
+      "options": {
+        "A": "Proteoglucano",
+        "B": "Hidroxiapatita cálcica",
+        "C": "Colágeno",
+        "D": "Citoquina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Varón de 18 años, sufre contusión a nivel del muslo derecho. Rx: fractura diafisaria de fémur derecho conminuta. No cuenta con implante tipo clavos intramedulares, por lo que decide usar la técnica de placa puente. La longitud de trabajo de este sistema de fijación de la fractura esta determinado por: la distancia entre el tornillo más ...... del fragmento proximal hasta el tornillo más ...... del fragmento distal.",
+      "options": {
+        "A": "proximal / distal",
+        "B": "medial / proximal",
+        "C": "distal / proximal",
+        "D": "distal / medial"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Varón de 65 años, refiere que caminando presenta bruscamente dolor intenso en la parte posterior del talón. Antecedente: insuficiencia arterial, diabetes y fumador crónico. Examen: tendón de Aquiles: maniobra de Thompson es positiva y hay defecto palpable. ¿Cuál es el manejo inmediato más adecuado?",
+      "options": {
+        "A": "Quirúrgico, realizando la técnica miniinvasiva en fase aguda",
+        "B": "Cirugía abierta realizando la sutura de Krackow",
+        "C": "Solicitar ecografía para confirmar rotura del tendón de Aquiles",
+        "D": "Conservador, uso de inmovilizador de miembro con pie en equino"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Mujer de 58 años, presenta dolor en región inguinal y al caminar, no tolerable, que calma poco con antiinflamatorios. Antecedente: osteoporosis severa en tratamiento irregular. Examen: rango articular muy limitado de cadera derecha. Rx: coxartrosis severa. Se planifica una prótesis total de cadera; debe de ser con fijación…",
+      "options": {
+        "A": "no cementada.",
+        "B": "cementada.",
+        "C": "biológica.",
+        "D": "de recubrimiento poroso."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Varón 22 años, sufre traumatismo dorso lumbar, ingresando a emergencia inmovilizado en superficie rígida. Rx: se observa fractura en vértebra D12, pérdida de altura de 15% de la pared anterior del cuerpo vertebral, disrupción ósea hacia la apófisis espinosa y compromiso de la lámina posterior. Diagnosticado como fractura de Chance. ¿Cuál es el manejo principal?",
+      "options": {
+        "A": "No quirúrgico por ser estable",
+        "B": "Movilización controlada del tronco",
+        "C": "Quirúrgico por ser inestable",
+        "D": "Analgesia y reposo en cama"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Mujer de 44 años, traída por bomberos, ingresa a trauma-shock. Eco fast: líquido libre en abdomen. Rx: fractura de pelvis inestable. Se cumple con protocolo ATLS, 2 litros de fluido EV en bolo, persistiendo PA sistólica <100 mmHg. ¿Qué procedimiento indica mientras se prepara transfusión e ingreso a sala de operaciones?",
+      "options": {
+        "A": "Reevaluación con resultado de angiografía",
+        "B": "Programación para cirugía definitiva de fractura",
+        "C": "Manejo de traumatología diferido hasta su estabilización hemodinámica",
+        "D": "Colocación de faja o sábana pélvica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Escolar de 6 años llevado por mamá a emergencia, refiriendo que niño hace 2 días presenta dificultad al caminar y aumento de temperatura no cuantificada. Antecedente: tropiezo y caída sobre muslo distal derecho hace 7 días. Examen: T° 38°C; claudicación y dificultad al caminar, dolor y resistencia a la extensión de miembro inferior derecho, se palpa región distal de muslo caliente y aumentado de volumen. Si sospecha de osteomielitis aguda. ¿Cuál es la indicación inmediata?",
+      "options": {
+        "A": "Solicitar una resonancia magnética",
+        "B": "Realizar una limpieza quirúrgica",
+        "C": "Iniciar antibioticoterapia empírica",
+        "D": "Punción y drenaje del absceso"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Paciente sufre accidente hace 3 horas, presentando traumatismo en pierna izquierda. Se diagnostica fractura cerrada de diáfisis de tibia izquierda. Indicándose tratamiento quirúrgico. Durante las siguientes horas presenta aumento de dolor que no cede con analgésicos endovenosos. Examen: dolor a la movilización pasiva, parestesias en miembro inferior izquierdo, aumento de volumen, pulso pedio débil. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Bloqueo anestésico de nervio poplíteo",
+        "B": "Fasciotomias y fijación externa de fractura en sala de emergencia",
+        "C": "Aumento de dosis de opiodes",
+        "D": "Fijación intramedular de fractura de tibia en turno de cirugía electiva"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Paciente que sufre atricción severa de pie con pérdida de partes blandas en región dorsal asociado a compromiso severo de articulación de Lisfranc, con preservación de talón. Se decide realizar amputación tipo ...... que consiste en: resección tibia y peroné distal, a 0.5 - 1 cm proximal a la articulación del tobillo cubriendo con colgajo del talón.",
+      "options": {
+        "A": "Charcot",
+        "B": "Lisfranc",
+        "C": "Chopart",
+        "D": "Syme"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "El cartílago articular en la artrosis se caracteriza por….",
+      "options": {
+        "A": "un aumento en el contenido de agua.",
+        "B": "disminución de los proteoglucanos.",
+        "C": "un colágeno que permanece invariable.",
+        "D": "el tamaño de condrocitos aumentado."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Paciente con diagnóstico de sarcoma pleomórfico en región de hombro derecho. Se realiza resección de masa tumoral que incluye piel y músculo deltoides, logrando bordes libres. El defecto musculocutáneo es de 10x10 cm, por lo que decide realizar colgajo rotatorio de dorsal ancho. ¿Qué arteria es la que debe preservar para garantizar la viabilidad del colgajo?",
+      "options": {
+        "A": "Toracodorsal",
+        "B": "Circunfleja humeral posterior",
+        "C": "Supraescapular",
+        "D": "Circunfleja escapular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Varón de 28 años, cursa con dolor a nivel inguinal derecho desde hace 2 meses que progresa de intensidad asociado a actividad física. Niega antecedentes. Rx: sin alteraciones significativas. RM: lesiones compatibles con necrosis avascular de cabeza femoral Ficat II. ¿Cuál es la primera opción terapéutica?",
+      "options": {
+        "A": "Prótesis total de cadera no cementada con copa de doble movilidad",
+        "B": "Prótesis parcial de cadera",
+        "C": "Descompresión intramedular de cabeza de fémur",
+        "D": "Observación, manejo analgésico y reevaluación en 6 meses"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Mujer de 80 años, presenta dolor en cadera derecha que no calma con antiinflamatorios. Antecedente: operada hace 10 años de prótesis parcial de cadera. Examen: rango articular limitado cadera derecha. Rx: protrusio acetabular. Se planifica cirugía de revisión de artroplastía, teniendo en cuenta que al reconstruir el acetábulo los tornillos para aumentar la estabilidad se deben colocar de preferencia en la parte…",
+      "options": {
+        "A": "ánteroinferior.",
+        "B": "pósterosuperior.",
+        "C": "lateral.",
+        "D": "medial."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "Varón de 43 años, sufre traumatismo de alta energía a nivel de pierna derecha, con exposición ósea y pérdida de cobertura de partes blandas (Gustilo III B). Luego del desbridamiento, colocación de espaciador de cemento óseo y colgajo libre; hay defecto óseo de 8 cm a nivel diafisiario de tibia derecha. Se decide reconstruir a través del método de transporte óseo con fijador externo circular. La distracción sugerida por cada día es:",
+      "options": {
+        "A": "2 mm",
+        "B": "0.25 mm",
+        "C": ">2 mm",
+        "D": "1 mm"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "Varón de 45 años, cae de caballo con pie atrapado en estribo. Examen: equimosis plantar con dolor y tumefacción a la palpación de medio pie. Rx AP de pie: alineación alterada. Diagnosticado de lesión de Lisfranc y encontrándose daño cartilaginoso extenso en base de metatarsianos y cuñas. Por lo que en la articulación de Lisfranc. ¿Cuál es el tratamiento?",
+      "options": {
+        "A": "Osteosíntesis con tornillos",
+        "B": "Osteosíntesis con placa",
+        "C": "Osteosíntesis con cerclaje",
+        "D": "Artrodesis primaria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Los antibióticos en ortopedia pueden utilizarse de múltiples formas. En el caso de usarlo como tratamiento profiláctico, se recomienda usar …… antes de la incisión.",
+      "options": {
+        "A": "30 a 60 minutos",
+        "B": "2 horas",
+        "C": "4 horas",
+        "D": "12 horas"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Se decide realizar en el servicio de Ortopedia una investigación sobre los efectos del uso de fijadores de calcio y calcio con vitamina D, en adultos mayores, para la prevención de fracturas de radio distal en las caídas, habiendo un investigador principal, coautores y residentes participantes. La responsabilidad principal del ...... es reflejar con precisión todas las aportaciones por parte de individuos o de agencias implicadas en la investigación.",
+      "options": {
+        "A": "coautor",
+        "B": "financiador",
+        "C": "investigador",
+        "D": "asesor"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Varón de 35 años, acude a emergencia refiriendo que tropieza y cae flexionando bruscamente sobre rodilla izquierda, presentando dolor brusco y sensación de “chasquido” en la cara anterior. Antecedente: ha estado tomando ciprofloxacino. Examen: tumefacción y dolor alrededor de rodilla, dolor a la palpación en polo inferior de rótula, incapacidad de extender la rodilla. Rx rodilla: índice Insall-Salvati <0.8. ¿Cuál es el diagnostico más probable?",
+      "options": {
+        "A": "Rotura tendón cuádriceps",
+        "B": "Rotura tendón rotuliano",
+        "C": "Fractura de rótula",
+        "D": "Avulsión tuberosidad tibial"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿Cuál es la principal diferencia a favor de la cirugía robótica para artroplastía de rodilla primaria, en comparación con técnicas convencionales?",
+      "options": {
+        "A": "Menor costo",
+        "B": "Menor tiempo de uso de sala de operaciones",
+        "C": "Mejor alineamiento de componentes protésicos",
+        "D": "Mejor resultado funcional del paciente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Cuando se decide realizar una infiltración con corticoide en rodilla, se debe evitar en paciente que…",
+      "options": {
+        "A": "tiene antecedente de tuberculosis ya tratada.",
+        "B": "está embarazada de 28 semanas.",
+        "C": "tiene antecedente de psoriasis en miembros inferiores.",
+        "D": "recibe tratamiento anticoagulante."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Se responde interconsulta por recién nacida de 24 horas de vida, parto a término, para descartar displasia de cadera. Examen: test de Ortolani y Barlow cadera izquierda impresiona positivo. Ante la duda lo más adecuado es solicitar:",
+      "options": {
+        "A": "Radiografía de pelvis anteroposterior",
+        "B": "Control posterior por consulta externa",
+        "C": "Uso inmediato del arnés de Pavlik",
+        "D": "Ecografía dinámica de cadera izquierda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Mujer de 32 años, sin antecedentes de importancia. Que será sometida a procedimiento quirúrgico de reemplazo articular con prótesis total de cadera por coxartrosis. ¿Cuál es la conducta que ha demostrado reducir las infecciones de sitio quirúrgico?",
+      "options": {
+        "A": "Administración profiláctica endovenosa de cefalosporinas de primera generación",
+        "B": "Procedimiento realizado en sala de operaciones con presión negativa",
+        "C": "Prótesis de cadera con cobertura de plata",
+        "D": "Administración de cefalosporinas de tercera generación durante 3 días post cirugía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Anciano de 95 años, llega acompañado por vecina, referido con diagnóstico de fractura de cadera intertrocantérea. Examen: desorientado en tiempo espacio y persona. Se hospitaliza para intervención quirúrgica. Para realizar la intervención al paciente. ¿Quién debe firmar el consentimiento informado?",
+      "options": {
+        "A": "La acompañante",
+        "B": "Colocar la huella digital del paciente",
+        "C": "Persona legalmente autorizada",
+        "D": "El policía de turno"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Varón de 38 años, sufre traumatismo sobre cadera derecha, presentando dificultad para estar de pie y dolor que le dificulta movilizarse. TC: fractura subtrocantérica no desplazada, sin compromiso del trocánter menor ni la fosita piriforme. El cirujano dispone de clavo cefalomedular y una placa DHS, optando por el clavo. ¿Cuál es el sustento de dicha decisión?",
+      "options": {
+        "A": "Más apropiado para las fracturas de la región subtrocantérea",
+        "B": "Fractura relacionada a nivel de punta del implante elegido es menor",
+        "C": "Tiene una distancia de deslizamiento más largo",
+        "D": "Técnicamente una operación menos efectiva"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "La capacidad del implante para sufrir una deformación antes de recuperar su forma inicial, se denomina:",
+      "options": {
+        "A": "Rigidez",
+        "B": "Elasticidad",
+        "C": "Plasticidad",
+        "D": "Ductilidad"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Varón de 40 años que sufre traumatismo directo en muslo derecho. Rx: fractura diafisaria de fémur. Se decide usar como implante el clavo intramedular trabado. ¿Cuál es el sustento de su indicación?",
+      "options": {
+        "A": "No permiten micro movimientos, lo cual le da rigidez",
+        "B": "Se debe usar el menor diámetro posible, sin lesionar cortical",
+        "C": "Son muy estables gracias a su posición dentro del hueso",
+        "D": "Debe haber signos de consolidación para realizar apoyo parcial"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Varón de 45 años, ingeniero con sobrepeso, practica futbol los fines de semana; cursa con dolor luego de su actividad deportiva que cede con analgésicos. Antecedente: cirugía de reconstrucción de ligamento cruzado y sutura meniscal de rodilla izquierda hace 5 años. Rx mensurativa: leve genu-varo. Paciente le consulta por tratamiento no quirúrgico que detenga el desarrollo de la gonartrosis. ¿Cuál es su indicación?",
+      "options": {
+        "A": "Aplicación intraarticular de ácido hialurónico",
+        "B": "Aplicación intraarticular de plasma rico en plaquetas",
+        "C": "Condroitin sulfato más glucosamina vía oral",
+        "D": "Cambios de estilo de vida, medidas higiénico dietéticas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "El colgajo pediculado sural reverso, se usa principalmente para cobertura de defectos de:",
+      "options": {
+        "A": "Tercio distal de pierna y tobillo",
+        "B": "Tercio proximal de pierna",
+        "C": "Cobertura de tendón rotuliano",
+        "D": "Defecto cutáneo de fosa poplítea"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "En el abordaje ilioinguinal o el abordaje de Stoppa durante la disección del área rama iliopúbica, puede presentar la llamada corona mortis, que es la anastomosis de la arteria:",
+      "options": {
+        "A": "Epigástrica inferior con arteria vesical superior",
+        "B": "Obturatriz con arteria uterina",
+        "C": "Obturatriz con la arteria epigástrica inferior",
+        "D": "Pudenda interna con la arteria glútea inferior"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Paciente de 11 años, con diagnóstico de osteosarcoma de alto grado en húmero diafisiario derecho, con buena respuesta a la quimioterapia neoadyuvante, sin evidencia de metástasis. RM control: paquete vasculonervioso no comprometido y alejado de masa tumoral. ¿Cuál es la conducta que propondría en el comité de sarcoma?",
+      "options": {
+        "A": "Desarticulación de brazo derecho",
+        "B": "Tratamiento no quirúrgico y manejo por oncología médica",
+        "C": "Resección de tumor y reconstrucción biológica",
+        "D": "Amputación interescapulotorácica derecha"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Varón de 22 años, sufre accidente de tránsito como peatón, presentando traumatismo directo en pierna derecha. Examen: deformidad en pierna afecta y dolor. Diagnosticado de fractura cerrada de tibia, descartándose síndrome compartimental o lesión vascular. Se decide tratamiento ortopédico al observar en radiografía de control fractura de tibia reducida con cabalgamiento menor de 10 mm y…",
+      "options": {
+        "A": "rotación mayor 10 grados.",
+        "B": "trazo articular conminuto.",
+        "C": "angulación menor 10 grados.",
+        "D": "trazo articular desplazado."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Varón de 22 años, sufre accidente de tránsito presentando traumatismo de pierna. Diagnosticado de fractura diafisaria conminuta. Se decide realizar intervención quirúrgica, planificándose utilizar como implante una placa para mantener la alineación y la reducción, el cual debe cumplir con el principio biomecánico de placa…",
+      "options": {
+        "A": "compresiva.",
+        "B": "sostén.",
+        "C": "puente.",
+        "D": "en neutralización."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Varón de 52 años sufre accidente de tránsito. Examen: dolor en región de cadera derecha a la movilización. Rx pelvis: discontinuidad de la línea ilioisquiática derecha. ¿En qué fractura sospecha?",
+      "options": {
+        "A": "Sacro",
+        "B": "Cuello de fémur",
+        "C": "Columna posterior de acetábulo derecho",
+        "D": "Columna anterior de acetábulo derecho"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Varón de 55 años, acude a emergencia, refiriendo que presenta herida en planta del pie derecho, a raíz de pisar un clavo sin darse cuenta hace 12 horas. Antecedente: diabetes mellitus tipo 2 diagnosticada hace 5 años con tratamiento irregular. Examen: herida menor de 1 cm en planta del pie derecho de extensión limitada. ¿Cuál es el antibiótico de elección que indica?",
+      "options": {
+        "A": "Ciprofloxacino",
+        "B": "Levofloxacino",
+        "C": "Clindamicina",
+        "D": "Lincomicina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Mujer de 44 años, es programada para cirugía electiva de artroplastía total de rodilla. Antecedente: artritis reumatoide de larga data. ¿Cuál es el fármaco del manejo de la artritis reumatoide que debe ser suspendido semanas antes de la fecha de la cirugía?",
+      "options": {
+        "A": "Hidroxicloroquina",
+        "B": "Sulfasalazina",
+        "C": "Etanercept",
+        "D": "Doxiciclina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Varón de 30 años, refiere que al destapar una botella de vidrio hace 4 horas, presenta corte de dedo pulgar; llega a emergencia. Al explorar la herida en dorso de falange proximal del pulgar, se observa lesión del tendón extensor al nivel de herida que compromete menos del 50% de su superficie, conservando su extensión activa contra resistencia; por lo que el cirujano siguiendo los pasos de asepsia y antisepsia decide:",
+      "options": {
+        "A": "Exploración quirúrgica en sala de operaciones",
+        "B": "Lavar con abundante cloruro de sodio y a chorro de herida",
+        "C": "Usar material reabsorbible para suturar el tendón afecto",
+        "D": "Limpiar herida cutánea y proceder a sutura con anestesia local"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Varón de 32 años sin comorbilidades, presenta defecto óseo de 4 cm y pérdida de cobertura de partes blandas de aproximadamente 10x7 cm en cara anterior de tercio medio de pierna derecha. Su hospital no cuenta con opción de microcirugía; se opta por acortamiento de pierna para el cierre primario de defecto de parte blanda. ¿Cuál es la siguiente decisión?",
+      "options": {
+        "A": "Amputación infracondílea",
+        "B": "Uso de sistema presión negativa en el defecto cutáneo óseo",
+        "C": "Posterior alargamiento o transporte óseo",
+        "D": "Amputación supracondílea"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Paciente con diagnóstico de luxofractura de articulación sacroiliaca bilateral; actualmente hemodinamicamente estable. Se decide realizar reducción percutánea con tornillos canulados iliosacros. ¿Qué estructuras tienen riesgo de presentar lesión como complicación de esta técnica quirúrgica?",
+      "options": {
+        "A": "Arteria femoral",
+        "B": "Vejiga",
+        "C": "Nervio L5 y S1",
+        "D": "Corona mortis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Acude a emergencia varón 25 años, luego de tener accidente automovilístico. Examen: funciones vitales estables; dolor y deformidad del brazo derecho, dificultad a extensión y de asir los objetos con los dedos en flexión. ¿Cuál es el nervio comprometido?",
+      "options": {
+        "A": "Mediano",
+        "B": "Cubital",
+        "C": "Radial",
+        "D": "Musculocutáneo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Varón de 30 años, tenista profesional, de 195 cm de talla, se le realiza artroplastía de reemplazo de superficie de cadera. ¿Cuál es su indicación post operatoria?",
+      "options": {
+        "A": "Abandono de actividad deportiva en general",
+        "B": "Rehabilitación y uso de brace abductor de cadera por 3 meses",
+        "C": "Deambulación asistida con muletas hasta control radiográfico a los 2 meses",
+        "D": "Dosaje de iones cromo cobalto en sangre si presentara síntomas como dolor inguinal o en muslo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Varón de 69 años, labora como obrero de construcción civil, cae de 2 m de altura. Diagnosticado de fractura pertrocantérica inestable de cadera derecha. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Artroplastía total de cadera con copa de doble movilidad",
+        "B": "Reducción y fijación con clavo cefalomedular",
+        "C": "Reducción y fijación con tornillos canulados",
+        "D": "Artroplastía parcial de cadera con prótesis bipolar"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Varón de 40 años, acude por presentar secreción purulenta que cede con antibióticos. Antecedente: traumatismo en pierna derecha hace un año, con Dx de fractura de tibia, tratamiento quirúrgico con placa y tornillo. Examen: aparente buen estado general, cicatriz de cirugía antigua, herida costrosa con granuloma, no signos de flogosis. Se sospecha de osteomielitis. ¿Cuál es el manejo recomendado?",
+      "options": {
+        "A": "Identificar el microorganismo responsable",
+        "B": "Iniciar tratamiento antibiótico sistémico",
+        "C": "Realizar limpieza quirúrgica agresiva",
+        "D": "Solicitar radiografía en busca de secuestros"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Paciente post operado de artroplastia total de rodilla, cursa con infección de sitio quirúrgico, se realizó desbridamiento, uso de dren con presión negativa, con buena evolución, quedando defecto de parte blanda a nivel de cara anterior de rodilla con exposición de tendón patelar. ¿Qué tipo de cobertura indica?",
+      "options": {
+        "A": "Injerto de piel total",
+        "B": "Cierre por segunda intención",
+        "C": "Cierre primario de la herida",
+        "D": "Colgajo musculocutáneo de gastrocnemio medial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "La fractura articular parcial de base de primer metacarpiano con subluxación y desplazamiento lateral se denomina:",
+      "options": {
+        "A": "Fractura de Rolando",
+        "B": "Fractura del boxeador",
+        "C": "Lesión de Stener",
+        "D": "Fractura de Bennet"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Varón de 25 años basquetbolista semiprofesional, consulta por dolor en rodilla derecha de un mes de evolución, calma poco con analgésicos. Examen: dolor y sensibilidad a la palpación en la proximidad del borde inferior de la rótula que se incrementa a la extensión más que en flexión. Diagnosticado de tendinosis patelar. ¿Cuál es la indicación?",
+      "options": {
+        "A": "Antiinflamatorios no esteroideos y terapia física",
+        "B": "Infiltración a nivel del tendón rotuliano",
+        "C": "Cirugía de fibras necróticas del tendón",
+        "D": "Vuelta progresiva a competición"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Paciente de 40 años, sufre caída con apoyo en hombro derecho. Rx: fractura de húmero proximal. Una indicación de tratamiento quirúrgico es si la fractura tiene…",
+      "options": {
+        "A": "impactación hacia el cuello quirúrgico sin angulación pronunciada.",
+        "B": "1fragmento y angulación < 30° cortical diáfisis intacto.",
+        "C": "2 fragmentos y angulación < 30° cortical diáfisis intacto.",
+        "D": "2 o 3 fragmentos con desplazamiento > 1 cm de troquiter."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Varón de 35 años, en accidente de tránsito siendo chofer de moto lineal, sufre traumatismo directo en rodilla izquierda. Examen: presenta dolor y aumento de volumen rodilla afecta. Rx: fractura de meseta tibial, tipo Schatzker IV; por lo que se planifica un abordaje postero interno. ¿Qué nervio se puede lesionar?",
+      "options": {
+        "A": "Cutáneo sural",
+        "B": "Gastrocnemio lateral",
+        "C": "Safeno interno",
+        "D": "Peroneo común"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Varón de 50 años, refiere dolor en tobillo de 6 meses de evolución. TC de tobillo: lesión osteocondral a nivel anterior de astrágalo. Se decide realizar artroscopía de tobillo por abordaje anterolateral, el cual antes de marcar el portal, se debe ubicar el recorrido del nervio…",
+      "options": {
+        "A": "safeno interno.",
+        "B": "peroneo superficial.",
+        "C": "peroneo profundo.",
+        "D": "digital dorsal del pie."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "El mecanismo de formación ósea en que la osificación se da porque se agregan células mesenquimatosas indiferenciadas, que luego se diferencian en osteoblastos, es denominada osificación...",
+      "options": {
+        "A": "endocondral.",
+        "B": "por aposición.",
+        "C": "trabeculada.",
+        "D": "intramembranosa."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "La artroplastía total inversa de hombro se realiza cuando existe degeneración terminal de la articulación glenohumeral con un…",
+      "options": {
+        "A": "manguito rotador no funcional.",
+        "B": "manguito rotador funcional.",
+        "C": "bíceps no funcional.",
+        "D": "hombro inestable intratable."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Mujer de 70 años, consulta por presentar episodios de luxación recidivante de cadera derecha. Antecedente: operada hace 5 años de prótesis total de cadera derecha. Se planifica operación, observándose tejidos blandos adecuados y funcionales. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Conversión a una hemiartroplastía con gran cabeza femoral",
+        "B": "Conversión a una cabeza monopolar o bipolar",
+        "C": "Realizar revisión de la prótesis total de cadera",
+        "D": "Realizar artroplastía de resección"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Varón de 22 años, cae mientras conducía bicicleta, sobre mano izquierda. Examen: dolor en codo izquierdo, limitación para la flexo extensión de codo, dolor en articulación radio-cubital distal izquierda. Rx: fractura de cúpula radial Mason III, cúbito plus, no otras lesiones óseas. ¿Cuál es su impresión diagnóstica?",
+      "options": {
+        "A": "Luxofractura de Galeazzi",
+        "B": "Luxofractura de Monteggia",
+        "C": "Lesión Essex Lopresti",
+        "D": "Luxofractura transolecraneana"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Varón de 67 años, con dolor lumbar y hematuria intermitente desde hace 6 meses y dolor en región trocantérica derecha desde hace 2 meses. Acude por presentar dolor súbito a nivel de cadera derecha. Examen: deformidad en región trocantérica derecha y dolor a la movilización. Rx cadera: lesión osteolítica en región subtrocantérica, bordes no definidos, no evidencia de signos de reacción perióstica. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Osteosarcoma de fémur",
+        "B": "Fractura patológica por metástasis ósea",
+        "C": "Fractura patológica por quiste óseo simple",
+        "D": "Fractura subtrocantérica por osteoporosis"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Considerando las características de la artritis reumatoide. Las regiones que suelen verse afectadas en primer lugar son los(as) ...... y los(as)...",
+      "options": {
+        "A": "rodillas / pies.",
+        "B": "tobillos / muñecas.",
+        "C": "manos / pies.",
+        "D": "codos / hombros."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Varón de 60 años de profesión abogado, sufre caída con apoyo en hombro derecho. Examen: hombro doloroso a la abducción, signos de la tecla positivo, resto sin alteraciones. En tópico de traumatología según evaluación radiográfica, le indican tratamiento conservador con uso de cabestrillo. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Fractura de húmero proximal Neer III",
+        "B": "Luxación acromioclavicular grado III",
+        "C": "Luxo fractura gleno-humeral",
+        "D": "Fractura articular de glenoides desplazada"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Mujer de 90 años independiente total, sufre caída a nivel, siendo trasladada inmediatamente a tópico de emergencia. Antecedente de by pass coronario. Examen: Glasgow 15, dolor en cadera derecha, resto de examen sin alteraciones. Diagnosticada de fractura de cadera cervical derecha. El riesgo de mortalidad en este grupo de pacientes es alto. ¿Cuál es la indicación que ha demostrado disminuir este riesgo?",
+      "options": {
+        "A": "Evaluación preoperatoria con ecocardiograma",
+        "B": "Administración endovenosa de antibiótico profiláctico",
+        "C": "Tratamiento quirúrgico antes de las 48 horas",
+        "D": "Tromboprofilaxis con heparina de bajo peso molecular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "La clasificación de ...... está basada en el ángulo que la línea de fractura hace en referencia a la horizontal",
+      "options": {
+        "A": "Garden",
+        "B": "Pauwels",
+        "C": "Pipkin",
+        "D": "Tronzo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Varón de 25 años, que practica futbol en forma irregular, refiere que presenta dolor en rodilla derecha desde hace 2 semanas, que se exacerba al practicar su deporte o al subir escaleras. Examen: en rodilla derecha, se realiza la prueba de Mc Murray provocando dolor e inestabilidad, lo cual está indicando que hay muy probable lesión de…",
+      "options": {
+        "A": "ligamento colateral medial.",
+        "B": "ligamento cruzado anterior.",
+        "C": "ligamento cruzado posterior.",
+        "D": "menisco."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "La pseudoartrosis ...... de la tibia es la causa más común de arqueamiento anterolateral.",
+      "options": {
+        "A": "yatrogénica",
+        "B": "congénita",
+        "C": "traumática",
+        "D": "infecciosa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "La disrupción de la banda central del sistema extensor del dedo en zona III, con la migración volar de las bandeletas laterales, produciendo una postura flexionada de la articulación interfalangica proximal y extensión de la interfalangica distal, se denomina:",
+      "options": {
+        "A": "Deformidad en Boutonniere",
+        "B": "Dedo en martillo",
+        "C": "Deformidad en cuello de cisne",
+        "D": "Dedo en gatillo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "En la escoliosis idiopática el diagnóstico es clínico y se complementa con la radiografía, sin embargo, está indicada la resonancia magnética cuando…",
+      "options": {
+        "A": "se encuentre radiografía normal.",
+        "B": "hay una detención de curva.",
+        "C": "se aprecia excesiva cifosis apical.",
+        "D": "la escoliosis es en adolescente."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Mujer de 80 años, cursa desde hace 2 semanas con dolor en región de cadera izquierda y desde hace dos horas sin traumatismo previo intentando ponerse de pie, presenta dolor súbito en cadera izquierda. Antecedente: cirugía de cadera derecha hace 6 años por fractura; recibe tratamiento con bifosfonatos de forma continua. Examen: limitación funcional, acortamiento de extremidad izquierda con rotación externa. ¿Qué tipo de fractura es la que esperaría encontrar en la radiografía?",
+      "options": {
+        "A": "Fractura femoral atípica izquierda",
+        "B": "Pseudoartrosis de fractura de fémur derecho",
+        "C": "Fractura de fémur distal izquierdo",
+        "D": "Mal unión de fémur derecho"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

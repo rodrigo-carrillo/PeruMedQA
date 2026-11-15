@@ -1,0 +1,1349 @@
+{
+  "metadata": {
+    "year": 2023,
+    "exam": "GINECOLOGIA",
+    "source_pdf": "GINECOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Ginecología y Obstetricia",
+    "sha256_pdf": "d95f441197a2f94c6fa454c84988f3e10a7c28c3209395c611aa6ea4b31d8c75",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:30:45",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 11,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Ginecología y Obstetricia",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9944,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.6124,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 29140,
+      "coverage_out_chars": 29140,
+      "human_reference": "_backup_csv_verificados/Year2023/GINECOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 417,
+        "solo_espacios": 83
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Hacia la semana ...... de gestación, el número de ovocitos en el feto alcanza su máximo pico, con unos 6 ó 7 millones.",
+      "options": {
+        "A": "20",
+        "B": "12",
+        "C": "32",
+        "D": "36"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿A qué estadío de Tanner corresponde el desarrollo de la mama de una niña con: presencia de botones mamarios, con un montículo de tejido mamario visible y palpable, inicio de crecimiento de la areola y el pezón con desarrollo variable?",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "2",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "Primigesta de 39 semanas. Antecedente de miomectomía hace un año. Ingresa a emergencia con dolor abdominal. Examen: PA 70/40 mmHg, FC: 105 X’, FR: 25 X’; altura uterina: no se logra identificar, se palpan partes fetales. Monitoreo fetal presenta desaceleraciones tardías con bradicardia. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Inducir con oxitocina",
+        "B": "Reevaluación en dos horas",
+        "C": "Hospitalización para monitoreo",
+        "D": "Cesárea de emergencia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Paciente de 55 años asintomática, durante su chequeo en la eco TV, le encuentran un quiste de 5 cm, unilocular, sin tabiques de paredes delgadas; sin factores de riesgo. Ca 125 normal. ¿Cuál es su manejo?",
+      "options": {
+        "A": "Drenaje con guía ecográfica",
+        "B": "Observación",
+        "C": "Quistectomía laparoscópica",
+        "D": "Laparotomía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Primigesta de 37 semanas, acude a emergencia por que durante trabajo parto domiciliario presentó convulsiones tonicoclónicas. Examen: PA: 180/100 mmHg, FC: 105 X´, FR: 30 X´; abdomen: AU: 32 cm, SPP: LCI, LCF: 142 X´; tacto vaginal: D: 2 cm, AP: -3; M: integras. Se administra sulfato de magnesio y se termina gestación vía abdominal. ¿Cuándo se debe suspender el sulfato de magnesio?",
+      "options": {
+        "A": "24 horas después de iniciada las convulsiones",
+        "B": "24 horas después del parto",
+        "C": "12 horas después del alumbramiento",
+        "D": "12 horas después de iniciada las convulsiones"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Mujer de 32 años sufre de hemorragia severa luego de desprendimiento prematuro de placenta post traumatismo abdominal; presentó como complicación un síndrome de Sheehan. Ella desea ser nuevamente madre. ¿Qué terapia hormonal se indica para inducir la ovulación?",
+      "options": {
+        "A": "Letrozol",
+        "B": "Citrato de clomifeno",
+        "C": "Bajas dosis de estrógeno",
+        "D": "Gonadotrofinas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Mujer de 35 años, G0 P0000, acude por no poder concebir desde hace un año. Antecedente: síndrome de ovario poliquístico asociado a anovulación. Examen: peso: 85 Kg, talla: 1.72 m. Ecografía: útero normal con ovario polifolicular. ¿Cuál es el fármaco de elección para inducción de ovulación?",
+      "options": {
+        "A": "Citrato de clomifeno",
+        "B": "Dexametasona",
+        "C": "Gonadotropinas",
+        "D": "Letrozol"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Mujer de 28 años consulta por infertilidad primaria y por sangrado menstrual abundante. No antecedentes de importancia. Examen: PA: 120/70 mmHg, FC: 72 X'. Ecografía TV: útero de 8 cm, con tumoración compatible con mioma submucoso tipo 1 de 4 cm a nivel del fondo uterino; no masas anexiales. ¿Cuál es la conducta terapéutica a seguir?",
+      "options": {
+        "A": "Tratamiento médico",
+        "B": "Miomectomía laparoscópica",
+        "C": "Embolización arterial",
+        "D": "Histeroscopía quirúrgica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "En la evaluación Doppler de la restricción del crecimiento intrauterino (RCIU), la alteración más tardía se presenta en:",
+      "options": {
+        "A": "Arteria umbilical",
+        "B": "Ductus venoso",
+        "C": "Arteria cerebral media",
+        "D": "Istmo aórtico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Primigesta de 39 semanas, sin control prenatal acude por pérdida de líquido y contracciones desde hace 5 horas. Examen: AU: 33 cm, se palpa cabeza fetal en fosa iliaca izquierda y el dorso hacia la parte superior del abdomen, LCF: 144 X'; peso probable fetal: 3700 g; TV: dilatación: 7 cm; Borramiento: 100%, M: rotas; pelvis ginecoide. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Cesárea de urgencia",
+        "B": "Continuar chance vaginal",
+        "C": "Estimulación con oxitocina",
+        "D": "Versión interna"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Mujer de 16 años, derivada al consultorio de ginecología por el otorrinolaringólogo, debido a la ausencia de menstruación hasta la fecha, ha notado dificultad para percibir y diferenciar olores. Examen: PA: 110/60 mmHg. FC: 72 X´. Falta del desarrollo mamario y poco vello púbico y axilar. Ecografía pélvica: presencia de útero, ovarios pequeños, resto normal. Laboratorio: FSH y LH disminuidas. Cariotipo: XX. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Disgenesia gonadal XX",
+        "B": "Insensibilidad a los andrógenos",
+        "C": "Síndrome de Rokitansky",
+        "D": "Síndrome de Kallmann"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Mujer de 32 años G0 P0000, acude preocupada por que ha quedado embarazada a pesar de uso de DIU con levonorgestrel. Examen: especuloscopía: se evidencian hilos del DIU. Ecografía TV: gestación única activa de 9 semanas por LCR. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Evacuación uterina",
+        "B": "Retiro del DIU",
+        "C": "Controlar en 4 semanas",
+        "D": "Usar misoprostol"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Después de qué tiempo de realizarse una vasectomía el varón queda estéril?",
+      "options": {
+        "A": "Dos meses",
+        "B": "Un mes",
+        "C": "Tres meses",
+        "D": "Inmediatamente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Segundigesta de 24 semanas, Rh negativo, no recibió vacuna anti-D en la gestación anterior, acude por disminución de movimientos fetales. Examen: AU: 24 cm, dinámica uterina ausente; latidos fetales: 145 X´. Laboratorio: Test de Coombs indirecto: positivo. Usted desea identificar anemia fetal. ¿Cuál es el valor de la ACM para detectar esta patología?",
+      "options": {
+        "A": "Entre 0.5 y 1 MoM",
+        "B": "Entre 1 y 1.5 MoM",
+        "C": "Menor 0.5 MoM",
+        "D": "Mayor a 1.5 MoM"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Paciente acude para solicitar método anticonceptivo, refiere que tiene pareja estable y tiene relaciones cada 15 días. ¿Cuál es el método más adecuado?",
+      "options": {
+        "A": "Anticonceptivos orales",
+        "B": "Preservativo",
+        "C": "Ampollas mensuales",
+        "D": "Ampollas trimestrales"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Mujer de 62 años G5 P5005, acude por presentar sensación de bulto en zona vaginal y pérdida de orina a la maniobra de Valsalva. Examen: útero 7 cm, POPQ: longitud total de la vagina: 7 cm, punto Aa: +3 cm y Ba: +6 cm. Prueba del hisopo: ángulo 35°. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Prolapso de cúpula vaginal e incontinencia urinaria mixta",
+        "B": "Distopia genital grado III e incontinencia urinaria de urgencia",
+        "C": "Distopia genital grado IV e incontinencia urinaria de esfuerzo",
+        "D": "Prolapso genital total sin incontinencia urinaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Mujer de 45 años, hace una semana presenta tumoración a nivel vulvar, es su 5° episodio en 10 meses a pesar del tratamiento con incisión, drenaje y marsupialización. Examen tumoración de 4 cm fluctuante, en zona vulvar inferior por fuera del anillo himeneal, no doloroso a la palpación. ¿Cuál es la conducta más adecuada?",
+      "options": {
+        "A": "Sonda de Word",
+        "B": "Quistectomía",
+        "C": "Cirugía láser",
+        "D": "Marsupialización amplia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "Primigesta de 38 semanas, acude por pérdida de líquido desde hace 6 horas. Examen: T°: 36.7 °C, FC: 72 X', FR: 18 X', PA: 100/60 mmHg; AU: 32 cm, SPP: LCI; LCF: 140 X'; TV: D0 B 50%, AP: -1; cérvix posterior y duro; M: rotas, líquido amniótico claro. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Manejo expectante",
+        "B": "Inducción con oxitocina",
+        "C": "Cesárea de emergencia",
+        "D": "Maduración cervical"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Mujer de 32 años, G4 P0040, desea gestación, pero ha presentado 4 pérdidas y un episodio de trombosis venosa profunda en pierna izquierda hace 2 años. Laboratorio: anticuerpos anticardiolipinas positivo y anticoagulante lúpico positivo. Para confirmar el diagnóstico. ¿En qué tiempo se debe repetir estos exámenes?",
+      "options": {
+        "A": "12 semanas",
+        "B": "1 semana",
+        "C": "72 horas",
+        "D": "1 mes"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Puérpera inmediata de parto vaginal, quien es diagnosticada con SARS-CoV-2 durante trabajo de parto. La lactancia materna en ella...",
+      "options": {
+        "A": "está contraindicada.",
+        "B": "se debe iniciar en una semana.",
+        "C": "se debe realizar con biberón.",
+        "D": "no está contraindicada."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Primigesta de 40 semanas, acude por inicio de trabajo de parto. Examen: altura uterina: 39 cm, SPP: LCD; LCF: 145 X'; DU: c/3 min ++/+++. Tacto vaginal: D: 6 cm, AP: -4, M: rotas con líquido amniótico claro. Se palpa cara fetal con mentón en orientación sacra. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Programar cesárea",
+        "B": "Acentuar con oxitocina",
+        "C": "Dejar evolución espontánea",
+        "D": "Usar fórceps de salida"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Paciente usuaria de DIU, va a su control y al examen clínico no se evidencia los testigos. Se le solicita una ecografía transvaginal en donde no se observa el DIU. ¿Cuál el siguiente paso?",
+      "options": {
+        "A": "Resonancia de abdomen",
+        "B": "Rx de abdomen",
+        "C": "Laparatomía",
+        "D": "Colocación de otro DIU"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Mujer de 35 semanas de embarazo, acude por presentar prurito palmo-plantar a predominio nocturno. Examen: AU: 32 cm, SPP: LCI, LCF: 132 X'. Laboratorio: ácidos biliares: 18 µmol/l, bilirrubina total: 1.8 mg/dl, TGO: 88 U/l. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Esteatosis hepática aguda",
+        "B": "Colestasis intrahepática gestacional",
+        "C": "Hepatitis aguda",
+        "D": "Colecistitis crónica calculosa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Gestante de 28 semanas, con dolor persistente en flanco derecho, desde hace 18 h, niega fiebre, no ingiere alimentos desde el día de ayer. Examen: PA: 120/60 mmHg, T°: 37.5 °C, FC: 80 X'; AU: 29 cm, F: LCD, LF: 140 X'; dolor a la palpación en flanco derecho, rebote dudoso. Ecografía obstétrica: normal. Laboratorio: leucocitos: 16000/µl, abastonados: 6%. ¿Cuál es el manejo?",
+      "options": {
+        "A": "Observación",
+        "B": "Analgésicos",
+        "C": "Sedación",
+        "D": "Laparotomía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Paciente con amenorrea y galactorrea. Prolactina en 48 ng/ml. A las dos semanas se le repite la prolactina saliendo en 46 ng/ml. ¿Cuál es el siguiente paso a seguir?",
+      "options": {
+        "A": "Solicitar resonancia de hipófisis",
+        "B": "Dosaje de TSH",
+        "C": "Solicitar tomografía de hipófisis",
+        "D": "Tratamiento con bromocriptina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "En una paciente hospitalizada por enfermedad inflamatoria pélvica. ¿Cuál de las siguientes es de indicación quirúrgica?",
+      "options": {
+        "A": "Presencia de absceso tuboovárico de 6 cm",
+        "B": "No mejoría después de 72 horas de tratamiento médico",
+        "C": "Presencia de líquido en fondo de saco posterior",
+        "D": "Presencia de rebote peritoneal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Mujer de 29 años, acude por distensión abdominal y disnea; hace 2 días se realizó transferencia embrionaria y la estimulación fue hecha con gonadotropinas. Examen: peso: 80 Kg, talla: 1.62 m. Laboratorio: Hb: 16.7 g/dl; plaquetas 470000/µl, perfil de coagulación normal. Ecografía abdominal: ascitis, efusión pleural bilateral y ovario multiquístico derecho de 15 cm. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Laparotomía exploratoria",
+        "B": "Tratamiento conservador y profilaxis tromboembólica",
+        "C": "Uso de antagonistas de la GnRH",
+        "D": "Videolaparoscopía quirúrgica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Cuál es el factor de riesgo más importante para acretismo placentario?",
+      "options": {
+        "A": "Placenta previa en cesareada anterior",
+        "B": "Múltiples legrados uterinos",
+        "C": "Antecedente de miomectomías",
+        "D": "Ablación endometrial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "Segundigesta de 30 semanas, acude por pérdida de líquido desde hace 3 horas. Examen: T°: 36.9 °C, PA: 120/70 mmHg, FC: 85 X'; abdomen: AU: 29 cm, SPP: LCI; LCF: 142 X´; tacto vaginal: D: 0, B: 50%, AP: -3, M: rotas con líquido amniótico claro. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Antibiótico e inducción del parto",
+        "B": "Alta con antibióticos y control a las 72 h",
+        "C": "Maduración pulmonar y manejo expectante",
+        "D": "Hospitalización y cesárea"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Mujer de 35 años, quien acude por presentar su quinto episodio de candidiasis vaginal en 12 meses. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Fluconazol 150 mg semanal por 1 mes",
+        "B": "Butoconazol 1% crema aplicación tópica por 1 semana",
+        "C": "Fluconazol 150 mg cada 3 días por 3 tomas y luego semanal por 6 meses",
+        "D": "Clotrimazol 1% crema 5 g durante 21 días"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "De acuerdo a la ACOG el inicio de la toma de PAP es a:",
+      "options": {
+        "A": "Los 21 años",
+        "B": "Los 18 años",
+        "C": "Inicio de relaciones sexuales",
+        "D": "Los 23 años"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "Durante la menstruación. ¿Qué prostaglandina aumenta su concentración para ocasionar contracciones miometriales, vasoespasmo arteriolar y con ello isquemia endometrial?",
+      "options": {
+        "A": "E2",
+        "B": "D2",
+        "C": "F2α",
+        "D": "F1"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Tercigesta nulípara de 12 semanas de gestación. Antecedente de conoleep antes de sus gestaciones. Acude a control ecográfico asintomática y se le encuentra una cervicometría de 25 mm. Ella manifiesta que los anteriores embarazos fueron pérdidas espontaneas e indoloras. Examen: tacto vaginal: cérvix blando, borramiento en 30%. D: 0 cm. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Progesterona vaginal",
+        "B": "Cerclaje profiláctico",
+        "C": "Observación ambulatoria",
+        "D": "Cervicometría semanal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Mujer de 23 años sufre accidente de tránsito en moto. En emergencia se realiza radiografía pélvica y se encuentran dientes a nivel de fosa iliaca izquierda. Examen ginecológico se palpa masa de 6 cm en anexo izquierdo, blando de bordes regulares. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Teratoma ovárico",
+        "B": "Mioma con degeneración quística",
+        "C": "Endometrioma ovárico",
+        "D": "Feto papiráceo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Paciente que acude a la consulta con lesión ulcerosa vulvar de bordes definidos y limpios. VDRL positivo y ELISA VIH negativo. ¿En cuantos meses se debe repetir la prueba VIH?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "No repetir",
+        "D": "6"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Gestante de 15 semanas que presenta dolor intenso en hipogastrio no sangrado no fiebre. Ecografía: gestación de 15 semanas, presencia de mioma de 5 cm. Hemograma normal; sedimento de orina normal. ¿Cuál es el manejo?",
+      "options": {
+        "A": "Ibuprofeno",
+        "B": "Progestágenos",
+        "C": "Laparotomía",
+        "D": "Observación"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "Gestante de 36 semanas, que durante la gestación tuvo dos episodios de herpes genital. Actualmente asintomática. ¿Cuál es la indicación?",
+      "options": {
+        "A": "Planear la cesárea",
+        "B": "Tratamiento supresor con aciclovir",
+        "C": "Esperar el parto vaginal",
+        "D": "Inducir el parto"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Paciente acude por presencia de condilomas recidivantes, desea saber el motivo. ¿Cuál es la causa?",
+      "options": {
+        "A": "Reinfección de su pareja",
+        "B": "Reactivación de infecciones subclínicas",
+        "C": "Tratamiento inadecuado",
+        "D": "Historia natural"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Paciente de 18 años que hace seis meses presenta amenorrea, menarquia a los 14 años. Examen clínico normal. Eco TV: útero de 6 cm, endometrio de 2 mm. TSH: 2.8 µUI/ml, Prl: 15 ng/ml, FSH: 60 mUI/ml, LH: 70 mUI/ml, ß-hCG negativo. ¿Cuál es el examen a solicitar?",
+      "options": {
+        "A": "Ac anti-tiroideos",
+        "B": "Ac antifosfolipídicos",
+        "C": "Tomografía cerebral",
+        "D": "Cariotipo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Mujer de 35 años, acude por flujo vaginal y prurito vulvar. Examen: especuloscopía: secreción vaginal profusa, amarilla con mal olor; se evidencia colpitis macular a nivel de cérvix; tacto vaginal: útero y anexos no dolorosos a la palpación bimanual. ¿Cuál es el tratamiento más adecuado?",
+      "options": {
+        "A": "Metronidazol en óvulos por 7 días",
+        "B": "Tinidazol en óvulos por 7 días",
+        "C": "Metronidazol 500 mg 2v/d por 2 días",
+        "D": "Metronidazol 2 g monodosis vía oral"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Mujer de 17 años acude a emergencia por presentar sangrado vaginal abundante. Examen: FC: 98 X´, PA: 100/60 mmHg. Examen ginecológico: útero 7 cm, no masas; especuloscopía: sangrado abundante. Test de embarazo negativo. Antecedente de régimen catamenial irregular con metrorragia. ¿Cuál es el manejo adecuado para controlar el sangrado vaginal agudo?",
+      "options": {
+        "A": "Ácido tranexámico cada 24 h por 3 días",
+        "B": "Histerectomía abdominal total",
+        "C": "Embolización de arteria uterina",
+        "D": "ACOS cada 6 h por 7 días y luego disminuir dosis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Mujer de 25 años, acude por presentar una lesión tipo úlcera en genitales: Examen ginecológico: úlcera genital de 1 cm en labio mayor derecho, borde suave, indurado y base suave e indolora, mínimamente sensible. No hay presencia de adenopatías inguinales. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Chancroide",
+        "B": "Herpes",
+        "C": "Donovanosis",
+        "D": "Sífilis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Primigesta de 24 semanas, antecedente de lupus eritematoso sistémico en tratamiento, presenta anticuerpos Anti-SS-A (Ro) y Anti-SS-B (La) positivos. ¿Qué resultado adverso perinatal puede presentar el recién nacido?",
+      "options": {
+        "A": "Parto post término",
+        "B": "Macrosomía fetal",
+        "C": "Bloqueo cardiaco congénito",
+        "D": "Hidrocefalia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Gestante de 39 semanas por ecografía del segundo trimestre en control prenatal, asintomática, sin historia de pérdida de líquido. Examen: PA: 120/70 mmHg, FC: 72 X'. AU: 32; feto en LCD; LCF: 144 X'; TV: dilatación: 0, borramiento: 0. Ecografía: feto varón, peso en percentil 24 para su edad gestacional y oligoamnios (ILA: 45). ¿Qué solicita para determinar la vía del parto?",
+      "options": {
+        "A": "Perfil biofísico",
+        "B": "Doppler de arterias uterinas",
+        "C": "Doppler de arteria umbilical",
+        "D": "Prueba no estresante"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Mujer que acude a consulta por presentar tres úlceras en zona genital con márgenes irregulares, profundas, con bordes excavados y muy dolorosas; además de adenopatía inguinal dolorosa. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Penicilina G benzatínica 2.4 millones dosis única",
+        "B": "Aciclovir 400 mg 3 veces al día por una semana",
+        "C": "Eritromicina 500 mg vía oral dosis única",
+        "D": "Azitromicina 1 g vía oral dosis única"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿En pacientes con infertilidad cuál de las siguientes pruebas sirve para determinar ovulación?",
+      "options": {
+        "A": "Prueba con citrato de clomifeno",
+        "B": "Monitorización de la hormona luteinizante",
+        "C": "Dosaje de hormona antimülleriana",
+        "D": "Dosaje de FSH sérica el día 3"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "El tratamiento de elección para la endocervicitis por Chlamydia trachomatis es:",
+      "options": {
+        "A": "Ceftriaxona 250 mg dosis única",
+        "B": "Azitromicina 500 mg dosis única",
+        "C": "Butoconazol 5 g, crema vaginal por 3 días",
+        "D": "Doxiciclina 100 mg dos veces al día por 7 días"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Cuál de los siguientes es un factor pronóstico positivo para la evolución favorable del cáncer de mama?",
+      "options": {
+        "A": "Tumor mayor de 3 cm",
+        "B": "Tumores aneuploides",
+        "C": "Presencia de receptores hormonales",
+        "D": "Invasión vascular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Mujer de 35 años acude a consulta preconcepcional por antecedente de niño con diagnóstico de mielomeningocele. Examen: PA: 110/60 mmHg, FC: 72 X'; IMC: 23.5. Ecografía pélvica: normal. ¿Cuántos meses antes de la concepción se debería iniciar el consumo de ácido fólico?",
+      "options": {
+        "A": "0.5",
+        "B": "3",
+        "C": "2",
+        "D": "1"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Mujer de 34 años, puérpera de 6 semanas, dando lactancia exclusiva. No antecedentes de tromboembolismo venoso ni hipertensión, no consume tabaco. Consulta por anticoncepción. ¿Cuál de los siguientes métodos está indicado?",
+      "options": {
+        "A": "Parches dérmicos",
+        "B": "Anillo vaginal",
+        "C": "Medroxiprogesterona 150 mg",
+        "D": "Anticonceptivos orales combinados"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Primigesta de 23 semanas, durante su ecografía morfológica de rutina se encuentra el diámetro anteroposterior de la pelvis renal en 5 mm. Esto corresponde a una dilatación pélvica...",
+      "options": {
+        "A": "leve.",
+        "B": "moderada.",
+        "C": "grave.",
+        "D": "severa."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "En la evaluación de un prolapso genital por POP-Q, el hiato urogenital se mide desde ...... hasta...",
+      "options": {
+        "A": "la mitad del meato uretral externo / la línea posterior media del himen.",
+        "B": "la mitad del meato uretral / la línea media del orificio anal.",
+        "C": "el borde inferior meato uretral externo / la línea anterior media del himen.",
+        "D": "el límite posterior medio del himen / el inicio del orificio anal."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "Paciente usuaria de anillo vaginal anticonceptivo, que se siente bien con el método, acude porque pareja se siente incómodo cuando tienen relaciones sexuales. Usted le sugiere que el tiempo máximo que puede estar sin el anillo sin perder la protección anticonceptiva es ...... horas.",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "5",
+        "D": "10"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Paciente que presenta dolor en fosa iliaca derecha. Tiene el antecedente de haberle realizado una biopsia de endometrio hace 5 días. Examen: dolor a la movilización del cérvix y a la palpación de anexo derecho. ¿Cuál es su tratamiento?",
+      "options": {
+        "A": "Doxiciclina + ceftriaxona",
+        "B": "Azitromicina + ceftriaxona",
+        "C": "Doxiciclina + ceftriaxona + metronidazol",
+        "D": "Gentamicina + ceftriaxona"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Primigesta de 39 semanas, durante el alumbramiento, al realizar la tracción del cordón umbilical se evidencia inversión uterina con placenta adherida al fondo. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Reducir útero previo desprendimiento de la placenta",
+        "B": "Laparotomía exploratoria para reducción",
+        "C": "Usar tocolíticos y realizar alumbramiento",
+        "D": "Reducir útero con placenta adherida"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Mujer de 19 años, acude por no presentar menstruación desde hace 8 meses. Test de embarazo negativo, se encuentra preocupada por su sobrepeso. Examen: peso: 47 Kg, talla: 1.68 m. Laboratorio: FHS y LH disminuidas, estriol: disminuido. ¿Cuál es la causa más probable de su amenorrea?",
+      "options": {
+        "A": "Hipogonadismo hipogonadotrópico",
+        "B": "Insuficiencia ovárica prematura",
+        "C": "Disgenesia gonadal",
+        "D": "Agenesia de los conductos de Muller"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "Mujer de 59 años G2 P2002, acude por presentar dispareunia, sequedad vaginal y prurito vulvar. Examen ginecológico: mucosa vaginal pálida y evaluación POP-Q, punto Ba: -1, longitud total de la vagina 7 cm. Prueba del hisopo negativo. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Estrógenos locales",
+        "B": "Colpoperineoplastía",
+        "C": "Colocación de malla TOT",
+        "D": "Uso de pesarios"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Paciente de 55 años, que refiere pérdida de orina en poca cantidad al toser; estos eventos son esporádicos. Examen: prolapso grado I de acuerdo al POPQ. Urocultivo negativo. ¿Cuál es el manejo?",
+      "options": {
+        "A": "Uretropexia retropúbica",
+        "B": "Cabestrillo mínimamente invasivo",
+        "C": "Fisioterapia",
+        "D": "Uso de pesarios"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "Puérpera de parto vaginal a término, desea usar el dispositivo intrauterino como método anticonceptivo. Para reducir la tasa de expulsión usted debe realizar una colocación...",
+      "options": {
+        "A": "de intervalo.",
+        "B": "inmediata.",
+        "C": "temprana.",
+        "D": "mediata."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Puérpera de 2 horas de parto vaginal con desgarro de tercer grado y reparación posterior; manifiesta dolor intenso en zona vulvar y no puede miccionar. Examen: PA: 80/40 mmHg, FC: 102 X', FR: 20 X'; abdomen: útero contraído a nivel de la cicatriz umbilical. Genitourinario: sangrado vaginal moderado y zona vulvar equimótica. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Atonía uterina",
+        "B": "Laceración cervical",
+        "C": "Hematoma vulvar",
+        "D": "Diastasis de pubis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Mujer de 44 años se le realizó una histerectomía radical y linfadenectomía pélvica por un carcinoma de cérvix estadío I. En su post operatorio inmediato presenta imposibilidad en la aducción de la pierna izquierda así como también ausencia de la sensibilidad en la cara media del muslo izquierdo. ¿Qué nervio probablemente fue dañado?",
+      "options": {
+        "A": "Obturador",
+        "B": "Femoral",
+        "C": "Útero sacro",
+        "D": "Pudendo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Primigesta de 39 semanas en expulsivo, no se realizó episiotomía, se obtiene recién nacido vivo de 4500 g. Examen: laceración perineal que abarca la horquilla, piel y mucosa vaginal que compromete además la fascia y el músculo del cuerpo perineal, pero no el esfínter anal. ¿Qué grado de desgarro perineal presenta?",
+      "options": {
+        "A": "Tercero",
+        "B": "Segundo",
+        "C": "Primero",
+        "D": "Cuarto"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Gestante de 12 semanas con condiloma en vulva, lo cual le es muy incómodo. ¿Cuál de los siguientes es el tratamiento adecuado?",
+      "options": {
+        "A": "Ácido tricloroacético al 80%",
+        "B": "Tintura de podofilino al 25%",
+        "C": "Gel de podofilox",
+        "D": "Imiquimod"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Mujer de 55 años acude por notar masa pélvica izquierda y pérdida de peso. Examen: masa de 5 cm dura en anexo izquierdo. Endoscopía: lesión sospechosa de malignidad en estómago. Laparotomía exploratoria: se realiza resección de la masa anexial cuya anatomía patológica muestra células en anillo de sello. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Disgerminoma",
+        "B": "Tumor de Brenner",
+        "C": "Carcinoma endometrioide",
+        "D": "Tumor de Krukenberg"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Paciente de infertilidad se le quiere descartar obstrucción tubárica, la prueba de elección es:",
+      "options": {
+        "A": "Histerosalpingografía con sustancia liposoluble",
+        "B": "Laparoscopía con cromotubación",
+        "C": "Histeroscopía diagnóstica",
+        "D": "Histerosalpingografía con sustancia hidrosoluble"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es el índice de rotura uterina en %, en gestantes con incisión previa en forma de T?",
+      "options": {
+        "A": "0.2-0.9",
+        "B": "0.9-1.8",
+        "C": "1.8-4",
+        "D": "4-9"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "Durante el trabajo de parto usted desea realizar el bloqueo del nervio pudendo para analgesia; para ello debe identificar primero:",
+      "options": {
+        "A": "Ligamento sacrotuberoso",
+        "B": "Promontorio",
+        "C": "Coxis",
+        "D": "Espina ciática"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Primigesta de 28 semanas, gestación gemelar monocoriónica biamniótica. Acude por disminución de movimientos fetales. NST: reactivo en ambos fetos. Ecografía obstétrica: placenta monocoriónica, discordancia de ponderado fetal, polihidramnios en un feto y oligohidramnios en el otro feto, se observa orina en vejiga de ambos fetos, no hay alteración del doppler, ni hidrops fetal en ninguno de los fetos. ¿A qué estadío de Quintero corresponde?",
+      "options": {
+        "A": "II",
+        "B": "III",
+        "C": "I",
+        "D": "IV"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Paciente de 38 años posoperada de salpingooforectomía derecha, acude con su resultado de anatomía patológica: tumor borderline. ¿Cuál es la indicación?",
+      "options": {
+        "A": "Observación",
+        "B": "Ooforectomía contralateral",
+        "C": "Histerectomía radical",
+        "D": "Quimioterapia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Mujer de 22 años acude por amenorrea de 7 meses. Examen: mamas normales, órganos pélvicos normales. No hirsutismo, no galactorrea. Laboratorio: TSH y prolactina normales. ß- hCG negativo ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Dosaje de estrógeno",
+        "B": "Dosaje de testosterona",
+        "C": "Gestágenos",
+        "D": "TAC cerebral"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Mujer de 22 años, quien padece de dismenorrea primaria que no mejora luego de 6 meses de tratamiento con AINES a pesar del cambio de dosis y del tipo de AINE. ¿Cuál es el paso a seguir?",
+      "options": {
+        "A": "ACOS",
+        "B": "Codeína",
+        "C": "Neurectomía presacra",
+        "D": "Acupuntura"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Gestante de 12 semanas que presenta sensación de falta de aire de manera ocasional (1 vez cada semana), se despierta por el mismo motivo una vez al mes, no interfiere en su actividad normal. Examen: sibilantes escasos. Rx tórax: normal. ¿Cuál es el manejo?",
+      "options": {
+        "A": "Corticoides inhalados",
+        "B": "Beta agonistas de acción corta",
+        "C": "Teofilina",
+        "D": "Observación"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Un paciente de infertilidad se realiza un espermatograma, siendo sus resultados los siguientes: volumen: 1.6 ml; espermatozoides: 18 millones/ml; movilidad progresiva: 40%, morfología: 6% normales; leucocitos: 900000/ml. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Oligospermia",
+        "B": "Normozoospermia",
+        "C": "Astenospermia",
+        "D": "Oligoastenoteratozoospermia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Mujer de 25 años G2 P1001, antecedente de cesárea anterior hace un año, acude por sangrado vaginal y test de embarazo positivo. Ecografía transvaginal: cavidad uterina vacía y canal endocervical vacío, saco gestacional implantado en cicatriz uterina con adelgazamiento del segmento y vascularidad aumentada, signo del deslizamiento negativo. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Histerectomía laparoscópica",
+        "B": "Histerectomía abdominal total",
+        "C": "Resección ístmica laparoscópica",
+        "D": "Conducta expectante"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Primigesta de 37 semanas, quien acude a emergencia por presentar tos, fiebre, malestar general y dificultad respiratoria. Test COVID-19 positivo. Examen: FC: 105 X', FR: 30 X', SatO2: 65%; abdomen: AU: 30 cm, F: longitudinal cefálico izquierdo; LCF: 140X'. Tacto vaginal: D: 0, B:0; AP: flotante. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Ingreso a UCI y manejo expectante",
+        "B": "Betametasona y manejo expectante",
+        "C": "Dexametasona e inducción de labor de parto",
+        "D": "Termino de gestación e ingreso a UCI"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Primigesta de 33 semanas, acude a emergencia por cefalea intensa que no cede a los analgésicos, sangrado vaginal y dolor pélvico. Examen: PA: 170/110 mmHg, FC: 90 X', FR: 18 X'; abdomen: AU: 30 cm, hipertónico, sangrado vaginal escaso. Laboratorio: plaquetas: 90000/µl, creatinina: 1 mg/100ml, TGO: 95 UI/l, TGP: 90 UI/l. ¿Cuál es la conducta más apropiada?",
+      "options": {
+        "A": "Manejo ambulatorio, nifedipino y conducta expectante",
+        "B": "Manejo ambulatorio, sulfato de magnesio y maduración",
+        "C": "Hospitalización, maduración y término de gestación",
+        "D": "Hospitalización, sulfato magnesio y manejo expectante"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Mujer de 38 años de edad, en su 10° día post operatorio de una histerectomía abdominal total, manifiesta presentar flujo vaginal acuoso permanente, usa pañal constantemente. Examen: presencia de flujo acuoso amarillento de emisión continua por vagina. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Laparotomía exploratoria de emergencia",
+        "B": "Instilación azul de metileno por sonda transuretral",
+        "C": "Tomografía abdominopélvica con contraste",
+        "D": "Colocación de sonda foley para reeducación vesical"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Mujer de 35 años, acude a chequeo ginecológico, asintomática. Examen: útero de 7 cm, se palpa tumoración de 3 cm en fondo, no doloroso. Ecografía transvaginal: mioma uterino tipo 7 según FIGO de 3 cm en fondo uterino, ovarios normales. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Miomectomía laparoscópica",
+        "B": "Conducta expectante",
+        "C": "Análogos de la GnRH",
+        "D": "Miomectomía abierta"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Una niña de 13 años que ha iniciado su menarquia hace dos años, presenta ciclos menstruales cada 40 días, no presenta hemorragias y hemoglobina normal. ¿Cuál es la medida a tomar?",
+      "options": {
+        "A": "Ecografía pélvica",
+        "B": "Observación",
+        "C": "Dosaje de hormonas",
+        "D": "Prescribir ACOS"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál de los siguientes métodos ha demostrado disminuir la tasa de infección pélvica y de herida después del parto por cesárea?",
+      "options": {
+        "A": "Profilaxis antibiótica perioperatoria",
+        "B": "Cambio de guantes después del alumbramiento",
+        "C": "Dilatación del segmento y cuello uterino",
+        "D": "Histerorrafia en dos planos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Gestante de 12 semanas acude a su segundo control prenatal, tiene prueba de VDRL positiva dos diluciones. Examen vulvar: lesiones ulcerativas indoloras. ¿Cuál es el tratamiento?",
+      "options": {
+        "A": "Penicilina G benzatínica 2.4 millones cada semana por tres dosis",
+        "B": "Penicilina G benzatínica 2.4 millones una sola dosis",
+        "C": "Penicilina G benzatínica 2.4 millones cada mes por tres dosis",
+        "D": "Doxiciclina 100 mg cada 12 horas por 14 días"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Paciente de 22 años que presenta sangrado ginecológico, desde hace tres semanas en regular cantidad, ciclos irregulares. Examen clínico ginecológico normal. Eco TV útero de 7 cm, endometrio de 3 mm. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Progesterona vía oral",
+        "B": "Ac tranexámico",
+        "C": "Legrado uterino",
+        "D": "Anticonceptivos orales combinados"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Puérpera mediata de cesárea por parto prolongado y corioamnionitis; presenta fiebre persistente a pesar del tratamiento antibiótico. Se sospecha de tromboflebitis pélvica. Durante el tratamiento presenta de manera súbita disnea y dolor torácico. Dímero D >500 µg/ml. ¿Cuál es el examen que confirma el diagnóstico?",
+      "options": {
+        "A": "Gases arteriales",
+        "B": "Radiografía de tórax",
+        "C": "Tomografía computarizada",
+        "D": "Electrocardiograma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Mujer de 20 años G0 P0000, acude por presentar dolor intenso en fosa iliaca izquierda desde hace 6 horas. Examen: PA 100/70 mmHg, FC: 90 X´, FR: 18 X´; abdomen: rebote positivo, genitourinario: útero 7 cm, se palpa tumoración anexial izquierda de 6 cm. Se ingresa a sala de operaciones; vía laparoscópica se encuentra quiste ovárico izquierdo con torsión anexial ipsilateral sin necrosis. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Anexectomía total izquierda",
+        "B": "Reversión de la torsión y quistectomía",
+        "C": "Reversión de la torsión y ooferectomía izquierda",
+        "D": "Conducta expectante"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Puérpera mediata de 3 semanas de parto vaginal, presenta fiebre desde hace 3 días y dolor en mama derecha. Examen: mama derecha congestiva con tumoración de 5 cm renitente y eritematosa. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Drenaje por aspiración y dicloxacilina",
+        "B": "Drenaje quirúrgico y dicloxacilina",
+        "C": "Sólo dicloxacilina",
+        "D": "Compresas de agua tibia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Mujer de 32 años, G4 P0040, con antecedente de trombosis venosa profunda en pierna izquierda hace 2 años. Laboratorio: anticuerpos anticardiolipinas positivo y anticoagulante lúpico positivo. No desea salir gestando. ¿Cuál de los siguientes es el método anticonceptivo de elección?",
+      "options": {
+        "A": "Anticonceptivos orales combinados",
+        "B": "Anillos vaginales",
+        "C": "T de cobre",
+        "D": "Parches anticonceptivos"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "En parejas infértiles menores de 30 años, de causa inexplicable (parámetros seminales normales, pruebas de ovulación, permeabilidad tubárica y ninguna causa evidente de esterilidad). ¿Cuál es el tratamiento?",
+      "options": {
+        "A": "Citrato de clomifeno e inseminación intrauterina",
+        "B": "Gonadotrofinas e inseminación intrauterina",
+        "C": "Observación",
+        "D": "Fertilización in vitro"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Paciente de 32 años a quien se le realiza una evacuación uterina por enfermedad molar, sin evidencia de metástasis pulmonar o hepática; presenta sangrado varios días después. ¿Cuál es el manejo?",
+      "options": {
+        "A": "Realizar otro legrado",
+        "B": "Quimioterapia",
+        "C": "Dosaje de BHCG",
+        "D": "Histerectomía abdominal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Gestante con sospecha de placenta acreta por ecografía. ¿Cuál es el mejor momento para terminar la gestación?",
+      "options": {
+        "A": "Entre las 34 y 37 semanas",
+        "B": "Entre las 38 y 39 semanas",
+        "C": "Entre las 39 a 40 semanas",
+        "D": "Ni bien se haga el diagnóstico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Paciente de 35 años, acude a medicina fetal para ecografía morfológica. Encéfalo: con astas frontales separadas, astas occipitales redondeadas, ventrículo lateral en forma de lágrima, ausencia de cavum del septum pelúcido y los haces de Prost no cruzan la línea media del cerebro. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Agenesia del cuerpo calloso",
+        "B": "Holoprosencefalia",
+        "C": "Esquizencefalia",
+        "D": "Microcefalia"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Paciente de 62 años que acude por pérdida de orina con el esfuerzo; su diario de micción revela que orina cada dos horas volúmenes de 60 ml. Urodinamia: primer deseo miccional a los 500 ml y deseo imperioso de micción a los 800 ml. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Vejiga neurogénica",
+        "B": "Vejiga hiperactiva",
+        "C": "Incontinencia urinaria de esfuerzo",
+        "D": "Incontinencia urinaria de stress"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Paciente de 23 años cuyo resultado de PAP es lesión intraepitelial de bajo grado el paso a seguir es:",
+      "options": {
+        "A": "Determinación del virus",
+        "B": "Cono cervical",
+        "C": "PAP seriado",
+        "D": "Colposcopía"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Mujer de 28 años, nulípara, presenta amenorrea de 6 semana y sangrado vaginal indoloro. Al examen: Especuloscopía: lesión cervical violácea, orifico cervical externo entreabierto. Ecografía transvaginal: útero en reloj de arena con canal cervical abombado, saco gestacional en cuello uterino sin signos de deslizamiento y orificio cervical interno cerrado. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Aborto en curso",
+        "B": "Embarazo de cicatriz uterina",
+        "C": "Embarazo intraligamentario",
+        "D": "Embarazo ectópico cervical"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Con respecto al manejo del parto. ¿Cuál es el más adecuado en gestantes con VIH?",
+      "options": {
+        "A": "Parto cesárea si presenta RPM mayor de 6 horas",
+        "B": "Esperar a las 40 semanas si carga viral es mayor de 1000 copias",
+        "C": "Inducción del trabajo de parto si carga viral es menor de 1000 copias",
+        "D": "Parto eutócico si carga viral es menor de 1000 copias"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Está usted en un centro de salud en provincia y acude una pareja que hace tres horas tuvieron relaciones sexuales y le solicitan una anticoncepción de emergencia; no cuenta con pastillas de levonorgestrel, sino con etinilestradiol de 30 µg. ¿Cómo las prescribe?",
+      "options": {
+        "A": "3 al momento y 3 a las 12 horas",
+        "B": "2 al momento y 2 a las 12 horas",
+        "C": "4 al momento y 4 a las 12 horas",
+        "D": "1 cada día por 21 días"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Puérpera con insuficiencia renal crónica, en su quinto día post cesárea, acude por fiebre de 39 °C asociado a irritabilidad uterina. Examen: útero a nivel de la cicatriz umbilical, dolor a la palpación bimanual y loquios con mal olor. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Clindamicina y gentamicina",
+        "B": "Clindamicina y aztreonam",
+        "C": "Ampicilina y gentamicina",
+        "D": "Carbapenems"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Mujer de 43 años, presenta miomatosis uterina con útero de 14 cm; se realiza embolización de arterias uterinas, cinco días después acude a emergencia por presentar dolor pélvico, nausea, vómitos, fiebre de bajo grado y malestar que empeoró en las últimas 48 h. ¿Cuál es el manejo más adecuado?",
+      "options": {
+        "A": "Tomografía de abdomen y pelvis",
+        "B": "Laparotomía exploratoria",
+        "C": "Analgésicos y líquidos intravenosos",
+        "D": "Laparoscopía diagnóstica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Hasta cuántos días después del intercurso sexual se puede prescribir la anticoncepción de emergencia?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "3",
+        "D": "2"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "En la punción folicular con guía ecográfica para la captura ovular, se debe identificar el ovario y la arteria ovárica; ésta es rama de la ......; y desde allí se dirige hacia el ovario por el ligamento...",
+      "options": {
+        "A": "hipogástrica / redondo.",
+        "B": "aorta abdominal / suspensorio.",
+        "C": "renal / infundíbulo pélvico.",
+        "D": "aorta abdominal / cardinal."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Primigesta de 34 semanas, acude a control prenatal. Examen: AU: 28 cm, SPP: LCI, MF: presentes, LCF: 148 X'. Ecografía obstétrica doppler: ponderado fetal: p2, IP ACM: p3 e IP AUmb: p98. ¿Cada cuánto tiempo se sugiere la vigilancia fetal posterior?",
+      "options": {
+        "A": "2 veces por semana",
+        "B": "1 vez por semana",
+        "C": "Cada 48 horas",
+        "D": "Cada 12 horas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

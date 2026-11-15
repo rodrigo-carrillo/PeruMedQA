@@ -1,0 +1,1350 @@
+{
+  "metadata": {
+    "year": 2023,
+    "exam": "UROLOGÍA",
+    "source_pdf": "UROLOGÍA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Urología",
+    "sha256_pdf": "5cddfb3007ad923dcaee0608692f2d591f9cff51d93aa53c746f4dc4d744b479",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:30:51",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 9,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Urología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9985,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.6047,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 20011,
+      "coverage_out_chars": 20011,
+      "human_reference": "_backup_csv_verificados/Year2023/UROLOGÍA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 452,
+        "solo_espacios": 45,
+        "mayor": 3
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál de las siguientes patologías causa hiperactividad neurogénica del detrusor?",
+      "options": {
+        "A": "Lesión medular",
+        "B": "Tumor vesical",
+        "C": "Litiasis vesical",
+        "D": "Envejecimiento"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Varón de 16 años. TE 2 horas, acude a EMG por dolor intenso y brusco en testículo izquierdo, náusea, leve dolor en fosa iliaca izquierda. Examen: testículo elevado, horizontalizado, con gran hipersensibilidad y ausencia de reflejo cremastérico. ¿Cuál es su sospecha diagnóstica?",
+      "options": {
+        "A": "Epididimitis aguda",
+        "B": "Hidrocele",
+        "C": "Torsión testicular",
+        "D": "Infección urinaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál es una contraindicación absoluta, para realizar una biopsia de próstata?",
+      "options": {
+        "A": "Portador de sonda Foley",
+        "B": "Edad avanzada",
+        "C": "Estrechez uretral",
+        "D": "Prostatitis aguda"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "¿Cuál es el medicamento estándar para el tratamiento del cáncer de próstata metastásico resistente a la castración?",
+      "options": {
+        "A": "Goserelina",
+        "B": "Docetaxel",
+        "C": "Bicalutamida",
+        "D": "Cabazitaxel"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "En el adenocarcinoma de próstata, el sistema de Gleason se basa en evaluar...",
+      "options": {
+        "A": "la célula muscular lisa.",
+        "B": "el patrón glandular del tumor.",
+        "C": "células de la cápsula prostática.",
+        "D": "células de la matriz celular."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "¿Qué medicamento es el de elección en la profilaxis antibiótica de la biopsia prostática transrectal?",
+      "options": {
+        "A": "Metronidazol",
+        "B": "Cefalosporina",
+        "C": "Aminoglucósido",
+        "D": "Fluoroquinolona"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "Varón de 50 años con dolor lumbar derecho. UROTEM con contraste: hidronefrosis y cálculo en uréter proximal derecho. Riñón izquierdo: masa de 1.5 cm en tercio medio que tras administración de contraste presenta realce de más de 15 UH. ¿Cuál es el diagnóstico más probable del riñón izquierdo?",
+      "options": {
+        "A": "Angiomiolipoma renal",
+        "B": "Seudotumor renal",
+        "C": "Absceso perinéfrico",
+        "D": "Cáncer renal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es el examen auxiliar para el diagnóstico de absceso renal?",
+      "options": {
+        "A": "Radiorrenograma",
+        "B": "Urografía excretoria",
+        "C": "Cistografía",
+        "D": "Urotem"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál de los siguientes factores se asocia con el desarrollo de necrosis papilar renal?",
+      "options": {
+        "A": "Nefrostomía",
+        "B": "Diabetes mellitus",
+        "C": "Ureteroscopía",
+        "D": "Cistitis intersticial"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "La estructura de la próstata es ......% elementos glandulares y un ......% de estroma fibromuscular.",
+      "options": {
+        "A": "70 / 30",
+        "B": "30 / 70",
+        "C": "50 / 50",
+        "D": "10 / 90"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "En tumor de testículo. ¿Por qué es importante medir los marcadores tumorales, alfafetoproteina y gonadotropina coriónica humana, antes y después de la orquiectomía radical?",
+      "options": {
+        "A": "Define vía de abordaje",
+        "B": "Evalúa grado de sensibilidad del tumor",
+        "C": "Dosis de tratamiento",
+        "D": "Define pronóstico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿En qué situación está indicado realizar una biopsia de próstata?",
+      "options": {
+        "A": "PSA libre >25%",
+        "B": "Nódulo prostático al TR",
+        "C": "Velocidad PSA <0.75ng/ml por año",
+        "D": "Hematuria recurrente"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Qué subtipos de receptores muscarínicos se encuentran en la vejiga humana?",
+      "options": {
+        "A": "M1, M4 y M5",
+        "B": "M1, M3 y M5",
+        "C": "M1, M2 y M3",
+        "D": "M3, M4 y M5"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Se denomina hiperactividad vesical, cuando la contracción del detrusor supera......cm H2O, con volumen vesical menos de 300 ml.",
+      "options": {
+        "A": "5",
+        "B": "25",
+        "C": "35",
+        "D": "15"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "Mujer 29 años. TE 3 días. Acude por pérdida de orina en gran cantidad durante el día. Antecedente: cesárea por bebe macrosómico hace 7 días. Área genital con eritema de labios, evidencia de pérdida de orina al esfuerzo. ¿Qué examen auxiliar solicitaría para confirmar fístula vesicovaginal?",
+      "options": {
+        "A": "Cistoscopia",
+        "B": "Cistografía",
+        "C": "Urotem",
+        "D": "Resonancia magnética"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Paciente de 28 años, con TE 3 horas, acude por amplio hematoma y dolor de pene post relaciones sexuales. Diagnóstico: fractura de pene. Tratamiento inmediato: exploración y reparación de albugínea por una lesión de 1 cm. ¿Cuál es el riesgo de incurvación a largo plazo?",
+      "options": {
+        "A": "Moderado",
+        "B": "Alto",
+        "C": "Bajo",
+        "D": "Nulo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "¿Cuál de los siguientes síntomas se asocia con deficiencia de testosterona?",
+      "options": {
+        "A": "Anorgasmia",
+        "B": "Pérdida de la líbido",
+        "C": "Eyaculación precoz",
+        "D": "Hematospermia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuál de las siguientes técnicas quirúrgicas sería la más adecuada para una paciente con estenosis de la unión pieloureteral y con una estenosis larga de todo el uréter proximal?",
+      "options": {
+        "A": "Reparación en Y-V",
+        "B": "Pieloplastía desmembrada",
+        "C": "Ureterocaliciostomía",
+        "D": "Ureterotomía intubada"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Mujer de 25 años, peatón en accidente de tránsito, presenta inestabilidad hemodinámica con hipotensión marcada. UROTEM con contraste: gran hematoma perirrenal izquierdo con >1 cm de laceración de la corteza renal, no extravasación de orina. ¿Cuál es la conducta terapéutica más adecuada?",
+      "options": {
+        "A": "Exploración quirúrgica renal",
+        "B": "Control horario de funciones vitales",
+        "C": "Observación de hematuria",
+        "D": "Embolización de arteria renal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Cuál de los siguientes antineoplásicos de aplicación intravesical es más eficaz en el periodo perioperatorio para reducir recidiva en cáncer de vejiga de bajo riesgo?",
+      "options": {
+        "A": "Interferón",
+        "B": "BCG",
+        "C": "Doxorrubicina",
+        "D": "Mitomicina C"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Cuál es la cara del riñón que no está cubierta por la fascia de Gerota?",
+      "options": {
+        "A": "Inferior",
+        "B": "Superior",
+        "C": "Medial",
+        "D": "Lateral"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Mujer de 34 años. TE 2 años, refiere dolor lumbar izquierdo. UROTEM: litiasis de 3 cm en pelvis renal izquierda. Urocultivo negativo. Tratamiento: nefrolitotomía percutánea izquierda. ¿Cuál es el antibiótico profiláctico de elección?",
+      "options": {
+        "A": "Quinolona",
+        "B": "Cefalosporina",
+        "C": "Ampicilina",
+        "D": "Vancomicina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Varón de 8 años, desde hace 3 días presenta fiebre, nausea y disuria. Examen de orina: leucocitos 50 xc, hematíes 5 xc. Ecografía renal normal. Se indica tratamiento médico. En el control post tratamiento. ¿Qué examen auxiliar debe solicitar?",
+      "options": {
+        "A": "Tomografía",
+        "B": "Cistografía",
+        "C": "Gammagrafía Tc DMSA",
+        "D": "Resonancia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Varón de 64 años, acude por síntomas obstructivos de la vía urinaria. PSA 2 ng/ml. Ecografía de próstata 73 g, residuo post miccional 45%. ¿En qué patología solicita UROTEM, para estudio de las vías urinarias superiores?",
+      "options": {
+        "A": "Parkinson",
+        "B": "Incontinencia urinaria",
+        "C": "Divertículo vesical",
+        "D": "Hematuria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Varón de 2 años, presenta lesión en pene desde hace tres meses. Examen genital: se observa una ampolla próxima al orificio uretral de 3 mm. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Quiste de inclusión",
+        "B": "Quiste uretral parameatal",
+        "C": "Quiste del rafe mediano",
+        "D": "Nevus peneano congénito"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "Paciente trasplantado renal con disfunción temprana del injerto, afebril, PA y PVC disminuidas. ¿Cuál es la causa más probable de la disfunción del injerto?",
+      "options": {
+        "A": "Infección",
+        "B": "Deshidratación",
+        "C": "Rechazo",
+        "D": "Obstrucción"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Según la epidemiología del cáncer de vejiga. ¿Cuál de las siguientes profesiones tiene mayor riesgo relativo de desarrollar cáncer urotelial?",
+      "options": {
+        "A": "Empaquetadores manuales",
+        "B": "Trabajadores del cuero",
+        "C": "Carniceros",
+        "D": "Profesional de salud"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Durante el acceso percutáneo inicial a la vía urinaria superior, si se aspira pus. ¿Cuál es la conducta más segura a seguir?",
+      "options": {
+        "A": "Suspender el procedimiento y dejar tubo de nefrostomía",
+        "B": "Continuar y hacer ureteroscopía",
+        "C": "Colocar catéter doble J",
+        "D": "Ampliar cobertura antibiótica en el acto Qx y continuar"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "La ...... se caracteriza por la acumulación de macrófagos espumosos cargados de lípidos.",
+      "options": {
+        "A": "pielonefritis aguda",
+        "B": "equinococosis renal",
+        "C": "pielonefritis xantogranulomatosa",
+        "D": "pielonefritis enfisematosa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "En estudio urodinámico. ¿A qué se le denomina presión de punto de pérdida del detrusor (PPD)?",
+      "options": {
+        "A": "La presión máxima de una contracción involuntaria",
+        "B": "La mínima presión del detrusor al inicio de la micción",
+        "C": "La mínima presión del detrusor asociada con pérdida de orina",
+        "D": "La presión promedio en la que producen los deseos miccionales"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Cuál es el método de estudio más preciso para estimar el volumen del cálculo coraliforme?",
+      "options": {
+        "A": "UROTEM más reconstrucción tridimensional",
+        "B": "Densitometría",
+        "C": "Resonancia magnética",
+        "D": "Urografía excretora"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "Varón de 40 años, con DM2 insulinodependiente, con cálculo renal izquierdo de 1 cm diagnosticado por Rx simple de abdomen. ¿Cuál es la composición más probable del cálculo?",
+      "options": {
+        "A": "Fosfato inorgánico",
+        "B": "Ácido úrico",
+        "C": "Oxalato de calcio",
+        "D": "Amonio fosfato"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál es la frecuencia de las cistoscopias de seguimiento a realizar posterior a la resección inicial de un cáncer de vejiga TaG1 solitario?",
+      "options": {
+        "A": "Cada 3 meses por 1 año y luego semestralmente",
+        "B": "3 meses después de la resección inicial y luego anualmente",
+        "C": "6 meses después de resección inicial y luego semestralmente",
+        "D": "Cada 3 meses por los siguientes 2 años"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "¿Cuál es un antiandrógeno no esteroideo?",
+      "options": {
+        "A": "Bicalutamida",
+        "B": "Dutasteride",
+        "C": "Triptorelina",
+        "D": "Leuprolide"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Un riñón displásico secundario a desarrollo renal aberrante corresponde a...",
+      "options": {
+        "A": "poliquistosis renal autosómica dominante.",
+        "B": "poliquistosis renal autosómica recesiva.",
+        "C": "esclerosis tuberosa.",
+        "D": "riñón multiquístico."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Varón de 45 años, presenta fiebre persistente y dolor lumbar de 5 días de evolución. Diagnóstico: absceso perinéfrico, en tratamiento con Ertapenen. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Drenaje quirúrgico",
+        "B": "Conducta expectante",
+        "C": "Vancomicina",
+        "D": "Colocación de sonda Foley"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Qué microorganismo es parte de la flora normal del introito vaginal, área periuretral y uretra?",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Lactobacilos",
+        "C": "Candida sp",
+        "D": "Morganella"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál de las siguientes condiciones se considera de alto riesgo en pacientes con hematuria microscópica?",
+      "options": {
+        "A": "Edad <40 años",
+        "B": "Abuso de analgésicos",
+        "C": "Incontinencia urinaria",
+        "D": "Poca ingesta de agua"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "La hidroureteronefrosis del embarazo...",
+      "options": {
+        "A": "inicia en el tercer trimestre.",
+        "B": "llega hasta la unión uréterovesical.",
+        "C": "tarda seis meses en remitir.",
+        "D": "es más intensa en el lado derecho."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿Cuál es la causa más probable que contribuye a la formación de cálculos prostáticos?",
+      "options": {
+        "A": "Poca ingesta de líquidos",
+        "B": "Antecedente familiar",
+        "C": "Cáncer de próstata",
+        "D": "Reflujo intraprostático de orina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Cuál de las siguientes condiciones excluye el diagnóstico de cistitis intersticial?",
+      "options": {
+        "A": "Nicturia más de 2 veces",
+        "B": "Refractaria a analgésicos urinarios",
+        "C": "Duración >9 meses",
+        "D": "Capacidad vesical >350 ml"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Qué hormona estimula la síntesis de testosterona producida por las células de Leydig?",
+      "options": {
+        "A": "FSH",
+        "B": "TSH",
+        "C": "ACTH",
+        "D": "LH"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "¿Cuál de los siguientes tumores corresponde a la clasificación de tumor testicular de células germinales?",
+      "options": {
+        "A": "Tumor carcinoide",
+        "B": "Linfoma",
+        "C": "Teratoma",
+        "D": "Tumor de células de Leydig"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Varón de 32 años. UROTEM con contraste: dilatación de pelvis renal derecha y del uréter en su tercio proximal, y con un recorrido por detrás, medial y anterior, y finalmente lateral a la vena cava inferior. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Uréter circuncavo",
+        "B": "Reflujo vesicoureteral",
+        "C": "Aneurisma de aorta",
+        "D": "Cálculo del uréter"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Varón de 35 años, es llevado a EMG por accidente de tránsito, refiere dificultad para la micción. Examen genital: uretrorragia. Rx de pelvis: fractura de rama isquiopúbica derecha. ¿Qué examen confirma rotura de la uretra?",
+      "options": {
+        "A": "Ecografía vesical",
+        "B": "Resonancia magnética",
+        "C": "Cistoscopía",
+        "D": "Uretrografía retrógrada"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "La fractura de pene es la rotura de...",
+      "options": {
+        "A": "la túnica vaginal.",
+        "B": "la túnica albugínea.",
+        "C": "la fascia de Buck.",
+        "D": "el cuerpo esponjoso."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Mujer de 50 años con dolor lumbar derecho, antecedente de ITU recurrente, tiene UROTEM con cálculo coraliforme. ¿Cuál es el germen causante más probable de las ITU?",
+      "options": {
+        "A": "Pseudomonas aeruginosa",
+        "B": "Klebsiella pneumoniae",
+        "C": "Streptococcus pyogenes",
+        "D": "Proteus mirabilis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Lactante de 11 meses, evaluado por náusea e irritabilidad. Urocultivo positivo. Antecedentes: infecciones urinarias recurrentes. Reflujo vesicoureteral izquierdo. Ecografía renal: hidronefrosis bilateral a predominio izquierdo. ¿Qué estudio solicita para evaluar corteza renal y descartar nefroesclerosis?",
+      "options": {
+        "A": "Urotem",
+        "B": "Urografía excretora",
+        "C": "Gammagrafía Tc - DMSA",
+        "D": "Uretrocistografía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "Las lesiones vesicales extraperitoneales, por lo general se asocian con...",
+      "options": {
+        "A": "cirugías de colon.",
+        "B": "fractura pélvica.",
+        "C": "contusión directa.",
+        "D": "caída en horcajada."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál es el principal reservorio de las bacterias responsables de causar infección urinaria?",
+      "options": {
+        "A": "Prepucio",
+        "B": "Vagina",
+        "C": "Flora intestinal",
+        "D": "Clítoris"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál de las siguientes, es una proteína urinaria que actúa como potente inhibidor de la agregación de los cristales de monohidrato de oxalato de calcio?",
+      "options": {
+        "A": "Proteína de Tamm-Horsfall",
+        "B": "Proteincinasa",
+        "C": "De Von Lippel-Lindau",
+        "D": "Polianiones"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuántos días demora el transporte de los espermatozoides por el epidídimo?",
+      "options": {
+        "A": "2 a 12",
+        "B": "8 a 17",
+        "C": "20 a 30",
+        "D": "4 a 18"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál de las siguientes características radiográficas se presenta en la clasificación de quiste renal Bosniak tipo II F?",
+      "options": {
+        "A": "Múltiples tabiques delgados",
+        "B": "Ausencia de calcificación",
+        "C": "Pocos tabiques delgados",
+        "D": "Paredes o tabiques engrosados"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Qué patología causa disminución de la distensibilidad vesical no neurogénica?",
+      "options": {
+        "A": "Mielodisplasia",
+        "B": "Lesión de médula espinal suprasacra",
+        "C": "Cistitis tuberculosa",
+        "D": "Histerectomía radical"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuál es el tiempo de vida media en horas, de la gonadotropina coriónica humana hCG?",
+      "options": {
+        "A": "10 - 15",
+        "B": "5 - 10",
+        "C": "48 - 56",
+        "D": "24 - 36"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "¿En cuál de los siguientes casos se debe dar tratamiento antibiótico en una bacteriuria asintomática?",
+      "options": {
+        "A": "Gestante",
+        "B": "Diabético",
+        "C": "Portador de sonda",
+        "D": "Edad avanzada"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "En traumatismo renal. ¿Cuál es indicación absoluta de exploración renal?",
+      "options": {
+        "A": "Hematoma renal pulsátil",
+        "B": "Extravasación de orina",
+        "C": "Líquido libre en peritoneo",
+        "D": "Lesión renal asociada a lesión colónica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Una parte de la inervación vesical está dada por los nervios...",
+      "options": {
+        "A": "simpáticos sacros.",
+        "B": "parasimpáticos lumbares.",
+        "C": "parasimpáticos sacros.",
+        "D": "simpáticos dorsolaterales."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál es el tumor benigno no epitelial más común en la vejiga?",
+      "options": {
+        "A": "Leiomioma",
+        "B": "Papiloma",
+        "C": "Leucoplasia",
+        "D": "Quiste glandular"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Varón de 34 años, refiere dolor en pene con erección que no remite desde hace 6 horas. ¿Cuál es el tipo de priapismo que presenta?",
+      "options": {
+        "A": "No isquémico arterial de alto flujo",
+        "B": "No isquémico venooclusivo de alto flujo",
+        "C": "Isquémico venooclusivo de bajo flujo",
+        "D": "Isquémico arterial de bajo flujo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "Mujer de 69 años. TE 18 días. Acude por pérdida de orina constante, usa 10 paños/día; refiere micción normal. Antecedente: histerectomía hace 3 semanas. Cistoscopia sin alteraciones. Cistografía normal. ¿Qué tipo fístula sospecharía?",
+      "options": {
+        "A": "Ureterovaginal",
+        "B": "Vesicovaginal",
+        "C": "Uretrovaginal",
+        "D": "Vesicoentérica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuál es el objetivo de cuestionario IPSS?",
+      "options": {
+        "A": "Define el tratamiento de HBP",
+        "B": "Cuantifica gravedad de síntomas del tracto urinario inferior",
+        "C": "Establece diagnóstico de HBP",
+        "D": "Define biopsia de próstata"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Mujer de 35 años presenta dolor pélvico, síntomas urinarios irritativos de 3 días de evolución. Examen de orina: leucocitos 25 xc. ¿Cuál de los siguientes factores condiciona a infección urinaria complicada?",
+      "options": {
+        "A": "Embarazo",
+        "B": "Cataratas",
+        "C": "Hematuria",
+        "D": "Hipertensión arterial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "¿Cuál de los siguientes factores justifica la biopsia de próstata?",
+      "options": {
+        "A": "PSA 7 ng/ml",
+        "B": ">75 años",
+        "C": "Hematuria",
+        "D": "Velocidad de ascenso del PSA >0.75 ng/ml x año"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Cuál es la causa más frecuente de micropene?",
+      "options": {
+        "A": "Síndrome de Down",
+        "B": "Feocromocitoma",
+        "C": "Afalia",
+        "D": "Hipogonadismo hipogonadotrópico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es una complicación en ablación androgénica por cáncer de próstata?",
+      "options": {
+        "A": "Aumento de masa muscular",
+        "B": "Incremento de % de grasa corporal",
+        "C": "Hematuria",
+        "D": "Osteoporosis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "Varón de 37 años, PO3 de nefrolitotrisia percutánea izquierda, quien recientemente presenta sangrado moderado a través del tubo de nefrostomía. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Perforación de pelvis renal",
+        "B": "Discrasia sanguínea",
+        "C": "Infección urinaria",
+        "D": "Seudoaneurisma arterial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "¿Cuál de las siguientes entidades es diagnóstico diferencial de pielonefritis xantogranulomatosa?",
+      "options": {
+        "A": "Hidronefrosis",
+        "B": "Absceso renal",
+        "C": "Tumor renal",
+        "D": "Pielonefrítis aguda"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Según McNeal, la hiperplasia benigna de próstata se desarrolla inicialmente a nivel de la zona ...... de la próstata.",
+      "options": {
+        "A": "de transición periuretral",
+        "B": "central",
+        "C": "periférica",
+        "D": "cápsula prostática"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Varón de 72 años, portador de sonda Foley por retención urinaria aguda hace 7 días, recibe tamsulosina. Examen de orina con leucocitos 25 xc. Acude a consulta para retiro de sonda Foley. ¿Qué examen debe solicitar antes del retiro de la sonda?",
+      "options": {
+        "A": "Ecografía de vías urinarias",
+        "B": "Antígeno prostático específico",
+        "C": "Urocultivo",
+        "D": "Creatinina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "El drenaje linfático del testículo izquierdo es a los ganglios linfáticos...",
+      "options": {
+        "A": "paraaórticos y preaórticos izquierdos.",
+        "B": "precavos y paracavos.",
+        "C": "paraaórticos y paracavos.",
+        "D": "intercavoaórtico y paracavos."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Cuál es una indicación absoluta para cirugía prostática?",
+      "options": {
+        "A": "Microhematuria",
+        "B": "ITU recurrente",
+        "C": "Residuo post miccional >30%",
+        "D": "Flujometría >15 ml/s"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "¿Cuál es el bloqueante alfa adrenérgico con mayor selectividad para los receptores adrenérgicos alfa1A?",
+      "options": {
+        "A": "Tamsulosina",
+        "B": "Silodosina",
+        "C": "Mirabegron",
+        "D": "Solifenacina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Paciente varón 43 años, refiere erección prolongada desde hace 7 horas, sin dolor. Antecedente: accidente laboral en área genital. Examen genital: evidencia erección sin mucha rigidez, hematoma perineal de 5 cm. ¿Cuál es su posibilidad diagnóstica?",
+      "options": {
+        "A": "Priapismo isquémico",
+        "B": "Priapismo intermitente",
+        "C": "Priapismo no isquémico",
+        "D": "Traumatismo vesical"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "La trabeculación de la vejiga observada en la cistoscopia, se debe a...",
+      "options": {
+        "A": "una hiperplasia del músculo liso.",
+        "B": "una disminución de la fibronectina del detrusor.",
+        "C": "un aumento de la fibrosis muscular.",
+        "D": "un aumento del colágeno del detrusor."
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "Varón de 32 años, refiere hematuria franca de hace una hora. Hemodinamicamente estable, politraumatizado hace 2 horas. UROTEM: lesión de parénquima renal de 2 cm, no rotura del sistema colector, no extravasación de orina. ¿Cuál es el grado de traumatismo renal?",
+      "options": {
+        "A": "II",
+        "B": "IV",
+        "C": "III",
+        "D": "I"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Varón de 46 años. TE 1 año, acude por aumento de volumen de hemiescroto derecho, niega dolor. Ecografía: tumor de testículo derecho de 7 cm. Alfa fetoproteina normal, gonadotropina coriónica humana negativo. ¿En qué tipo de tumor sospecha?",
+      "options": {
+        "A": "Carcinoma embrionario",
+        "B": "Seminoma",
+        "C": "Quiste dermoide",
+        "D": "Linfoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "Paciente varón de 33 años. TE 1 día, acude por hematuria franca. Antecedente: nefrolitotripsia percutánea hace 7 días, por cálculo coraliforme derecho. ¿En qué complicación sospecha?",
+      "options": {
+        "A": "Cálculo residual",
+        "B": "Fístula arteriovenosa",
+        "C": "Infección urinaria",
+        "D": "Lesión de vena renal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Mujer de 37 años con dolor lumbar derecho irradiado a fosa iliaca ipsilateral de moderada intensidad que ha cedido con AINES orales, orina colúrica, afebril. UROTEM: cálculo de 4 mm en tercio distal de uréter derecho que condiciona leve hidroureteronefrosis. ¿Cuál es la conducta terapéutica más adecuada?",
+      "options": {
+        "A": "Pre quirúrgicos para litotricia",
+        "B": "AINES orales + tamsulosina",
+        "C": "Antiespasmódicos IM + doxazosina",
+        "D": "AINES orales + antiespasmódico IM"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál es la complicación más frecuente de la uretroplastía por hipospadia?",
+      "options": {
+        "A": "Fístulas",
+        "B": "Estenosis del orificio uretral",
+        "C": "Dehiscencia",
+        "D": "Divertículo uretral"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Mujer de 45 años. TE 2 años. Refiere dolor lumbar derecho. Antecedente de ITU 2 episodios en el último año. Ecografía renal: quiste complejo renal derecho de 4 cm. Urotem: quiste renal derecho 3.5 cm, Bosniak IV. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "No requiere exploración quirúrgica",
+        "B": "Nefrectomía radical",
+        "C": "Seguimiento y control en 6 meses",
+        "D": "Solicitar resonancia magnética"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Varón de 26 años. TE 2 horas, acude a emergencia por dolor lumbar izquierdo que irradia a testículo ipsilateral y nauseas. Examen: pálido. Ecografía renal: hidronefrosis leve izquierda. ¿Qué analgésico de primera línea se indica?",
+      "options": {
+        "A": "Narcóticos",
+        "B": "Corticoides",
+        "C": "Antiespasmódico",
+        "D": "AINES"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Mujer de 85 años, con infecciones urinarias recurrente hace 3 años. UROTEM normal, cistoscopía sin alteraciones; se indica profilaxis antibiótica. ¿Qué antibiótico escogería que no altere la flora intestinal?",
+      "options": {
+        "A": "Quinolonas",
+        "B": "Cefalosporinas",
+        "C": "Nitrofurantoína",
+        "D": "Vancomicina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Mujer de 47 años con estenosis leves múltiples en uréter izquierdo y estenosis severa del tercio medial al distal del uréter derecho, secundarios a litotripsias láser de ambos uréteres. No disfunción miccional ni enfermedad renal. ¿Cuál es la técnica quirúrgica más apropiada a realizar en el uréter derecho?",
+      "options": {
+        "A": "Ureteroneocistostomía",
+        "B": "Colgajo de Boari",
+        "C": "Ureteroureterostomía TT",
+        "D": "Endoureterotomía láser"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Varón de 28 años, TE 3 semanas, acude por dolor en testículo, disuria, aumento del volumen del hemiescroto derecho. Antecedente contacto sexual de riesgo. Ecografía doppler muestra un incremento del tamaño del epidídimo y de su flujo sanguíneo. Diagnóstico: epididimitis. ¿Cuál de las siguientes bacterias sería la causa más frecuente?",
+      "options": {
+        "A": "Clamidia",
+        "B": "Klebsiella",
+        "C": "Enterobacterias",
+        "D": "Staphylococcus"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Varón de 28 años, asintomático. Antecedente: eliminó un cálculo de 5 mm hace 3 años. Padre con litiasis urinaria. Examen de orina normal. Ecografía de vías urinarias sin alteraciones. ¿Cuál de las siguientes recomendaciones disminuye el riesgo de formación de cálculos urinarios?",
+      "options": {
+        "A": "Ingesta de 2 litros agua",
+        "B": "Incrementar el consumo de sodio",
+        "C": "Diuresis 2 litros de orina al día",
+        "D": "Bebidas gasificadas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es una contraindicación absoluta para el tratamiento con BCG en el cáncer de vejiga?",
+      "options": {
+        "A": "Antecedente de TB",
+        "B": "Tener prótesis de cadera",
+        "C": "Hematuria macroscópica",
+        "D": "Insuficiencia hepática"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿Qué estructura contiene el conducto inguinal?",
+      "options": {
+        "A": "Ligamento inguinal y el nervio ilioinguinal",
+        "B": "Cordón espermático y el nervio ilioinguinal",
+        "C": "Cordón espermático y el nervio obturador",
+        "D": "Cordón espermático y el nervio genitofemoral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Paciente varón de 25 años. TE 2 meses, acude por dolor perineal, polaquiuria, disuria, dolor durante la eyaculación. Ecografía: próstata de 38 g. Espermocultivo positivo. Se diagnostica prostatitis bacteriana. ¿Cuál es el agente etiológico?",
+      "options": {
+        "A": "Enterobacteria gramnegativa",
+        "B": "Streptococcus",
+        "C": "Klebsiella",
+        "D": "Proteus"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Qué subtipo de receptor Beta adrenérgico tiene mayor expresión en la vejiga?",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Mujer de 35 años, TE 3 años, acude por presentar disuria, tenesmo vesical y dolor pélvico recurrente. Antecedente de cefalea y palpitaciones. Exámenes auxiliares: trae 4 urocultivos negativos. Ecografía de vías urinarias normal. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Cistitis intersticial",
+        "B": "Cistitis actínica",
+        "C": "Litiasis vesical",
+        "D": "Divertículo vesical"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "¿Cuál es el síntoma principal del tumor vesical?",
+      "options": {
+        "A": "Dolor suprapúbico",
+        "B": "Tenesmo vesical",
+        "C": "Disuria",
+        "D": "Hematuria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Mujer de 48 años. TE 4 años, acude por dolor lumbar derecho. Antecedente de ITU recurrentes. UROTEM: litiasis renal de 13 mm, 550 Unidades Hounsfield. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Nefrolitotricia percutánea",
+        "B": "Nefrolitotomía",
+        "C": "Ureteroscopía",
+        "D": "Litotricia extracorpórea con ondas de choque"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Varón de 70 años, se le realizó resección endoscópica láser de tumor en uréter distal izquierdo. AP: carcinoma de células transicionales. Tumor invade capa muscular, no atraviesa la serosa. TEM toracoabdominal: 05 adenomegalias pélvicas izquierdas de 2 cm; no metástasis a distancia. ¿Qué TNM le corresponde?",
+      "options": {
+        "A": "T1 N3 Mx",
+        "B": "T3 N2 M0",
+        "C": "T2 N3 Mx",
+        "D": "T2 N2 M0"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es la bacteria aislada con mayor frecuencia en pielonefritis xantogranulomatosa?",
+      "options": {
+        "A": "Klebsiella",
+        "B": "Mycoplasma",
+        "C": "Proteus",
+        "D": "Pseudomonas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Para calcular la presión del detrusor (Pdet) en el estudio urodinámico, se utiliza la siguiente ecuación:",
+      "options": {
+        "A": "Pdet = Pabd - Pves",
+        "B": "Pdet = Pves - Pabd",
+        "C": "Pdet = Pabd - PPD",
+        "D": "Pdet = Pves - PPD"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Cuál es el principal componente del cálculo coraliforme?",
+      "options": {
+        "A": "Ácido úrico",
+        "B": "Oxalato de calcio",
+        "C": "Estruvita",
+        "D": "Fosfato"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Varón de 28 años, con obesidad mórbida. UROTEM: cálculo en cáliz inferior de 3 cm que produce caliectasia. ¿Cuál es la mejor técnica quirúrgica para tratar el cálculo renal?",
+      "options": {
+        "A": "Litotricia endoscópica",
+        "B": "Nefrolitotricia percutánea",
+        "C": "Litotricia extracorpórea",
+        "D": "Nefrolitotomía laparoscópica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Varón de 34 años, trasplantado renal, tuvo una crisis de rechazo de injerto hace 4 meses, acude a consulta por disfunción eréctil. ¿Cuál es la conducta terapéutica más adecuada?",
+      "options": {
+        "A": "Prótesis peniana",
+        "B": "Uso de sildenafilo",
+        "C": "Añadir sirolimús",
+        "D": "Uso de prostaglandina E3"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "¿Qué síntoma es característico en la cistitis?",
+      "options": {
+        "A": "Hematuria",
+        "B": "Micción imperiosa",
+        "C": "Cefalea",
+        "D": "Fiebre"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

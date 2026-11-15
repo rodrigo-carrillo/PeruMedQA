@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2020,
+    "exam": "ANESTESIOLOGIA",
+    "source_pdf": "ANESTESIOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Anestesiología",
+    "sha256_pdf": "aba3399bdf1c46a7d22f3232c6805e7a0d1f14ecfb703d99e387545535ff79dc",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:26",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Anestesiología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9942,
+        "vec_max_loser": 0.0112,
+        "pix_min_winner": 0.5889,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 16981,
+      "coverage_out_chars": 16981,
+      "human_reference": "_backup_csv_verificados/Year2020/ANESTESIOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "identico": 554,
+        "csv_antiguo_truncado": 19,
+        "solo_espacios": 27
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál es un efecto adverso relacionado al empleo del catéter en la anestesia epidural?",
+      "options": {
+        "A": "Anestesia prolongada",
+        "B": "Lumbalgia",
+        "C": "Trastornos de la micción",
+        "D": "Perforación de la duramadre",
+        "E": "Mayor dolor"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Por qué se caracteriza el efecto de los halogenados en la hemodinámica intracardiaca?",
+      "options": {
+        "A": "Aumentan la contractilidad",
+        "B": "Tiene escasos efectos sobre la resistencia vascular pulmonar",
+        "C": "No modifican la respuesta de los baroreceptores",
+        "D": "No modifican la circulación coronaria",
+        "E": "El isoflurano es el menos vasodilatador"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál es el agente anestésico que disminuye el flujo sanguíneo cerebral?",
+      "options": {
+        "A": "Propofol",
+        "B": "Óxido nitroso",
+        "C": "Halotano",
+        "D": "Enflurano",
+        "E": "Ketamina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Gestante 38 semanas considerada como categoría inmediata, con diagnóstico de procidencia de cordón umbilical y SFA. ¿Cuál es la anestesia de elección para la cesárea?",
+      "options": {
+        "A": "Epidural con catéter",
+        "B": "Epidural sin catéter",
+        "C": "Espinal",
+        "D": "Epidural con catéter previo y luego retirarlo",
+        "E": "General"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Hombre 40 años que sufre accidente de tránsito, está inconsciente, no responde a estímulos verbales ni físicos, ventilación espontánea débil y presenta signos de bradicardia. ¿Qué clasificación ASA le corresponde?",
+      "options": {
+        "A": "II",
+        "B": "III",
+        "C": "IV",
+        "D": "I",
+        "E": "O"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "¿Cuál es el fármaco que, al ser usado en un cuadro de shock séptico, incrementa la presión arterial, disminuye los niveles de lactato y genera mínimo incremento de la contractibilidad?",
+      "options": {
+        "A": "Dopamina",
+        "B": "Fenilefrina",
+        "C": "Adrenalina",
+        "D": "Noradrenalina",
+        "E": "Dobutamina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál es un medicamento que no cambia el tono del esfínter esofágico inferior?",
+      "options": {
+        "A": "Propofol",
+        "B": "Atracurio",
+        "C": "Tiopental",
+        "D": "Succinilcolina",
+        "E": "Pancuronio"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Paciente senil, sometido a una cirugía de cadera. Evaluación: Mallampati II, ASA II; pH arterial: 7.29, HCO3: 19 mEq/l y PaCO2: 40 mmHg. ¿En qué estado se encuentra y qué recomendaría?",
+      "options": {
+        "A": "Acidosis metabólica con compensación aguda respiratoria, se opera",
+        "B": "Paciente normal, se opera",
+        "C": "Acidosis metabólica no compensada, estabilizar al paciente",
+        "D": "Alcalosis respiratoria, se suspende cirugía",
+        "E": "Acidosis metabólica pura, se opera"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Qué fármaco tiene efecto hipercalemiante?",
+      "options": {
+        "A": "Succinilcolina",
+        "B": "Teofilina",
+        "C": "Alfa bloqueantes",
+        "D": "Fluorcortisona",
+        "E": "Levodopa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "La difusión de los medicamentos entre la madre y el feto se rige por los principios de la ley de…",
+      "options": {
+        "A": "Poiseuille",
+        "B": "La Place",
+        "C": "La Complace",
+        "D": "De Boyle",
+        "E": "Fick"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿A qué fase del capnograma corresponde \"la meseta alveolar\"?",
+      "options": {
+        "A": "II",
+        "B": "I",
+        "C": "0",
+        "D": "IV",
+        "E": "III"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "En la visita preanestésica, se debe evaluar la vía aérea. ¿Cuál es predictor de una vía aérea difícil?",
+      "options": {
+        "A": "Mallampati I",
+        "B": "Distancia tiromentoniana >6.5 cm",
+        "C": "Antecedente de ser fumador",
+        "D": "Paciente delgado",
+        "E": "Apertura bucal < 3 cm (distancia interincisivos)"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Cuál es la relación cristaloide/coloide en el esquema de reposición de volemia, tras una hemorragia aguda con una pérdida de 30 %?",
+      "options": {
+        "A": "2:1",
+        "B": "1:2",
+        "C": "4:1",
+        "D": "1:1",
+        "E": "3:1"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "¿De qué depende la duración de la raquianestesia?",
+      "options": {
+        "A": "Adición de corticoide",
+        "B": "Osmolaridad",
+        "C": "Sexo",
+        "D": "Edad",
+        "E": "Peso"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál es el agente anestésico que aumenta la presión intracraneana?",
+      "options": {
+        "A": "Pentotal",
+        "B": "Etomidato",
+        "C": "Propofol",
+        "D": "Sevoflurano",
+        "E": "Fentanil"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿En qué condición se da la anestesia en tablero de ajedrez?",
+      "options": {
+        "A": "Disminución de las aferencias nociceptivas",
+        "B": "Concentración insuficiente del anestésico local",
+        "C": "Uso de lidocaína pura",
+        "D": "No colocar catéter",
+        "E": "Uso combinado de anestésico"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "¿Qué factor etiológico aumenta la PEt CO2?",
+      "options": {
+        "A": "Hiperventilación",
+        "B": "Hipotensión arterial",
+        "C": "Apnea",
+        "D": "Hipotiroidismo",
+        "E": "Hipoventilación"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuál es una ventaja del circuito abierto de la máquina de anestesia?",
+      "options": {
+        "A": "Rápida constante de tiempo",
+        "B": "Elevada constante de tiempo",
+        "C": "Menos contaminación atmosférica",
+        "D": "Humidificación de gases",
+        "E": "Calentamiento de gases"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Cuál es el fármaco antiemético cuya dosis es de 4 a 8 mg, se administra al final de cirugía y tiene como efectos adversos cefalea?",
+      "options": {
+        "A": "Dexametasona",
+        "B": "Droperidol",
+        "C": "Dimenhidrinato",
+        "D": "Ondasetron",
+        "E": "Escopolamina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Quien ejerce un efecto estimulante en el tránsito intestinal?",
+      "options": {
+        "A": "Anticolinérgicos",
+        "B": "Catecolaminas",
+        "C": "Gangliopléjicos",
+        "D": "Anestesia medular",
+        "E": "Anestésicos halogenados"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Por qué se caracterizan las alteraciones de la función renal producidas por tipo de anestesia?",
+      "options": {
+        "A": "Los opioides no modifican la función renal",
+        "B": "Los agentes halogenados disminuyen menos la velocidad de filtración glomerular",
+        "C": "Los benzodiacepinas aumentan la velocidad de filtración glomerular",
+        "D": "La ketamina es inocua",
+        "E": "La anestesia regional afecta más que la anestesia general"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Cuál es el Grado o Clase en la Escala de Evaluación tiromentoniana para la intubación endotraqueal, en un paciente que tiene 6?3 cm de longitud?",
+      "options": {
+        "A": "B. Clase I",
+        "B": "C. Clase II 1/2",
+        "C": "D. Clase III",
+        "D": "E. Clase III 1/2",
+        "E": "A. Clase II"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "El propofol en la inducción anestésica, se asocia a dolor en el punto de la inyección, pudiendo producir tromboflebitis de manera infrecuente. ¿De qué forma podría disminuir el dolor?",
+      "options": {
+        "A": "Escogiendo una vena del dorso de la mano",
+        "B": "No administrar propofol",
+        "C": "Distrayendo al paciente",
+        "D": "Colocando en una vena de miembros inferiores",
+        "E": "Colocando lidocaína antes de administrar el fármaco en vena grande"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "En una paciente que usa anticoagulantes orales que va a ser sometida a cesárea con anestesia regional. ¿Cuál es la recomendación respecto a los anticoagulantes?",
+      "options": {
+        "A": "Suspender >3 días",
+        "B": "Tomar el mismo día",
+        "C": "Última toma >4 horas",
+        "D": "Última dosis >12 horas",
+        "E": "No se suspende"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Cuáles son los factores que causan náuseas y vómitos en el postoperatorio?",
+      "options": {
+        "A": "Contracción del esfínter esofágico inferior",
+        "B": "Contracción del píloro",
+        "C": "Parálisis gastrointestinal, acúmulo de gases y secreciones",
+        "D": "Aumento del flujo sanguíneo esplácnico",
+        "E": "Disminución de la presión intracraneal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "¿Cuál es el fármaco que disminuye el tono del esfínter esofágico inferior?",
+      "options": {
+        "A": "Fentanilo",
+        "B": "Succinilcolina",
+        "C": "Pancuronio",
+        "D": "Neostigmina",
+        "E": "Pancuronio"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "¿A qué tipo farmacológico en la clasificación de los hipnoanalgésicos opioides, pertenece el remifentanil?",
+      "options": {
+        "A": "Natural",
+        "B": "Semi sintético",
+        "C": "Morfiniano",
+        "D": "Fenilpiperina",
+        "E": "Antagónico"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Cuál es el fármaco derivado de la fenciclidina que produce anestesia disociativa?",
+      "options": {
+        "A": "Etomidato",
+        "B": "Nimodipina",
+        "C": "Nicardipina",
+        "D": "Remifentanil",
+        "E": "Ketamina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál es la vida media de eliminación plasmática en el adulto de la lidocaína?",
+      "options": {
+        "A": "4 horas",
+        "B": "7 horas",
+        "C": "2 horas",
+        "D": "5 horas",
+        "E": "8 horas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Cuál de los siguientes es un método no invasivo para evaluar la función cerebral?",
+      "options": {
+        "A": "Flujometría laser doppler",
+        "B": "Presión de perfusión cerebral",
+        "C": "Saturación de O2 venosa cerebral",
+        "D": "PO2 cerebral",
+        "E": "Espectroscopia infrarroja cercana"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "El MAC (Concentración alveolar mínima) del sevorfourona es:",
+      "options": {
+        "A": "1.6",
+        "B": "6.0",
+        "C": "0.75",
+        "D": "1.2",
+        "E": "2.0"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es el hallazgo electrocardiográfico en un paciente con hipopotasemia?",
+      "options": {
+        "A": "Onda T picudas",
+        "B": "Depresión de onda T",
+        "C": "QRS ancho",
+        "D": "Acortamiento QT",
+        "E": "Disminuye la automaticidad"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál es un factor causal del metabolismo de CO2 que disminuye la PET CO2?",
+      "options": {
+        "A": "Epilepsia",
+        "B": "Cirugía bajo isquemia",
+        "C": "Embolismo venoso CO2",
+        "D": "Hipertiroidismo",
+        "E": "Fiebre"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "El grado II de Cormack y Lehane corresponde a:",
+      "options": {
+        "A": "Solo se ve la superficie anterior de la epiglotis",
+        "B": "No se ve ninguna estructura laríngea",
+        "C": "Las cuerdas vocales se ven en su totalidad",
+        "D": "Se ven la porción anterior de las cuerdas vocales",
+        "E": "Solo se ve la porción posterior de las cuerdas vocales y /o los cartílagos aritenoides"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "¿Cuál de los siguientes pacientes puede recibir anestesia raquídea, sin mayor contraindicación?",
+      "options": {
+        "A": "Paciente con hipotensión, secundaria a shock cardiogénico",
+        "B": "Paciente con TEC severo y edema de papila",
+        "C": "Paciente con coagulopatía no compensada",
+        "D": "Paciente con infección en el sitio de punción",
+        "E": "Paciente con antecedente de síndrome neuroléptico maligno"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Gestante de 39 semanas con feto en podálica, se decide intervenirla con cesárea por la presentación del feto. En la evaluación de anestesiología. ¿Cuál debe ser la recomendación del mínimo periodo de ayuno para comidas ligeras?",
+      "options": {
+        "A": "4 horas",
+        "B": "2 horas",
+        "C": "1 hora",
+        "D": "Media hora",
+        "E": "6 horas"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Cuál es la fase del capnograma que corresponde al ascenso espiratorio?",
+      "options": {
+        "A": "I",
+        "B": "IV",
+        "C": "III",
+        "D": "0",
+        "E": "II"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cuál es el síndrome que aparece como complicación neurológica tras la anestesia peridural lumbar?",
+      "options": {
+        "A": "Raynoud",
+        "B": "Claude Bernard Horner",
+        "C": "De Compresión de la VCI",
+        "D": "Ramsay",
+        "E": "Reiter"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "¿Qué fármaco antagoniza los efectos del opioide?",
+      "options": {
+        "A": "Naloxona",
+        "B": "Dexametasona",
+        "C": "Metoclopramida",
+        "D": "Clorferinamina",
+        "E": "Metamizol"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿Cuál es agente anestésico general que está contraindicado en anestesia oftalmológica en pacientes con aumento de la presión intraocular?",
+      "options": {
+        "A": "Éter",
+        "B": "Halotano",
+        "C": "Isoflurano",
+        "D": "Ketamina",
+        "E": "Desflurano"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Cuál es el anestésico y/o coadyuvante que tiene efecto estimulante en el vaciamiento gástrico?",
+      "options": {
+        "A": "Benzodiacepinas",
+        "B": "Anestésicos IV",
+        "C": "Anestésicos halogenados",
+        "D": "Catecolaminas",
+        "E": "Ganglioplejicos"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Cuál es un efecto de los anestésicos locales?",
+      "options": {
+        "A": "Contraen el músculo liso vascular",
+        "B": "Disminución del tono de musculatura gastrointestinal",
+        "C": "Relajan el músculo liso bronquial",
+        "D": "Aumentan las contracciones del músculo uterino",
+        "E": "Aumentan la excitabilidad eléctrica del corazón"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "En una cesárea. ¿Cuál es la técnica de anestesia que da mayor estabilidad hemodinámica, mayor relajación muscular, mayor rapidez de inducción y mayor repercusión fetal?",
+      "options": {
+        "A": "Peridural",
+        "B": "Intradural",
+        "C": "Endovenosa",
+        "D": "Combinada",
+        "E": "General"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "El efecto más grave de los opioides es la depresión respiratoria; en caso de sobredosis. ¿Cuál es el antagonista para recuperar la ventilación espontánea?",
+      "options": {
+        "A": "Naloxona",
+        "B": "Ketamina",
+        "C": "Neostigmina",
+        "D": "Atipamezol",
+        "E": "Midazolam"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuál es el mínimo tiempo en horas de ayuno preoperatorio recomendado en cuanto a líquidos claros?",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "12",
+        "D": "2",
+        "E": "24"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuál de los siguientes productos es un opioide que tiene una duración de 12 a 27 horas y un tiempo de latencia de 30 a 40 minutos?",
+      "options": {
+        "A": "Fentanilo",
+        "B": "Morfina",
+        "C": "Remifentanilo",
+        "D": "Meperidina",
+        "E": "Sulfentanilo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es un inhibidor de la motilidad gástrica?",
+      "options": {
+        "A": "Glucagón",
+        "B": "Gastrina",
+        "C": "Sustancia P",
+        "D": "Motilina",
+        "E": "Bombesina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Cuál de los siguientes fármacos se utiliza principalmente como complemento para el mantenimiento de la anestesia general?",
+      "options": {
+        "A": "Halotano",
+        "B": "Óxido nitroso",
+        "C": "Fentanilo",
+        "D": "Ciclopropano",
+        "E": "D-tubocurarina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál es un signo de irritación meníngea?",
+      "options": {
+        "A": "Anorexia",
+        "B": "Fotofobia",
+        "C": "Ojos rojos",
+        "D": "Sequedad de boca",
+        "E": "Tos"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Paciente sometido a una cirugía de mano, refiere antecedente de hipertiroidismo con tratamiento actual. ¿Qué clasificación ASA le corresponde?",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "IV",
+        "D": "II",
+        "E": "V"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Qué fármaco revierte los efectos de los relajantes musculares?",
+      "options": {
+        "A": "Naloxona",
+        "B": "Piridoxina",
+        "C": "Neostigmina",
+        "D": "Dexametasona",
+        "E": "Atropina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuál es una causa patológica de retraso del vaciamiento gástrico?",
+      "options": {
+        "A": "Opiáceos",
+        "B": "Dopamina",
+        "C": "Antidepresivos tricíclicos",
+        "D": "Dolor",
+        "E": "Embarazo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál es una contraindicación absoluta de la anestesia peridural?",
+      "options": {
+        "A": "Analgesia postoperatoria",
+        "B": "Cirugía urológica",
+        "C": "Cirugía vascular",
+        "D": "Trastornos de la hemostasia",
+        "E": "Analgesia postraumática"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "En el tratamiento de náuseas y vómitos postoperatorios. ¿Cuál es un fármaco antagonista 5HT3?",
+      "options": {
+        "A": "Metoclopramida",
+        "B": "Trimetobenzamida",
+        "C": "Cisaprida",
+        "D": "Dexametasona",
+        "E": "Ondasetron"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuál es la complicación de la anestesia general en una cesárea por enfermedad hipertensiva del embarazo?",
+      "options": {
+        "A": "Convulsiones",
+        "B": "Analgesia inadecuada",
+        "C": "Aspiración pulmonar de contenido gástrico",
+        "D": "Cefalea",
+        "E": "Retención urinaria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "¿Cuál es el agente relajante muscular que debe evitarse en pacientes con alta sensibilidad a la histamina?",
+      "options": {
+        "A": "Vecuronio",
+        "B": "Rocuronio",
+        "C": "Dexametonio",
+        "D": "Flaxedil",
+        "E": "Succinilcolina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿Cuál es el fármaco que induce efectos depresores más marcados que los barbitúricos?",
+      "options": {
+        "A": "Propofol",
+        "B": "Etomidato",
+        "C": "Sevoflurano",
+        "D": "Fentanilo",
+        "E": "Midazolam"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Cuál es un agente vasodilatador en la regulación humoral del flujo sanguíneo?",
+      "options": {
+        "A": "Adrenalina",
+        "B": "Noradrenalina",
+        "C": "Serotonina",
+        "D": "Angiotensina",
+        "E": "Vasopresina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál es el coeficiente de partición del anestésico?",
+      "options": {
+        "A": "Ph",
+        "B": "PKa",
+        "C": "Fijación a proteínas",
+        "D": "Dosis única máxima",
+        "E": "Liposolubilidad"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "¿Cuál es un anestésico local del grupo éster?",
+      "options": {
+        "A": "Prilocaína",
+        "B": "Lidocaína",
+        "C": "Etidocaína",
+        "D": "Bupivacaína",
+        "E": "Cloroprocaína"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Que es necesario tener en cuenta para la prevención y atenuación de la aspiración pulmonar?",
+      "options": {
+        "A": "Ayuno en caso de leche materna como mínimo 1 hora",
+        "B": "No realizar presión cricoidea",
+        "C": "Pre oxigenación con inflación pulmonar",
+        "D": "No realizar aspiración vía SNG",
+        "E": "Postura adecuada"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Cuáles son los fármacos que disminuyen la presión intraocular?",
+      "options": {
+        "A": "Succinilcolina",
+        "B": "Ketamina",
+        "C": "Corticoides",
+        "D": "Ciclopléjicos",
+        "E": "Relajantes musculares no despolarizantes"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "Paciente que ingresa a sala de operaciones para una intervención quirúrgica, con probable vía aérea difícil; durante la intubación orotraqueal el médico fractura un diente y lo retira. ¿Qué debe hacer el médico anestesiólogo?",
+      "options": {
+        "A": "Continuar su procedimiento y no notificar",
+        "B": "Callarse y no decir a nadie, porque lo pueden sancionar",
+        "C": "Entregar el diente a enfermería",
+        "D": "Notificar y registrar evento adverso, luego hablar con familiares y/o paciente explicando motivos del evento",
+        "E": "Retirar el tubo endotraqueal y despertarlo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Paciente sometida a una cirugía laparoscópica; 4 horas antes que finalice la cirugía el anestesiólogo le coloca un antiemético; luego de lo cual empieza a presentar trastornos visuales y boca seca. ¿Qué fármaco de aplicaron?",
+      "options": {
+        "A": "Dimenhidrinato",
+        "B": "Escopolamina",
+        "C": "Dexametasona",
+        "D": "Ondasetron",
+        "E": "Tropisetron"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Cuál de las siguientes condiciones es un factor causal de acidosis respiratoria aguda?",
+      "options": {
+        "A": "EPOC",
+        "B": "Ventilación mecánica",
+        "C": "Broncoespasmos",
+        "D": "Miastenia",
+        "E": "Lesión espinal"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Por qué se produce la vasodilatación arterial y arteriolar que ocurre durante la anestesia espinal?",
+      "options": {
+        "A": "Aumento de la post carga",
+        "B": "La presión arterial aumentada",
+        "C": "No se produce bloqueo simpático",
+        "D": "Reducción de las resistencias vasculares",
+        "E": "Aumento del gasto cardiaco"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es el antagonista de las benzodiazepinas?",
+      "options": {
+        "A": "Naloxona",
+        "B": "Amobarbital",
+        "C": "Melatonina",
+        "D": "Cafeína",
+        "E": "Flumazenil"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "¿Cuál de los relajantes musculares es el menos indicado de usar en pacientes con cardiomiopatía?",
+      "options": {
+        "A": "Atracurio",
+        "B": "Vecuronio",
+        "C": "Cisatracurio",
+        "D": "Pancuronio",
+        "E": "Mivacurio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "En una gestante añosa, multigesta, con periodo intergenésico de 12 años, será sometida a cesárea de urgencia. ¿Cuál es el anestésico local recomendado?",
+      "options": {
+        "A": "Lidocaína 5%",
+        "B": "Bupivacaina 0.5% hiperbárica",
+        "C": "Ketamina + fentanilo",
+        "D": "Propofol",
+        "E": "Remifentanilo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "La primera sustancia identificada en la transmisión del dolor fue: (¿es la primera descubierta o es la primera que se activa?)",
+      "options": {
+        "A": "Calmodulina",
+        "B": "Tromboxano",
+        "C": "Sustancia P",
+        "D": "Interleucina 1",
+        "E": "Inmunoglobulina E"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "¿Cuál es un efecto de la analgesia epidural sobre el íleo post operatorio?",
+      "options": {
+        "A": "Efecto inflamatorio",
+        "B": "Gasto en el consumo de opioides",
+        "C": "Aumenta el dolor",
+        "D": "Mejora la perfusión esplacnica",
+        "E": "Movilización retardada"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Al bloqueo de que nervio corresponde el que se hace un botón intradérmico a 2.5 cm por dentro y por debajo de la espina iliaca anterosuperior?",
+      "options": {
+        "A": "A nivel del tobillo",
+        "B": "A nivel de la rodilla",
+        "C": "Del nervio crural",
+        "D": "Del nervio femorocutáneo",
+        "E": "Del nervio tibia anterior"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "¿Qué factor técnico etiológico disminuye la PET CO2?",
+      "options": {
+        "A": "Cal sodada agotada",
+        "B": "Flujo de gas fresco escaso",
+        "C": "Fugas mantenidas en el circuito",
+        "D": "Fallo de las válvulas",
+        "E": "Función inadecuada del respirador"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Gestante de categoría estable con diagnóstico de cesárea anterior. ¿Cuál es la técnica anestésica de elección?",
+      "options": {
+        "A": "General inhalatoria",
+        "B": "General intravenosa",
+        "C": "Epidural",
+        "D": "Endovenosa para general",
+        "E": "Caudal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Cuál es un signo neurológico por déficit de líquido extracelular?",
+      "options": {
+        "A": "Hipotensión",
+        "B": "Somnolencia",
+        "C": "Lengua seca",
+        "D": "Hipotermia leve",
+        "E": "Pulso débil"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿Cuál es el reflejo que explica la bradicardia paradójica que se observa durante la anestesia espinal?",
+      "options": {
+        "A": "Bainbridge",
+        "B": "Kussmaull",
+        "C": "Purkinje",
+        "D": "De Gasser",
+        "E": "Babinsky"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "¿Qué escala evalúa la dificultad de ventilación con mascarilla facial?",
+      "options": {
+        "A": "Escala de Han",
+        "B": "Escala de Lemon",
+        "C": "Escala de Patil",
+        "D": "Escala de Mallampati",
+        "E": "Escala de Cormack Lehane"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "En la evaluación de un paciente que ingresa por Emergencia, determina \"Paciente moribundo\". ¿Qué grado de ASA le corresponde?",
+      "options": {
+        "A": "IV",
+        "B": "I",
+        "C": "III",
+        "D": "II",
+        "E": "V"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuál es una contraindicación absoluta en la analgesia peridural para parto?",
+      "options": {
+        "A": "Feto grande",
+        "B": "Gestante añosa",
+        "C": "Coagulopatias",
+        "D": "Multigesta",
+        "E": "Gestante adolescente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Mujer de 38 años, fumadora, es sometida a una lipoescultura y agrandamiento de la mamá al mismo tiempo. De acuerdo a la evaluación de náuseas y vómitos postoperatorios. ¿A qué riesgo corresponde?",
+      "options": {
+        "A": "Mediano riesgo",
+        "B": "Alto riesgo",
+        "C": "Bajo riesgo",
+        "D": "Sin riesgo",
+        "E": "Muy bajo riesgo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "El prefijo del tiopental se debe a que es un compuesto que contiene:",
+      "options": {
+        "A": "Iodo",
+        "B": "Antimonio",
+        "C": "Cloro",
+        "D": "Magnesio",
+        "E": "Azufre"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "¿Cuál de las siguientes patologías es causal de acidosis metabólica con hiato aniónico elevado?",
+      "options": {
+        "A": "Pérdida tubular del bicarbonato",
+        "B": "Diarrea",
+        "C": "Insuficiencia renal crónica",
+        "D": "Fístula pancreática",
+        "E": "Insuficiencia renal aguda"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Qué productos tienen efecto estimulante en el tránsito intestinal?",
+      "options": {
+        "A": "Anticolinérgicos",
+        "B": "Anestésicos locales",
+        "C": "Anestésicos intravenosos",
+        "D": "Catecolaminas",
+        "E": "Opioides"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "¿Cuál es el anestésico local con concentración 2%, con una demora de instauración 5.8 min y tiene un nivel intenso de intensidad del bloqueo motor?",
+      "options": {
+        "A": "Bupivacaína 0.5 %",
+        "B": "Cloroprocaína",
+        "C": "Bupivacaína 0.25%",
+        "D": "Lidocaína 2%",
+        "E": "Etidocaína"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Qué fármaco aumenta la presión intraocular?",
+      "options": {
+        "A": "Adrenalina",
+        "B": "Beta bloqueadores",
+        "C": "Inhibidores de la anhidrasa carbónica",
+        "D": "Bloqueantes beta adrenérgicos",
+        "E": "Ketamina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Mujer de 55 años, sometida a cirugía plástica; antecedente de asma crónica. Gases arteriales: HCO3: 24 mEq/l, PaCO2: 40 mmHg y pH: 7.44. ¿En qué estado se encuentra la paciente?",
+      "options": {
+        "A": "Normal",
+        "B": "Acidosis metabólica pura",
+        "C": "Acidosis metabólica no compensada",
+        "D": "Alcalosis respiratoria",
+        "E": "Acidosis respiratoria compensada"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Qué productos están en el tercer escalón de la escala terapéutica del dolor de la OMS?",
+      "options": {
+        "A": "Analgésicos céntrales menores",
+        "B": "Analgésicos periféricos",
+        "C": "AINES",
+        "D": "Analgésicos céntrales mayores",
+        "E": "Solo Corticoides"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "¿Cuál de los siguientes es un fármaco intravenoso, hipnótico, el más usado, del grupo de alquilfenoles, antiemético?",
+      "options": {
+        "A": "Midazolam",
+        "B": "Ketamina",
+        "C": "Fentanilo",
+        "D": "Tiopental",
+        "E": "Propofol"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Cuál es el tiempo de latencia del fentanilo?",
+      "options": {
+        "A": "30 min",
+        "B": "5 min",
+        "C": "1 hora",
+        "D": "2 horas",
+        "E": "40 min"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es el receptor opioide que tiene como localización tanto en corteza como en el sistema límbico?",
+      "options": {
+        "A": "u",
+        "B": "k",
+        "C": "d",
+        "D": "Teta",
+        "E": "z"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cuál es una causa fisiológica de retraso del vaciamiento gástrico?",
+      "options": {
+        "A": "Embarazo",
+        "B": "Dolor",
+        "C": "Shock",
+        "D": "Oclusión intestinal",
+        "E": "Hipotiroidismo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "En una gestante con diagnóstico de síndrome de Hellp. ¿Cuál es la técnica anestésica recomendada?",
+      "options": {
+        "A": "Anestesia epidural",
+        "B": "Anestesia general inhalatoria",
+        "C": "Anestesia raquídea",
+        "D": "Anestesia subdural",
+        "E": "Anestesia combinada"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Cuáles el relajante muscular que se metaboliza y elimina por acción de estearasas plasmáticas y eliminación de Hoffman?",
+      "options": {
+        "A": "Vecuronio",
+        "B": "Suscinilcolina",
+        "C": "Atracurio",
+        "D": "Miavacurio",
+        "E": "Pancuronio"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Cuál es el receptor opioide que tiene como función la inhibición de la testosterona?",
+      "options": {
+        "A": "ß",
+        "B": "d",
+        "C": "u",
+        "D": "k",
+        "E": "&"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "¿Cuál es el receptor opioide que da como efecto la bradicardia?",
+      "options": {
+        "A": "u2",
+        "B": "a",
+        "C": "b",
+        "D": "k",
+        "E": "d"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Qué fármaco es antagonista para sobredosis de benzodiacepinas?",
+      "options": {
+        "A": "Midazolam",
+        "B": "Naloxona",
+        "C": "Neostigmina",
+        "D": "Rocuronio",
+        "E": "Flumacenilo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "En la intubación difícil, el hallazgo de gloptosis y micrognatia corresponde al síndrome de:",
+      "options": {
+        "A": "Pierre Robin",
+        "B": "Treacher Collins",
+        "C": "Franceschetti-Klein",
+        "D": "Apert",
+        "E": "Klippel-Feil"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Qué se debe tener en cuenta para la reducción del riesgo de NVPO?",
+      "options": {
+        "A": "Uso de anestesia general",
+        "B": "Maximizar uso de opioides",
+        "C": "Maximizar uso de neostigmina",
+        "D": "Uso de anestesia regional",
+        "E": "Hidratación mínima"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuál es el esquema de tratamiento EV para dolor severo?",
+      "options": {
+        "A": "Sólo AINES",
+        "B": "AINES + opioide débil",
+        "C": "Opioide débil",
+        "D": "Corticoide + AINES",
+        "E": "AINES + opioide fuerte u opioide sólo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "¿Cuál es el anticoagulante que en el caso de una cirugía, se coloca su última dosis con un tiempo de más de 12 horas?",
+      "options": {
+        "A": "Heparina no fraccionada",
+        "B": "Warfarina",
+        "C": "Ribaroxabán",
+        "D": "Dabigatrán",
+        "E": "Heparina de bajo peso molecular"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

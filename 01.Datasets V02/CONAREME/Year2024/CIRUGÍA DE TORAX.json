@@ -1,0 +1,1353 @@
+{
+  "metadata": {
+    "year": 2024,
+    "exam": "CIRUGÍA DE TORAX",
+    "source_pdf": "CIRUGÍA DE TORAX.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Cirugía de Tórax y Cardiovascular",
+    "sha256_pdf": "9b7f6b16bc59fa5158fe2d6c02d8de9c60cfcba0a8bf40ce07d77eff75917ddb",
+    "n_questions": 100,
+    "n_options": 4,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "extracted_at": "2026-11-11T10:30:53",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 9,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Cirugía de Tórax y Cardiovascular",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9985,
+        "vec_max_loser": 0.0034,
+        "pix_min_winner": 0.6047,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 21223,
+      "coverage_out_chars": 21223,
+      "human_reference": "_backup_csv_verificados/Year2024/CIRUGÍA DE TORAX.csv",
+      "human_rows": 100,
+      "answers_match_human": 99,
+      "answers_compared": 100,
+      "answer_mismatches": [
+        34
+      ],
+      "text_diff_categories": {
+        "identico": 445,
+        "solo_espacios": 55
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál es la causa más frecuente de tratamiento quirúrgico de la secuela de tuberculosis pulmonar?",
+      "options": {
+        "A": "Intensa caseificación y cavitación",
+        "B": "Hemoptisis masiva intratable médicamente",
+        "C": "Infección secundaria de bronquiectasias",
+        "D": "Empiema más fístula broncopleural"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Varón de 53 años, con traumatismo torácico cerrado por accidente de tránsito. TC: fracturas de 4a, 5a, 6a y 7a costillas en región anterior derecha y signos de contusión pulmonar amplia; en los días siguientes y en forma progresiva va disminuyendo la saturación y el PaO2/FiO2 por lo que tiene que ser intubado e ingresa a UTI. ¿Cuál es el probable diagnóstico?",
+      "options": {
+        "A": "Neumonía severa",
+        "B": "Síndrome de dificultad respiratoria aguda",
+        "C": "Tórax inestable",
+        "D": "Insuficiencia ventilatoria"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál es el abordaje para el control proximal de la lesión traumática de la arteria subclavia izquierda?",
+      "options": {
+        "A": "Toracotomía posterolateral",
+        "B": "Toracotomía axilar",
+        "C": "Supraclavicular",
+        "D": "Esternotomía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Mujer de 65 años con antecedentes de tabaquismo, con tos, expectoración matutina, y dísnea de esfuerzo al caminar alrededor de 90 metros. Según la escala de disnea del Medical Research Council modificada, en que grado de dísnea se encuentra?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "1"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "Mujer de 58 años. Antecedente: hace dos años traqueostomía prolongada, presenta en forma insidiosa disnea y estridor. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Asma bronquial",
+        "B": "Fibrosis pulmonar",
+        "C": "Enfermedad pulmonar obstructiva crónica",
+        "D": "Estenosis traqueal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Varón de18 años, con herida punzopenetrante en HTI. Refiere dolor torácico y disnea. FV estables. RX tórax: radiolucidez con colapso pulmonar mayor al 50%. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Toracocentesis",
+        "B": "Ventana torácica",
+        "C": "Drenaje intercostal",
+        "D": "Toracotomía exploratoria"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Dónde se localizan principalmente los traumatismos penetrantes del árbol tráqueobronquial?",
+      "options": {
+        "A": "Tráquea cervical",
+        "B": "A 2.5 cm de la carina",
+        "C": "A 2 cm o menos del bronquio principal derecho",
+        "D": "Tráquea torácica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es indicación de revascularización coronaria híbrida?",
+      "options": {
+        "A": "Lesiones múltiples DA y enfermedad difusa CD o CX",
+        "B": "Ausencia calcificaciones aorta ascendente",
+        "C": "Lesión de tronco de coronaria izquierda",
+        "D": "Estenosis proximal DA más lesión focal CD"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "En el drenaje venoso pulmonar total anómalo de tipo intracardíaco. ¿Dónde drenan las venas pulmonares?",
+      "options": {
+        "A": "Vena vertical",
+        "B": "Vena comunicante inferior",
+        "C": "Arteria pulmonar",
+        "D": "Seno coronario"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "¿Cuál es el subtipo histológico más agresivo del timoma?",
+      "options": {
+        "A": "AB",
+        "B": "A",
+        "C": "B3",
+        "D": "B1"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "En un traumatismo torácico tratado con drenaje pleural, si persiste hemotórax residual. ¿Cuál es el procedimiento quirúrgico?",
+      "options": {
+        "A": "Toracotomía de limpieza",
+        "B": "Cambio de drenaje torácico",
+        "C": "Instilación de fibrinolíticos",
+        "D": "Toracoscopía videoasistida"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Paciente que dos años después de un trasplante cardíaco presenta fracción eyección disminuida. La biopsia endomiocárdica es negativa. Coronariografía evidencia enfermedad arterial coronaria. ¿Cuál es el tratamiento a seguir?",
+      "options": {
+        "A": "Angioplastía coronaria",
+        "B": "Retrasplante cardíaco",
+        "C": "By pass aortocoronario",
+        "D": "Revascularización híbrida"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "Varón de 24 años con herida punzo penetrante en cara anterior de muslo, suturada. Al 5to día acude a control donde se evidencia nódulo indurado con signos de flogosis, se realiza punción con sangrado activo profuso. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Exploración vascular electiva",
+        "B": "Arteriografía",
+        "C": "Exploración vascular de emergencia",
+        "D": "Angiotem"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Mujer de 60 años, con traumatismo torácico derecho. Acude por dolor torácico y disnea. Examen: FV estables, MV disminuido en 2/3 inferiores de HTD. RX tórax: opacidad en mitad inferior HTD y fractura de dos arcos costales. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Toracocentesis",
+        "B": "Toracotomía exploratoria",
+        "C": "Drenaje intercostal",
+        "D": "Fijación costal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "En una radiografía de tórax se observa crecimiento de aurícula izquierda. ¿Cuál es la causa más probable?",
+      "options": {
+        "A": "Isquémica",
+        "B": "Hipertensión pulmonar",
+        "C": "Estenosis mitral",
+        "D": "Insuficiencia tricuspídea"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Varón de 44 años, con traumatismo contuso en cara anterior de hemitórax derecho, con tórax inestable. Examen: PA 90/60 mmHg, FC 110 X', FR 28 X'; matidez en base de hemitórax derecho con disminución del MV y VV. Rx: fractura de 4to, 5to, 6to y 7mo arcos costales con doble trazo de fractura y nivel hidroaéreo en cavidad pleural. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Estabilización quirúrgica",
+        "B": "Drenaje torácico",
+        "C": "Toracocentesis",
+        "D": "Flap muscular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "¿Cuál es causa directa del derrame pleural maligno?",
+      "options": {
+        "A": "Hipoproteinemia",
+        "B": "Metástasis pleural",
+        "C": "Neumonitis postobstructiva",
+        "D": "Embolia pulmonar"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuál es la causa más frecuente de resección y reconstrucción de la tráquea?",
+      "options": {
+        "A": "Estenosis postintubación",
+        "B": "Estenosis subglótica idiopática",
+        "C": "Granulomatosis de Wegener",
+        "D": "Carcinoma adenoide quístico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "En un traumatismo torácico con ausencia de inestabilidad hemodinámica y sin afectación respiratoria. TC: se observa neumotórax con un diámetro radial de 35 mm. ¿Cuál es la conducta terapéutica a seguir?",
+      "options": {
+        "A": "Drenaje Torácico y Válvula de Heimlich",
+        "B": "Observación y repetir Rx de tórax en 12-24 hs",
+        "C": "Toracocentesis y Válvula de Heimlich",
+        "D": "Toracocentesis y programar SOP"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "Mujer 45 años, desde hace 12 meses presenta disnea y sibilancias. Tratada con broncodilatadores sin mejoría. TC tórax: lesiones polipoideas en tráquea. Se indica fibrobroncoscopía. ¿Cuál es su principal sospecha diagnóstica?",
+      "options": {
+        "A": "Carcinoma adenoide quístico",
+        "B": "Carcinoma epidermoide",
+        "C": "Sarcoma",
+        "D": "Hemangioma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Cuál es la vía de abordaje indicada en una lesión del esófago inferior?",
+      "options": {
+        "A": "Toracotomía posterolateral derecha",
+        "B": "Toracotomía posterolateral izquierda",
+        "C": "Esternotomía media",
+        "D": "Toracotomía axilar"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "En los sarcomas primarios de pulmón. ¿Cuál tiene mejor pronóstico?",
+      "options": {
+        "A": "Condrosarcoma",
+        "B": "Fibrosarcoma",
+        "C": "Liposarcoma",
+        "D": "Leiomiosarcoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "La hernia de Bochdalek es un defecto diafragmático...",
+      "options": {
+        "A": "anterolateral izquierdo.",
+        "B": "retroesternal anterior.",
+        "C": "posterolateral izquierdo.",
+        "D": "paraesofágico."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Mujer de 25 años, acude por dolor torácico y disnea súbita; tres días antes inició su menstruación. Rx tórax: radiolucidez en hemitórax izquierdo con colapso pulmonar. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Hemotórax",
+        "B": "Hidroneumotórax",
+        "C": "Neumotórax traumático",
+        "D": "Neumotórax catamenial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "¿Cuál es el vaso mayormente afectado en el trauma abdominal cerrado?",
+      "options": {
+        "A": "Aorta",
+        "B": "Vena iliaca",
+        "C": "Vena cava inferior",
+        "D": "Arteria iliaca"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "¿Cuál es la arteria cuya lesión causa la mayor cantidad de amputaciones de miembro inferior?",
+      "options": {
+        "A": "Femoral superficial",
+        "B": "Tronco tibioperoneo",
+        "C": "Femoral profunda",
+        "D": "Poplítea"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Mujer de 58 años, con dolor toracico, tos con expectoración a predominio matutino, y dísnea a moderados esfuerzos. Espirometría: índice FEV1/FVC de 0.6, FEV1 de 50% y 70 % de lo predicho. ¿Qué grado de obstrucción del flujo de aire tiene?",
+      "options": {
+        "A": "III",
+        "B": "IV",
+        "C": "I",
+        "D": "II"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Cuál es el tumor más frecuente del mediastino posterior?",
+      "options": {
+        "A": "Timoma",
+        "B": "Teratoma",
+        "C": "Tumor neurogénico",
+        "D": "Linfoma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "En un paciente con sospecha de miocarditis. ¿Cuál es la secuencia en RM cardíaca a emplear?",
+      "options": {
+        "A": "Sangre negra en T2",
+        "B": "Sangre negra en T1",
+        "C": "Realce tardío",
+        "D": "Cuantificación de flujo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "Varón de 24 años, con traumatismo torácico abierto por arma blanca, presenta neumotórax y fístula broncopleural de alto gasto. Broncofibroscopía: lesión traumática en bronquio proximal izquierdo. ¿Cuál es la vía de abordaje?",
+      "options": {
+        "A": "Toracotomía postero lateral izquierda",
+        "B": "Esternotomía media",
+        "C": "Toracotomía axilar izquierda.",
+        "D": "Toracotomía postero lateral derecha"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "¿Cuál es el procedimiento a seguir en las lesiones penetrantes cerca del mediastino que llevan a considerar una posible lesión esofágica?",
+      "options": {
+        "A": "Esofagoscopía",
+        "B": "Esofagografía",
+        "C": "TC de esófago",
+        "D": "Ecografía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es la principal indicación de trasplante pulmonar?",
+      "options": {
+        "A": "Hipertensión pulmonar primaria",
+        "B": "Enfermedad pulmonar obstructiva crónica",
+        "C": "Bronquiectasia",
+        "D": "Fibrosis pulmonar idiopática"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Mujer de 35 años. Hace un año recibió trasplante pulmonar bilateral; acude por tos, fiebre y disnea. Prueba de función pulmonar: VEF1 severamente disminuido. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Radiografía tórax frontal",
+        "B": "Ecocardiograma transesofágico",
+        "C": "Broncoscopía y biopsia transbronquial",
+        "D": "Tomografía de tórax"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "¿Cuál es el mejor abordaje para tratar las lesiones de la aorta ascendente y vena cava superior?",
+      "options": {
+        "A": "Toracotomía posterolateral",
+        "B": "Esternotomía media",
+        "C": "Toracotomía axilar",
+        "D": "Toracotomía anterolateral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": [
+        "discrepancia_respuesta_humano=A"
+      ]
+    },
+    {
+      "number": 35,
+      "question": "¿Cuál es el injerto de interposición que se utiliza con mayor frecuencia en las lesiones arteriales de las extremidades inferiores?",
+      "options": {
+        "A": "PTFE",
+        "B": "Vena safena externa invertida",
+        "C": "Vena safena interna invertida",
+        "D": "Vena cefálica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "¿Cuál es el defecto congénito de pared torácica anterior más frecuente?",
+      "options": {
+        "A": "Pectus carinatum",
+        "B": "Pectus excavatum",
+        "C": "Síndrome de Poland",
+        "D": "Esternón hendido"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Cuál es el principal factor de riesgo en la enfermedad pulmonar obstructiva crónica?",
+      "options": {
+        "A": "Obesidad",
+        "B": "Sexo masculino",
+        "C": "Tabaquismo",
+        "D": "Edad avanzada"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿En qué estadío se encuentra el cáncer pulmonar con diagnóstico histológico de Tis?",
+      "options": {
+        "A": "IA1",
+        "B": "IA2",
+        "C": "0",
+        "D": "IA3"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Mujer de 64 años con dolor torácico y tos seca. TC: opacidad hiperdensa redondeada de 3.5cm de diámetro en región postero superior derecha y adenopatías en grupo 4R. ¿En qué estadío se encuentra?",
+      "options": {
+        "A": "IIB",
+        "B": "IIIB",
+        "C": "IIA",
+        "D": "IIIA"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "En el mesotelioma maligno. ¿Cuál es el subtipo histológico de mejor pronóstico?",
+      "options": {
+        "A": "Sarcomatoide",
+        "B": "Epitelial",
+        "C": "Mixto",
+        "D": "Mucinoso"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "Varón de 24 años, con traumatismo torácico abierto y colocación de drenaje torácico hace 24 horas, con fuga masiva de aire. ¿Cuál es el procedimiento a seguir?",
+      "options": {
+        "A": "Drenaje complementario",
+        "B": "Aspiración contínua",
+        "C": "Cambio de drenaje torácico",
+        "D": "Toracotomía exploradora"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Varón de 36 años con antecedente de lobectomía inferior derecha por quiste hidatídico pulmonar hace dos meses. Presenta en forma insidiosa fiebre y dolor torácico. Rx tórax: radiopacidad difusa en base derecha. ¿Cuál es el tratamiento a seguir?",
+      "options": {
+        "A": "Drenaje torácico",
+        "B": "Ventana torácica",
+        "C": "Toracotomía",
+        "D": "Videotoracoscopía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "¿Cuál es contraindicación absoluta del trasplante pulmonar?",
+      "options": {
+        "A": "Disfunción orgánica irreversible",
+        "B": "Edad mayor a 65 años",
+        "C": "Enfermedad renal crónica",
+        "D": "Apoyo social limitado"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Varón de 24 años con traumatismo torácico abierto por arma blanca en hemitórax derecho, de 5 días de evolución. Drenaje pleural: líquido lechoso y triglicéridos, que confirman el diagnóstico. ¿Cuál es el procedimiento a seguir?",
+      "options": {
+        "A": "Nutrición parenteral total y administración de octreótido",
+        "B": "Técnica percutánea de canulación con aguja y oclusión del conducto",
+        "C": "Videotoracoscopía derecha y cierre del conducto torácico",
+        "D": "Dieta a base de triglicéridos de cadena media"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "En el estudio Doppler de la estenosis de arterias periféricas. ¿Cuáles son los signos ecográficos a nivel post estenótico?",
+      "options": {
+        "A": "Flujo bidireccional y turbulento",
+        "B": "Flujo turbulento y alta resistencia",
+        "C": "Elevación de la velocidad pico sistólica y trombo mural",
+        "D": "Flujo parvus-tardus y baja resistencia"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "Varón de 40 años con antecedente de reflujo gastroesofágico, acude con disfagia progresiva, dolor retroesternal, pérdida de peso y anemia. ¿Cuál es la localización más probable del cáncer?",
+      "options": {
+        "A": "Estómago",
+        "B": "Laringe",
+        "C": "Tráquea",
+        "D": "Esófago"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "Para el tratamiento del aspergilloma pulmonar. ¿Cuál es la principal indicación quirúrgica?",
+      "options": {
+        "A": "Fibrosis cavitaria",
+        "B": "Hiperreactividad bronquial",
+        "C": "Hemoptisis masiva recurrente",
+        "D": "Broncorrea persistente"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Cuál es el factor más importante para beneficiarse con cirugía de reducción de volumen pulmonar en pacientes con EPOC?",
+      "options": {
+        "A": "Enfisema predominante en lóbulo superior",
+        "B": "DLCO < de 20% de lo predicho",
+        "C": "VEF1 < 20% de lo predicho",
+        "D": "Enfisema difuso"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál es la lesión más frecuente en el traumatismo torácico cerrado?",
+      "options": {
+        "A": "Fractura esternón",
+        "B": "Contusión pulmonar",
+        "C": "Neumotórax",
+        "D": "Fractura costal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "El carcinoma epidermoide del esófago se localiza con mayor frecuencia en:",
+      "options": {
+        "A": "Porción distal",
+        "B": "Unión gastroesofágica",
+        "C": "Debajo unión gastroesofágica",
+        "D": "Porción proximal y media"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál es el tumor maligno más frecuente de la pared torácica?",
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Condrosarcoma",
+        "C": "Plasmocitoma solitario",
+        "D": "Hemangiosarcoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "El diagnóstico del cáncer de esófago se realiza mediante...",
+      "options": {
+        "A": "esofagografía con bario.",
+        "B": "tomografía.",
+        "C": "biopsia endoscópica.",
+        "D": "ecografía."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "La resonancia magnética cardíaca puede realizarse en pacientes con:",
+      "options": {
+        "A": "Implante coclear",
+        "B": "Depuración creatinina <30 ml/min",
+        "C": "Clip de aneurisma cerebral",
+        "D": "Depuración creatinina >30 ml/min"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Varón de 30 años, sufre accidente tránsito ocupante, ingresa con dolor torácico y disnea. Examen: PA 110/70 mmHg, FC 88 X', FR 26 X'. Rx tórax: elevación hemidiafragma izquierdo. Al colocar sonda nasogástrica se visualiza en el HTI. ¿Cuál es la principal sospecha diagnóstica?",
+      "options": {
+        "A": "Eventración diafragma",
+        "B": "Hernia diafragmática",
+        "C": "Parálisis del frénico",
+        "D": "Hemoneumotórax"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuál es el quiste mediastínico primario más frecuente?",
+      "options": {
+        "A": "Broncogénico",
+        "B": "Pericárdico",
+        "C": "Entérico",
+        "D": "Tímico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Fumador de 50 años, que en su prueba de esfuerzo presenta depresión horizontal del segmento ST de 1 mm. ¿Cuál es el siguiente paso a seguir?",
+      "options": {
+        "A": "Angiotomografía coronaria",
+        "B": "Ecocardiograma transtorácico",
+        "C": "Perfusión miocárdica",
+        "D": "Cateterismo cardíaco"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿Cuál es tumor maligno de la pared torácica?",
+      "options": {
+        "A": "Plasmocitoma solitario",
+        "B": "Osteoblastoma",
+        "C": "Osteocondroma",
+        "D": "Displasia fibrosa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "Los traumatismos torácicos penetrantes y contusos se resuelven mayormente con:",
+      "options": {
+        "A": "Drenaje intercostal",
+        "B": "Toracotomía exploratoria",
+        "C": "Ventana torácica",
+        "D": "Fibrobroncoscopía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿Cuál es la indicación de trasplante pulmonar?",
+      "options": {
+        "A": "Insuficiencia respiratoria con expectativa de vida de 6 a 12 meses",
+        "B": "Incapacidad de tolerar el régimen médico postransplante",
+        "C": "Comorbilidades como insuficiencia significativa de otros órganos",
+        "D": "Insuficiencia respiratoria con expectativa de vida mayor a 12 meses"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Paciente de 25 años con diagnóstico de asma, tras realizar gran esfuerzo físico refiere tos y dolor torácico. TC: presencia de imágenes hipodensas menores a -1000 UH rodeando a las estructuras vasculares del mediastino, presencia de enfisema subcutáneo que se extiende hacia la región cervical. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Mediastinitis",
+        "B": "Neumotórax",
+        "C": "Neumomediastino",
+        "D": "Rotura esofágica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Cuál es el procedimiento quirúrgico a realizar en un neumotórax espontáneo recurrente?",
+      "options": {
+        "A": "Toracotomía mínima",
+        "B": "Válvula de Heimlich",
+        "C": "Toracoscopía y grapadoras endoscópicas",
+        "D": "Drenaje torácico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Varón de 63 años, con antecedentes de tabaquismo, presenta tos seca y dolor torácico. TC tórax: tumoración redondeada de 3.5 cm de diámetro en el segmento 2 del pulmón derecho. ¿En qué estadío se encuentra según la 8va edición de IASLC/AJCC?",
+      "options": {
+        "A": "IA3",
+        "B": "IB",
+        "C": "IIA",
+        "D": "IIB"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es una característica de la lesión traumática de la aorta torácica?",
+      "options": {
+        "A": "La reparación endovascular está contraindicada",
+        "B": "La reparación primaria implica resección del segmento rasgado",
+        "C": "Los pseudoaneurismas tienen una laceración incompleta",
+        "D": "Es llamada pseudoanerisma por la ruptura de la capa media y la adventicia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "El síndrome del diafragma poroso se presenta en:",
+      "options": {
+        "A": "Neumotórax catamenial",
+        "B": "Neumotórax traumático",
+        "C": "Hernia diafragmática",
+        "D": "Eventración diafragmática"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "Varón de 35 años que refiere masa en región lateral torácica izquierda, con aumento de volumen y dolor al tacto. RX: masa tumoral de 4x3 cm con límites indefinidos y destrucción cortical de 4ta y 5ta costilla. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Condroma",
+        "B": "Plasmocitoma solitario",
+        "C": "Sarcoma de Ewing",
+        "D": "Condrosarcoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "Varón de 60 años, ingresa con tos. TC tórax: nódulo pulmonar solitario de 1.8 cm localizado periféricamente en lóbulo superior derecho. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Cáncer pulmonar de células pequeñas",
+        "B": "Tuberculosis pulmonar",
+        "C": "Cáncer pulmonar de células no pequeñas",
+        "D": "Aspergiloma pulmonar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "Paciente de 23 años con tumoración en pared costal derecha, en su radiografía presenta una imagen de piel de cebolla con elevación del periostio y remodelado óseo. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Condrosarcoma",
+        "B": "Plasmocitoma solitario",
+        "C": "Osteosarcoma",
+        "D": "Sarcoma de Ewing"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "¿Cuál es el tratamiento de elección en el aspergilloma pulmonar sintomático?",
+      "options": {
+        "A": "Tratamiento médico con antimicóticos",
+        "B": "Toracoplastía",
+        "C": "Resección pulmonar",
+        "D": "Instilación de anfotericina B"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Cuál es la contraindicación de la reconstrucción traqueal?",
+      "options": {
+        "A": "Estenosis traqueal postintubación",
+        "B": "Esclerosis lateral amiotrófica",
+        "C": "Carcinoma adenoide quístico",
+        "D": "Carcinoma epidermoide"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuál es el signo tomográfico más frecuente en un empiema pleural?",
+      "options": {
+        "A": "Mal definido",
+        "B": "Pared irregular",
+        "C": "Esférico",
+        "D": "Vasos desplazados"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Varón 40 de años fumador de una cajetilla diaria, consumidor de alcohol 3 veces por semana, con disfagia progresiva, dolor retroesternal y anemia. La biopsia endoscópica informa cáncer de esófago. ¿Cuál es el tipo histológico más probable?",
+      "options": {
+        "A": "Adenocarcinoma",
+        "B": "Carcinoma epidermoide",
+        "C": "Melanoma primario",
+        "D": "Sarcoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "Mujer de 40 años, hace 4 años recibió trasplante pulmonar bilateral. Acude por tos, disnea y deterioro severo de la función pulmonar. BX transbronquial: bronquiolitis obliterante. Este hallazgo es manifestación de:",
+      "options": {
+        "A": "Rechazo agudo",
+        "B": "Rechazo crónico",
+        "C": "Deshicencia anastomosis bronquial",
+        "D": "Neumonía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Varón de 58 años con dolor torácico en hemitórax izquierdo, tos seca y ptosis palpebral, TC de tórax: imagen redondeada hiperdensa de 4 cm de diámetro en segmento 1 y 2 izquierdo. ¿ En qué estadío se encuentra según la 8va edición de IASLC/AJCC?",
+      "options": {
+        "A": "IIB",
+        "B": "IIIA",
+        "C": "IIIB",
+        "D": "IIA"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Varón 38 años, PO inmediato de lobectomía superior por bronquiectasia. PA 100/70 mmHg FC 86 X'; drenaje torácico serohemático de 100 ml en la primera hora, súbitamente en la segunda hora presenta hipotensión, taquicardia y drenaje torácico hemático de 1000 ml. AGA y perfil de coagulación normal. ¿Cuál es su conducta a seguir?",
+      "options": {
+        "A": "Clampar el dren tóracico",
+        "B": "TC tórax",
+        "C": "Acido tranexámico EV",
+        "D": "Retoracotomía exploratoria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Varón de 25 años, ingresa por herida punzopenetrante en región anterior del cuello, por donde se evidencia salida de aire y enfisema subcutáneo. TC tórax: aire paratraqueal y neumomediastino. ¿Cuál es el procedimiento a seguir?",
+      "options": {
+        "A": "Fibrobroncoscopía",
+        "B": "Esofagoscopía",
+        "C": "RM tórax",
+        "D": "Ecografía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "En la TC coronaria, el Score de calcio de Agatson ha demostrado correlación con la carga de ateroesclerosis y...",
+      "options": {
+        "A": "ubicación de estenosis coronaria.",
+        "B": "grado de estenosis coronaria.",
+        "C": "riesgo de evento cardiovascular.",
+        "D": "flujo arterial."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "En cuanto al absceso pulmonar crónico con tratamiento médico. ¿Cuándo requiere tratamiento quirúrgico?",
+      "options": {
+        "A": "Si continúa con cavidad menor o igual a 3 cm de diámetro",
+        "B": "Fracaso a 4 semanas de tratamiento ATB",
+        "C": "Fracaso a 8 semanas del tratamiento ATB",
+        "D": "Si un absceso se rompe hacia la cavidad pleural"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿Cuál es el principal estudio de imágenes para determinar el estadío T en el cáncer de pulmón?",
+      "options": {
+        "A": "TC tórax con contraste",
+        "B": "TC tórax sin contraste",
+        "C": "RM tórax con contraste",
+        "D": "RM tórax sin contraste"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "Varón de 35 años, que hace dos años sufre caída de árbol; acude por disnea a medianos esfuerzos y ortopnea. TC tórax: elevación del hemidiafragma izquierdo, vísceras abdominales en su posición habitual. ¿Cuál es la principal sospecha diagnóstica?",
+      "options": {
+        "A": "Hernia diafragmática",
+        "B": "Eventración diafragmática",
+        "C": "Hernia hiatal",
+        "D": "Hernia de Morgagni"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "Mujer de 24 años que luego de su trabajo de parto presenta en forma brusca disnea y dolor torácico en hemitorax derecho. Examen: hipotensión, taquicardia, tráquea desviada hacia el lado izquierdo, timpanismo, MV y VV abolidas en hemitórax derecho. ¿Cuál es la indicación inmediata a seguir?",
+      "options": {
+        "A": "Radiografía de tórax",
+        "B": "Tomografía",
+        "C": "Ecografía torácica",
+        "D": "Descompresión con aguja"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Varón de 26 años con herida penetrante por arma blanca en 5° EII por dentro de la LMC. Ecocardiograma: taponamiento. Presentando en ese momento paro cardiaco. ¿Cuál es el procedimiento a seguir?",
+      "options": {
+        "A": "Masaje cardíaco",
+        "B": "Pericardiocentesis",
+        "C": "Ventana pericárdica subxifoidea",
+        "D": "Toracotomía de reanimación"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "Mujer 65 años que acude por dolor en cara posterior muslo izquierdo al caminar 100 metros y que calma con el reposo. Ecodoppler arterial muestra ondas monofásicas en todo el miembro inferior. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Enfermedad aortoiliaca",
+        "B": "Enfermedad femoropoplítea",
+        "C": "Hernia discal",
+        "D": "Trombosis venosa"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "¿Cuál es el tipo histológico más frecuente del cáncer pulmonar?",
+      "options": {
+        "A": "Adenocarcinoma",
+        "B": "Carcinoma de células pequeñas",
+        "C": "Carcinoma epidermoide",
+        "D": "Carcinoma neuroendocrino de células grandes"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "La incisión más utilizada en los procedimientos de cirugía cardíaca es la...",
+      "options": {
+        "A": "toracotomía anterolateral.",
+        "B": "esternotomía media.",
+        "C": "toracotomía pósterolateral.",
+        "D": "toracotomía axilar."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Paciente con síndrome coronario agudo; el estudio de coronariografía reporta: estenosis de vaso que recorre el surco interventricular anterior y finaliza en el ápex cardíaco. ¿Cuál es la arteria del árbol coronario a la que se hace referencia?",
+      "options": {
+        "A": "Coronaria derecha",
+        "B": "Circunfleja",
+        "C": "Interventricular posterior",
+        "D": "Descendente anterior"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "¿Cuál es la etiología más frecuente del síndrome del lóbulo medio?",
+      "options": {
+        "A": "Neumonía",
+        "B": "Cáncer pulmonar",
+        "C": "Estenosis bronquial",
+        "D": "Aspiración de cuerpo extraño"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "Para el diagnóstico del pseudoaneurisma de aorta torácica. ¿Con qué procedimiento se puede evaluar el grado de compromiso de la pared aórtica?",
+      "options": {
+        "A": "Angiotomografía",
+        "B": "Resonancia magnética",
+        "C": "Ecografía de tórax",
+        "D": "Aortografía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Mujer de 18 años, disnéica, con debilidad general significativa, tos, dolor torácico y ptosis palpebral bilateral. ¿Cuál es su sospecha diagnóstica?",
+      "options": {
+        "A": "Polidermatomiositis",
+        "B": "Polineuropatía",
+        "C": "Síndrome de Guillain Barré",
+        "D": "Miastenia gravis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Varón de 68 años, fumador habitual, acude por presentar tos con expectoración hemoptoica, ronquera y estridor laríngeo. TC tórax: pulmones dentro límites normales. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Esofagoscopía",
+        "B": "RM tórax",
+        "C": "Fibrobroncoscopía",
+        "D": "Ecografía"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "Varón 30 años, ingresa por herida por PAF en HTI. Examen: PA 70/50 mmHg, FC 120 X', FR 28 X'; MV disminuido en dicho HT. Le colocan tubo de tórax que drena 2000 ml de líquido hemático. ¿Cuál es el siguiente paso a seguir?",
+      "options": {
+        "A": "TC tórax",
+        "B": "Rx de tórax",
+        "C": "Toracotomía exploratoria",
+        "D": "Ecografía torácica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "Mujer de 35 años, acude por herida por arma blanca en 5o EICD y LMC. PA 110/75 mmHg, FC 90 X', FR 24X'. Rx tórax: radiolucidez periférica con colapso pulmonar HTD. ¿Cuál es su diagnóstico?",
+      "options": {
+        "A": "Hemotórax",
+        "B": "Neumotórax traumático",
+        "C": "Neumotórax a tensión",
+        "D": "Hemoneumotórax"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Mujer de 45 años sufre un choque automovilístico de alto impacto. Rx tórax: elevación del hemidiafragma derecho. En el estudio de TC. ¿Cuál es el hallazgo radiológico directo que indica lesión diafragmática contundente?",
+      "options": {
+        "A": "Engrosamiento diafragmático",
+        "B": "Neumotórax",
+        "C": "Signo del diafragma colgante",
+        "D": "Hernia diafragmática"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "En el aneurisma de aorta torácica descendente. ¿Cuál es el tratamiento de elección?",
+      "options": {
+        "A": "Reparación abierta",
+        "B": "Colocación de balón intraaórtico",
+        "C": "Reparación endovascular",
+        "D": "Aneurismectomía de emergencia"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "Escolar de 10 años de edad con hidatidosis pulmonar no complicada de 6 cm de diámetro en lóbulo inferior derecho. Ecografía hepática: quiste de 8 cm de diámetro en el segmento 10. ¿Qué procedimiento es prioritaria?",
+      "options": {
+        "A": "Quistectomía pulmonar",
+        "B": "Quistectomía hepática",
+        "C": "Lobectomía pulmonar",
+        "D": "Resección pulmonar"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Varón de 5 años, presenta fatiga al esfuerzo e infecciones respiratorias a repetición. Examen: soplo sistodiastólico en maquinaria en el 2° EICI. ¿Cuál es su principal sospecha diagnóstica?",
+      "options": {
+        "A": "Comunicación interauricular",
+        "B": "Tetralogía de Fallot",
+        "C": "Conducto arterioso permeable",
+        "D": "Coartación de aorta"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Mujer 38 años con masa en región anterolateral hemitórax derecho no dolorosa al tacto. RX: masa de 3x3 cm de bordes bien definidos localizado en cara lateral 4ta costilla. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Osteocondroma",
+        "C": "Quiste óseo aneurismático",
+        "D": "Granuloma eosinófilo"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Mujer de 65 años, obesa, con antecedente de cirugía cardiotorácica con esternotomía; se presenta por fiebre y dolor torácico. TC tórax: aumento de la densidad de la grasa mediastinal con líquido y burbujas aéreas, adenomegalias, derrame pleural y pericárdico. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Mediastinitis aguda",
+        "B": "Absceso mediastinal",
+        "C": "Neumomediastino",
+        "D": "Hemomediastino"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Varón de 55 años, ingresa por presentar disnea al esfuerzo y sibilancias. TC tórax: engrosamiento circunferencial tercio distal tráquea que causa una obstrucción del 50% de su luz. ¿Cuál es su principal sospecha diagnóstica?",
+      "options": {
+        "A": "Estenosis benigna",
+        "B": "Neoplasia maligna",
+        "C": "Hamartoma",
+        "D": "Hemangioma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuál es una complicación del empiema?",
+      "options": {
+        "A": "Neumotórax",
+        "B": "Empiema de necesidad",
+        "C": "Quilotórax",
+        "D": "Hemotórax"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Varón de 25 años que sufre herida por arma blanca en región supraclavicular derecha. Ingresa hipotenso, taquicárdico y con sangrado activo rojo rutilante. Se sospecha lesión distal de la arteria subclavia. El abordaje se realiza a través de:",
+      "options": {
+        "A": "Incisión supraclavicular",
+        "B": "Toracotomía anterolateral",
+        "C": "Toracotomía posterolateral",
+        "D": "Esternotomía media"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

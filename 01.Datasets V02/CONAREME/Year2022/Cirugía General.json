@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2022,
+    "exam": "Cirugía General",
+    "source_pdf": "Cirugía General.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Cirugía General",
+    "sha256_pdf": "ad250303936b952b251fee745a4fde95b677c5652504ae4a9edc676e92bd77e9",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:34",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 12,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Cirugía General",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9954,
+        "vec_max_loser": 0.0112,
+        "pix_min_winner": 0.5944,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 29986,
+      "coverage_out_chars": 29986,
+      "human_reference": "_backup_csv_verificados/Year2022/Cirugía General.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 68,
+        "identico": 516,
+        "csv_antiguo_truncado": 16
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "En el Síndrome de hipertensión endocraneana descompensado, en la fase de deterioro rostro caudal. ¿Cómo están las pupilas en la etapa diencefálica temprana?",
+      "options": {
+        "A": "Midriáticas",
+        "B": "Normales",
+        "C": "Pequeñas hiporreactivas",
+        "D": "Intermedias arreactivas",
+        "E": "Pequeñas hiperreactivas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "Varón de 23 años es trasladado al servicio de emergencia, debido a que hace 2 horas sufrió atropello por vehículo. Sus respuestas son incoherentes. Examen: PA 100/70 mmHg, FC 98X', FR 34X'; Glasgow 8; herida en región temporal izquierda, pupilas hiporreactivas; resto del examen sin mayor alteración. ¿Cuál es la indicación inmediata?",
+      "options": {
+        "A": "Oxigenoterapia 4 l/mín",
+        "B": "Hidrocortisona 0.25 mg",
+        "C": "Metilprednisolona 25 mg/Kg",
+        "D": "Aperturar vía venosa central",
+        "E": "Intubación endotraqueal"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál es el cuadro que se produce cuando la persistencia del conducto arterioso no se cierra, en especial las de mayor magnitud?",
+      "options": {
+        "A": "Miocardiopatía grave",
+        "B": "Vasculopatía pulmonar irreversible",
+        "C": "Insuficiencia valvular",
+        "D": "Insuficiencia cardiaca derecha",
+        "E": "Estenosis valvular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Varón de 45 años, hace 2 horas sufre agresión con arma blanca en espalda, con dolor, limitación del movimiento y sensibilidad. Examen: herida penetrante a nivel paravertebral izquierda, altura L1-L2; no moviliza la extremidad inferior izquierda y pérdida de la termoalgesia del lado derecho. ¿Qué lesión presenta?",
+      "options": {
+        "A": "Lesión axonal difusa",
+        "B": "Hematoma epidural",
+        "C": "Cordón posterior",
+        "D": "Cordón central",
+        "E": "Cordón lateral"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "RN varón, presenta vómitos no biliosos “en proyectil” intensificado en el curso de varios días, no tolera ni siquiera líquidos claros; a pesar del vómito recurrente, tiene un apetito voraz; la mamá menciona que evacua cada vez menos flatos. Examen: deshidratado; abdomen: se palpa tumoración pequeña en el cuadrante superior derecho con presencia de ondas gástricas visibles. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Estenosis pilórica hipertrófica",
+        "B": "Atresia yeyunal",
+        "C": "Intususcepción",
+        "D": "Duplicación intestinal",
+        "E": "Estenosis duodenal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Varón de 30 años, desde hace 8 horas, luego de un esfuerzo, la hernia inguinal \"ya no regresa\", el dolor es continuo, náuseas, vómitos y no puede eliminar flatos. Examen: abdomen distendido, doloroso a la palpación; masa inguinal irreductible con RHA (+). ¿Cuál es la indicación a seguir?",
+      "options": {
+        "A": "Tomografía abdominal",
+        "B": "Ecografía de masa inguinal",
+        "C": "Cirugía de emergencia",
+        "D": "Rx de abdomen simple",
+        "E": "Reducción manual"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "En la clasificación clínica de Fontaine de la enfermedad arterial periférica. ¿A qué estadío corresponde la claudicación moderada o grave?",
+      "options": {
+        "A": "IIb",
+        "B": "I",
+        "C": "IIa",
+        "D": "III",
+        "E": "IV"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "Varón de 30 años, desde hace 2 días con dolor anal de aparición brusca, luego de levantar objeto pesado. Antecedente: estreñido crónico. Examen: perineo posterior se aprecia masa rojoviolácea en el margen anal. ¿Qué indicación es la pertinente?",
+      "options": {
+        "A": "Escisión elíptica",
+        "B": "Dieta rica en fibra",
+        "C": "Hemorreidectomía",
+        "D": "Baños de agua tibia",
+        "E": "Metronidazol"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "Mujer de 18 años, desde hace 4 días presenta dolor intenso al defecar, con sangrado rectal. Antecedente: estreñimiento crónico. Examen: al tacto rectal se evidencia esfínter hipertónico y doloroso. ¿Cuál es el tratamiento inicial recomendado?",
+      "options": {
+        "A": "Nitroglicerina tópica",
+        "B": "Esfinterotomía externa",
+        "C": "Baños de agua fría",
+        "D": "Avance de colgajo",
+        "E": "Infiltración con lidocaína"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Lactante que desde hace 2 días presenta vómitos frecuentes no biliosos. Examen: mucosas resecas; se palpa masa a nivel del epigastrio. Ecografía: píloro de 5 mm de espesor. ¿Qué se debe indicar?",
+      "options": {
+        "A": "Nutrición enteral",
+        "B": "Rx abdomen simple de bipedestación",
+        "C": "Proquinéticos",
+        "D": "Rehidratación",
+        "E": "NPT"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "Varón de 50 años, sufre atropello por vehículo, con dolor y deformación de pierna. Examen: PA 100/70 mmHg, FC 96X', FR 24X'; herida de 10 cm en tercio medio de pierna con exposición de músculos y tibia. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Irrigación y desbridamiento",
+        "B": "Antibióticos y analgésicos",
+        "C": "Fijación externa y antibióticos",
+        "D": "Lavado y vendaje",
+        "E": "Afrontamiento y vacuna antitetánica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "Varón de 25 años, admitido en trauma-shock por accidente de tránsito grave. Examen: pálido; T° 35°C, PA 60/40 mmHg, FC 110X', pulsos débiles, SatO2 88%; tórax múltiples fracturas costales; abdomen: distendido, RHA ausentes. Laboratorio: Hto 24%, EcoFAST líquido libre en cavidad peritoneal y desgarro esplénico. ¿Cuál es la indicación más importante?",
+      "options": {
+        "A": "Control de daños",
+        "B": "Paracentesis diagnóstica",
+        "C": "TAC toracoabdominal",
+        "D": "Transfusión sanguínea",
+        "E": "Lavado peritoneal diagnóstica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Cuál es el tratamiento quirúrgico recomendado para la pancreatitis necrotizante infectada?",
+      "options": {
+        "A": "Pancreatectomía total",
+        "B": "Pancreatectomía distal",
+        "C": "Drenaje percutáneo",
+        "D": "Necrosectomía con drenaje",
+        "E": "Pancreatectomía parcial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "En una diverticulitis aguda catalogada como Hinchey estadío IV. ¿Cuál es el tratamiento quirúrgico recomendado?",
+      "options": {
+        "A": "Colectomía total",
+        "B": "Hemicolectomía izquierda ampliada",
+        "C": "Hemicolectomía izquierda",
+        "D": "Sigmoidectomía más anastomosis",
+        "E": "Operación de Hartmann"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál es la conducta a seguir en un traumatismo de cráneo leve?",
+      "options": {
+        "A": "Rx de cráneo",
+        "B": "Observación por 6 horas",
+        "C": "TAC cerebral",
+        "D": "Observación por 24 horas",
+        "E": "Craneotomía exploradora"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "Varón de 19 años, sufre caída del tercer piso y es trasladado por bomberos. Examen: dolor cervical, limitación motora de las cuatro extremidades. Rx cervical: fractura de 3a vertebra cervical. Se mantiene hipotenso a pesar de la infusión de cristaloides. ¿Cuál es la acción a seguir?",
+      "options": {
+        "A": "Dar albúmina EV",
+        "B": "Aplicar mantas térmicas",
+        "C": "Indicar cámara hiperbárica",
+        "D": "Indicar dopamina",
+        "E": "Aplicar hidrocortisona EV"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Neonato de 2 semanas, traído por la madre, quien refiere que presenta eliminación de saliva abundante luego de iniciar la lactancia acompañado de tos y \"atoro\". Examen: abdomen distendido, blando y depresible. Se diagnostica atresia esofágica y se desea saber si existe la fístula traqueoesofágica. ¿Cuál es el examen a solicitar?",
+      "options": {
+        "A": "Tomografía de tórax",
+        "B": "Rx esófago con contraste",
+        "C": "Rx simple de tórax",
+        "D": "Mediastinoscopía",
+        "E": "Toracoscopía"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "En enfermedad venosa crónica. ¿Cuál es uno de los tratamientos más exitosos de las telangiectasias en araña?",
+      "options": {
+        "A": "Flebectomía cortante",
+        "B": "Escleroterapia con espuma",
+        "C": "Ablación venosa quirúrgica",
+        "D": "Flebectomía potenciada",
+        "E": "Escleroterapia con inyección"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "Varón de 20 años, laparatomizado por trauma abdominal cerrado, al 10° día presenta dolor abdominal intermitente, fiebre y cambios en el hábito intestinal. Examen: estable; abdomen distendido, RHA disminuidos, doloroso a la palpación superficial. Laboratorio: leucocitos 18000/µl; TAC colección intrabdominal 100 cm3. ¿Cuál es la indicación prioritaria?",
+      "options": {
+        "A": "Relaparatomía + ATB",
+        "B": "Nutrición enteral + ATB",
+        "C": "NPT + ATB",
+        "D": "Piperazilina-tazobactam",
+        "E": "Drenaje percutáneo + ATB"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Qué imágenes en la TAC son característicos de los hematomas subdurales agudos?",
+      "options": {
+        "A": "Sangrado difuso",
+        "B": "Hemorragias puntiformes",
+        "C": "Hematoma convexo",
+        "D": "Hematoma intraventricular",
+        "E": "Hematoma cóncavo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "Mujer de 30 años, hace una hora sufre caída de escaleras de su casa, manifiesta no recordar lo sucedido. Antecedente: HTA con tratamiento regular. Examen: hematoma en región parietal derecha del cuero cabelludo, pupilas normoreactivas, disminución de la fuerza de la mano izquierda. ¿Qué se debe de indicar?",
+      "options": {
+        "A": "Angio TEM cerebral",
+        "B": "Potenciales evocados",
+        "C": "RMN cerebral con contraste",
+        "D": "Rx cráneo lateral y frontal",
+        "E": "TAC cerebral sin contraste"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "Varón de 46 años, hace 4 horas sufre el impacto de proyectil de arma de fuego en abdomen. Examen: pálido e hipotenso. Tórax: pulmones MV pasa en ACP. Cardiovascular: RC rítmicos, taquicárdicos; abdomen globuloso, herida a nivel del mesogastrio, RHA disminuidos, Rebote(+). EcoFast: líquido libre en espacio de Morrison. ¿Cuál es la indicación inmediata?",
+      "options": {
+        "A": "Rx abdomen en incidencia tangencial",
+        "B": "Exploración de la herida",
+        "C": "Laparoscopía diagnóstica",
+        "D": "Transfusión sanguínea grupo universal",
+        "E": "Laparotomía exploratoria"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "Varón de 80 años con artritis reumatoide con tratamiento con AINES, desde hace 5 horas presenta dolor brusco e intenso en epigastrio. Examen: abdomen algo distendido y doloroso a la palpación profunda en epigastrio, RHA (+). Rx abdomen simple sin mayores cambios. TAC perforación sellada. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Derivación gastroyeyunal",
+        "B": "Gastrectomía distal",
+        "C": "Observación",
+        "D": "Vagotomía troncular con resección de úlcera",
+        "E": "Resección parcial de la perforación"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "Según la clasificación de Strasberg de lesiones de la vía biliar. Una lesión en el hepático común a 2 cm de la confluencia de los conductos hepáticos. ¿A qué tipo corresponde?",
+      "options": {
+        "A": "E1",
+        "B": "E5",
+        "C": "E3",
+        "D": "E4",
+        "E": "E2"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "Varón de 2 meses, es traído por la madre que manifiesta que su hijo tiene vómitos biliosos, somnoliento, retraso del crecimiento. Examen: abdomen doloroso, RHA incrementados. Rx abdomen con contraste: imagen en \"pico de ave\" en la tercera porción del duodeno. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Atresia de duodeno",
+        "B": "Malrotación intestinal",
+        "C": "Enterocolitis necrotizante",
+        "D": "Ileo meconial",
+        "E": "Síndrome de intestino corto"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "¿Cuántas semanas dura la consolidación de fracturas de huesos largos en adultos?",
+      "options": {
+        "A": "9 - 10",
+        "B": "10 - 12",
+        "C": "4 - 5",
+        "D": "3 - 4",
+        "E": "6 - 8"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "En una paciente con estadio 0 para neoplasia maligna de colon, que presenta pólipos en el colon sigmoides. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Dosaje de ACE cada 3 meses",
+        "B": "TEM colon con contraste cada 6 meses",
+        "C": "Colectomía izquierda",
+        "D": "Extirpar por completo los pólipos",
+        "E": "Sigmoidectomía parcial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "Varón de 16 años, desde hace 2 meses presenta aumento de tamaño del hemiescroto derecho, sin otra molestia. Antecedente: hace 13 años operado de cliptorquidia. Examen: testículo derecho 10 cm de longitud, indoloro. ¿Qué estudios auxiliares se debe indicar?",
+      "options": {
+        "A": "Rx tórax y abdomen simple",
+        "B": "Alfa-fetoproteína y HGC ß",
+        "C": "Rx tórax y PCR",
+        "D": "PSA y calcitonina",
+        "E": "RMN y biopsia testicular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "En la clasificación clínica de la enfermedad venosa crónica de la extremidad inferior. ¿Cuál corresponde a la clase 3?",
+      "options": {
+        "A": "Alteraciones cutáneas con hiperpigmentación, eccema venoso",
+        "B": "Venas varicosas",
+        "C": "Alteraciones cutáneas más úlceras cicatrizadas",
+        "D": "Edema sin alteraciones cutáneas",
+        "E": "Alteraciones cutáneas más úlceras activas"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Cuál es la triada clásica en la producción de la trombosis venosa profunda?",
+      "options": {
+        "A": "Lesión endotelial, obstrucción venosa y edema",
+        "B": "Obstrucción venosa, hipercoagulabilidad y estasis venosa",
+        "C": "Estasis venosa, hipercoagulabilidad y lesión endotelial",
+        "D": "Lesión endotelial, edema e hipercoagulabilidad",
+        "E": "Estasis venosa, edema e hipercoagulabilidad"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Varón de 27 años, sufre accidente de tránsito, con mucho dolor y \"falta de aire\". Examen: PA 80/60 mmHg, FC 100X', FR 30X', SatO2 90%; herida de 4 x 5 cm en cara anterior de HTD de espesor total que comunica con la cavidad pleural. ¿Qué medida inmediata se debe indicar?",
+      "options": {
+        "A": "Apósito oclusivo con cinta en 3 de sus lados",
+        "B": "Sutura del defecto",
+        "C": "Apósito oclusivo que se fija herméticamente",
+        "D": "Toracoscopia",
+        "E": "Toracotomía exploratoria"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "En un ataque isquémico transitorio (AIT) carotídeo. ¿Cuál es una condición para la indicación aceptable pero no demostrada de endarterectomía carotídea?",
+      "options": {
+        "A": "AIT en los últimos 6 meses y estenosis del 50-69%",
+        "B": "Ictus leve con estenosis <50%",
+        "C": "AIT con estenosis <50%",
+        "D": "Ictus leve con estenosis >70%",
+        "E": "Uno o más AIT en los últimos 6 meses y estenosis >70%"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "Varón de 80 años que desde hace 5 días con dolor abdominal, sensación de alza térmica y pérdida del apetito. Examen: T° 39°C, PA 120/90 mmHg, FC 90X', FR 24X'; pulmón: MV pasa en ACP; RC rítmicos, regular intensidad; pulsos presentes; abdomen: globuloso, RHA disminuidos, dolor a la palpación profunda en hemiabdomen inferior y leve resistencia en FID. Laboratorio: leucocitosis y desviación izquierda. Examen de orina normal. Rx abdomen simple de pie: íleo reflejo CID. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Obstrucción intestinal",
+        "B": "Perforación péptica",
+        "C": "Pancreatitis aguda",
+        "D": "Isquemia mesentérica aguda",
+        "E": "Apendicitis aguda"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "Mujer de 45 años, hace 4 días fue intervenida de emergencia de colecistectomía laparoscópica, presenta ictericia, dolor abdominal y fiebre. Examen: ictericia de escleras; abdomen: distendido, doloroso, RHA presentes, rebote(+). Ecografía: colección líquida en el subhepático. Rx abdomen simple: niveles hidroaéreos. ¿Cuál es el posible diagnóstico?",
+      "options": {
+        "A": "Perforación del duodeno",
+        "B": "Lesión de vía biliar extrahepática",
+        "C": "Lesión de la vía biliar intrahepática",
+        "D": "Colangitis aguda supurada",
+        "E": "Perforación inadvertida del colon transverso"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Varón de 18 años, hace 6 horas fue mordido por perro del vecino en el rostro. Examen: herida de 4 cm en la región frontal con bordes irregulares, sangrante y sin necrosis. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Aplicación de nitrato de plata",
+        "B": "Cierre por segunda intensión",
+        "C": "Ampicilina-sulbactam EV",
+        "D": "Irrigación profunda con NaCl 0.9%",
+        "E": "Cierre primario"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "Mujer de 36 años, desde hace 2 días presenta dolor urente en faja luego de ingerir abundantes alimentos. Antecedente: hace 1 año litiasis vesicular. Examen: abdomen: globuloso, RHA disminuidos, dolor a la palpación en hemiabdomen superior. Amilasa y lipasa incrementadas. TAC abdominal vesícula biliar paredes engrosadas conteniendo múltiples litos y aumento del volumen del páncreas. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Antibióticos de amplio espectro",
+        "B": "Colecistectomía diferida",
+        "C": "Nutrición parenteral total",
+        "D": "Exploración quirúrgica de la vía biliar",
+        "E": "CPRE"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Qué maniobra quirúrgica debe realizarse en una lesión grado IV del hígado, en el paciente inestable?",
+      "options": {
+        "A": "Mantoux",
+        "B": "Catell",
+        "C": "Ladd",
+        "D": "Pringle",
+        "E": "Kocher"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "Varón de 20 años es trasladado a emergencia por haber sufrido atropello por vehículo. Examen: pulmones MV pasa ACP. RC taquicárdico y pulsos presentes. Abdomen: distendido, RHA (+); hematoma escrotal, sangrado en meato urinario. TR: próstata alta. Rx pelvis: fractura de rama superior del pubis. ¿Qué estructura anatómica es la afectada?",
+      "options": {
+        "A": "Vejiga urinaria",
+        "B": "Testículos",
+        "C": "Riñón",
+        "D": "Recto",
+        "E": "Uretra"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "El tronco arterioso persistente tipo II se caracteriza porque...",
+      "options": {
+        "A": "las ramas arteriales pulmonares nacen de la aorta ascendente, muy separadas una de otra.",
+        "B": "las ramas de la arteria pulmonar nacen del tronco muy cerca una de otra, pero por separado.",
+        "C": "las ramas arteriales pulmonares nacen de la aorta ascendente y tienen varias válvulas como salida.",
+        "D": "se observa una arteria pulmonar principal común demostrable de la que nacen las ramas arteriales pulmonares.",
+        "E": "las ramas arteriales pulmonares nacen de la aorta ascendente, muy cerca una de otra."
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "Diabético de 68 años, desde hace 3 semanas presenta dolor persistente de oídos, con cefalea y prurito; desde hace 5 días secreción purulenta por el oído derecho. Examen: PA 150/80 mmHg, FC 95X', T° 38°C. Otoscopía: tejido de granulación descamativo en el piso del CAE, con zonas de necrosis. Cultivo de secreción positivo para Pseudomona. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Sinusitis crónica",
+        "B": "Otitis externa maligna",
+        "C": "Otitis media aguda",
+        "D": "Otitis externa crónica",
+        "E": "Otitis media crónica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Cuál es la indicación adecuada en el paciente con hipertensión endocraneana?",
+      "options": {
+        "A": "PIC para disminuirla en primera instancia consiste en sedación y manitol EV",
+        "B": "Mantener la PIC debajo de 20 mm Hg y presión de perfusión cerebral > 70 mmHg",
+        "C": "Mantener la cabeza elevada en 10° y en posición lateral izquierda",
+        "D": "Mantener la PIC debajo de 10 mm Hg y presión de perfusión cerebral > 90 mmHg",
+        "E": "PIC se mantiene < 10 mm Hg se indica la sedación e hiperventilación"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "Mujer de 21 años con diagnóstico de VIH, desde hace 4 días con dolor perineal intenso y progresivo, fiebre y malestar general. Examen: induración del perineo posterior. Laboratorio: neutropenia. Se le indica antibióticos de amplio espectro. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "RMN perineal",
+        "B": "Baños de asiento con agua tibia",
+        "C": "Ungüento anestésico",
+        "D": "Ecografía transrectal",
+        "E": "Drenaje"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "Niño de 7 años, sin antecedente previo, súbitamente presenta disnea intensa, tos, estridor laríngeo, disfonía, insuficiencia respiratoria y agitación sicomotriz. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Espasmo bronquial agudo",
+        "B": "Cuerpo extraño en laringe",
+        "C": "Aspiración de sustancias tóxicas",
+        "D": "Laringitis subglótica",
+        "E": "Laringitis espasmódica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "Varón de 18 años, desde hace 4 días presenta dolor en mano izquierda, malestar general y alza térmica. Antecedente: hace 2 años ITS. Examen: dolor articular al movimiento, edema, eritema y dolor al examen. Rx mano: aumento del espacio interarticular. ¿Cuál es el tratamiento indicado?",
+      "options": {
+        "A": "Artrotomía + drenaje abierto",
+        "B": "Drenaje cerrado + irrigación con gentamicina",
+        "C": "Ceftriaxona EV + aspiración articular",
+        "D": "Artrodesis + amikacina",
+        "E": "Ciprofloxacino + drenaje cerrado"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "Escolar de 12 años, presenta hace 6 días dolor en rodilla derecha con sensación de alza térmica e incapacidad funcional para caminar. Examen: PA 110/60 mmHg, FC 100X', T° 38.5°C; rodilla aumentada de volumen con flogosis y dolor para caminar. ¿Cuál es la conducta inmediata a seguir?",
+      "options": {
+        "A": "Aspiración articular",
+        "B": "Resonancia",
+        "C": "Rx de rodilla",
+        "D": "Tomografía",
+        "E": "Artrotomía"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuál es el tratamiento principal en el niño con sinusitis crónica?",
+      "options": {
+        "A": "Drenaje del seno",
+        "B": "Cauterización",
+        "C": "Antibióticos",
+        "D": "Adenoidectomía",
+        "E": "Amigdalectomía palatina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "En la enfermedad venosa crónica de extremidad inferior. ¿Cuándo está indicado el tratamiento compresivo conocido como \"bota de Unna\"?",
+      "options": {
+        "A": "Hiperpigmentación con úlceras cicatrizadas",
+        "B": "Úlceras por estasis venosa",
+        "C": "Venas varicosas visibles",
+        "D": "Edema con eritema maleolar",
+        "E": "Presencia de telangiectasias y venas reticulares"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "Varón de 54 años, hace 2 días presenta tumoración dolorosa en pared lateral derecha del abdomen, que se acompaña de sensación nauseosa y distensión abdominal. Examen: PA 130/80 mmHg, FC 83X', T° 37.7°C; abdomen distendido, se palpa masa que protruye por el lado derecho, lateral al estuche de los rectos, dolorosa a la palpación e irreductible. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hernia de Spiegel",
+        "B": "Hernia de Petit",
+        "C": "Hernia de Grinnfelt",
+        "D": "Plastrón apendicular",
+        "E": "Eventración abdominal"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál es la conducta adecuada frente a un traumatismo vertebromedular?",
+      "options": {
+        "A": "En la unión cervicotorácica es suficiente la Rx convencional",
+        "B": "Traslado debe ser con collarín, en tabla rígida y plana",
+        "C": "Movilización y atención inmediata en el lugar del accidente",
+        "D": "Indicar Rx lateral y frontal de toda la columna vertebral",
+        "E": "Examen clínico y Tomografía solo de la zona afectada"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "Varón de 65 años, desde hace 10 días presenta dolor abdominal a predominio del hemiabdomen inferior, alza térmica y estreñimiento. Antecedente: hace 1 año cuadro semejante que mejoro con antibióticos y dieta. Examen: abdomen algo distendido, RHA disminuidos, doloroso a la palpación profunda en CII, rebote +/+++. TAC: torcimiento del tejido blando pericólico y engrosamiento de la pared del colon. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Diverticulitis aguda",
+        "B": "Enfermedad de Crohn",
+        "C": "Colitis ulcerativa",
+        "D": "Colon irritable",
+        "E": "NM de colon"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "Varón de 43 años, atendido en emergencia por accidente de tránsito de hace 1 hora. Examen: PA 140/70 mmHg, FC 85X'; pierna izquierda: aumento de volumen y dolor a la movilización; piel lustrosa y tensa; no se palpa pulso pedio. Se evidencia incremento en la presión tisular del miembro. ¿Cuál es el tratamiento indicado?",
+      "options": {
+        "A": "Fijación externa",
+        "B": "Osteotomía de tibia",
+        "C": "Fasciotomía",
+        "D": "Miotomía anterior",
+        "E": "Yeso muslo pedio"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "Varón de 40 años, hace 4 horas sufre agresión con arma blanca a nivel del hipocondrio derecho; manifiesta dolor intenso en el abdomen. Examen: PA 90/60 mmHg, FC 110X', FR 24X', SatO2 90%. Abdomen: distendido, herida sangrante, rebote(++). ¿Qué medida inmediata se debe tomar?",
+      "options": {
+        "A": "Indicar pruebas de laboratorio",
+        "B": "Asegurar la vía aérea",
+        "C": "Colocar vía endovenosa",
+        "D": "Cohibir el sangrado",
+        "E": "Indicar tomografía axial computada"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿Cuál es el tratamiento quirúrgico más recomendado para la hemorroide no complicada de grado II?",
+      "options": {
+        "A": "Hemorroidectomía de Milligan y Morgan",
+        "B": "Hemorroidectomía de Ferguson",
+        "C": "Trombectomía",
+        "D": "Ligadura con banda elástica",
+        "E": "Hemorroidectomía con grapadora"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "Mujer de 45 años que será programada para colecistectomía laparoscópica. Antecedente: asma bronquial. ¿Qué anestésico es ideal?",
+      "options": {
+        "A": "Fentanilo",
+        "B": "Propofol",
+        "C": "Morfina",
+        "D": "Tiopental",
+        "E": "Tramadol"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "Mujer de 28 años, desde hace 4 semanas presenta luego de defecar una tumoración que sale y regresa en forma espontánea a través del ano. Examen: tacto rectal huella de sangrado, esfínteres normotónicos. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hemorroides internas grado III",
+        "B": "Prolapso de mucosa",
+        "C": "Hemorroides internas grado II",
+        "D": "Hemorroides mixtas",
+        "E": "Fisura anal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Diabético de 55 años, desde hace 6 meses disminución del chorro urinario, goteo terminal y nicturia. TR: aumento de tamaño y consistencia de próstata. PSA libre 30 ng/dl. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Prostatectomía radical",
+        "B": "RMN de próstata",
+        "C": "Bx de próstata por ecografía pélvica",
+        "D": "Bx de próstata por ecografía transrectal",
+        "E": "RTU"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "En malformaciones congénitas, donde se requiere visualizar los grandes vasos extracardíacos, sus conexiones venosas sistémicas y pulmonares para luego medir con exactitud la función cardíaca. ¿Cuál es el examen no invasivo que se utiliza cada vez con más frecuencia?",
+      "options": {
+        "A": "Resonancia magnética",
+        "B": "Tomografía computarizada",
+        "C": "Ecocardiografía",
+        "D": "Electrocardiografía",
+        "E": "Emisión de positrones"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Cuál es la característica clínica del síndrome de \"cola de caballo\"?",
+      "options": {
+        "A": "La paraparesia es espástica",
+        "B": "No se produce retención urinaria y fecal",
+        "C": "No hay dolor",
+        "D": "La hipoestesia es por encima de L3",
+        "E": "El dolor radicular es intenso"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "¿En cuantos días se cierra en forma espontánea la herida al retirar la cánula de traqueostomía?",
+      "options": {
+        "A": "30",
+        "B": "7",
+        "C": "14",
+        "D": "21",
+        "E": "35"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Mujer de 56 años, sufre accidente de tránsito, golpeándose contra el timón del auto, por lo que acude a emergencia. Examen: PA 90/60mmHg, FC 96X´, SatO2 96%; se palpa pulso paradojal en inspiración, ingurgitación yugular; ruidos cardiacos disminuidos de intensidad. ¿Cuál es el examen para confirmar el diagnóstico?",
+      "options": {
+        "A": "Resonancia magnética de tórax",
+        "B": "Rx de tórax",
+        "C": "Ecocardiografía",
+        "D": "Tomografía de tórax",
+        "E": "Electrocardiograma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿En qué tipo de fracturas o condiciones se utiliza la fijación externa?",
+      "options": {
+        "A": "Complejas que precisan reducción abierta y fijación interna",
+        "B": "Abiertas",
+        "C": "Pacientes inestables pero que tolere anestesia",
+        "D": "En pacientes inestables que toleren hemorragia",
+        "E": "Sin lesiones vasculares asociadas"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "Mujer de 35 años, luego de parto vaginal presenta salida heces y gases por vagina. Examen: pared posterior de vagina defecto por donde drena secreción fecaloide. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Esperar 1-2 meses para cierre espontáneo",
+        "B": "Esperar 3-6 meses para cierre espontáneo",
+        "C": "Drenaje",
+        "D": "Colgajo endorrectal por deslizamiento",
+        "E": "Colostomía de derivación"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "RN con respiración quejumbrosa, retracciones intercostales, disnea y cianosis. Examen: tórax en HTI MV disminuido y se auscultan RHA. RC desplazados al HTD; abdomen excavado. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Laparoscopía diagnóstica",
+        "B": "Toracoscopía diagnóstica",
+        "C": "Cierre del defecto posterolateral del diafragma",
+        "D": "Toracotomía descompresiva",
+        "E": "Sutura del defecto anterolateral del diafragma"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Mujer de 80 años, con ASA IV, se encuentra hospitalizada en la UCI por neumonía intrahospitalaria, se encuentra descompesada. Examen: PA 80/60 mmHg; pulmones: crepitantes HTD. CV: RC rítmicos y taquicárdicos. Abdomen: se palpa masa en hipocondrio derecho y doloroso. Ecografía: vesícula biliar de gran tamaño, conteniendo un cálculo enclavado en el bacinete. ¿Cuál es la indicación pertinente?",
+      "options": {
+        "A": "Colecistectomía abierta",
+        "B": "Colecistectomía laparoscópica",
+        "C": "Colecistostomía abierta",
+        "D": "Añadir ceftriaxona EV",
+        "E": "Colecistostomía percutánea"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Cuál es un factor de riesgo para la producción de colecistitis aguda alitiásica?",
+      "options": {
+        "A": "Edad media de la vida",
+        "B": "Uso corto de nutrición parenteral total",
+        "C": "Uso corto de inmunosupresores",
+        "D": "Uso prolongado de nutrición enteral",
+        "E": "Enfermos en estado crítico"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "Mujer de 20 años que después de defecar presenta dolor anal que dura varias horas. Antecedente: estreñida crónica y baja de peso. Examen: canal anal con ulceración lateral, con bordes y se ve las fibras blancas del esfínter anal interno. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Fisura anal",
+        "B": "Enfermedad pilonidal",
+        "C": "Tuberculosis",
+        "D": "Fístula anal",
+        "E": "Colitis ulcerativa"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es la vía de abordaje de elección para el tratamiento de la fístula carótido-cavernosa indirecta?",
+      "options": {
+        "A": "Transvenoso vía vena cerebral media",
+        "B": "Transvenoso vía seno venoso longitudinal superior",
+        "C": "Transarterial vía arteria central de la retina",
+        "D": "Transvenoso vía vena oftálmica superior",
+        "E": "Transarterial vía arteria infraorbitaria"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "Mujer de 85 años con antecedente de cardiopatía aterosclerótica, desde hace 14 horas presenta dolor abdominal muy intenso, náusea, vómito, distensión abdominal y diarrea sanguinolenta. Examen: Pulmones MV pasa ACP; RC arrítmicos; abdomen dolor difuso a la palpación, dolor de rebote y rigidez. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Pancreatitis aguda",
+        "B": "Enfermedad disentérica",
+        "C": "Obstrucción intestinal aguda",
+        "D": "Isquemia mesentérica aguda",
+        "E": "Perforación por úlcera péptica"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "¿Cuál de las siguientes cirugías se considera herida quirúrgica limpia-contaminada?",
+      "options": {
+        "A": "Drenaje de absceso hepático",
+        "B": "Cuadrantectomía de mama",
+        "C": "Hernioplastia inguinal",
+        "D": "Ritidectomía",
+        "E": "Gastrectomía subtotal"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "Varón de 34 años operario en fábrica industrial sufre quemaduras con ácido fluorhídrico, es trasladado a emergencia. Examen: compromiso de ambas extremidades superiores. CV: arritmia cardiaca. Pulmones: sin alteraciones. Se procede a lavado abundante con suero salino. A pesar de los analgésicos aplicados no sede el dolor. ¿Cuál es la indicación pertinente?",
+      "options": {
+        "A": "Gluconato cálcico al 10% diluido EV",
+        "B": "Gel gluconato de calcio al 10% tópico",
+        "C": "Opioides infusión EV",
+        "D": "Cloruro de potasio diluido EV",
+        "E": "Apósitos con vaselina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "Mujer de 40 años acude porque hace 6 meses presenta pesades en pantorrillas, aumento de volumen de extremidades conforme pasan las horas, calambres. Antecedente: uso de anticonceptivos orales. Examen: obesa, piel de tobillo hiperpigmentada, lesión ulcerosa a nivel supramaleolar interna. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Fístula arteriovenosa",
+        "B": "Insuficiencia arterial crónica",
+        "C": "Trombosis venosa profunda",
+        "D": "Tromboembolia venosa",
+        "E": "Insuficiencia venosa crónica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Cuál de los siguientes microorganismos sólo se encuentra en el apéndice cecal del adulto?",
+      "options": {
+        "A": "Peptoestreptococos sp",
+        "B": "Eschericha coli",
+        "C": "Porphyromonas gingivalis",
+        "D": "Kliepsella sp",
+        "E": "Bacteroides fragilis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "De las lesiones colónicas que se presentan. ¿Cuál es de mayor malignidad?",
+      "options": {
+        "A": "Pólipo hamartomatoso",
+        "B": "Adenoma tubular",
+        "C": "Pólipo hiperplásico",
+        "D": "Adenoma velloso",
+        "E": "Pólipo inflamatorio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "Mujer de 35 años, mientras estaba cocinando explotó el balón de gas, provocándole quemaduras. Examen: PA 110/70 mmHg, FR 24 X', SatO2 94%; lesiones en cara, vellos nasales chamuscados; voz ronca. ¿Qué medida se debe de tomar?",
+      "options": {
+        "A": "Dexametasona en bolos",
+        "B": "Antibióticos endovenosos",
+        "C": "Intubación endotraqueal",
+        "D": "Enoxaparina EV",
+        "E": "Inhalación con salbutamol"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "Varón de 70 años es sometido a resección transuretral, luego presenta trastornos del estado mental e incontinencia, náuseas y vómitos. ¿Qué indicación es recomendada?",
+      "options": {
+        "A": "Oxigenoterapia y dimenhidrinato",
+        "B": "Diuréticos y soluciones salinas hipertónicas",
+        "C": "Corregir el estado acidobase",
+        "D": "Dexametasona y NaCl 0.9%",
+        "E": "Manitol y albúmina humana"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿Qué estudio de imágenes es muy útil para la evaluación del trauma vertebral torácico con sospecha de lesión medular?",
+      "options": {
+        "A": "TAC con contraste",
+        "B": "Resonancia magnética",
+        "C": "Ecografía doppler",
+        "D": "Mielografía",
+        "E": "Rx columna vertebral"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "Varón de 19 años, hace 4 horas sufre caída de altura y es trasladado a emergencia por dolor intenso cervical y hormigueo en las extremidades superiores. Examen: PA 90/60 mmHg, FC 98X', FR 24X', SatO2 98%; sensibilidad y motricidad conservada. Rx: fractura de C3 sin desplazamiento. RMN cervical no hematoma. ¿Cuál es la indicación más apropiada?",
+      "options": {
+        "A": "Fijación con placas",
+        "B": "Descompresión quirúrgica",
+        "C": "Mantener pO2 >90 mmHg",
+        "D": "Hidrocortisona 100 mg EV",
+        "E": "Tracción cervical"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "¿Cómo se denomina a la hernia en la que el saco forma parte de la pared de la víscera?",
+      "options": {
+        "A": "Incoercible",
+        "B": "Coercible",
+        "C": "Mixta",
+        "D": "Deslizada",
+        "E": "Recidivada"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuál es el examen que más se utiliza en la detección y tratamiento de pacientes con cánceres tiroideos diferenciados con enfermedad metastásica, donde la imagen proporciona información no sólo de la glándula sino también de la distribución de la actividad funcional?",
+      "options": {
+        "A": "Resonancia magnética",
+        "B": "Gammagrafía con yodo-131",
+        "C": "Ecografía tiroidea",
+        "D": "Tomografía con emisión de positrones",
+        "E": "Tomografía sin contraste"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál es el estudio auxiliar indicado para la evaluación de una fístula perineal compleja?",
+      "options": {
+        "A": "Fistulografía",
+        "B": "TEM pélvica",
+        "C": "Rx colon con enema",
+        "D": "Defecografía",
+        "E": "RMN pélvica"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "Varón de 12 años, acude a la emergencia, desde hace 2 horas tiene dolor intenso y súbito en el testículo izquierdo, con aumento de volumen del escroto. Examen: edema del escroto, testículo en posición alta y doloroso. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Orquiectomía",
+        "B": "TEM testicular",
+        "C": "Orquidiopexia",
+        "D": "Ecografía doppler",
+        "E": "RMN testicular"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "En un RN con CIV extensa que cursa con insuficiencia cardiaca refractaria y cortocircuito importante. ¿Cuándo se recomienda cerrar quirúrgicamente?",
+      "options": {
+        "A": "En la etapa pre escolar",
+        "B": "A los 30 días",
+        "C": "A los 2 meses",
+        "D": "En el período neonatal",
+        "E": "Al año"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "Varón de 48 años, desde hace 6 meses con dolor en el abdomen, diarrea; desde hace 4 días estreñido. Antecedente: hace 4 años con espondilitis anquilosante. Examen: adelgazado. Abdomen: excavado, RHA (+), doloroso leve. Colonoscopía: en la mucosa del íleo terminal “apariencia de adoquinado”. ¿Qué diagnóstico es el más probable?",
+      "options": {
+        "A": "GIST",
+        "B": "Tuberculosis enteroperitoneal",
+        "C": "Enfermedad de Crohn",
+        "D": "Colitis ulcerativa",
+        "E": "Enfermedad de Chagas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "¿Cuál es la utilidad de la maniobra de Pringle?",
+      "options": {
+        "A": "Evacuar la colección intraperitoneal",
+        "B": "Controlar hemorragia en una lesión hepática grado IV",
+        "C": "Drenaje de la cavidad peritoneal",
+        "D": "Evitar la contaminación de la cavidad abdominal",
+        "E": "Control hemorragia en una lesión esplénica grado I"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "Los abscesos de la región anal catalogados como \"absceso en herradura\" están clasificados como:",
+      "options": {
+        "A": "Perianales",
+        "B": "Supraelevadores",
+        "C": "Interesfinterianos",
+        "D": "Transesfinterianos",
+        "E": "Isquiorrectales"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Mujer de 30 años, intervenida de hernioplastia umbilical; habiendo recibido anestesia epidural, 3 horas después presenta cefalea intensa con mareos e hipotensión. ¿Cuál es el diagnóstico probable?",
+      "options": {
+        "A": "Desgarro de duramadre",
+        "B": "Reacción vagal",
+        "C": "Síndrome de la \"cola de caballo\"",
+        "D": "Depresión respiratoria",
+        "E": "Schok anafiláctico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Cuál es una característica del cáncer temprano de estómago?",
+      "options": {
+        "A": "Afecta sólo la cadena linfática D3",
+        "B": "Son en su mayoría poco diferenciados",
+        "C": "Afecta sólo cadena linfática D2",
+        "D": "Sólo compromete la mucosa",
+        "E": "Sólo compromete hasta la submucosa"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Varón de 25 años, politraumatizado, se queja de dolor en muslo derecho. Examen: aumento de volumen y huellas de contusión directa en piel. Rx: muestra fémur con bordes fracturados con traslación y angulación. Clínicamente. ¿Qué se debe evaluar para considerar la fractura como desplazada?",
+      "options": {
+        "A": "Gran edema del miembro afectado",
+        "B": "Herida extensa en piel",
+        "C": "Falta de pulso poplíteo",
+        "D": "Acortamiento y angulación",
+        "E": "Pulso pedio débil"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "Varón de 20 años, sufre el impacto de proyectil de arma de fuego, en muslo izquierdo. Examen: asimetría del muslo izquierdo, herida de ingreso y salida en tercio distal; pulso poplíteo ausente, pierna y pie fríos. ¿Qué se debe indicar?",
+      "options": {
+        "A": "Colocar férula muslopedio",
+        "B": "Exploración con ecografía de partes blandas",
+        "C": "Angiografía en la mesa de exploración",
+        "D": "Fasciotomía en ambos lados del muslo",
+        "E": "Exploración extensa de extremidad afectada"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es el factor de riesgo de lesión de la arteria vertebral?",
+      "options": {
+        "A": "Extensión-flexión del cuello",
+        "B": "Fractura del arco anterior C1",
+        "C": "Traumatismo torácico abierto",
+        "D": "Hiperflexión-extensión del cuello",
+        "E": "Traumatismo cervical zona I"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cuál es el tratamiento inmediato de la toxicidad del anestésico local, con síntomas neurológicos?",
+      "options": {
+        "A": "Aplicar bicarbonato de sodio",
+        "B": "Administrar benzodiazepina",
+        "C": "Aplicar cetamina EV",
+        "D": "Indicar hidrocortisona",
+        "E": "Administrar adrenalina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Lactante de 4 meses con dolor abdominal cólico y vómito intermitente, además heces moco sanguinolento. Antecedente: hace 2 días enfermedad gastrointestinal viral. Examen: abdomen: doloroso, RHA incrementados, masa alargada en el cuadrante superior derecho. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Apendicitis aguda",
+        "B": "Íleo meconial",
+        "C": "Síndrome de tapón meconial",
+        "D": "Intususcepción",
+        "E": "Vólvulo de intestino medio"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "Lactante de 7 meses, presenta la prueba de Galeazzi (+). Ecografía de cadera: luxación de articulación de cadera. ¿Cuál es el tratamiento?",
+      "options": {
+        "A": "Reducción abierta + capsulorrafía",
+        "B": "Epifisiolistesis + osteotomía acetabular",
+        "C": "Reducción cerrada + yeso de espiga de cadera",
+        "D": "Tracción + fisioterapia",
+        "E": "Acortamiento femoral + osteotomía pélvica"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Cuál es el tratamiento de la complicación intratemporal de la otitis media?",
+      "options": {
+        "A": "Absceso subdural + drenaje",
+        "B": "Mastoidectomía + ATB",
+        "C": "Miringotomía con sonda + ATB",
+        "D": "Corticoides + antivirales",
+        "E": "Hidrocefália otítica + manitol"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Mujer de 25 años, acude por dolor y secreción ocular. Antecedente: infección vaginal. Examen: edema palpebral, hiperemia, quemosis y secreción purulenta. ¿Qué se debe indicar?",
+      "options": {
+        "A": "Lavado ocular",
+        "B": "Levofloxacino VO",
+        "C": "Gotas con nitrato de plata 10%",
+        "D": "Gram de la secreción",
+        "E": "Ceftriaxona 1g EV"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "Mujer de 28 años, sufre agresión con objeto contundente en la cabeza, presentando cefalea y desorientación. Examen: función motora: localiza dolor al estímulo; muestra confusión al preguntarle por tiempo y espacio; no muestra apertura ocular. ¿Qué calificación le corresponde en la Escala de Glasgow?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "9",
+        "D": "10",
+        "E": "13"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "Adolescente de 14 años, hace 30 minutos presenta dolor súbito en región escrotal izquierda con aumento de volumen. Examen: asimetría a predominio del testículo izquierdo doloroso a la palpación. ¿Cuál es el examen a solicitar para el diagnóstico?",
+      "options": {
+        "A": "Arteriografía",
+        "B": "Tomografía",
+        "C": "Eco Doppler",
+        "D": "Gammagrafía",
+        "E": "Resonancia magnética"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "Mujer de 55 años, hipermétrope, con dolor intenso en ojo derecho, náuseas y vómitos de inicio reciente. Examen: ojo derecho con agudeza visual cuenta dedos a 30 cm, inyección conjuntival, midriasis y edema corneal. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Neuritis óptica anterior",
+        "B": "Desprendimiento de retina",
+        "C": "Glaucoma agudo de ángulo abierto",
+        "D": "Uveítis anterior aguda",
+        "E": "Glaucoma agudo de ángulo cerrado"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "Varón de 25 años que tropieza y cae sobre el hombro derecho, con mucho dolor, limitación funcional y deformación de la región supraclavicular. Examen: elevación de la clavícula. Rx: fractura del tercio medio de la clavícula. ¿Cuál es el tratamiento indicado?",
+      "options": {
+        "A": "Reducción cruenta + fijación interna",
+        "B": "Implante de clavo intramedular + AINES",
+        "C": "Fijarlo con alambre + AINES",
+        "D": "Cabestrillo + analgésicos",
+        "E": "Implante de placa y tornillos+ analgésicos"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "Chofer de 40 años, conducía su auto, hace una hora sufre choque frontal y a gran velocidad, usaba el cinturón de seguridad, tiene dolor lumbar. Examen: FV estables; dolor a la palpación de apófisis espinosa de L4. Rx columna vertebral: en L4 rotura transversal a través de todos los elementos vertebrales. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Hernia del disco intervertebral",
+        "B": "Fractura de Jefferson",
+        "C": "Síndrome radicular agudo",
+        "D": "Luxofractura lumbar",
+        "E": "Fractura de Chance"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}

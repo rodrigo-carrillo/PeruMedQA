@@ -1,0 +1,3604 @@
+{
+  "timestamp": "20261111_103007",
+  "script_version": "1.0.0",
+  "dry_run": false,
+  "summary": {
+    "exams": 100,
+    "questions": 9980,
+    "answer_methods_agree": 9980,
+    "answers_match_human": 9978,
+    "answers_compared": 9980,
+    "coverage_ok": 100,
+    "text_diff_categories": {
+      "solo_espacios": 6309,
+      "identico": 47592,
+      "csv_antiguo_truncado": 416,
+      "mayor": 62,
+      "menor": 1
+    },
+    "n_errors": 0,
+    "n_warnings": 5,
+    "n_review_rows": 484
+  },
+  "exams": [
+    {
+      "year": 2018,
+      "exam": "ANESTESIOLOGIA",
+      "pdf": "Year2018/ANESTESIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anestesiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9935,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.1419,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 18153,
+        "coverage_out_chars": 18153,
+        "human_reference": "_backup_csv_verificados/Year2018/ANESTESIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 34,
+          "identico": 562,
+          "csv_antiguo_truncado": 4
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "CIRUGIA",
+      "pdf": "Year2018/CIRUGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía General",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9927,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.3256,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 24673,
+        "coverage_out_chars": 24673,
+        "human_reference": "_backup_csv_verificados/Year2018/CIRUGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 49,
+          "identico": 528,
+          "csv_antiguo_truncado": 23
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "GINECOLOGIA Y OBSTETRICIA",
+      "pdf": "Year2018/GINECOLOGIA Y OBSTETRICIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ginecología y Obstetricia",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9938,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.2074,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21941,
+        "coverage_out_chars": 21941,
+        "human_reference": "_backup_csv_verificados/Year2018/GINECOLOGIA Y OBSTETRICIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 53,
+          "identico": 537,
+          "csv_antiguo_truncado": 10
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "OFTALMOLOGIA",
+      "pdf": "Year2018/OFTALMOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Oftalmología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9927,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.1351,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21226,
+        "coverage_out_chars": 21226,
+        "human_reference": "_backup_csv_verificados/Year2018/OFTALMOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 540,
+          "solo_espacios": 33,
+          "csv_antiguo_truncado": 27
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "PATOLOGIA",
+      "pdf": "Year2018/PATOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Patología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9927,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.3783,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 19505,
+        "coverage_out_chars": 19505,
+        "human_reference": "_backup_csv_verificados/Year2018/PATOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 27,
+          "identico": 561,
+          "csv_antiguo_truncado": 12
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "PEDIATRIA",
+      "pdf": "Year2018/PEDIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Pediatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9927,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.1123,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25277,
+        "coverage_out_chars": 25277,
+        "human_reference": "_backup_csv_verificados/Year2018/PEDIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 66,
+          "identico": 523,
+          "csv_antiguo_truncado": 11
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "PRUEBA A",
+      "pdf": "Year2018/PRUEBA A.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba A",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9927,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.1532,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25434,
+        "coverage_out_chars": 25434,
+        "human_reference": "_backup_csv_verificados/Year2018/PRUEBA A.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 67,
+          "identico": 530,
+          "csv_antiguo_truncado": 3
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "PRUEBA B",
+      "pdf": "Year2018/PRUEBA B.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba B",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9935,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.1143,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 26053,
+        "coverage_out_chars": 26053,
+        "human_reference": "_backup_csv_verificados/Year2018/PRUEBA B.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 68,
+          "identico": 529,
+          "mayor": 1,
+          "csv_antiguo_truncado": 2
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "PSIQUIATRIA",
+      "pdf": "Year2018/PSIQUIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Psiquiatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9927,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.3645,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 27526,
+        "coverage_out_chars": 27526,
+        "human_reference": "_backup_csv_verificados/Year2018/PSIQUIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 73,
+          "identico": 525,
+          "csv_antiguo_truncado": 2
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "RADIOLOGIA",
+      "pdf": "Year2018/RADIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Radiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9927,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.1979,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 19275,
+        "coverage_out_chars": 19275,
+        "human_reference": "_backup_csv_verificados/Year2018/RADIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 43,
+          "identico": 557
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "exam": "UROLOGIA",
+      "pdf": "Year2018/UROLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Urología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9935,
+          "vec_max_loser": 0.0073,
+          "pix_min_winner": 0.3418,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 27775,
+        "coverage_out_chars": 27775,
+        "human_reference": "_backup_csv_verificados/Year2018/UROLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 526,
+          "solo_espacios": 53,
+          "csv_antiguo_truncado": 20,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "ANATOMIA PATOLOGICA",
+      "pdf": "Year2019/ANATOMIA PATOLOGICA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anatomía Patológica Laboratorio y Patología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9953,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.623,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 20278,
+        "coverage_out_chars": 20278,
+        "human_reference": "_backup_csv_verificados/Year2019/ANATOMIA PATOLOGICA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 563,
+          "solo_espacios": 34,
+          "csv_antiguo_truncado": 3
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "ANESTESIOLOGIA",
+      "pdf": "Year2019/ANESTESIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anestesiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.992,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.6231,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 19529,
+        "coverage_out_chars": 19529,
+        "human_reference": "_backup_csv_verificados/Year2019/ANESTESIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 557,
+          "csv_antiguo_truncado": 9,
+          "solo_espacios": 34
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "CIRUGIA",
+      "pdf": "Year2019/CIRUGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía General",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9958,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.6157,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21805,
+        "coverage_out_chars": 21805,
+        "human_reference": "_backup_csv_verificados/Year2019/CIRUGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 564,
+          "solo_espacios": 34,
+          "csv_antiguo_truncado": 2
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "CIRUGÍA CARDIOVASCULAR",
+      "pdf": "Year2019/CIRUGÍA CARDIOVASCULAR.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía Cardiovascular",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9944,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.6148,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 30489,
+        "coverage_out_chars": 30489,
+        "human_reference": "_backup_csv_verificados/Year2019/CIRUGÍA CARDIOVASCULAR.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 32,
+          "identico": 513,
+          "csv_antiguo_truncado": 12,
+          "mayor": 43
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "GINECOLOGÍA",
+      "pdf": "Year2019/GINECOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ginecología Obstetricia",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9959,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.6212,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 23257,
+        "coverage_out_chars": 23257,
+        "human_reference": "_backup_csv_verificados/Year2019/GINECOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 540,
+          "solo_espacios": 58,
+          "mayor": 1,
+          "csv_antiguo_truncado": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "OFTALMOLOGIA",
+      "pdf": "Year2019/OFTALMOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Oftalmología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9959,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.6117,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 20458,
+        "coverage_out_chars": 20458,
+        "human_reference": "_backup_csv_verificados/Year2019/OFTALMOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 41,
+          "identico": 559
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "PEDIATRIA",
+      "pdf": "Year2019/PEDIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Pediatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.6206,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 26862,
+        "coverage_out_chars": 26862,
+        "human_reference": "_backup_csv_verificados/Year2019/PEDIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 531,
+          "solo_espacios": 68,
+          "csv_antiguo_truncado": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "PRUEBA A",
+      "pdf": "Year2019/PRUEBA A.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba A",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9959,
+          "vec_max_loser": 0.0048,
+          "pix_min_winner": 0.1496,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 27731,
+        "coverage_out_chars": 27731,
+        "human_reference": "_backup_csv_verificados/Year2019/PRUEBA A.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 69,
+          "identico": 530,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "PRUEBA B",
+      "pdf": "Year2019/PRUEBA B.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba B",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 14,
+        "score_margins": {
+          "vec_min_winner": 0.9963,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.6158,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 28324,
+        "coverage_out_chars": 28324,
+        "human_reference": "_backup_csv_verificados/Year2019/PRUEBA B.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 531,
+          "solo_espacios": 69
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "PSIQUIATRIA",
+      "pdf": "Year2019/PSIQUIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Psiquiatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9917,
+          "vec_max_loser": 0.0216,
+          "pix_min_winner": 0.612,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 28511,
+        "coverage_out_chars": 28511,
+        "human_reference": "_backup_csv_verificados/Year2019/PSIQUIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 62,
+          "identico": 535,
+          "csv_antiguo_truncado": 3
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "RADIOLOGÍA",
+      "pdf": "Year2019/RADIOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Radiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.992,
+          "vec_max_loser": 0.0048,
+          "pix_min_winner": 0.6175,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 20606,
+        "coverage_out_chars": 20606,
+        "human_reference": "_backup_csv_verificados/Year2019/RADIOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 574,
+          "solo_espacios": 22,
+          "csv_antiguo_truncado": 4
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2019,
+      "exam": "UROLOGÍA",
+      "pdf": "Year2019/UROLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Urología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9959,
+          "vec_max_loser": 0.0051,
+          "pix_min_winner": 0.6199,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 20424,
+        "coverage_out_chars": 20424,
+        "human_reference": "_backup_csv_verificados/Year2019/UROLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 561,
+          "solo_espacios": 39
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "ANATOMIA PATOLOGICA",
+      "pdf": "Year2020/ANATOMIA PATOLOGICA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 13,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anatomía Patológica Laboratorio y Patología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9947,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5976,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29661,
+        "coverage_out_chars": 29661,
+        "human_reference": "_backup_csv_verificados/Year2020/ANATOMIA PATOLOGICA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 532,
+          "solo_espacios": 68
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "ANESTESIOLOGIA",
+      "pdf": "Year2020/ANESTESIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anestesiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9942,
+          "vec_max_loser": 0.0112,
+          "pix_min_winner": 0.5889,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 16981,
+        "coverage_out_chars": 16981,
+        "human_reference": "_backup_csv_verificados/Year2020/ANESTESIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 554,
+          "csv_antiguo_truncado": 19,
+          "solo_espacios": 27
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "CIRUGIA GENERAL",
+      "pdf": "Year2020/CIRUGIA GENERAL.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 13,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía General",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.995,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5978,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 28294,
+        "coverage_out_chars": 28294,
+        "human_reference": "_backup_csv_verificados/Year2020/CIRUGIA GENERAL.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 80,
+          "identico": 520
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "GINECOLOGIA Y OBSTETRICIA",
+      "pdf": "Year2020/GINECOLOGIA Y OBSTETRICIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 13,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ginecología y Obstetricia",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9937,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5859,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29281,
+        "coverage_out_chars": 29281,
+        "human_reference": "_backup_csv_verificados/Year2020/GINECOLOGIA Y OBSTETRICIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 483,
+          "solo_espacios": 81,
+          "csv_antiguo_truncado": 36
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "OFTALMOLOGIA",
+      "pdf": "Year2020/OFTALMOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Oftalmología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6126,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 19588,
+        "coverage_out_chars": 19588,
+        "human_reference": "_backup_csv_verificados/Year2020/OFTALMOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 568,
+          "solo_espacios": 32
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "PEDIATRIA",
+      "pdf": "Year2020/PEDIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 13,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Pediatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9944,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.608,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 28643,
+        "coverage_out_chars": 28643,
+        "human_reference": "_backup_csv_verificados/Year2020/PEDIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 80,
+          "identico": 505,
+          "csv_antiguo_truncado": 15
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": [
+        "P87: enunciado idéntico a P40 (duplicado dentro del examen)"
+      ]
+    },
+    {
+      "year": 2020,
+      "exam": "PRUEBA A",
+      "pdf": "Year2020/PRUEBA A.pdf",
+      "n_questions": 90,
+      "verification": {
+        "pages": 12,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba A",
+        "answer_methods_agree": 90,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9955,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5935,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 27361,
+        "coverage_out_chars": 27361,
+        "human_reference": "_backup_csv_verificados/Year2020/PRUEBA A.csv",
+        "human_rows": 90,
+        "answers_match_human": 90,
+        "answers_compared": 90,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 65,
+          "identico": 464,
+          "csv_antiguo_truncado": 10,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "PRUEBA B",
+      "pdf": "Year2020/PRUEBA B.pdf",
+      "n_questions": 90,
+      "verification": {
+        "pages": 12,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba B",
+        "answer_methods_agree": 90,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 1,
+        "score_margins": {
+          "vec_min_winner": 0.9941,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6014,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29265,
+        "coverage_out_chars": 29265,
+        "human_reference": "_backup_csv_verificados/Year2020/PRUEBA B.csv",
+        "human_rows": 90,
+        "answers_match_human": 90,
+        "answers_compared": 90,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 78,
+          "identico": 452,
+          "csv_antiguo_truncado": 10
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "PSIQUIATRIA",
+      "pdf": "Year2020/PSIQUIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Psiquiatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5867,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25997,
+        "coverage_out_chars": 25997,
+        "human_reference": "_backup_csv_verificados/Year2020/PSIQUIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 67,
+          "identico": 533
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2020,
+      "exam": "UROLOGIA",
+      "pdf": "Year2020/UROLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Urología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9944,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5998,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 28869,
+        "coverage_out_chars": 28869,
+        "human_reference": "_backup_csv_verificados/Year2020/UROLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 70,
+          "identico": 500,
+          "csv_antiguo_truncado": 29,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Anestesiología",
+      "pdf": "Year2022/Anestesiología.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anestesiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9942,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6055,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 24140,
+        "coverage_out_chars": 24140,
+        "human_reference": "_backup_csv_verificados/Year2022/Anestesiología.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 45,
+          "identico": 535,
+          "csv_antiguo_truncado": 20
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Cirugía Cardiovascular",
+      "pdf": "Year2022/Cirugía Cardiovascular.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía Cardiovascular",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6007,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 24560,
+        "coverage_out_chars": 24560,
+        "human_reference": "_backup_csv_verificados/Year2022/Cirugía Cardiovascular.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 42,
+          "identico": 548,
+          "csv_antiguo_truncado": 10
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Cirugía General",
+      "pdf": "Year2022/Cirugía General.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía General",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9954,
+          "vec_max_loser": 0.0112,
+          "pix_min_winner": 0.5944,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29986,
+        "coverage_out_chars": 29986,
+        "human_reference": "_backup_csv_verificados/Year2022/Cirugía General.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 68,
+          "identico": 516,
+          "csv_antiguo_truncado": 16
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Especialidad Prueba A",
+      "pdf": "Year2022/Especialidad Prueba A.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 13,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba A",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5969,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 31700,
+        "coverage_out_chars": 31700,
+        "human_reference": "_backup_csv_verificados/Year2022/Especialidad Prueba A.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 87,
+          "identico": 508,
+          "csv_antiguo_truncado": 5
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": [
+        "P38: contiene una imagen (pág. 5); verificar que el texto sea autosuficiente"
+      ]
+    },
+    {
+      "year": 2022,
+      "exam": "Especialidad Prueba B",
+      "pdf": "Year2022/Especialidad Prueba B.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 13,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba B",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9949,
+          "vec_max_loser": 0.0112,
+          "pix_min_winner": 0.6172,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 31111,
+        "coverage_out_chars": 31111,
+        "human_reference": "_backup_csv_verificados/Year2022/Especialidad Prueba B.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 87,
+          "identico": 504,
+          "csv_antiguo_truncado": 8,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Ginecología y Obstetricia",
+      "pdf": "Year2022/Ginecología y Obstetricia.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ginecología y Obstetricia",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6062,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29044,
+        "coverage_out_chars": 29044,
+        "human_reference": "_backup_csv_verificados/Year2022/Ginecología y Obstetricia.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 84,
+          "identico": 508,
+          "csv_antiguo_truncado": 8
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Neurocirugía",
+      "pdf": "Year2022/Neurocirugía.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Neurocirugía",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0111,
+          "pix_min_winner": 0.6089,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25077,
+        "coverage_out_chars": 25077,
+        "human_reference": "_backup_csv_verificados/Year2022/Neurocirugía.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 512,
+          "csv_antiguo_truncado": 38,
+          "solo_espacios": 48,
+          "mayor": 2
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Oftalmología",
+      "pdf": "Year2022/Oftalmología.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Oftalmología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6086,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25967,
+        "coverage_out_chars": 25967,
+        "human_reference": "_backup_csv_verificados/Year2022/Oftalmología.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 540,
+          "solo_espacios": 57,
+          "csv_antiguo_truncado": 3
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Pediatría",
+      "pdf": "Year2022/Pediatría.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 13,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Pediatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9959,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5931,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 34051,
+        "coverage_out_chars": 34051,
+        "human_reference": "_backup_csv_verificados/Year2022/Pediatría.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 80,
+          "identico": 514,
+          "csv_antiguo_truncado": 6
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Psiquiatría",
+      "pdf": "Year2022/Psiquiatría.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Psiquiatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9957,
+          "vec_max_loser": 0.0112,
+          "pix_min_winner": 0.586,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 26092,
+        "coverage_out_chars": 26092,
+        "human_reference": "_backup_csv_verificados/Year2022/Psiquiatría.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 62,
+          "identico": 536,
+          "csv_antiguo_truncado": 2
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Radiología",
+      "pdf": "Year2022/Radiología.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Radiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9942,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6083,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 23004,
+        "coverage_out_chars": 23004,
+        "human_reference": "_backup_csv_verificados/Year2022/Radiología.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 68,
+          "identico": 525,
+          "csv_antiguo_truncado": 7
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "exam": "Urología",
+      "pdf": "Year2022/Urología.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Urología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0111,
+          "pix_min_winner": 0.597,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 20134,
+        "coverage_out_chars": 20134,
+        "human_reference": "_backup_csv_verificados/Year2022/Urología.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 567,
+          "solo_espacios": 33
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "ANATOMIA PATOLOGICA",
+      "pdf": "Year2023/ANATOMIA PATOLOGICA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anatomía Patológica",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5919,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 23860,
+        "coverage_out_chars": 23860,
+        "human_reference": "_backup_csv_verificados/Year2023/ANATOMIA PATOLOGICA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 51,
+          "identico": 449
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": [
+        "P85: enunciado idéntico a P73 (duplicado dentro del examen)"
+      ]
+    },
+    {
+      "year": 2023,
+      "exam": "ANESTESIOLOGIA",
+      "pdf": "Year2023/ANESTESIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 9,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anestesiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9942,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5938,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21990,
+        "coverage_out_chars": 21990,
+        "human_reference": "_backup_csv_verificados/Year2023/ANESTESIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 55,
+          "identico": 444,
+          "csv_antiguo_truncado": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "CIRUGIA GENERAL",
+      "pdf": "Year2023/CIRUGIA GENERAL.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía General",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6077,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 27675,
+        "coverage_out_chars": 27675,
+        "human_reference": "_backup_csv_verificados/Year2023/CIRUGIA GENERAL.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 74,
+          "identico": 426
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "CIRUGÍA DE TORÁX Y CARDIOVASCULAR",
+      "pdf": "Year2023/CIRUGÍA DE TORÁX Y CARDIOVASCULAR.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 9,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía de tórax y cardiovascular",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6012,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 22029,
+        "coverage_out_chars": 22029,
+        "human_reference": "_backup_csv_verificados/Year2023/CIRUGÍA DE TORÁX Y CARDIOVASCULAR.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "csv_antiguo_truncado": 2,
+          "identico": 447,
+          "solo_espacios": 51
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "GINECOLOGIA",
+      "pdf": "Year2023/GINECOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ginecología y Obstetricia",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9944,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6124,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29140,
+        "coverage_out_chars": 29140,
+        "human_reference": "_backup_csv_verificados/Year2023/GINECOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 417,
+          "solo_espacios": 83
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "NEUROCIRUGIA",
+      "pdf": "Year2023/NEUROCIRUGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Neurocirugía",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5812,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 20925,
+        "coverage_out_chars": 20925,
+        "human_reference": "_backup_csv_verificados/Year2023/NEUROCIRUGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 463,
+          "solo_espacios": 37
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "OFTALMOLOGÍA",
+      "pdf": "Year2023/OFTALMOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Oftalmología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9955,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5947,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21986,
+        "coverage_out_chars": 21986,
+        "human_reference": "_backup_csv_verificados/Year2023/OFTALMOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 47,
+          "identico": 449,
+          "csv_antiguo_truncado": 4
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "PEDIATRÍA",
+      "pdf": "Year2023/PEDIATRÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Pediatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0031,
+          "pix_min_winner": 0.6042,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29584,
+        "coverage_out_chars": 29584,
+        "human_reference": "_backup_csv_verificados/Year2023/PEDIATRÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 427,
+          "solo_espacios": 71,
+          "csv_antiguo_truncado": 1,
+          "menor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "PRUEBA A",
+      "pdf": "Year2023/PRUEBA A.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba A",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6116,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29965,
+        "coverage_out_chars": 29965,
+        "human_reference": "_backup_csv_verificados/Year2023/PRUEBA A.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 92,
+          "identico": 406,
+          "csv_antiguo_truncado": 2
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "PRUEBA B",
+      "pdf": "Year2023/PRUEBA B.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba B",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5983,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29184,
+        "coverage_out_chars": 29184,
+        "human_reference": "_backup_csv_verificados/Year2023/PRUEBA B.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 414,
+          "solo_espacios": 86
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "PSIQUIATRÍA",
+      "pdf": "Year2023/PSIQUIATRÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Psiquiatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6056,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25782,
+        "coverage_out_chars": 25782,
+        "human_reference": "_backup_csv_verificados/Year2023/PSIQUIATRÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 433,
+          "solo_espacios": 67
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "RADIOLOGÍA",
+      "pdf": "Year2023/RADIOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 9,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Radiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5933,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 19506,
+        "coverage_out_chars": 19506,
+        "human_reference": "_backup_csv_verificados/Year2023/RADIOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 437,
+          "solo_espacios": 63
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2023,
+      "exam": "UROLOGÍA",
+      "pdf": "Year2023/UROLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 9,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Urología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6047,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 20011,
+        "coverage_out_chars": 20011,
+        "human_reference": "_backup_csv_verificados/Year2023/UROLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 452,
+          "solo_espacios": 45,
+          "mayor": 3
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "ANATOMÍA PATOLÓGICA",
+      "pdf": "Year2024/ANATOMÍA PATOLÓGICA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anatomía Patológica",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5873,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25248,
+        "coverage_out_chars": 25248,
+        "human_reference": "_backup_csv_verificados/Year2024/ANATOMÍA PATOLÓGICA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 441,
+          "solo_espacios": 59
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "ANESTESIOLOGÍA",
+      "pdf": "Year2024/ANESTESIOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 9,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anestesiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.594,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 19905,
+        "coverage_out_chars": 19905,
+        "human_reference": "_backup_csv_verificados/Year2024/ANESTESIOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 449,
+          "solo_espacios": 51
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "CIRUGÍA DE TORAX",
+      "pdf": "Year2024/CIRUGÍA DE TORAX.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 9,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía de Tórax y Cardiovascular",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6047,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21223,
+        "coverage_out_chars": 21223,
+        "human_reference": "_backup_csv_verificados/Year2024/CIRUGÍA DE TORAX.csv",
+        "human_rows": 100,
+        "answers_match_human": 99,
+        "answers_compared": 100,
+        "answer_mismatches": [
+          34
+        ],
+        "text_diff_categories": {
+          "identico": 445,
+          "solo_espacios": 55
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": [
+        "P34: DISCREPANCIA de respuesta con el CSV humano (ver revisión)"
+      ]
+    },
+    {
+      "year": 2024,
+      "exam": "CIRUGÍA",
+      "pdf": "Year2024/CIRUGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía General",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5962,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25468,
+        "coverage_out_chars": 25468,
+        "human_reference": "_backup_csv_verificados/Year2024/CIRUGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 99,
+        "answers_compared": 100,
+        "answer_mismatches": [
+          87
+        ],
+        "text_diff_categories": {
+          "solo_espacios": 57,
+          "identico": 442,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": [
+        "P87: DISCREPANCIA de respuesta con el CSV humano (ver revisión)"
+      ]
+    },
+    {
+      "year": 2024,
+      "exam": "ESPECIALIADAD A",
+      "pdf": "Year2024/ESPECIALIADAD A.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba A",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0031,
+          "pix_min_winner": 0.5763,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 28418,
+        "coverage_out_chars": 28418,
+        "human_reference": "_backup_csv_verificados/Year2024/ESPECIALIADAD A.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 89,
+          "identico": 411
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "ESPECIALIADAD B",
+      "pdf": "Year2024/ESPECIALIADAD B.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba B",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6002,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 30369,
+        "coverage_out_chars": 30369,
+        "human_reference": "_backup_csv_verificados/Year2024/ESPECIALIADAD B.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 96,
+          "identico": 404
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "GINECOLOGÍA",
+      "pdf": "Year2024/GINECOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ginecología - Obstetricia",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0031,
+          "pix_min_winner": 0.6068,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 27901,
+        "coverage_out_chars": 27901,
+        "human_reference": "_backup_csv_verificados/Year2024/GINECOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 85,
+          "identico": 415
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "NEUROCIRUGÍA",
+      "pdf": "Year2024/NEUROCIRUGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Neurocirugía",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5922,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21918,
+        "coverage_out_chars": 21918,
+        "human_reference": "_backup_csv_verificados/Year2024/NEUROCIRUGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 44,
+          "identico": 453,
+          "mayor": 2,
+          "csv_antiguo_truncado": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "OFTALMOLOGÍA",
+      "pdf": "Year2024/OFTALMOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Oftalmología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.581,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21923,
+        "coverage_out_chars": 21923,
+        "human_reference": "_backup_csv_verificados/Year2024/OFTALMOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 36,
+          "identico": 463,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "PEDIATRÍA",
+      "pdf": "Year2024/PEDIATRÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Pediatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5983,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 28732,
+        "coverage_out_chars": 28732,
+        "human_reference": "_backup_csv_verificados/Year2024/PEDIATRÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 82,
+          "identico": 417,
+          "csv_antiguo_truncado": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "PSIQUIATRÍA",
+      "pdf": "Year2024/PSIQUIATRÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Psiquiatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9963,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5912,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 26517,
+        "coverage_out_chars": 26517,
+        "human_reference": "_backup_csv_verificados/Year2024/PSIQUIATRÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 63,
+          "identico": 437
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "RADIOLOGÍA",
+      "pdf": "Year2024/RADIOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Radiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9985,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6077,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 23891,
+        "coverage_out_chars": 23891,
+        "human_reference": "_backup_csv_verificados/Year2024/RADIOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 77,
+          "identico": 423
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2024,
+      "exam": "UROLOGÍA",
+      "pdf": "Year2024/UROLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 9,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Urología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6031,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 20667,
+        "coverage_out_chars": 20667,
+        "human_reference": "_backup_csv_verificados/Year2024/UROLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 450,
+          "solo_espacios": 50
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "ANATOMIA PATOLOGICA",
+      "pdf": "Year2025/ANATOMIA PATOLOGICA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anatomía Patológica",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5876,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 28603,
+        "coverage_out_chars": 28603,
+        "human_reference": "_backup_csv_verificados/Year2025/ANATOMIA PATOLOGICA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 68,
+          "identico": 432
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "ANESTESIOLOGIA",
+      "pdf": "Year2025/ANESTESIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anestesiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5872,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 22643,
+        "coverage_out_chars": 22643,
+        "human_reference": "_backup_csv_verificados/Year2025/ANESTESIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 73,
+          "identico": 427
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "CIRUGIA CARDIOVASCULAR",
+      "pdf": "Year2025/CIRUGIA CARDIOVASCULAR.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía Cardiovascular",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5948,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 24407,
+        "coverage_out_chars": 24407,
+        "human_reference": "_backup_csv_verificados/Year2025/CIRUGIA CARDIOVASCULAR.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 57,
+          "identico": 443
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "CIRUGIA DE TORAX Y CARDIOVASCULAR",
+      "pdf": "Year2025/CIRUGIA DE TORAX Y CARDIOVASCULAR.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía de Tórax y Cardiovascular",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5948,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 24407,
+        "coverage_out_chars": 24407,
+        "human_reference": "_backup_csv_verificados/Year2025/CIRUGIA DE TORAX Y CARDIOVASCULAR.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 57,
+          "identico": 443
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "CIRUGIA GENERAL",
+      "pdf": "Year2025/CIRUGIA GENERAL.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía General",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.6014,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 27975,
+        "coverage_out_chars": 27975,
+        "human_reference": "_backup_csv_verificados/Year2025/CIRUGIA GENERAL.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 71,
+          "identico": 429
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "ESPECIALIADAD A",
+      "pdf": "Year2025/ESPECIALIADAD A.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba A",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5876,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 32496,
+        "coverage_out_chars": 32496,
+        "human_reference": "_backup_csv_verificados/Year2025/ESPECIALIADAD A.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 95,
+          "identico": 405
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "ESPECIALIADAD B",
+      "pdf": "Year2025/ESPECIALIADAD B.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba B",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5976,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 31964,
+        "coverage_out_chars": 31964,
+        "human_reference": "_backup_csv_verificados/Year2025/ESPECIALIADAD B.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 92,
+          "identico": 408
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "GINECOLOGIA Y OBSTETRICIA",
+      "pdf": "Year2025/GINECOLOGIA Y OBSTETRICIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ginecología y Obstetricia",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5974,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 26133,
+        "coverage_out_chars": 26133,
+        "human_reference": "_backup_csv_verificados/Year2025/GINECOLOGIA Y OBSTETRICIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 72,
+          "identico": 427,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "NEUROCIRUGIA",
+      "pdf": "Year2025/NEUROCIRUGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Neurocirugía",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5951,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 30485,
+        "coverage_out_chars": 30485,
+        "human_reference": "_backup_csv_verificados/Year2025/NEUROCIRUGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 428,
+          "solo_espacios": 68,
+          "csv_antiguo_truncado": 4
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "OFTALMOLOGIA",
+      "pdf": "Year2025/OFTALMOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Oftalmología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5973,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 24174,
+        "coverage_out_chars": 24174,
+        "human_reference": "_backup_csv_verificados/Year2025/OFTALMOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 444,
+          "solo_espacios": 56
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "PEDIATRIA",
+      "pdf": "Year2025/PEDIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Pediatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5938,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 31749,
+        "coverage_out_chars": 31749,
+        "human_reference": "_backup_csv_verificados/Year2025/PEDIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 89,
+          "identico": 411
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "PSIQUIATRIA",
+      "pdf": "Year2025/PSIQUIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Psiquiatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5871,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 23386,
+        "coverage_out_chars": 23386,
+        "human_reference": "_backup_csv_verificados/Year2025/PSIQUIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 430,
+          "solo_espacios": 70
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "RADIOLOGIA",
+      "pdf": "Year2025/RADIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Radiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.597,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21944,
+        "coverage_out_chars": 21944,
+        "human_reference": "_backup_csv_verificados/Year2025/RADIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 439,
+          "solo_espacios": 61
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2025,
+      "exam": "UROLOGIA",
+      "pdf": "Year2025/UROLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 9,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Urología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.6036,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 21119,
+        "coverage_out_chars": 21119,
+        "human_reference": "_backup_csv_verificados/Year2025/UROLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 52,
+          "identico": 448
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "ANATOMIA PATOLOGICA",
+      "pdf": "Year2026/ANATOMIA PATOLOGICA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anatomía Patológica",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5943,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 29119,
+        "coverage_out_chars": 29119,
+        "human_reference": "_backup_csv_verificados/Year2026/ANATOMIA PATOLOGICA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 431,
+          "solo_espacios": 69
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "ANESTESIOLOGIA",
+      "pdf": "Year2026/ANESTESIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Anestesiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9941,
+          "vec_max_loser": 0.0031,
+          "pix_min_winner": 0.5945,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 26850,
+        "coverage_out_chars": 26850,
+        "human_reference": "_backup_csv_verificados/Year2026/ANESTESIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 75,
+          "identico": 425
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "CIRUGIA CARDIOVASCULAR",
+      "pdf": "Year2026/CIRUGIA CARDIOVASCULAR.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía Cardiovascular",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6052,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 22259,
+        "coverage_out_chars": 22259,
+        "human_reference": "_backup_csv_verificados/Year2026/CIRUGIA CARDIOVASCULAR.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 449,
+          "solo_espacios": 50,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "CIRUGIA DE TORAX Y CARDIOVASCULAR",
+      "pdf": "Year2026/CIRUGIA DE TORAX Y CARDIOVASCULAR.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía de Tórax y Cardiovascular",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.6052,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 22259,
+        "coverage_out_chars": 22259,
+        "human_reference": "_backup_csv_verificados/Year2026/CIRUGIA DE TORAX Y CARDIOVASCULAR.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 449,
+          "solo_espacios": 50,
+          "mayor": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "CIRUGIA GENERAL",
+      "pdf": "Year2026/CIRUGIA GENERAL.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Cirugía General",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9941,
+          "vec_max_loser": 0.0044,
+          "pix_min_winner": 0.593,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 30582,
+        "coverage_out_chars": 30582,
+        "human_reference": "_backup_csv_verificados/Year2026/CIRUGIA GENERAL.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 71,
+          "identico": 428,
+          "csv_antiguo_truncado": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "ESPECIALIADAD A",
+      "pdf": "Year2026/ESPECIALIADAD A.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba A",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9971,
+          "vec_max_loser": 0.0034,
+          "pix_min_winner": 0.5928,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 34117,
+        "coverage_out_chars": 34117,
+        "human_reference": "_backup_csv_verificados/Year2026/ESPECIALIADAD A.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 98,
+          "identico": 399,
+          "csv_antiguo_truncado": 3
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "ESPECIALIADAD B",
+      "pdf": "Year2026/ESPECIALIADAD B.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "Especialidad",
+        "exam_title": "Prueba B",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9989,
+          "vec_max_loser": 0.0031,
+          "pix_min_winner": 0.5873,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 31387,
+        "coverage_out_chars": 31387,
+        "human_reference": "_backup_csv_verificados/Year2026/ESPECIALIADAD B.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 94,
+          "identico": 405,
+          "csv_antiguo_truncado": 1
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "GINECOLOGIA Y OBSTETRICIA",
+      "pdf": "Year2026/GINECOLOGIA Y OBSTETRICIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ginecología y Obstetricia",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 0.9952,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5892,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 32347,
+        "coverage_out_chars": 32347,
+        "human_reference": "_backup_csv_verificados/Year2026/GINECOLOGIA Y OBSTETRICIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 81,
+          "identico": 417,
+          "csv_antiguo_truncado": 2
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "NEUROCIRUGIA",
+      "pdf": "Year2026/NEUROCIRUGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Neurocirugía",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5982,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 27689,
+        "coverage_out_chars": 27689,
+        "human_reference": "_backup_csv_verificados/Year2026/NEUROCIRUGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 75,
+          "identico": 425
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "OFTALMOLOGIA",
+      "pdf": "Year2026/OFTALMOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Oftalmología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5874,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 23542,
+        "coverage_out_chars": 23542,
+        "human_reference": "_backup_csv_verificados/Year2026/OFTALMOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 58,
+          "identico": 440,
+          "csv_antiguo_truncado": 2
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "ORTOPEDIA Y TRAUMATOLOGÍA",
+      "pdf": "Year2026/ORTOPEDIA Y TRAUMATOLOGÍA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Ortopedia y Traumatología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5995,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 34858,
+        "coverage_out_chars": 34858,
+        "human_reference": "_backup_csv_verificados/Year2026/ORTOPEDIA Y TRAUMATOLOGÍA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 86,
+          "identico": 414
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "PEDIATRIA",
+      "pdf": "Year2026/PEDIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 11,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Pediatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5964,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 30325,
+        "coverage_out_chars": 30325,
+        "human_reference": "_backup_csv_verificados/Year2026/PEDIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "identico": 413,
+          "solo_espacios": 87
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "PSIQUIATRIA",
+      "pdf": "Year2026/PSIQUIATRIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 12,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Psiquiatría",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5924,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 31304,
+        "coverage_out_chars": 31304,
+        "human_reference": "_backup_csv_verificados/Year2026/PSIQUIATRIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 81,
+          "identico": 419
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "RADIOLOGIA",
+      "pdf": "Year2026/RADIOLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Radiología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5998,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 23990,
+        "coverage_out_chars": 23990,
+        "human_reference": "_backup_csv_verificados/Year2026/RADIOLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 78,
+          "identico": 422
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "year": 2026,
+      "exam": "UROLOGIA",
+      "pdf": "Year2026/UROLOGIA.pdf",
+      "n_questions": 100,
+      "verification": {
+        "pages": 10,
+        "exam_type": "SubEspecialidad",
+        "exam_title": "Urología",
+        "answer_methods_agree": 100,
+        "orphan_highlights": 0,
+        "blank_line_highlights": 0,
+        "score_margins": {
+          "vec_min_winner": 1.0,
+          "vec_max_loser": 0.0569,
+          "pix_min_winner": 0.5935,
+          "pix_max_loser": 0.0
+        },
+        "coverage_ok": true,
+        "coverage_pdf_chars": 25105,
+        "coverage_out_chars": 25105,
+        "human_reference": "_backup_csv_verificados/Year2026/UROLOGIA.csv",
+        "human_rows": 100,
+        "answers_match_human": 100,
+        "answers_compared": 100,
+        "answer_mismatches": [],
+        "text_diff_categories": {
+          "solo_espacios": 72,
+          "identico": 428
+        },
+        "overrides_applied": 0
+      },
+      "errors": [],
+      "warnings": []
+    }
+  ]
+}

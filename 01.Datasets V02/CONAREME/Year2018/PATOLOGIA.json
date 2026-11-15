@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "year": 2018,
+    "exam": "PATOLOGIA",
+    "source_pdf": "PATOLOGIA.pdf",
+    "exam_type": "SubEspecialidad",
+    "exam_title": "Patología",
+    "sha256_pdf": "d72e2bdc0771ec18b129cfd4e49296baf02541b90b64b2f0d4abac4a930e0489",
+    "n_questions": 100,
+    "n_options": 5,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "extracted_at": "2026-11-11T10:30:11",
+    "script_version": "1.0.0",
+    "verification": {
+      "pages": 10,
+      "exam_type": "SubEspecialidad",
+      "exam_title": "Patología",
+      "answer_methods_agree": 100,
+      "orphan_highlights": 0,
+      "blank_line_highlights": 0,
+      "score_margins": {
+        "vec_min_winner": 0.9927,
+        "vec_max_loser": 0.0073,
+        "pix_min_winner": 0.3783,
+        "pix_max_loser": 0.0
+      },
+      "coverage_ok": true,
+      "coverage_pdf_chars": 19505,
+      "coverage_out_chars": 19505,
+      "human_reference": "_backup_csv_verificados/Year2018/PATOLOGIA.csv",
+      "human_rows": 100,
+      "answers_match_human": 100,
+      "answers_compared": 100,
+      "answer_mismatches": [],
+      "text_diff_categories": {
+        "solo_espacios": 27,
+        "identico": 561,
+        "csv_antiguo_truncado": 12
+      },
+      "overrides_applied": 0
+    }
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "¿Cuál es la estructura en que se basa el diagnóstico diferencial histológico entre bronquios extrapulmonares e intrapulmonares?",
+      "options": {
+        "A": "Serosa en bronquios extrapulmonares",
+        "B": "Músculo liso en bronquios intrapulmonares",
+        "C": "Epitelio cúbico simple en bronquios extrapulmonares",
+        "D": "Cartílago hialino discontinuo en bronquios intrapulmonares",
+        "E": "Cartílago hialino discontinuo en bronquios extrapulmonares"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 2,
+      "question": "¿Cuál es el factor pronóstico más importante en una paciente con carcinoma de cérvix uterino?",
+      "options": {
+        "A": "Etapa clínica",
+        "B": "Tipo histológico",
+        "C": "Incapacidad para detectar en el tejido PVH",
+        "D": "Densidad de microvasculatura en el tejido tumoral",
+        "E": "Grado histológico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 3,
+      "question": "¿Cuál de los siguientes tumores se asocia a eritrocitosis como síndrome paraneoplásico?",
+      "options": {
+        "A": "Cáncer de próstata",
+        "B": "Cáncer de mama",
+        "C": "Cáncer de pulmón",
+        "D": "Hepatocarcinoma",
+        "E": "Cáncer de paratiroides"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 4,
+      "question": "Varón de 23 años y otros miembros de su club notan prurito en los pies en los últimos 2 meses, lesiones cutáneas difusas eritematosas y descamativas entre los dedos del pié. ¿Cuál es el microórganismo causante más probable?",
+      "options": {
+        "A": "VPH",
+        "B": "Streptococcus beta hemolítico A",
+        "C": "Sarcoptes scabiei",
+        "D": "Staphylococcus areus",
+        "E": "Trichophyton rubrun"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 5,
+      "question": "¿Cuál es la localización del melanoma intraocular más fácilmente visible y menos propenso a sufrir metástasis?",
+      "options": {
+        "A": "Cuerpo ciliar",
+        "B": "Corneal",
+        "C": "Extra escleral",
+        "D": "Iris",
+        "E": "Coroideo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 6,
+      "question": "Mujer de 57 años, refiere dolor miccional durante los últimos 5 meses, un día observa que la ropa interior estaba manchada de sangre. Examen: nódulo rojizo doloroso de 1 cm en el labio posterior de la uretra externa. ¿Qué hallazgo patológico es más probable en esta lesión?",
+      "options": {
+        "A": "Tejido de granulación",
+        "B": "Carcinoma epidermoide",
+        "C": "Células multinucleadas",
+        "D": "Infiltrado de células plasmáticas",
+        "E": "Rabdomiosarcoma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál es el tumor más frecuente del mediastino anterior?",
+      "options": {
+        "A": "Timoma",
+        "B": "Tumor broncogénico",
+        "C": "Teratoma",
+        "D": "Quiste esofágico",
+        "E": "Quiste broncogénico"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 8,
+      "question": "¿Cuál es el adenoma hipofisario que se presenta con mayor frecuencia?",
+      "options": {
+        "A": "Somatotrofo",
+        "B": "Gonadotrofo",
+        "C": "Tirotropo",
+        "D": "Galactóforo",
+        "E": "Corticotropo"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 9,
+      "question": "¿Cuál es el inmunofenotipo del tumor estromal gastrointestinal?",
+      "options": {
+        "A": "CLA (+) PAN CK (-) EMA (-)",
+        "B": "CK20 (+) CK5/6 (+) p63 (+)",
+        "C": "CD117 (+) CD34 (+) DOG1 (+)",
+        "D": "CK20 (+) CK7 (+) CDX2 (+)",
+        "E": "CK7 (+) GATA 3 (+) Her2/neu (+)"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 10,
+      "question": "Paciente con síndrome de Li-Fraumeni. ¿Cuál es el gen que se asocia con alto riesgo de cáncer gástrico hereditario?",
+      "options": {
+        "A": "CDH1",
+        "B": "p53",
+        "C": "BRCA 1-2",
+        "D": "APC",
+        "E": "STK11"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 11,
+      "question": "¿Cuál es el anticoagulante que sirve de transporte de muestras de sangre para el estudio molecular?",
+      "options": {
+        "A": "ACD A",
+        "B": "ACD B",
+        "C": "Citrato de sodio",
+        "D": "EDTA",
+        "E": "Heparina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 12,
+      "question": "¿Cuáles son los efectos de los pestícidas?",
+      "options": {
+        "A": "Arritmias, parestesia, cataratas",
+        "B": "Insuficiencia respiratoria, cataratas",
+        "C": "Neurotoxicidad, dermatitis alérgica",
+        "D": "Hepatotoxicidad, edema pulmonar, hemorragia",
+        "E": "Neurotoxicidad, dermatitis alérgica, anemia y edema pulmonar"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 13,
+      "question": "¿Cuál es la neoplasia de páncreas más frecuente en niños menores de 8 años?",
+      "options": {
+        "A": "Carcinoma de células acinares",
+        "B": "Neoplasia quística mucinosa",
+        "C": "Pancreatoblastoma",
+        "D": "Adenocarcinoma",
+        "E": "Neoplasia papilar mucinosa intraductal"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 14,
+      "question": "Varón de 49 años, presenta bulto próximo a hombro derecho, ha crecido durante los últimos 8 meses. Examen: se palpa masa firme e indolora de 4 cm, en región supraclavicular derecha. Se extirpa. AP: revela neoplasia linfoide. Anállisis del cariotipo de las células muestra una traslocación cromosomica t(14;18). ¿Cuál de los siguientes genes es más probable que se active por esta traslocación?",
+      "options": {
+        "A": "IL2 (gen de factor de crecimiento)",
+        "B": "K-RAS (gen de proteínas de unión al GTP)",
+        "C": "APC (gen supresor de tumores)",
+        "D": "BCL2 (gen antiapoptósico)",
+        "E": "BRCA I (gen de reparación de ADN)"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 15,
+      "question": "¿Cuál es la causa de la leucoplasia vellosa?",
+      "options": {
+        "A": "Herpes virus",
+        "B": "Candida albicans",
+        "C": "VPH",
+        "D": "VIH",
+        "E": "VEB"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 16,
+      "question": "¿Qué elemento heterólogo es el más frecuente en un leiomioma?",
+      "options": {
+        "A": "Músculo estriado",
+        "B": "Tejido adiposo",
+        "C": "Hueso",
+        "D": "Cártilago",
+        "E": "Colágeno"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 17,
+      "question": "Varón de 38 años, está talando árboles sólo en el bosque y se hace corte profundo en la pierna con motosierra; pierde gran cantidad de sangre, no es rescatado hasta el día siguiente. ¿Cuál de los parámetros sanguíneos incrementado, es más probable que indique una fase irreversible de shock?",
+      "options": {
+        "A": "Catecolaminas",
+        "B": "Deshidrogenasa láctica",
+        "C": "Bicarbonato",
+        "D": "Hormona antidiurética",
+        "E": "Protrombina"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 18,
+      "question": "¿Cuáles son las células de la mucosa intestinal que producen lisozima para el control de la flora intestinal normal?",
+      "options": {
+        "A": "Argentafines",
+        "B": "APUD",
+        "C": "Paneth",
+        "D": "Caliciformes",
+        "E": "Absorventes"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 19,
+      "question": "¿Cuál es el microorganismo causal más frecuente de salpingitis aguda?",
+      "options": {
+        "A": "Mycobacterium tuberculosis",
+        "B": "Neisseria gonorrhoeae",
+        "C": "Staphylococcus aureus",
+        "D": "Chlamydia trachomatis",
+        "E": "Pseudomona aeruginosa"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 20,
+      "question": "¿Cuál es la entidad que se caracteriza por presentar lesiones granulomatosas necrotizantes en el tracto respiratorio superior y glomerulonefritis necrotizante focal?",
+      "options": {
+        "A": "Púrpura de Henoch-Schönlein",
+        "B": "Poliarteriris nodosa",
+        "C": "Granulomatosis de Wegener",
+        "D": "Crioglobulinemia",
+        "E": "Vasculitis autoinmune"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 21,
+      "question": "¿Qué gérmen se encuentra en los abscesos quísticos de la glándula de Bartholino?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Staphylococcus piogenes",
+        "C": "Peptostreptococcus",
+        "D": "Prevotella",
+        "E": "Escherichia coli"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 22,
+      "question": "¿Qué nombre recibe la proliferación patológica de la parte longitudinal de la aponeurosis palmar y sus extensiones digitales palmar y dorsal a los haces musculares?",
+      "options": {
+        "A": "Fibrosis patológica",
+        "B": "Tendinitis de Quervain",
+        "C": "Túnel del carpo",
+        "D": "Contractura de Duppuytren",
+        "E": "Contractura de Volkman"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 23,
+      "question": "¿Cuál es el órgano en que se deposita glucógeno de forma prominente en la glucogénosis tipo II con enfermedad de Pompe?",
+      "options": {
+        "A": "Músculo esquelético",
+        "B": "Riñón",
+        "C": "Corazón",
+        "D": "Hígado",
+        "E": "Cerebro"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 24,
+      "question": "¿A qué estadío patológico corresponde el carcinoma de cérvix con invasión estromal menor o igual a 3 mm de profundidad y extensión menor o igual a 7 mm?",
+      "options": {
+        "A": "II",
+        "B": "Ia2",
+        "C": "Ib",
+        "D": "Ia",
+        "E": "Ia1"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 25,
+      "question": "La imposibilidad de un adulto para generar respuesta de hipersensibilidad a los dermatofitos o levaduras sugiere ...",
+      "options": {
+        "A": "una pérdida de la función de células T.",
+        "B": "que el individuo padece tuberculosis.",
+        "C": "enfermedad por deficiencia de macrófagos.",
+        "D": "que no desarrolla enfermedad del suero.",
+        "E": "que el factor de transferencia no es antigénico."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 26,
+      "question": "¿Cuál es la enfermedad viral de la infancia que se caracteriza por una llamativa hiperplasia folicular con grandes centros germinales en los órganos linfoides, así como células gigantes multinucleadas de Warthin-Finkeldey?",
+      "options": {
+        "A": "Parotiditis",
+        "B": "Mononucleosis infecciosa",
+        "C": "Rubéola",
+        "D": "Sarampión",
+        "E": "Varicela"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 27,
+      "question": "Mujer de 69 años, tosedora desde hace un año. Rx de tórax: masa de 6 cm en pulmón izquierdo. Biopsia: carcinoma. Se realiza neumonectomía y el examen del ganglio linfático del hilio muestra una superficie de corte uniforme, negruzco. ¿Cuál es el factor que explica el aspecto de los ganglios?",
+      "options": {
+        "A": "Trastorno hemorrágico",
+        "B": "Efectos del envejecimiento",
+        "C": "Insuficiencia hepática",
+        "D": "Metástasis múltiples",
+        "E": "Tabaquismo"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 28,
+      "question": "¿Cuál es la capa de la corteza cerebelosa que se relaciona directamente con la sustancia blanca?",
+      "options": {
+        "A": "Piramidal",
+        "B": "Granulosa",
+        "C": "Purkinge",
+        "D": "Multiforme",
+        "E": "Molecular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 29,
+      "question": "¿Cuál de las siguientes alteraciones puede causar insuficiencia renal aguda?",
+      "options": {
+        "A": "Aumento de la resistencia vascular sistémica",
+        "B": "Alto índice cardíaco",
+        "C": "Hipervolemia",
+        "D": "Aumento de la resistencia vascular renal",
+        "E": "Alto gasto cardíaco"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 30,
+      "question": "¿Cómo se denomina a la capacidad de las células neoplásicas de adquirir mayor potencial metastásico?",
+      "options": {
+        "A": "Iniciación",
+        "B": "Progresión",
+        "C": "Activación",
+        "D": "Diferenciación",
+        "E": "Promoción"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 31,
+      "question": "Mujer en edad fértil. Mamografía revela quistes de 1 a 5 cm, con microcalcificaciones focales y densidades circundantes. BAAF: se extrae líquido turbio con escasas células. ¿Cuál de los siguientes cambios histológicos es más probable que se encuentre en la lesión?",
+      "options": {
+        "A": "Carcinoma ductal in situ",
+        "B": "Necrosis grasa",
+        "C": "Metaplasia apocrina",
+        "D": "Adenosis",
+        "E": "Papilomatosis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 32,
+      "question": "¿Cuál es el factor pronóstico adverso para el linfoma de Hodgkin avanzado?",
+      "options": {
+        "A": "Estadío III",
+        "B": "Albúmina < de 4g/dl",
+        "C": "Sexo masculino",
+        "D": "Hb 12g/dl",
+        "E": "Paciente de 20 a 30 años"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 33,
+      "question": "¿Cuál de los siguientes tumores de riñón está asociado a esclerosis tuberosa?",
+      "options": {
+        "A": "Carcinoma a células claras",
+        "B": "Oncocitoma",
+        "C": "Angiomiolipoma",
+        "D": "Nefroblastoma",
+        "E": "Carcinoma cromófobo"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 34,
+      "question": "¿Cuál es el patrón histológico más frecuente en los adenocarcinomas mesonéfricos?",
+      "options": {
+        "A": "Tipo cordón sexual y sólido",
+        "B": "Retiforme y sólido",
+        "C": "Sólido y tubular",
+        "D": "Ductal y retiforme",
+        "E": "Ductal y tubular"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 35,
+      "question": "Varón de 18 años, con lesión proliferativa del tronco. AP: tumor no encapsulado, bien delimitado constituido por tejido esclerótico hialinizado, hipocelular, fibroblastos con núcleos de aspecto inócuo, infiltrado inflamatorio con linfocitos, células plasmáticas, agregados linfoides y aisladas calcificaciones distróficas. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Fibromatosis",
+        "B": "Fibroma de la vaina tendinosa",
+        "C": "Tumor fibroso solitario",
+        "D": "Tumor miofibroblástico inflamatorio",
+        "E": "Tumor fibroso calcificante"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 36,
+      "question": "¿Cómo se denomina a las células de las glándulas fúndicas que se encargan de la síntesis del factor intrínseco de Castle?",
+      "options": {
+        "A": "Pilóricas",
+        "B": "Cardiales",
+        "C": "Parietales",
+        "D": "Argentafines",
+        "E": "Mucosas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 37,
+      "question": "¿Qué elemento inhibe la absorción intestinal del cobre?",
+      "options": {
+        "A": "Flúor",
+        "B": "Manganeso",
+        "C": "Magnesio",
+        "D": "Fósforo",
+        "E": "Zinc"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 38,
+      "question": "¿Cómo se denomina a la lesión de Buschke-Lowenstein en el glande y prepucio?",
+      "options": {
+        "A": "Carcinoma escamoso",
+        "B": "Condiloma gigante acuminado",
+        "C": "Carcinoma verrucoso",
+        "D": "Balanitis obliterante",
+        "E": "Leucoplasia"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 39,
+      "question": "Mujer de 33 años, con bulto en dorso de la muñeca hace 4 meses. Examen: nódulo subcutáneo firme y fluctuante de 1 cm, por encima del tendón. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Tofo",
+        "B": "Lipoma",
+        "C": "Ganglión",
+        "D": "Nódulo reumatoide",
+        "E": "Tumor de células gigantes"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 40,
+      "question": "¿Por qué son importantes los antígenos carcinofetales?",
+      "options": {
+        "A": "No se producen en animales normales después del nacimiento",
+        "B": "Se han asociados sólo con cánceres del tracto digestivo",
+        "C": "Son responsables de cánceres fetales y en neonatos",
+        "D": "Siempre son útiles para diagnosticar espina bífida",
+        "E": "Son útiles en el diagnóstico y pronóstico del cáncer"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 41,
+      "question": "¿Cuál es la forma parasitaria de la Malassezia spp, en capa córnea de un paciente con pitiriasis versicolor?",
+      "options": {
+        "A": "Hifas cenocíticas",
+        "B": "Acúmulos de levaduras y filamentos cortos",
+        "C": "Artroconidios",
+        "D": "Levaduras unigemantes",
+        "E": "Levaduras multigemantes"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 42,
+      "question": "¿Cuál es la lesión fibrosante de los lactantes, que afecta los músculos de la cabeza y cuello?",
+      "options": {
+        "A": "Fibromatosis hialina juvenil",
+        "B": "Fibromatosis colli",
+        "C": "Fibroma irritativo",
+        "D": "Hiperplasia fibrosa focal",
+        "E": "Fascitis nodular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 43,
+      "question": "¿Cuál es el virus que está asociado a la leucoencefalopatía multifocal progresiva?",
+      "options": {
+        "A": "EBV",
+        "B": "Poliomavirus",
+        "C": "PVH",
+        "D": "H1LV-1",
+        "E": "Herpes virus 8"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 44,
+      "question": "¿Qué es el plexo mientérico de Auerbach?",
+      "options": {
+        "A": "Neuroras sensitivas pseudo monopolares",
+        "B": "Grupos de fibras posganglionares",
+        "C": "Neuronas posganglionares de la vía possinápticas",
+        "D": "Grupos de segundas neuronas de la vía sináptica",
+        "E": "Grupos de determinaciones adrenérgicas"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 45,
+      "question": "¿Cuáles son los marcadores de inmunohistoquímica que permite diagnosticar el tumor uterino que se asemeja al tumor de los cordones sexuales?",
+      "options": {
+        "A": "Melan B, HMB45",
+        "B": "Desmina, CD34",
+        "C": "Calrretinina, inhibina",
+        "D": "Vimentina, alfa actina",
+        "E": "CD10, CK20"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 46,
+      "question": "¿Cuál de los siguientes marcadores de superficie de los macrófagos contribuyen a la fase de unión en la fagocitosis?",
+      "options": {
+        "A": "Fc gamma R",
+        "B": "Proteína clase I del CMH",
+        "C": "Mieloperoxidasa",
+        "D": "Proteína clase II del CMH",
+        "E": "Receptor FEG-GM"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 47,
+      "question": "¿Cuál es el agente químico que produce carcinoma de piel?",
+      "options": {
+        "A": "Cloruro de vinilo",
+        "B": "Berilio",
+        "C": "Arsénico",
+        "D": "Benceno",
+        "E": "Amianto"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 48,
+      "question": "¿Cuál es la neoplasia primaria intracraneal más frecuente?",
+      "options": {
+        "A": "Meduloblastoma",
+        "B": "Ependimoma",
+        "C": "Craneofaringioma",
+        "D": "Meningioma",
+        "E": "Oligodendroglioma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 49,
+      "question": "¿Cuál es la neoplasia en la que se encuentran los cuerpos de Shiller-Duval?",
+      "options": {
+        "A": "Coriocarcinoma",
+        "B": "Carcinoma embrionario",
+        "C": "Teratoma maduro",
+        "D": "Tumor de saco vitelino",
+        "E": "Seminoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 50,
+      "question": "¿Cuál es el factor antiangiogénico producido por las células neoplásicas?",
+      "options": {
+        "A": "Angiostatina",
+        "B": "Factor de crecimiento de fibroblasto",
+        "C": "Factor de crecimiento tumoral",
+        "D": "Factor de crecimiento derivado de plaquetas",
+        "E": "Interleucina 1"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 51,
+      "question": "¿Cuál es la localización más frecuente del rabdomiosarcoma?",
+      "options": {
+        "A": "Cabeza y cuello",
+        "B": "Paratesticular",
+        "C": "Vulva",
+        "D": "Vagina",
+        "E": "Vejiga"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 52,
+      "question": "¿Cuál de los tumores de las glándulas salivales mayores es maligno?",
+      "options": {
+        "A": "Adenoma monomorfo",
+        "B": "Adenoma de células basales",
+        "C": "Oncocitoma",
+        "D": "Linfoepitelioma",
+        "E": "Tumor de Warthin"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 53,
+      "question": "¿En cuál de las siguientes localizaciones el tofo úrico es más frecuente?",
+      "options": {
+        "A": "Palmas",
+        "B": "Cartílago nasal",
+        "C": "Plantas",
+        "D": "Riñones",
+        "E": "Tendones"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 54,
+      "question": "¿Cuál es el estadío patológico del tumor primario de cabeza y cuello que no se puede evaluar?",
+      "options": {
+        "A": "T3",
+        "B": "T1",
+        "C": "Tx",
+        "D": "T4",
+        "E": "T0"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 55,
+      "question": "¿Cuál es la ubicación más frecuente del ependimoma en un adulto joven?",
+      "options": {
+        "A": "Infratentorial lateral",
+        "B": "Espinal alto",
+        "C": "Espinal bajo",
+        "D": "Supratentorial",
+        "E": "Infratentorial medial"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 56,
+      "question": "Lactante de 7 meses, con masa tumoral en el puente de la nariz de 2 cm. AP: estructura fibrilar laxa, no encapsulada y elementos celulares de aspecto glial. Inmunohistoquímica: PAGF (+) y proteína S100 (+). ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Glioma nasal",
+        "B": "Neurofibroma",
+        "C": "Meningioma ectópico",
+        "D": "Encefalocele",
+        "E": "Meningioma cutáneo"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 57,
+      "question": "¿Cuál es la enfermedad metabólica sin cirrosis asociada a alto riesgo de carcinoma hepatocelular?",
+      "options": {
+        "A": "Galactosemia",
+        "B": "Virus de la hepatitis B",
+        "C": "Síndrome de Alagelli",
+        "D": "Tirosinemia hereditaria",
+        "E": "Hemocromatosis"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 58,
+      "question": "¿Cuál es el cuadro histológico más frecuente del cáncer de páncreas?",
+      "options": {
+        "A": "Quístico mucinoso",
+        "B": "De células acinares",
+        "C": "Neuroendocrino",
+        "D": "Papilar intraductal",
+        "E": "Ductal"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 59,
+      "question": "El estadio patológico para el cáncer gástrico precoz Tipo 0 IIa corresponde macroscópicamente a ...",
+      "options": {
+        "A": "excavado.",
+        "B": "plano.",
+        "C": "elevado superficial.",
+        "D": "depresión superficial.",
+        "E": "sobresaliente."
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 60,
+      "question": "Niño de 10 años, presenta a nivel de miembro superior derecho pápulas de hasta 3 mm, planas de color carne, agrupadas. Histología: infiltrado compuesto por histiocitos y células gigantes aisladas, circunscrito a una papila dérmica. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Impétigo",
+        "B": "Liquen plano",
+        "C": "Pitiriasis liquenoide aguda",
+        "D": "Liquen nítido",
+        "E": "Xantogranuloma juvenil"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 61,
+      "question": "¿Qué indica el estadío patológico T3 del cáncer colo-rectal?",
+      "options": {
+        "A": "Tumor invade la submucosa",
+        "B": "Invasión a otros órganos",
+        "C": "Invasión del peritoneo visceral",
+        "D": "Tumor invade y atraviesa la muscular propia",
+        "E": "Tumor invade la muscular propia pero no la atraviesa"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 62,
+      "question": "¿Qué capa de la pared del colon se afecta en la colitis ulcerosa?",
+      "options": {
+        "A": "Serosa",
+        "B": "Mucosa y submucosa",
+        "C": "Submucosa",
+        "D": "Transparietal",
+        "E": "Muscular"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 63,
+      "question": "¿Cuál es el serotipo de PVH que frecuentemente se asocia al cáncer de cuello uterino, pene, ano y vulva?",
+      "options": {
+        "A": "40",
+        "B": "42",
+        "C": "6",
+        "D": "16",
+        "E": "11"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 64,
+      "question": "Varón de 54 años, operado de hernia por laparoscopía, a pesar del pequeño tamaño de las incisiones, la cicatrización de las heridas es mala. Su dieta habitual tiene poco valor nutricional y es deficiente en vitamina C. ¿La síntesis de cuál de los siguientes componentes de la matriz extracelular es la más afectada por esta carencia?",
+      "options": {
+        "A": "Laminina",
+        "B": "Fibronectina",
+        "C": "Integrina",
+        "D": "Colágeno",
+        "E": "Elastina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 65,
+      "question": "¿Qué síndrome se asocia al cáncer endometrial hereditario?",
+      "options": {
+        "A": "Poliposis múltiple",
+        "B": "Peutz-Jeghers",
+        "C": "Lynch",
+        "D": "Li-Fraumen",
+        "E": "Paraneoplásico"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 66,
+      "question": "¿Cuál es el gen asociado al linfoma de Burkit?",
+      "options": {
+        "A": "BCL2",
+        "B": "CDK6",
+        "C": "BCL1",
+        "D": "MYC",
+        "E": "JAK2"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 67,
+      "question": "¿Cuál es el cáncer del intestino delgado más frecuente?",
+      "options": {
+        "A": "Carcinoide",
+        "B": "Estroma gastrointestinal",
+        "C": "Linfoma",
+        "D": "Adenocarcinoma",
+        "E": "Leiomiosarcoma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 68,
+      "question": "¿Cómo se conoce a la inmunidad de una infección después de haberse recuperado de ella?",
+      "options": {
+        "A": "Activa natural",
+        "B": "Activa artificial",
+        "C": "Pasiva",
+        "D": "Pasiva natural",
+        "E": "Natural"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 69,
+      "question": "Mujer de 62 años, con epitelio cervical hiperplásico, carece de madurez, relación núcleo citoplasma alta, núcleos ovales con frecuentes surcos. Expresa positividad para CK13, CK17, CK18 y negatividad para CK20. ¿Qué tipo de epitelio metaplásico es probablemente observado?",
+      "options": {
+        "A": "Tubárica",
+        "B": "Escamosa madura",
+        "C": "Escamosa inmadura",
+        "D": "Células transicionales",
+        "E": "Ascendente"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 70,
+      "question": "¿Cuál es el carcinógeno del tabaco y del humo de tabaco?",
+      "options": {
+        "A": "Naftaleno",
+        "B": "1-aminonaftaleno",
+        "C": "Hidrazina",
+        "D": "Formaldheido",
+        "E": "Etil bencina"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 71,
+      "question": "¿Cuál es el agente infeccioso implicado en la leucemia linfoma de células T del adulto?",
+      "options": {
+        "A": "Helicobacter pylori",
+        "B": "HTLV1",
+        "C": "EBV",
+        "D": "Herpes humano 8",
+        "E": "Hepatitis B"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 72,
+      "question": "¿Cuál de los siguientes marcadores de histoquímica utilizaría para demostrar presencia de células plasmáticas?",
+      "options": {
+        "A": "Gomori",
+        "B": "Verde metil pironina",
+        "C": "Grocott",
+        "D": "Plata metaminada",
+        "E": "PAS"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 73,
+      "question": "Mujer de 19 años, desarrolla irritación de garganta y fiebre el día anterior. Examen: eritema y edema faríngeo. Laboratorio: leucocitosis. Se administra naproxeno. ¿Cuál de los siguientes elementos de la respuesta inflamatoria aguda afecta más éste fármaco?",
+      "options": {
+        "A": "Fagocitosis",
+        "B": "Migración",
+        "C": "Vasodilatación",
+        "D": "Quimiotaxia",
+        "E": "Leucocitosis"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 74,
+      "question": "¿Cuál de los linfomas de células precursoras B presenta frecuente afección mediastinal y cuadro leucémico?",
+      "options": {
+        "A": "Enfermedad de Hodgkin",
+        "B": "Micosis fungoide",
+        "C": "Linfoma linfoblástico",
+        "D": "Linfoma de Burkit",
+        "E": "Linfoma de células T del adulto"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 75,
+      "question": "¿Cuál es el derivado del ácido araquidónico que se libera durante la anafilaxia?",
+      "options": {
+        "A": "Catecolamina",
+        "B": "Cinina",
+        "C": "Prostaglandina",
+        "D": "Factor activador plaquetario",
+        "E": "Serotonina"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 76,
+      "question": "¿Cuál de las siguientes enfermedades está relacionada con una hipoactividad de linfocitos Ts?",
+      "options": {
+        "A": "Lupus eritematoso sistémico",
+        "B": "Fiebre reumática",
+        "C": "Artritis reumatoide",
+        "D": "Encefalomielitis alérgica",
+        "E": "Glomerulonefritis posestreptocócica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 77,
+      "question": "¿En cuál de las lesiones se encuentra frecuentemente la monocitosis?",
+      "options": {
+        "A": "Infestación por parásitos",
+        "B": "Infecciones crónicas",
+        "C": "Infecciones piógenas",
+        "D": "Fiebre de heno",
+        "E": "Leucemia mieloide crónica"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 78,
+      "question": "En el área de una incisión quirúrgica, las células endoteliales elaboran factor de crecimiento endotelial vascular. Existen brotes con migración de células endoteliales a la herida para establecer nuevos capilares. ¿Cuál de las siguientes proteínas es la más importante para facilitar el movimiento de las células endoteliales?",
+      "options": {
+        "A": "Citoqueratina",
+        "B": "Laminina",
+        "C": "Miosina",
+        "D": "Desmina",
+        "E": "Actina"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 79,
+      "question": "¿Cuál es el panel de inmunohistoquímica para el diagnóstico de linfoma folicular?",
+      "options": {
+        "A": "CD19 (-) CD20 (-) CD10 (-) BCL6 (-)",
+        "B": "CD10 (-) CD20 (-) CD10 (-) BCL6 (+)",
+        "C": "CD19 (-) CD20 (+) CD10 (+) BCL6 (-)",
+        "D": "CD19 (+) CD20 (+) CD10 (+) BCL6 (+)",
+        "E": "CD19 (+) CD20 (+) CD10 (+) BCL6 (-)"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 80,
+      "question": "¿Cuál de los siguientes patógenos puede atravesar la barrera placentaria y causar infección en el feto?",
+      "options": {
+        "A": "Listeria monocytogenes",
+        "B": "Streptococcus pneumoniae",
+        "C": "Bacillus aureus",
+        "D": "Bordetella parapertusis",
+        "E": "Enterococcus faecalis"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 81,
+      "question": "¿Cuál es el síndrome congénito más asociado a cardiopatía congénita?",
+      "options": {
+        "A": "Turner",
+        "B": "Down",
+        "C": "Di Geoge",
+        "D": "X frágil",
+        "E": "Edward"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 82,
+      "question": "¿Cuál es el virus que no produce inclusiones citoplasmáticas al observarse con microscopio óptico?",
+      "options": {
+        "A": "VHB",
+        "B": "Herpes virus",
+        "C": "Varicela zoster",
+        "D": "Citomegalovirus",
+        "E": "Epstein-Barr"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 83,
+      "question": "La acrodermatitis enteropática se presenta por déficit de ...",
+      "options": {
+        "A": "zinc.",
+        "B": "cobre.",
+        "C": "hierro.",
+        "D": "flúor.",
+        "E": "yodo."
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 84,
+      "question": "Niño de 2 años, con retraso del crecimiento desde la lactancia, macroglosia, hernia umbilical y retraso intelectual. ¿Cuál de las siguientes hormonas es la deficitaria?",
+      "options": {
+        "A": "Tirosina",
+        "B": "Noradrenalina",
+        "C": "Somatostatina",
+        "D": "Insulina",
+        "E": "Cortisol"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 85,
+      "question": "¿Cuál es un tumor Astrocítico?",
+      "options": {
+        "A": "Oligodendroglioma",
+        "B": "Gangliocitoma",
+        "C": "Ependimoma",
+        "D": "Glioblastoma",
+        "E": "Meningioma meningotelial"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 86,
+      "question": "Varón de 14 años, presenta fiebre, dolor de garganta y adenopatía cervical, posteriormente desarrolla hepatomegalia y esplenomegalia, que dura 2 meses. El frotis de sangre periférica muestra leucocitosis con linfocitos atípicos. ¿Cuál de los siguientes tipos celulares es más probable que elimine las células con infección virica?",
+      "options": {
+        "A": "Linfocitos CD4+ colaboradores",
+        "B": "Neutrófilos polimorfonucleares",
+        "C": "Linfocitos CD8 citotóxico",
+        "D": "Macrófagos epitelioides",
+        "E": "Células plasmáticas secretoras de IgG"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 87,
+      "question": "¿Dónde se ubican los cuerpos glómicos que con mayor frecuencia dan origen al paraganglioma?",
+      "options": {
+        "A": "Laringe",
+        "B": "Nasofaringe",
+        "C": "Órbita",
+        "D": "Óseos carotideos",
+        "E": "Cavidad nasal"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 88,
+      "question": "Madre encuentra sangre en la ropa interior de su hijo de 4 años. Examen: presencia de masa rectal. Rectoscopía: pólipo de superficie lisa y pediculada de 1.5 cm de diámetro. AP: criptas enquistadas llenas de mucina y restos inflamatorios sin displasia. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Poliposis adenomatosa familiar",
+        "B": "Síndrome de Peutz-Jeghers",
+        "C": "Síndrome de Lynch",
+        "D": "Síndrome de Gardner",
+        "E": "Pólipo juvenil"
+      },
+      "correct_answer": "E",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 89,
+      "question": "¿Cuál es el rasgo histopatológico dominante en el síndrome de Guillain-Barré?",
+      "options": {
+        "A": "Inflamación del nervio periférico",
+        "B": "Hipertrofia de fibras musculares",
+        "C": "Degeneración walleriana",
+        "D": "Atrofia por denervación",
+        "E": "Fibrosis endoneural"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 90,
+      "question": "¿Cuál es el gen que tiene predisposición familiar en el cáncer de ovario?",
+      "options": {
+        "A": "BCL2",
+        "B": "PAX5/IGH",
+        "C": "TP53",
+        "D": "RAD51D",
+        "E": "CDK6"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 91,
+      "question": "¿Cuál es el tipo de cáncer más frecuente en la uretra masculina?",
+      "options": {
+        "A": "Adenocarcinoma",
+        "B": "Escamoso",
+        "C": "De células de Merckel",
+        "D": "Urotelial",
+        "E": "Indiferenciado"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 92,
+      "question": "Mujer alumbra natimuerto de 33 semanas, gestaciones previas normales. Necropsia: feto hidrópico, organomegalia pronunciada, necrosis extensa del cerebro con patrón periventricular y calcificaciones locales. ¿Cuál es la infección congénita más probable?",
+      "options": {
+        "A": "VIH",
+        "B": "Virus del herpes simple",
+        "C": "Listeria monocitogenes",
+        "D": "Citomegalovirus",
+        "E": "Streptococcus B"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 93,
+      "question": "¿Cuál de las siguientes glomerulopatías se asocia a vasculitis autoinmune sistémica?",
+      "options": {
+        "A": "Poliarteritis nodosa",
+        "B": "Glomerulonefritis por IgA",
+        "C": "Glomerulonefritis mesangioproliferativa",
+        "D": "Glomerulonefritis focal y segmentaria",
+        "E": "Glomerulonefritis posestreptocócica"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 94,
+      "question": "¿Cuál es la causa del edema en la insuficiencia cardíaca?",
+      "options": {
+        "A": "Disminución de la presión oncótica",
+        "B": "Bloqueos linfáticos",
+        "C": "Aumento de la presión hidrostática",
+        "D": "Contracción de células endoteliales",
+        "E": "Neoformación vascular"
+      },
+      "correct_answer": "C",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 95,
+      "question": "Varón de 16 años, con fiebre, pérdida de peso, malestar general, tumor en la metáfisis del femur y fractura patológica. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Condroblastoma",
+        "B": "Osteosarcoma",
+        "C": "Sarcoma de Ewing",
+        "D": "Fibrohistiocitoma",
+        "E": "Rabdomiosarcoma"
+      },
+      "correct_answer": "B",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 96,
+      "question": "¿Qué entidades patológicas están en relación con el NEM 1a y 1b?",
+      "options": {
+        "A": "Carcinoma medular de tiroides y feocromocitoma",
+        "B": "Carcinoma medular de tiroides e hiperparatiroidismo",
+        "C": "Insulinoma e hiperparatiroidismo",
+        "D": "Carcinoma medular de tiroides e insulinoma",
+        "E": "Insulinoma y neuroma"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 97,
+      "question": "¿Cuál es la neoplasia maligna más frecuente en el primer año de vida?",
+      "options": {
+        "A": "Leucemia",
+        "B": "Tumor de Wilms",
+        "C": "Ganglioneuroma",
+        "D": "Neuroblastoma",
+        "E": "Ganglioneuroblastoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 98,
+      "question": "¿Cuál es el tumor ovárico más frecuente en niñas y adolescentes?",
+      "options": {
+        "A": "Cistoadenoma seroso",
+        "B": "Coriocarcinoma de origen no gestacional",
+        "C": "Cistoadenoma mucinoso",
+        "D": "Disgerminoma",
+        "E": "Rabdomiosarcoma"
+      },
+      "correct_answer": "D",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 99,
+      "question": "¿Cuál es la hormona que actúa disminuyendo la secreción del HCl y pepsina?",
+      "options": {
+        "A": "Enterogastrina",
+        "B": "Secretina",
+        "C": "Colecistina",
+        "D": "Colecistoquinina",
+        "E": "Serotonina"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    },
+    {
+      "number": 100,
+      "question": "¿Cuál es la localización más frecuente de la infestación por Entamoeba histolytica?",
+      "options": {
+        "A": "Ciego y colon ascendente",
+        "B": "Recto sigmoides",
+        "C": "Colon transverso",
+        "D": "Colon descendente",
+        "E": "Intestino delgado"
+      },
+      "correct_answer": "A",
+      "has_image": false,
+      "flags": []
+    }
+  ]
+}
