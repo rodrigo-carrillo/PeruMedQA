@@ -1,5 +1,7 @@
 ### PeruMedQA
 
+**Note: all results in this repository (figures, `02.LLMs Results/` and `03.Stress Evaluation Shuffle/`) and in the publications below were obtained with version 1 of the dataset, available in `01.Datasets ARCHIVED/`. Use that version to replicate them. Version 2 (`01.Datasets V02/`) has more questions (9,980 vs. 8,380, including the 2026 exams) and several improvements.**
+
 Repository for PeruMedQA: Benchmarking Large Language Models (LLMs) on Peruvian Medical Exams - Dataset Construction and Evaluation. 
 You will find the datasets, the code we used to generate the dataset, and the code we used to obtain answers from the LLMs together with the outputs from the LLMs.
 
