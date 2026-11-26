@@ -114,6 +114,16 @@ No. Duplicate pairs appear in every year except 2020, and they reflect how the r
   - Splitting by year keeps 566 of the 572 duplicate pairs on one side. For the other 6 pairs, remove the copy in the training years.
 - **Training only.** Remove one copy of each duplicate pair, for example by keeping only the first `question_id` of each entry in `groups`.
 
+### Human verification
+
+Besides the automatic checks above, the dataset was verified by a human in two ways:
+
+- **Correct answers, all exams.** For each of the 100 exams, a human reviewer checked that the answer highlighted in yellow in the original PDF was correctly identified in `correct_answer`.
+- **Visual review of a random sample (November 2026).**
+  - **Sample:** 100 questions drawn at random from the specialty exams (PRUEBA A / B, ESPECIALIDAD A / B), which have 1,580 questions in total. The draw was stratified by exam, with 6 or 7 questions from each of the 16 PDFs (2018–2026), and used random seed 2026. The subspecialty exams were not part of this sample.
+  - **What was compared:** for each question, the reviewer compared an image of the question in the original PDF, including its yellow highlight, with the question, options and correct answer in `conareme_master_opciones_originales`.
+  - **Result:** 100 of 100 questions were correct, with no errors in the question text, the options or the correct answer. This means that, with 95% confidence, fewer than 3% of the specialty-exam questions have extraction errors.
+
 ### Changes from version 1
 
 - Exams from 2026 are added.
